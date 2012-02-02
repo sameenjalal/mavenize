@@ -1,0 +1,28 @@
+<div class="navbar navbar-fixed-top">
+	<div class="navbar-inner">
+		<div class="container">
+			<a class="brand" href="#">Mavenize</a>
+			<ul class="nav">
+				<li class="active">
+					<a href="#">Home</a>
+				</li>
+				<li><a href="#">Action</a></li>
+				<li><a href="#">Animation</a></li>
+				<li><a href="#">Comedy</a></li>
+				<li><a href="#">History</a></li>
+				<li><a href="#">Horror</a></li>
+				<li><a href="#">Romance</a></li>
+			</ul>
+			<form class="navbar-search pull-left">
+				{% csrf_token %}
+				<input type="text" class="search-query" placeholder="Search">
+			</form>	
+		</div>
+	</div>
+</div>
+
+			<!--
+			<a  class="pull-right" href="{% url socialauth_begin 'facebook' %}">
+				<img src="/media/img/facebook-connect.png" alt="Facebook Connect" />
+			</a>
+			-->
