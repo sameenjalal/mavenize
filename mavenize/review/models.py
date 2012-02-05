@@ -8,6 +8,8 @@ class Review(models.Model):
     table_id_in_table = models.IntegerField()
     text = models.TextField()
     created_at = models.DateTimeField(auto_now=True)
+    up_votes = models.IntegerField()
+    down_votes = models.IntegerField()
 
 	RATING_CHOICES = [(i,i) for i in range(1,3)]
 	rating = models.SmallIntegerField(choices=RATING_CHOICES)
