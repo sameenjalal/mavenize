@@ -6,10 +6,10 @@ class Review(models.Model):
     user = models.ForeignKey(User)
     table_number = models.IntegerField()
     table_id_in_table = models.IntegerField()
-    text = models.TextField()
+    text = models.CharField(max_length=210)
     created_at = models.DateTimeField(auto_now=True)
     up_votes = models.IntegerField()
     down_votes = models.IntegerField()
 
-	RATING_CHOICES = [(i,i) for i in range(1,3)]
+	RATING_CHOICES = [(i,i) for i in range(1,4)]
 	rating = models.SmallIntegerField(choices=RATING_CHOICES)
