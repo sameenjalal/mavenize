@@ -11,11 +11,11 @@ MANAGERS = ADMINS
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2', 
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'mavenize_development',
         'USER': 'django',
         'PASSWORD': 'PyDjR0ck$',
-        'HOST': 'localhost', 
+        'HOST': 'localhost',
         'PORT': '',
     }
 }
