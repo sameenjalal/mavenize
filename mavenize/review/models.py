@@ -9,5 +9,5 @@ class Review(models.Model):
     text = models.TextField()
     created_at = models.DateTimeField(auto_now=True)
 
-	RATING_CHOICES = [(i,i) for i in range(1,6)]
+	RATING_CHOICES = [(i,i) for i in range(1,3)]
 	rating = models.SmallIntegerField(choices=RATING_CHOICES)
