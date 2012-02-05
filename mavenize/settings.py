@@ -108,6 +108,10 @@ INSTALLED_APPS = (
     'south',
     'social_auth',
     'debug_toolbar',
+    'table_number',
+    'social_graph',
+    'review',
+    'movie',
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
 )

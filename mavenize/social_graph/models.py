@@ -3,8 +3,8 @@ from django.contrib.auth.models import User
 
 class Following(models.Model):
 	user = models.ForeignKey(User)
-    following = models.IntegerField()
+	following = models.IntegerField()
 
 class Follower(models.Model):
 	user = models.ForeignKey(User)
-    follower = models.IntegerField()
+	follower = models.IntegerField()
