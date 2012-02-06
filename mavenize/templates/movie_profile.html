@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+
+{% block title %}
+	Mavenize | Hunger Games
+{% endblock %}
+
+{% block body %}
+	<div class="container">
+		<div class="row">
+			<div class="span9">
+				<section id="review-form">
+					<h2>Watched it?  Share your opinion.</h2>
+					<form class="form-horizontal">
+						<input id="review" type="text" name="review" /><br />
+						<input class="btn-large btn-primary pull-right" type="submit" name="submit" value="Rave" />
+					</form>
+				</section>
+				<section id="top-reviews">
+					<h2>Top Reviews</h2>
+					<article class="review">
+						<img class="pull-left" src="/media/img/users/profile.jpg" />
+						<p>
+							Wow, this movie was amazing.  Not quite as good as the book, but almost as good.
+						</p>
+					</article>
+					<article class="review">
+						<img class="pull-left" src="/media/img/users/profile.jpg" />
+						<p>
+							This was really disappointing.  Great visual effects, but not well directed.  Go watch something else instead.
+						</p>
+					</article>
+					<article class="review">
+						<img class="pull-left" src="/media/img/users/profile.jpg" />
+						<p>
+							Good movie.  Worth watching on a Friday night with friends or your significant other.  Decent directing but not nearly as good as it could have been.
+						</p>
+					</article>
+					<article class="review">
+						<img class="pull-left" src="/media/img/users/profile.jpg" />
+						<p>
+							Really???  That's the best they could come up with?  The most anticipated movie of 2012 and wow, what a major disappointment.
+						</p>
+					</article>
+					<article class="review">
+						<p>
+							I read all the books, and it lives up to the storyline.  I loved the part where Katniss and Peeta make it rain, if you know what I mean.
+						</p>
+					</article>
+				</section>
+			</div>
+			<div class="span3">
+				<div class="thumbnail">
+					<img src="/media/img/landing/hunger-games.jpg" />
+				</div>
+				<div class="profile">
+					<h3>Rating</h3>
+					<p>89%</p>
+				</div>
+				<div class="profile">
+					<h3>Synopsis</h3>
+					<p>
+						Every year in the ruins of what was once North America, the evil Capitol of the nation of Panem forces each of its twelve districts to send a teenage boy and girl to compete in the Hunger Games. A twisted punishment for a past uprising and an ongoing government intimidation tactic, The Hunger Games are a nationally televised event in which "Tributes" must fight with one another until one survivor remains. Pitted against highly-trained Tributes who have prepared for these Games their entire lives, Katniss is forced to rely upon her sharp instincts as well as the mentorship of drunken former victor Haymitch Abernathy. If she's ever to return home to District 12, Katniss must make impossible choices in the arena that weigh survival against humanity and life against love.
+					</p>
+				</div>
+				<div class="profile">
+					<h3>Cast & Directors</h3>
+						<ul class="unstyled">
+							<li>Jennifer Lawrence</li>
+							<li>Josh Hutcherson</li>
+							<li>Liam Hemsworth</li>
+							<li>Elizabeth Banks</li>
+							<li>Amandia Stenberg</li>
+						</ul>
+						<ul class="unstyled">
+							<li>Gary Ross</li>
+						</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+{% endblock %}
