@@ -133,6 +133,15 @@ body .mini-thumbnails li {
 	margin: 0;
 }
 
+/* Search Results */
+body #search-results {
+	list-style-type: none;
+}
+
+body #search-results > li {
+	margin-top: 20px;
+}
+
 /* Miscellaneous */
 body h2 {
 	background: #eeeeee;
@@ -148,4 +157,5 @@ body h2 {
 	border-top: 1px solid #d6d6d6;
 	color: #8f8f8f;
 	margin: 10px 0;
+	padding-left: 8px;
 }
