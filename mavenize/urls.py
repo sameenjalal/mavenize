@@ -9,7 +9,8 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
 	url(r'^$', direct_to_template, {'template': 'index.html'}, name='index'),
-	url(r'^movies/hunger-games$', direct_to_template, {'template': 'movie_profile.html'}),
+	url(r'^movies/hunger-games/$', direct_to_template, {'template': 'movie_profile.html'}),
+	url(r'^feed/$', direct_to_template, {'template': 'feed.html'}),
 	url(r'', include('social_auth.urls')),
 	(r'^media/(?P<path>.*)$', 'django.views.static.serve',
 		{'document_root': settings.MEDIA_ROOT}),
