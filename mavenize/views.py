@@ -17,7 +17,7 @@ def index(request):
         except:
             pass
 
-    return render_to_response('intro.html', {},
+    return render_to_response('index.html', {},
         context_instance=RequestContext(request))
 
 @login_required

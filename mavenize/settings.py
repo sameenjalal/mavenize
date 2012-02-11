@@ -142,7 +142,7 @@ LOGGING = {
 
 # Application settings for django-social-auth
 # General
-LOGIN_URL = '/'
+LOGIN_URL = 'logged-in/'
 LOGIN_REDIRECT_URL = '/login/success'
 LOGIN_ERROR_URL = '/login/fail'
 SOCIAL_AUTH_ERROR_KEY = 'social_errors'
