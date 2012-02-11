@@ -89,6 +89,7 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
 )
 
 ROOT_URLCONF = 'mavenize.urls'
@@ -193,4 +194,4 @@ DEBUG_TOOLBAR_PANELS = (
 # Application settings for django-activity-stream
 ACTSTREAM_ACTION_MODELS = ['auth.User']
 ACTSREAM_ACTION_TEMPLATE = 'activity/single_action.txt'
-ACTSTreaM_MANAGER = 'actstream.managers.ActionManager'
+ACTSTREAM_MANAGER = 'actstream.managers.ActionManager'

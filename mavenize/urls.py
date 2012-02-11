@@ -10,12 +10,12 @@ admin.autodiscover()
 urlpatterns = patterns('',
 	url(r'^$', direct_to_template, {'template': 'index.html'}, name='index'),
 	url(r'^logged-in/$', 'mavenize.views.login'),
-	url(r'^movies/hunger-games/$', direct_to_template, {'template': 'movie_profile.html'}),
 	url(r'^feed/$', direct_to_template, {'template': 'feed.html'}),
 	url(r'^users/dqai$', direct_to_template, {'template': 'friend_profile.html'}),
 	url(r'^search/$', direct_to_template, {'template': 'search.html'}),
 	url(r'^category/action/$', direct_to_template, {'template': 'category.html'}),
 
+	url(r'^movies/(?P<title>[-\w]+)/$', 'mavenize.movie.views.profile'),
 	url(r'^activity/', include('actstream.urls')),
 	url(r'', include('social_auth.urls')),
 	(r'^media/(?P<path>.*)$', 'django.views.static.serve',
