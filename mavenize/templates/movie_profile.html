@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block title %}
-	Mavenize | Hunger Games
+	Mavenize | {{ movie.title }} 
 {% endblock %}
 
 {% block body %}
@@ -9,7 +9,7 @@
 		<div class="row">
 			<div class="span9">
 				<section id="title">
-					<h1>The Hunger Games (2012)</h1>
+					<h1>{{ movie.title }} ({{ movie.release_date|date:"Y" }})</h1>
 				</section>
 				<section id="review-form">
 					<h3>Watched it?  Rave about it to your friends.</h3>
@@ -27,116 +27,46 @@
 				<section id="top-reviews">
 					<h2>Top Raves</h2>
 					<ul>
+						{% for review in reviews %}
 						<li class="review">
 							<div class="pull-left">
 								<img src="/media/img/users/profile.jpg" />
 							</div>
 							<div class="review-content">
-								<a href="#">Dennis Ai</a>
+								<a href="#">{{ review.user.get_full_name }}</a>
 								<blockquote>
-									Wow, this movie was amazing.  Not quite as good as the book, but almost as good.
+									{{ review.text }}
 								</blockquote>
 								<ul>
-									<li>1 day ago</li>
+									<li>{{ review.created_at|timesince }} ago</li>
 									<li>4 thanks</li>
 								</ul>
 							</div>
 						</li>
-
-						<li class="review">
-							<div class="pull-left">
-								<img src="/media/img/users/profile.jpg" />
-							</div>
-							<div class="review-content">
-								<a href="#">Dennis Ai</a>
-								<blockquote>
-									This was really disappointing.  Great visual effects, but not well directed.  Go watch something else instead.
-								</blockquote>
-								<ul>
-									<li>2 days ago</li>
-									<li>5 thanks</li>
-								</ul>
-							</div>
-						</li>
-
-						<li class="review">
-							<div class="pull-left">
-								<img src="/media/img/users/profile.jpg" />
-							</div>
-							<div class="review-content">
-								<a href="#">Dennis Ai</a>
-								<blockquote>
-									Good movie.  Worth watching on a Friday night with friends or your significant other.  Decent directing but not nearly as good as it could have been.
-								</blockquote>
-								<ul>
-									<li>4 days ago</li>
-									<li>9 thanks</li>
-								</ul>
-							</div>
-						</li>
-						
-						<li class="review">
-							<div class="pull-left">
-								<img src="/media/img/users/profile.jpg" />
-							</div>
-							<div class="review-content">
-								<a href="#">Dennis Ai</a>
-								<blockquote>
-									Really???  That's the best they could come up with?  The most anticipated movie of 2012 and wow, what a major disappointment.
-								</blockquote>
-								<ul>
-									<li>1 week ago</li>
-									<li>1 thanks</li>
-								</ul>
-							</div>
-						</li>
-						
-						<li class="review">
-							<div class="pull-left">
-								<img src="/media/img/users/profile.jpg" />
-							</div>
-							<div class="review-content">
-								<a href="#">Dennis Ai</a>
-								<blockquote>
-									You know, there are two kinds of good movies.  Batman was a good movie that had meaning.  You could feel the emotion wiping off from the tears of the characters.  In this movie, Katniss is absolutely lifeless.  Lifeless.
-								</blockquote>
-								<ul>
-									<li>1 week ago</li>
-									<li>0 thanks</li>
-								</ul>
-							</div>
-						</li>
+						{% endfor %}
 					</ul>
 				</section>
 			</div>
 			<div class="span3">
 				<div class="thumbnail">
-					<img src="/media/img/landing/hunger-games.jpg" />
+					<img src="{{ movie.image.url }}" />
 				</div>
 				<div class="profile" id="rating-box">
 					<div id="rating">89%</div>
-					<div id="votes">(314 votes)</div>
+					<div id="votes">({{ reviews.count }} votes)</div>
 				</div>
 				<div class="profile">
 					<h3>Synopsis</h3>
 					<p>
-						Set in a future where the Capitol selects a boy and girl from the twelve districts to fight to the death on live television, Katniss Everdeen volunteers to take her younger sister's place for the latest match.
+						{{ movie.synopsis }}
 					</p>
 				</div>
 				<div class="profile">
 					<h3>Cast & Directors</h3>
 						<h4>Actors</h4>
-						<ul class="unstyled">
-							<li>Jennifer Lawrence</li>
-							<li>Josh Hutcherson</li>
-							<li>Liam Hemsworth</li>
-							<li>Elizabeth Banks</li>
-							<li>Amandia Stenberg</li>
-						</ul>
+							{{ movie.cast }}
 						<h4>Directors</h4>
-						<ul class="unstyled">
-							<li>Gary Ross</li>
-						</ul>
+							{{ movie.directors }}
 				</div>
 			</div>
 		</div>
