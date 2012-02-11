@@ -45,8 +45,8 @@ def login(request):
                 print friend['id']
                 print my_id
                 print "ending"
-                fg = Following.objects.create(user=my_id,follow=friend['id'])
-                fr = Follower.objects.create(user=friend['id'],follow=my_id)
+                fg = Following.objects.create(fb_user=my_id,follow=friend['id'])
+                fr = Follower.objects.create(fb_user=friend['id'],follow=my_id)
 
                 fg.save()
                 fr.save()
