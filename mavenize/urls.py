@@ -9,6 +9,7 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
 	url(r'^$', direct_to_template, {'template': 'index.html'}, name='index'),
+	#url(r'^logged-in/$', 'mavenize.mavenize.views.login'),
 	url(r'^movies/hunger-games/$', direct_to_template, {'template': 'movie_profile.html'}),
 	url(r'^feed/$', direct_to_template, {'template': 'feed.html'}),
 	url(r'^users/dqai$', direct_to_template, {'template': 'friend_profile.html'}),
