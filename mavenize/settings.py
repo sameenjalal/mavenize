@@ -190,3 +190,7 @@ DEBUG_TOOLBAR_PANELS = (
     'debug_toolbar.panels.logger.LoggingPanel',
 )
 
+# Application settings for django-activity-stream
+ACTSTREAM_ACTION_MODELS = ['auth.User']
+ACTSREAM_ACTION_TEMPLATE = 'activity/single_action.txt'
+ACTSTreaM_MANAGER = 'actstream.managers.ActionManager'
