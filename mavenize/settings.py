@@ -112,6 +112,7 @@ INSTALLED_APPS = (
     'social_graph',
     'review',
     'movie',
+    'actstream',
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
 )

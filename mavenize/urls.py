@@ -14,6 +14,8 @@ urlpatterns = patterns('',
 	url(r'^users/dqai$', direct_to_template, {'template': 'friend_profile.html'}),
 	url(r'^search/$', direct_to_template, {'template': 'search.html'}),
 	url(r'^category/action/$', direct_to_template, {'template': 'category.html'}),
+
+	url(r'^activity/', include('actstream.urls')),
 	url(r'', include('social_auth.urls')),
 	(r'^media/(?P<path>.*)$', 'django.views.static.serve',
 		{'document_root': settings.MEDIA_ROOT}),
