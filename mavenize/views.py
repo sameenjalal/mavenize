@@ -1,14 +1,17 @@
 from django.shortcuts import render_to_response
 from django.shortcuts import redirect
 from django.template import RequestContext
-
 from django.contrib.auth.decorators import login_required
 
 from django.contrib.auth.models import User
 from social_auth.models import UserSocialAuth
 
+from mavenize.social_graph.models import Following
+from mavenize.social_graph.models import Follower
+
 import facebook
 import requests
+import sys
 
 def index(request):
     if request.session.get('_auth_user_id'):
@@ -24,18 +27,32 @@ def index(request):
 
 @login_required
 def login(request):
+    # TODO: IF the user logs in for the first time, do
     if request.session.get('_auth_user_id'):
         try:
             user = request.session['_auth_user_id']
-            print user
-            access_token = User.extra_data['access_token']
-            print access_token
+            social = UserSocialAuth.objects.get(user=user)
 
-            graph_param = UserSocialAuth.objects.get(user=access_token)
-            graph = facebook.GraphAPI(graph_param)
-            print graph
+            graph = facebook.GraphAPI(social.extra_data['access_token'])
+
+            my_id = graph.get_object("me")['id']
+            connections = graph.get_connections("me", "friends")['data']
+            my_conn_list = []
+
+            for friend in connections:
+                # TODO: Only if friend is already in user db add
+                print "starting"
+                print friend['id']
+                print my_id
+                print "ending"
+                fg = Following.objects.create(user=my_id,follow=friend['id'])
+                fr = Follower.objects.create(user=friend['id'],follow=my_id)
+
+                fg.save()
+                fr.save()
         except:
-            print request.session['_auth_user_id']
+            print "Unexpected error nigga:", sys.exc_info()[0]
+            raise
 
     return redirect('index')
 
