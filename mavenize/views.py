@@ -2,6 +2,8 @@ from django.shortcuts import render_to_response
 from django.shortcuts import redirect
 from django.template import RequestContext
 
+from django.contrib.auth.decorators import login_required
+
 from django.contrib.auth.models import User
 from social_auth.models import UserSocialAuth
 
@@ -25,13 +27,16 @@ def login(request):
     if request.session.get('_auth_user_id'):
         try:
             user = request.session['_auth_user_id']
-            access_token = user.extra_data['access_token']
+            print user
+            access_token = User.extra_data['access_token']
+            print access_token
 
             graph_param = UserSocialAuth.objects.get(user=access_token)
             graph = facebook.GraphAPI(graph_param)
             print graph
         except:
-            pass
+            print request.session['_auth_user_id']
+
     return redirect('index')
 
 @login_required
