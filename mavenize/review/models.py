@@ -1,5 +1,6 @@
 from django.db import models
 from django.contrib.auth.models import User
+from django.forms import ModelForm
 
 class Review(models.Model):
 	review_id = models.AutoField(primary_key=True)
@@ -13,3 +14,7 @@ class Review(models.Model):
 
 	RATING_CHOICES = [(i,i) for i in range(1,4)]
 	rating = models.SmallIntegerField(choices=RATING_CHOICES)
+
+class ReviewForm(ModelForm):
+	class Meta:
+		model = Review
