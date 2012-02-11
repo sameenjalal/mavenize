@@ -7,29 +7,15 @@ from django.db import models
 class Migration(SchemaMigration):
 
     def forwards(self, orm):
-        # Adding model 'Following'
-        db.create_table('social_graph_following', (
-            ('id', self.gf('django.db.models.fields.AutoField')(primary_key=True)),
-            ('user', self.gf('django.db.models.fields.related.ForeignKey')(to=orm['auth.User'])),
-            ('following', self.gf('django.db.models.fields.IntegerField')()),
-        ))
-        db.send_create_signal('social_graph', ['Following'])
-
-        # Adding model 'Follower'
-        db.create_table('social_graph_follower', (
-            ('id', self.gf('django.db.models.fields.AutoField')(primary_key=True)),
-            ('user', self.gf('django.db.models.fields.related.ForeignKey')(to=orm['auth.User'])),
-            ('follower', self.gf('django.db.models.fields.IntegerField')()),
-        ))
-        db.send_create_signal('social_graph', ['Follower'])
+        
+        # Changing field 'Review.text'
+        db.alter_column('review_review', 'text', self.gf('django.db.models.fields.CharField')(max_length=240))
 
 
     def backwards(self, orm):
-        # Deleting model 'Following'
-        db.delete_table('social_graph_following')
-
-        # Deleting model 'Follower'
-        db.delete_table('social_graph_follower')
+        
+        # Changing field 'Review.text'
+        db.alter_column('review_review', 'text', self.gf('django.db.models.fields.CharField')(max_length=210))
 
 
     models = {
@@ -69,18 +55,18 @@ class Migration(SchemaMigration):
             'model': ('django.db.models.fields.CharField', [], {'max_length': '100'}),
             'name': ('django.db.models.fields.CharField', [], {'max_length': '100'})
         },
-        'social_graph.follower': {
-            'Meta': {'object_name': 'Follower'},
-            'follower': ('django.db.models.fields.IntegerField', [], {}),
-            'id': ('django.db.models.fields.AutoField', [], {'primary_key': 'True'}),
-            'user': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['auth.User']"})
-        },
-        'social_graph.following': {
-            'Meta': {'object_name': 'Following'},
-            'following': ('django.db.models.fields.IntegerField', [], {}),
-            'id': ('django.db.models.fields.AutoField', [], {'primary_key': 'True'}),
+        'review.review': {
+            'Meta': {'object_name': 'Review'},
+            'created_at': ('django.db.models.fields.DateTimeField', [], {'auto_now': 'True', 'blank': 'True'}),
+            'down_votes': ('django.db.models.fields.IntegerField', [], {}),
+            'rating': ('django.db.models.fields.SmallIntegerField', [], {}),
+            'review_id': ('django.db.models.fields.AutoField', [], {'primary_key': 'True'}),
+            'table_id_in_table': ('django.db.models.fields.IntegerField', [], {}),
+            'table_number': ('django.db.models.fields.IntegerField', [], {}),
+            'text': ('django.db.models.fields.CharField', [], {'max_length': '240'}),
+            'up_votes': ('django.db.models.fields.IntegerField', [], {}),
             'user': ('django.db.models.fields.related.ForeignKey', [], {'to': "orm['auth.User']"})
         }
     }
 
-    complete_apps = ['social_graph']
+    complete_apps = ['review']
