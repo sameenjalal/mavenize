@@ -39,17 +39,19 @@ def login(request):
             connections = graph.get_connections("me", "friends")['data']
             my_conn_list = []
 
+            i = 1
             for friend in connections:
                 # TODO: Only if friend is already in user db add
-                print "starting"
-                print friend['id']
-                print my_id
-                print "ending"
-                fg = Following.objects.create(fb_user=my_id,follow=friend['id'])
-                fr = Follower.objects.create(fb_user=friend['id'],follow=my_id)
+                print i
+                i = i + 1
+                try:
+                    fg = Following.objects.create(fb_user=my_id,follow=friend['id'])
+                    fr = Follower.objects.create(fb_user=friend['id'],follow=my_id)
 
-                fg.save()
-                fr.save()
+                    fg.save()
+                    fr.save()
+                except:
+                    pass
         except:
             print "Unexpected error nigga:", sys.exc_info()[0]
             raise
