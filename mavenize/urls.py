@@ -16,6 +16,7 @@ urlpatterns = patterns('',
 	url(r'^category/action/$', direct_to_template, {'template': 'category.html'}),
 
 	url(r'^movies/(?P<title>[-\w]+)/$', 'mavenize.movie.views.profile'),
+	url(r'^movies/(?P<title>[-\w]+)/review/$', 'mavenize.movie.views.review'),
 	url(r'^activity/', include('actstream.urls')),
 	url(r'', include('social_auth.urls')),
 	(r'^media/(?P<path>.*)$', 'django.views.static.serve',

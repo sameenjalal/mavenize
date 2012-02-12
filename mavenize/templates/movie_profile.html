@@ -11,19 +11,21 @@
 				<section id="title">
 					<h1>{{ movie.title }} ({{ movie.release_date|date:"Y" }})</h1>
 				</section>
+				{% if not has_reviewed %}
 				<section id="review-form">
 					<h3>Watched it?  Rave about it to your friends.</h3>
-					<form class="form-horizontal">
-						<textarea id="review-text" name="review"></textarea>
-						<div class="btn-toolbar">
+					<form class="form-horizontal" action="review/" method="POST">{% csrf_token %}
+						{{ form.text }}
+						<div class="btn-toolbar" id="rave-submit">
 							<div class="btn-group">
-								<a class="btn-large btn-success" href="#">Loved It</a>
-								<a class="btn-large btn-danger" href="#">Hated It</a>
+								<input class="btn btn-large btn-success" type="submit" name="submit" value="Loved It" />
+								<input class="btn btn-large btn-warning" type="submit" name="submit" value="So-So" />
+								<input class="btn btn-large btn-danger" type="submit" name="submit" value="Hated It" />
 							</div>
-							<input class="btn-large btn-primary" id="rave-submit" type="submit" name="submit" value="Rave" />
 						</div>
 					</form>
 				</section>
+				{% endif %}
 				<section id="top-reviews">
 					<h2>Top Raves</h2>
 					<ul>

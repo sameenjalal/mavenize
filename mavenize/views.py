@@ -47,11 +47,9 @@ def login(request):
                 try:
                     fg = Following.objects.create(fb_user=my_id,follow=friend['id'])
                     fr = Follower.objects.create(fb_user=friend['id'],follow=my_id)
-
-                    fg.save()
-                    fr.save()
+                    print "working %s" % friend['id']
                 except:
-                    pass
+					print friend['id'] 
         except:
             print "Unexpected error nigga:", sys.exc_info()[0]
             raise
