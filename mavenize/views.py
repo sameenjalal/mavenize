@@ -10,7 +10,7 @@ from mavenize.review.models import Review
 
 from mavenize.social_graph.models import Following
 from mavenize.social_graph.models import Follower
-from actstream.actions import follow
+# from actstream.actions import follow
 
 from social_auth.signals import socialauth_registered
 
@@ -19,11 +19,12 @@ import requests
 import sys
 
 def index(request):
-    if request.user:
-        return feed(request)
-
-    return render_to_response('index.html', {},
-        context_instance=RequestContext(request))
+	try:
+		request.user.social_auth.get(provider='facebook')
+		return feed(request)
+	except:
+		return render_to_response('index.html', {},
+			context_instance=RequestContext(request))
 
 @login_required
 def login(request):
@@ -56,7 +57,11 @@ def new_user_handler(sender, user, response, details, **kwargs):
 	
 	signed_up = UserSocialAuth.objects.filter(uid__in=friend_ids)
 	for friend in signed_up:
-		follow(user, friend.user)
-		follow(friend.user, user)
+		Following.objects.get_or_create(fb_user=user.id, follow=friend.user.id)
+		Following.objects.get_or_create(fb_user=friend.user.id, follow=user.id)
+		Follower.objects.get_or_create(fb_user=user.id, follow=friend.user.id)
+		Follower.objects.get_or_create(fb_user=friend.user.id, follow=user.id)
+		# follow(user, friend.user)
+		# follow(friend.user, user)
 
 socialauth_registered.connect(new_user_handler, sender=None)

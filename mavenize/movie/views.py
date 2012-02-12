@@ -11,7 +11,7 @@ from mavenize.review.models import Review
 from mavenize.review.models import ReviewForm
 
 from django.contrib.auth.decorators import login_required
-from actstream import action
+# from actstream import action
 
 @login_required
 def genre(request, genre):
@@ -67,7 +67,7 @@ def review(request, title):
 		form = ReviewForm(review)
 		if form.is_valid():
 			form.save()
-			action.send(request.user, verb="raved about", action_object=form, target=movie)
+			# action.send(request.user, verb="raved about", action_object=form, target=movie)
 
 	return redirect(request.META.get('HTTP_REFERER', None))
 
