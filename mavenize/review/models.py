@@ -16,6 +16,9 @@ class Review(models.Model):
 	RATING_CHOICES = [(i,i) for i in range(1,4)]
 	rating = models.SmallIntegerField(choices=RATING_CHOICES)
 
+	class Meta:
+		ordering = ('-created_at',)
+
 class ReviewForm(ModelForm):
 	text = forms.CharField(widget=forms.Textarea(
 		attrs={'id': 'review-text'}))

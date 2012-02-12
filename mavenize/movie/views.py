@@ -67,7 +67,7 @@ def review(request, title):
 		form = ReviewForm(review)
 		if form.is_valid():
 			form.save()
-			action.send(request.user, verb="raved about", target=movie)
+			action.send(request.user, verb="raved about", action_object=form, target=movie)
 
 	return redirect(request.META.get('HTTP_REFERER', None))
 
