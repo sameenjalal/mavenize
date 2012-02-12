@@ -13,6 +13,10 @@ from django.contrib.auth.decorators import login_required
 from actstream import action
 
 @login_required
+def genre(request, genre):
+	return render_to_response('genre.html', {}, context_instance=RequestContext(request))
+
+@login_required
 def profile(request, title):
 	has_reviewed = False
 	movie = get_object_or_404(Movie, url=title)

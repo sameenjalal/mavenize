@@ -10,7 +10,7 @@ class Genre(models.Model):
 class Movie(models.Model):
     movie_id = models.AutoField(primary_key=True)
     title = models.CharField(max_length=255)
-    genre = models.ForeignKey(Genre, null=True)
+    genre = models.ManyToManyField(Genre, null=True)
     synopsis = models.TextField()
     release_date = models.DateField(auto_now=False)
     image = models.ImageField(upload_to='img/movies')
