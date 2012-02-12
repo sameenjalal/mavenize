@@ -14,13 +14,13 @@ import requests
 import sys
 
 def index(request):
-    if request.session.get('_auth_user_id'):
-        try:
-            friends = Profile.objects.get(
-                user=request.session['_auth_user_id']).friends.keys()
-            return feed(request, friends)
-        except:
-            pass
+    #if request.session.get('_auth_user_id'):
+        #try:
+            #friends = Profile.objects.get(
+                #user=request.session['_auth_user_id']).friends.keys()
+            #return feed(request, friends)
+        #except:
+            #pass
 
     return render_to_response('index.html', {},
         context_instance=RequestContext(request))
@@ -56,7 +56,7 @@ def login(request):
             print "Unexpected error nigga:", sys.exc_info()[0]
             raise
 
-    return redirect('index')
+    return redirect('/')
 
 @login_required
 def feed(request, friends):
