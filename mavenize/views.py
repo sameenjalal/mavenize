@@ -8,6 +8,9 @@ from social_auth.models import UserSocialAuth
 
 from mavenize.social_graph.models import Following
 from mavenize.social_graph.models import Follower
+from actstream.actions import follow
+
+from social_auth.signals import socialauth_registered
 
 import facebook
 import requests
@@ -27,34 +30,7 @@ def index(request):
 
 @login_required
 def login(request):
-    # TODO: IF the user logs in for the first time, do
-    if request.session.get('_auth_user_id'):
-        try:
-            user = request.session['_auth_user_id']
-            social = UserSocialAuth.objects.get(user=user)
-
-            graph = facebook.GraphAPI(social.extra_data['access_token'])
-
-            my_id = graph.get_object("me")['id']
-            connections = graph.get_connections("me", "friends")['data']
-            my_conn_list = []
-
-            i = 1
-            for friend in connections:
-                # TODO: Only if friend is already in user db add
-                print i
-                i = i + 1
-                try:
-                    fg = Following.objects.create(fb_user=my_id,follow=friend['id'])
-                    fr = Follower.objects.create(fb_user=friend['id'],follow=my_id)
-                    print "working %s" % friend['id']
-                except:
-					print friend['id'] 
-        except:
-            print "Unexpected error nigga:", sys.exc_info()[0]
-            raise
-
-    return redirect('/')
+	return redirect('/')
 
 @login_required
 def feed(request, friends):
@@ -85,3 +61,20 @@ def feed(request, friends):
 
     return render_to_response('feed.html', context,
         context_instance=RequestContext(request))
+
+# Create following relationships the first time a user signs up
+def new_user_handler(sender, user, response, details, **kwargs):
+	social_user = user.social_auth.get(provider='facebook')
+	graph = facebook.GraphAPI(social_user.extra_data['access_token'])
+	friends = graph.get_connections("me", "friends")['data']
+	friend_ids = []
+	
+	for friend in friends:
+		friend_ids.append(friend['id'])
+	
+	signed_up = UserSocialAuth.objects.filter(uid__in=friend_ids)
+	for friend in signed_up:
+		follow(user, friend.user)
+		follow(friend.user, user)
+
+socialauth_registered.connect(new_user_handler, sender=None)
