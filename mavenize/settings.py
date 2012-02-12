@@ -113,7 +113,7 @@ INSTALLED_APPS = (
     'social_graph',
     'review',
     'movie',
-    'actstream',
+    # 'actstream',
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
 )
@@ -192,6 +192,6 @@ DEBUG_TOOLBAR_PANELS = (
 )
 
 # Application settings for django-activity-stream
-ACTSTREAM_ACTION_MODELS = ['auth.User']
-ACTSREAM_ACTION_TEMPLATE = 'activity/single_action.txt'
-ACTSTREAM_MANAGER = 'actstream.managers.ActionManager'
+# ACTSTREAM_ACTION_MODELS = ['auth.User']
+# ACTSREAM_ACTION_TEMPLATE = 'activity/single_action.txt'
+# ACTSTREAM_MANAGER = 'actstream.managers.ActionManager'
