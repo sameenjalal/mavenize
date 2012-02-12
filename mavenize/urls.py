@@ -8,7 +8,7 @@ from django.contrib import admin
 admin.autodiscover()
 
 urlpatterns = patterns('',
-	url(r'^$', direct_to_template, {'template': 'index.html'}, name='index'),
+	url(r'^$', 'mavenize.views.index', name='index'),
 	url(r'^logged-in/$', 'mavenize.views.login'),
 	url(r'^feed/$', direct_to_template, {'template': 'feed.html'}),
 	url(r'^users/dqai$', direct_to_template, {'template': 'friend_profile.html'}),
