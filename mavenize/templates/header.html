@@ -1,17 +1,33 @@
 <div class="navbar navbar-fixed-top">
 	<div class="navbar-inner">
 		<div class="container">
-			<a class="brand" href="#">Mavenize</a>
+			<a class="brand" href="/">Mavenize</a>
 			<ul class="nav">
 				<li class="active">
 					<a href="#">Home</a>
 				</li>
-				<li><a href="#">Action</a></li>
-				<li><a href="#">Animation</a></li>
-				<li><a href="#">Comedy</a></li>
-				<li><a href="#">History</a></li>
-				<li><a href="#">Horror</a></li>
-				<li><a href="#">Romance</a></li>
+				<li><a href="/movies/genre/action/">Action & Adventure</a></li>
+				<li><a href="/movies/genre/animation/">Animation</a></li>
+				<li><a href="/movies/genre/comedy/">Comedy</a></li>
+				<li><a href="/movies/genre/horror/">Horror</a></li>
+				<li><a href="/movies/genre/foreign/">Foreign</a></li>
+				<li><a href="/movies/genre/romance/">Romance</a></li>
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
+					<ul class="dropdown-menu">
+						<li><a href="/movies/genre/children/">Children & Family</a></li>
+						<li><a href="/movies/genre/classics/">Classics</a></li>
+						<li><a href="/movies/genre/documentary/">Documentary</a></li>
+						<li><a href="/movies/genre/drama/">Drama</a></li>
+						<li><a href="/movies/genre/spirituality/">Faith & Spirituality</a></li>
+						<li><a href="/movies/genre/gay/">Gay & Lesbian</a></li>
+						<li><a href="/movies/genre/independent/">Independent</a></li>
+						<li><a href="/movies/genre/musical/">Music & Musicals</a></li>
+						<li><a href="/movies/genre/fantasy/">Sci-Fi & Fantasy</a></li>
+						<li><a href="/movies/genre/sports/">Sports & Fitness</a></li>
+						<li><a href="/movies/genre/thrillers/">Thrillers</a></li>
+					</ul>
+				</li>
 			</ul>
 			<form class="navbar-search pull-left">
 				{% csrf_token %}
@@ -20,9 +36,3 @@
 		</div>
 	</div>
 </div>
-
-			<!--
-			<a  class="pull-right" href="{% url socialauth_begin 'facebook' %}">
-				<img src="/media/img/facebook-connect.png" alt="Facebook Connect" />
-			</a>
-			-->

@@ -1,5 +1,6 @@
 from django.db import models
 from django.contrib.auth.models import User
+from django import forms
 from django.forms import ModelForm
 
 class Review(models.Model):
@@ -16,5 +17,7 @@ class Review(models.Model):
 	rating = models.SmallIntegerField(choices=RATING_CHOICES)
 
 class ReviewForm(ModelForm):
+	text = forms.CharField(widget=forms.Textarea(
+		attrs={'id': 'review-text'}))
 	class Meta:
 		model = Review
