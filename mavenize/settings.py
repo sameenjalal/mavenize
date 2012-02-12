@@ -89,6 +89,7 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
 )
 
 ROOT_URLCONF = 'mavenize.urls'
@@ -108,6 +109,11 @@ INSTALLED_APPS = (
     'south',
     'social_auth',
     'debug_toolbar',
+    'table_number',
+    'social_graph',
+    'review',
+    'movie',
+    'actstream',
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
 )
@@ -138,8 +144,8 @@ LOGGING = {
 # Application settings for django-social-auth
 # General
 LOGIN_URL = '/'
-LOGIN_REDIRECT_URL = '/login/success'
-LOGIN_ERROR_URL = '/login/fail'
+LOGIN_REDIRECT_URL = '/logged-in/'
+LOGIN_ERROR_URL = '/login-error/'
 SOCIAL_AUTH_ERROR_KEY = 'social_errors'
 SOCIAL_AUTH_COMPLETE_URL_NAME = 'socialauth_complete'
 SOCIAL_AUTH_ASSOCIATE_URL_NAME = 'socialauth_associate_complete'
@@ -185,3 +191,7 @@ DEBUG_TOOLBAR_PANELS = (
     'debug_toolbar.panels.logger.LoggingPanel',
 )
 
+# Application settings for django-activity-stream
+ACTSTREAM_ACTION_MODELS = ['auth.User']
+ACTSREAM_ACTION_TEMPLATE = 'activity/single_action.txt'
+ACTSTREAM_MANAGER = 'actstream.managers.ActionManager'

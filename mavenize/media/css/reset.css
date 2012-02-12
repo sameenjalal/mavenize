@@ -2,7 +2,20 @@ body {
 	padding-top: 40px;
 }
 
+ul {
+	list-style-type: none;
+	margin-left: 8px;
+}
+
 footer {
 	background: #d9edf7;
 	padding-top: 15px;
 }
+
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+      filter: none;
+     }
+  </style>
+<![endif]-->

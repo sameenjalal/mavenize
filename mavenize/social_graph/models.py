@@ -1,10 +1,11 @@
 from django.db import models
-from django.contrib.auth.models import User
 
 class Following(models.Model):
-	user = models.ForeignKey(User)
-    following = models.IntegerField()
+    id = models.AutoField(primary_key=True)
+    fb_user = models.BigIntegerField(default=0)
+    follow = models.BigIntegerField(default=0)
 
 class Follower(models.Model):
-	user = models.ForeignKey(User)
-    follower = models.IntegerField()
+    id = models.AutoField(primary_key=True)
+    fb_user = models.BigIntegerField(default=0)
+    follow = models.BigIntegerField(default=0)

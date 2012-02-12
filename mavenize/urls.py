@@ -9,6 +9,15 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
 	url(r'^$', direct_to_template, {'template': 'index.html'}, name='index'),
+	url(r'^logged-in/$', 'mavenize.views.login'),
+	url(r'^feed/$', direct_to_template, {'template': 'feed.html'}),
+	url(r'^users/dqai$', direct_to_template, {'template': 'friend_profile.html'}),
+	url(r'^search/$', direct_to_template, {'template': 'search.html'}),
+
+	url(r'^movies/genre/(?P<genre>[-\w]+)/$', 'mavenize.movie.views.genre'),
+	url(r'^movies/(?P<title>[-\w]+)/$', 'mavenize.movie.views.profile'),
+	url(r'^movies/(?P<title>[-\w]+)/review/$', 'mavenize.movie.views.review'),
+	url(r'^activity/', include('actstream.urls')),
 	url(r'', include('social_auth.urls')),
 	(r'^media/(?P<path>.*)$', 'django.views.static.serve',
 		{'document_root': settings.MEDIA_ROOT}),

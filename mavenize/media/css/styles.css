@@ -1,0 +1,160 @@
+body {margin-top: 20px;}
+
+/* Stream */
+
+body #stream-options {
+	list-style-type: none;
+	margin: 0;
+}
+
+body #stream-options li {
+	color: #d6d6d6;
+	display: inline;
+}
+
+body .stream-header {
+	background: #eeeeee;
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2VlZWVlZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijk5JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+	background: -moz-linear-gradient(top, #eeeeee 0%, #ffffff 99%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(99%,#ffffff));
+	background: -webkit-linear-gradient(top, #eeeeee 0%,#ffffff 99%);
+	background: -o-linear-gradient(top, #eeeeee 0%,#ffffff 99%);
+	background: -ms-linear-gradient(top, #eeeeee 0%,#ffffff 99%);
+	background: linear-gradient(top, #eeeeee 0%,#ffffff 99%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#ffffff',GradientType=0 );
+
+	border-top: 1px solid #d6d6d6;
+	color: #8f8f8f;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 10px;
+	padding: 5px;
+	text-align: center;
+}
+
+/* Review Form */
+
+body #review-form {
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+
+	background: #f9f9f9;
+	margin: 10px 0;
+	padding: 10px;
+}
+
+body form {
+	margin: 0;
+}
+
+body form #review-text {
+	height: 60px;
+	margin: 10px 0;
+	width: 670px;
+}
+
+body form #rave-submit {
+	position: relative;
+	left: 445px;
+} 
+
+body #top-reviews {
+	margin-top: 10px;
+}
+
+/* Reviews */
+
+body .review {
+	border-bottom: 1px solid #d6d6d6;
+	padding: 10px 0 20px;
+}
+
+body .review-content {
+	margin-left: 60px;
+}
+
+body .review-content blockquote {
+	text-indent: 0px;
+}
+
+body .review-content ul {
+	list-style-type: none;
+	margin: 0;
+}
+
+body .review-content ul li {
+	color: #ababab;
+	font-size: 10px;
+	display: inline;
+}
+
+/* Movie Profiles */
+
+body .profile {
+	background: #f9f9f9;	
+
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+
+	margin: 10px 0;
+	padding: 12px 18px;
+}
+
+body #rating-box {
+	color: white;
+	background: #46a546;	
+	border: 1px solid #176b17;
+	font-weight: bold;
+	padding: 12px;
+	text-align: center;
+}
+
+body #rating-box #rating {
+	font-size: 32px;
+	margin-bottom: 6px;
+}
+
+/* Friend profiles */
+
+body #follow {
+	font-weight: bold;
+	margin: 10px 0;
+	text-align: center;
+}
+
+body .mini-thumbnails ul {
+	padding: 0 12px;
+}
+
+body .mini-thumbnails li {
+	margin: 0;
+}
+
+/* Search Results */
+body #search-results {
+	list-style-type: none;
+}
+
+body #search-results > li {
+	margin-top: 20px;
+}
+
+/* Miscellaneous */
+body h2 {
+	background: #eeeeee;
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2VlZWVlZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijk5JSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+	background: -moz-linear-gradient(top, #eeeeee 0%, #ffffff 99%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(99%,#ffffff));
+	background: -webkit-linear-gradient(top, #eeeeee 0%,#ffffff 99%);
+	background: -o-linear-gradient(top, #eeeeee 0%,#ffffff 99%);
+	background: -ms-linear-gradient(top, #eeeeee 0%,#ffffff 99%);
+	background: linear-gradient(top, #eeeeee 0%,#ffffff 99%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#ffffff',GradientType=0 );
+
+	border-top: 1px solid #d6d6d6;
+	color: #8f8f8f;
+	margin: 10px 0;
+	padding-left: 8px;
+}
