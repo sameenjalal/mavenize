@@ -19,12 +19,10 @@ import requests
 import sys
 
 def index(request):
-	try:
-		request.user.social_auth.get(provider='facebook')
+	if request.session['social_auth_last_login_backend'] == 'facebook':
 		return feed(request)
-	except:
-		return render_to_response('index.html', {},
-			context_instance=RequestContext(request))
+	return render_to_response('index.html', {},
+		context_instance=RequestContext(request))
 
 @login_required
 def login(request):
@@ -33,11 +31,18 @@ def login(request):
 @login_required
 def feed(request):
 	reviews = Review.objects.all()[:20]
+	following = Following.objects.filter(fb_user=request.user.id)
 	global_reviews = {}
 	friend_reviews = {}
+	following_ids = []
+	for f in following:
+		following_ids.append(f.follow)
 
 	for review in reviews:
-		global_reviews[review] = Movie.objects.get(movie_id=review.table_id_in_table)
+		if review.user.id in following_ids:
+			friend_reviews[review] = Movie.objects.get(movie_id=review.table_id_in_table)
+		else:
+			global_reviews[review] = Movie.objects.get(movie_id=review.table_id_in_table)
 
 	return render_to_response('feed.html', {
 		'friend_reviews': friend_reviews,
