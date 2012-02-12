@@ -40,20 +40,40 @@ def login(request):
             my_conn_list = []
 
             i = 1
+            string_er = ""
+            string_ing = ""
+            print "starting the array creation"
             for friend in connections:
                 # TODO: Only if friend is already in user db add
+                #UserSocialAuth.objects.
                 print i
                 i = i + 1
                 try:
-                    fg = Following.objects.create(fb_user=my_id,follow=friend['id'])
-                    fr = Follower.objects.create(fb_user=friend['id'],follow=my_id)
+                    #Following.objects.create(fb_user=my_id,follow=friend['id']).save()
+                    string_er += ",(" + my_id + "," + friend['id'] + ")";
+                    #Follower.objects.create(fb_user=friend['id'],follow=my_id).save()
+                    string_ing += append([friend['id'],my_id]);
 
-                    fg.save()
-                    fr.save()
+                    #all_ing_objs.append(Following(my_id,friend['id']))
+                    #all_er_objs.append(Follower(['id'],my_id))
+
+                    #fg.save()
+                    #fr.save()
                 except:
                     pass
+
+            string_er = "),(".join(all_er_objs)
+            string_ing = "),(".join(all_ing_objs)
+            print string_er
+            print string_ing
+            #er_query = "INSERT INTO social_graph_follower (fb_user,follow) VALUES (" + string_er + ");"
+            #ing_query = "INSERT INTO social_graph_following (fb_user,follow) VALUES (" + string_ing + ");"
+            #print er_query
+            #print ing_query
+            #Follower.objects.raw( er_query )
+            #Following.objects.raw( ing_query )
         except:
-            print "Unexpected error nigga:", sys.exc_info()[0]
+            print "Unexpected error:", sys.exc_info()[0]
             raise
 
     return redirect('/')
