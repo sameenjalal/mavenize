@@ -6,6 +6,7 @@ from django.template import RequestContext
 
 from django.contrib.auth.models import User
 from mavenize.movie.models import Movie
+from mavenize.movie.models import Genre
 from mavenize.review.models import Review
 from mavenize.review.models import ReviewForm
 
@@ -14,7 +15,18 @@ from actstream import action
 
 @login_required
 def genre(request, genre):
-	return render_to_response('genre.html', {}, context_instance=RequestContext(request))
+	genre = Genre.objects.get(name__icontains=genre)
+	movies = Movie.objects.filter(genre=genre)
+	movie_reviews = {}
+	for movie in movies:
+		movie_reviews[movie] = Review.objects.filter(
+			table_number=1,
+			table_id_in_table=movie.movie_id)[0]
+	return render_to_response('genre.html', {
+			'genre': genre.name,
+			'movie_reviews': movie_reviews,
+		},
+		context_instance=RequestContext(request))
 
 @login_required
 def profile(request, title):
@@ -27,7 +39,7 @@ def profile(request, title):
 		has_reviewed=True
 	return render_to_response('movie_profile.html', {
 		'movie': movie,
-		'reviews': Review.objects.filter(table_id_in_table=movie.movie_id),
+		'reviews': Review.objects.filter(table_number=1,table_id_in_table=movie.movie_id),
 
 		'form': form,
 		'has_reviewed': has_reviewed},
