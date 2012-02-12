@@ -10,13 +10,15 @@ from mavenize.review.models import Review
 from mavenize.review.models import ReviewForm
 
 from django.contrib.auth.decorators import login_required
+from actstream import action
 
 @login_required
 def profile(request, title):
 	has_reviewed = False
 	movie = get_object_or_404(Movie, url=title)
-	user = User.objects.get(id=request.session['_auth_user_id'])
+	user = request.user
 	form = ReviewForm()
+
 	if user.review_set.filter(table_id_in_table=movie.movie_id):
 		has_reviewed=True
 	return render_to_response('movie_profile.html', {
@@ -30,10 +32,11 @@ def profile(request, title):
 @login_required
 def review(request, title):
 	if request.method == 'POST':
+		movie = Movie.objects.get(url=title)
 		review = {
 			'user': request.session['_auth_user_id'],
 			'table_number': 1,
-			'table_id_in_table': Movie.objects.get(url=title).movie_id,
+			'table_id_in_table': movie.movie_id,
 			'text': request.POST['text'],
 			'up_votes': 0,
 			'down_votes': 0,
@@ -48,6 +51,7 @@ def review(request, title):
 		form = ReviewForm(review)
 		if form.is_valid():
 			form.save()
+			action.send(request.user, verb="raved about", action_object=movie)
 
 	return redirect(request.META.get('HTTP_REFERER', None))
 
