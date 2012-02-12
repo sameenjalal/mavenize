@@ -2,10 +2,10 @@ from django.db import models
 from django.template.defaultfilters import slugify
 
 class Genre(models.Model):
-	name = models.CharField(max_length=30)
+    name = models.CharField(max_length=30)
 
-	def __unicode__(self):
-		return self.name
+    def __unicode__(self):
+        return self.name
 
 class Movie(models.Model):
     movie_id = models.AutoField(primary_key=True)
@@ -24,7 +24,6 @@ class Movie(models.Model):
         return "%s: %s" % (self.movie_id, self.title)
 
     def save(self, *args, **kwargs):
-		if not self.movie_id:
-			self.url = slugify(self.title)
-		super(Movie, self).save(*args, **kwargs)
-		
+        if not self.movie_id:
+            self.url = slugify(self.title)
+        super(Movie, self).save(*args, **kwargs)
