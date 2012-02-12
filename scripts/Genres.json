@@ -1,0 +1,2917 @@
+{
+"d" : [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('20th%20Century%20Period%20Pieces')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "20th Century Period Pieces", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('20th%20Century%20Period%20Pieces')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Abs%2C%20Glutes%2C%20%26%20More')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Abs, Glutes, & More", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Abs%2C%20Glutes%2C%20%26%20More')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Action%20%26%20Adventure')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Action & Adventure", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Action%20%26%20Adventure')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Action%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Action Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Action%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Action%20Sci-Fi%20%26%20Fantasy')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Action Sci-Fi & Fantasy", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Action%20Sci-Fi%20%26%20Fantasy')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Action%20Thrillers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Action Thrillers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Action%20Thrillers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Adult%20Animation')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Adult Animation", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Adult%20Animation')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Adventures')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Adventures", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Adventures')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('African%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "African Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('African%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('African%20Music')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "African Music", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('African%20Music')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Afro-Cuban%20%26%20Latin%20Jazz')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Afro-Cuban & Latin Jazz", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Afro-Cuban%20%26%20Latin%20Jazz')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Alien%20Sci-Fi')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Alien Sci-Fi", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Alien%20Sci-Fi')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('American%20Folk%20%26%20Bluegrass')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "American Folk & Bluegrass", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('American%20Folk%20%26%20Bluegrass')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Animal%20Tales')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Animal Tales", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Animal%20Tales')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Anime", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Action')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Anime Action", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Action')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Anime Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Anime Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Fantasy')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Anime Fantasy", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Fantasy')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Features')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Anime Features", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Features')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Horror')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Anime Horror", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Horror')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Sci-Fi')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Anime Sci-Fi", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Sci-Fi')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Series')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Anime Series", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Anime%20Series')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Arabic-Language%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Arabic-Language Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Arabic-Language%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Argentinian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Argentinian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Argentinian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Art%20and%20Design')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Art and Design", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Art%20and%20Design')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Art%20House%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Art House Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Art%20House%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Asian%20Horror')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Asian Horror", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Asian%20Horror')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Asian%20Music')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Asian Music", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Asian%20Music')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Australian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Australian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Australian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('B-Horror%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "B-Horror Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('B-Horror%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Baseball%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Baseball Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Baseball%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Belgian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Belgian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Belgian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Bengali-Language%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Bengali-Language Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Bengali-Language%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Biographical%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Biographical Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Biographical%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Biographical%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Biographical Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Biographical%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Blues')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Blues", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Blues')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Boating%20%26%20Sailing')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Boating & Sailing", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Boating%20%26%20Sailing')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Bollywood%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Bollywood Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Bollywood%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Boxing%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Boxing Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Boxing%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Brazilian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Brazilian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Brazilian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Brazilian%20Music')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Brazilian Music", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Brazilian%20Music')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20Action%20%26%20Adventure')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "British Action & Adventure", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20Action%20%26%20Adventure')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "British Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "British Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "British Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20Period%20Pieces')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "British Period Pieces", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20Period%20Pieces')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20Thrillers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "British Thrillers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20Thrillers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20TV%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "British TV Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20TV%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20TV%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "British TV Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20TV%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20TV%20Shows')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "British TV Shows", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('British%20TV%20Shows')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Car%20Culture')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Car Culture", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Car%20Culture')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Cardio%20%26%20Aerobics')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Cardio & Aerobics", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Cardio%20%26%20Aerobics')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Celtic%20Music')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Celtic Music", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Celtic%20Music')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Children%20%26%20Family%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Children & Family Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Children%20%26%20Family%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Chinese%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Chinese Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Chinese%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Action%20%26%20Adventure')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Action & Adventure", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Action%20%26%20Adventure')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Children%20%26%20Family%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Children & Family Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Children%20%26%20Family%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Country%20%26%20Western')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Country & Western", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Country%20%26%20Western')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Foreign%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Foreign Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Foreign%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Foreign%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Foreign Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Foreign%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Foreign%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Foreign Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Foreign%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Horror%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Horror Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Horror%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Jazz')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Jazz", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Jazz')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Musicals')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Musicals", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Musicals')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20R%26B%2FSoul')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic R&B/Soul", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20R%26B%2FSoul')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Rock')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Rock", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Rock')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Romantic%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Romantic Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Romantic%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Sci-Fi%20%26%20Fantasy')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Sci-Fi & Fantasy", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Sci-Fi%20%26%20Fantasy')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Thrillers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Thrillers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Thrillers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20TV%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic TV Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20TV%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20TV%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic TV Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20TV%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20TV%20Shows')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic TV Shows", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20TV%20Shows')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20War%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic War Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20War%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Westerns')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Classic Westerns", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Classic%20Westerns')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Comic%20Book%20%26%20Superhero%20TV')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Comic Book & Superhero TV", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Comic%20Book%20%26%20Superhero%20TV')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Comic%20Book%20and%20Superhero%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Comic Book and Superhero Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Comic%20Book%20and%20Superhero%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Computer%20Animation')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Computer Animation", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Computer%20Animation')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Contemporary%20Jazz')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Contemporary Jazz", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Contemporary%20Jazz')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Contemporary%20R%26B')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Contemporary R&B", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Contemporary%20R%26B')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Cooking%20Instruction')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Cooking Instruction", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Cooking%20Instruction')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Country%20%26%20Western%2FFolk')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Country & Western/Folk", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Country%20%26%20Western%2FFolk')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Courtroom%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Courtroom Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Courtroom%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Courtroom%20TV%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Courtroom TV Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Courtroom%20TV%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Creature%20Features')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Creature Features", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Creature%20Features')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Crime%20Action%20%26%20Adventure')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Crime Action & Adventure", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Crime%20Action%20%26%20Adventure')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Crime%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Crime Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Crime%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Crime%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Crime Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Crime%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Crime%20Thrillers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Crime Thrillers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Crime%20Thrillers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Crime%20TV%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Crime TV Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Crime%20TV%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Crime%20TV%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Crime TV Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Crime%20TV%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Cult%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Cult Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Cult%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Cult%20Horror%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Cult Horror Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Cult%20Horror%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Cult%20Sci-Fi%20%26%20Fantasy')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Cult Sci-Fi & Fantasy", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Cult%20Sci-Fi%20%26%20Fantasy')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Czech%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Czech Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Czech%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dance%20%26%20Electronica')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Dance & Electronica", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dance%20%26%20Electronica')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dance%20Workouts')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Dance Workouts", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dance%20Workouts')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Danish%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Danish Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Danish%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dark%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Dark Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dark%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Deadly%20Disasters')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Deadly Disasters", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Deadly%20Disasters')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Disco')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Disco", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Disco')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Disney')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Disney", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Disney')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Disney%20Musicals')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Disney Musicals", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Disney%20Musicals')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dramas%20based%20on%20a%20book')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Dramas based on a book", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dramas%20based%20on%20a%20book')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dramas%20based%20on%20classic%20literature')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Dramas based on classic literature", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dramas%20based%20on%20classic%20literature')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dramas%20based%20on%20contemporary%20literature')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Dramas based on contemporary literature", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dramas%20based%20on%20contemporary%20literature')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dramas%20based%20on%20real%20life')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Dramas based on real life", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dramas%20based%20on%20real%20life')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dutch%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Dutch Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Dutch%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Eastern%20European%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Eastern European Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Eastern%20European%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Education%20%26%20Guidance')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Education & Guidance", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Education%20%26%20Guidance')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Epics')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Epics", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Epics')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('European%20Folk%20%26%20Traditional%20Music')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "European Folk & Traditional Music", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('European%20Folk%20%26%20Traditional%20Music')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Experimental%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Experimental Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Experimental%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Extreme%20Sports')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Extreme Sports", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Extreme%20Sports')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Faith%20%26%20Spirituality%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Faith & Spirituality Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Faith%20%26%20Spirituality%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Faith%20and%20Spirituality')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Faith and Spirituality", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Faith%20and%20Spirituality')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Family%20Adventures')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Family Adventures", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Family%20Adventures')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Family%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Family Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Family%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Family%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Family Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Family%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Family%20Feature%20Animation')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Family Feature Animation", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Family%20Feature%20Animation')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Family%20Features')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Family Features", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Family%20Features')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Family%20Sci-Fi%20%26%20Fantasy')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Family Sci-Fi & Fantasy", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Family%20Sci-Fi%20%26%20Fantasy')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Fantasy')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Fantasy", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Fantasy')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Farsi-Language%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Farsi-Language Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Farsi-Language%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Filipino%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Filipino Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Filipino%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Film%20Noir')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Film Noir", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Film%20Noir')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Fishing%20Non-fiction')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Fishing Non-fiction", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Fishing%20Non-fiction')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Food%20%26%20Wine')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Food & Wine", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Food%20%26%20Wine')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Football%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Football Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Football%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Action%20%26%20Adventure')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Foreign Action & Adventure", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Action%20%26%20Adventure')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Foreign Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Foreign Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Foreign Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Gay%20%26%20Lesbian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Foreign Gay & Lesbian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Gay%20%26%20Lesbian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Horror%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Foreign Horror Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Horror%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Foreign Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Sci-Fi%20%26%20Fantasy')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Foreign Sci-Fi & Fantasy", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Sci-Fi%20%26%20Fantasy')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Thrillers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Foreign Thrillers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Foreign%20Thrillers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('French%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "French Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('French%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('French%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "French Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('French%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('French%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "French Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('French%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('French%20Thrillers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "French Thrillers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('French%20Thrillers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gangster%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Gangster Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gangster%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gardening')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Gardening", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gardening')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gay%20%26%20Lesbian%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Gay & Lesbian Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gay%20%26%20Lesbian%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gay%20%26%20Lesbian%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Gay & Lesbian Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gay%20%26%20Lesbian%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gay%20%26%20Lesbian%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Gay & Lesbian Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gay%20%26%20Lesbian%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gay%20%26%20Lesbian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Gay & Lesbian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gay%20%26%20Lesbian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gay%20%26%20Lesbian%20TV%20Shows')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Gay & Lesbian TV Shows", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gay%20%26%20Lesbian%20TV%20Shows')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('General%20Strength%20%26%20Flexibility')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "General Strength & Flexibility", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('General%20Strength%20%26%20Flexibility')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('German%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "German Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('German%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Goth%20%26%20Industrial')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Goth & Industrial", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Goth%20%26%20Industrial')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Greek%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Greek Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Greek%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gujarati-Language%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Gujarati-Language Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Gujarati-Language%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Hard%20Rock%20%26%20Heavy%20Metal')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Hard Rock & Heavy Metal", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Hard%20Rock%20%26%20Heavy%20Metal')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Hawaiian%20%26%20Polynesian%20Music')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Hawaiian & Polynesian Music", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Hawaiian%20%26%20Polynesian%20Music')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Healing%20%26%20Reiki')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Healing & Reiki", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Healing%20%26%20Reiki')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Healthy%20Living')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Healthy Living", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Healthy%20Living')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Hindi-Language%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Hindi-Language Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Hindi-Language%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Historical%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Historical Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Historical%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Hobbies%20%26%20Games')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Hobbies & Games", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Hobbies%20%26%20Games')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Home%20%26%20Garden')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Home & Garden", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Home%20%26%20Garden')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Home%20Entertaining')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Home Entertaining", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Home%20Entertaining')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Home%20Improvement')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Home Improvement", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Home%20Improvement')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Horror%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Horror Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Horror%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Hungarian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Hungarian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Hungarian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Hunting%20Non-fiction')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Hunting Non-fiction", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Hunting%20Non-fiction')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Independent%20Action%20%26%20Adventure')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Independent Action & Adventure", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Independent%20Action%20%26%20Adventure')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Independent%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Independent Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Independent%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Independent%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Independent Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Independent%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Independent%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Independent Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Independent%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Independent%20Thrillers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Independent Thrillers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Independent%20Thrillers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Indian%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Indian Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Indian%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Indian%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Indian Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Indian%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Indian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Indian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Indian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Iranian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Iranian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Iranian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Irish%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Irish Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Irish%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Israeli%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Israeli Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Israeli%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Italian%20Horror%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Italian Horror Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Italian%20Horror%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Italian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Italian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Italian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Japanese%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Japanese Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Japanese%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Jazz%20%26%20Easy%20Listening')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Jazz & Easy Listening", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Jazz%20%26%20Easy%20Listening')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Jazz%20Greats')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Jazz Greats", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Jazz%20Greats')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Judaica')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Judaica", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Judaica')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids%20Music')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Kids Music", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids%20Music')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids''%20fitness')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Kids' fitness", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids''%20fitness')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids''%20TV')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Kids' TV", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids''%20TV')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids''%20TV%20for%20ages%200%20to%202')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Kids' TV for ages 0 to 2", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids''%20TV%20for%20ages%200%20to%202')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids''%20TV%20for%20ages%2011%20to%2012')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Kids' TV for ages 11 to 12", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids''%20TV%20for%20ages%2011%20to%2012')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids''%20TV%20for%20ages%202%20to%204')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Kids' TV for ages 2 to 4", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids''%20TV%20for%20ages%202%20to%204')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids''%20TV%20for%20ages%205%20to%207')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Kids' TV for ages 5 to 7", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids''%20TV%20for%20ages%205%20to%207')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids''%20TV%20for%20ages%208%20to%2010')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Kids' TV for ages 8 to 10", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Kids''%20TV%20for%20ages%208%20to%2010')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Korean%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Korean Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Korean%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Late%20Night%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Late Night Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Late%20Night%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Latin%20American%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Latin American Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Latin%20American%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Latin%20Music')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Latin Music", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Latin%20Music')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Latin%20Pop')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Latin Pop", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Latin%20Pop')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Low-Impact%20Workouts')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Low-Impact Workouts", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Low-Impact%20Workouts')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Malayalam-Language%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Malayalam-Language Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Malayalam-Language%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Martial%20Arts%20%26%20Boxing%20Workouts')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Martial Arts & Boxing Workouts", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Martial%20Arts%20%26%20Boxing%20Workouts')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Martial%20Arts%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Martial Arts Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Martial%20Arts%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Martial%20Arts%2C%20Boxing%20%26%20Wrestling')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Martial Arts, Boxing & Wrestling", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Martial%20Arts%2C%20Boxing%20%26%20Wrestling')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Medical%20TV%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Medical TV Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Medical%20TV%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Meditation%20%26%20Relaxation')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Meditation & Relaxation", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Meditation%20%26%20Relaxation')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Mexican%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Mexican Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Mexican%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Middle%20Eastern%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Middle Eastern Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Middle%20Eastern%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Military%20Action%20%26%20Adventure')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Military Action & Adventure", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Military%20Action%20%26%20Adventure')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Military%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Military Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Military%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Military%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Military Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Military%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Mind%20and%20Body')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Mind and Body", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Mind%20and%20Body')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Mindfulness%20%26%20Prayer%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Mindfulness & Prayer Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Mindfulness%20%26%20Prayer%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Miniseries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Miniseries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Miniseries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Mockumentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Mockumentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Mockumentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Modern%20%26%20Alternative%20Rock')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Modern & Alternative Rock", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Modern%20%26%20Alternative%20Rock')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Monster%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Monster Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Monster%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Motorsports')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Motorsports", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Motorsports')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Mountain%20Biking')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Mountain Biking", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Mountain%20Biking')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Movies%20based%20on%20children''s%20books')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Movies based on children's books", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Movies%20based%20on%20children''s%20books')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Movies%20for%20ages%200%20to%202')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Movies for ages 0 to 2", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Movies%20for%20ages%200%20to%202')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Movies%20for%20ages%2011%20to%2012')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Movies for ages 11 to 12", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Movies%20for%20ages%2011%20to%2012')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Movies%20for%20ages%202%20to%204')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Movies for ages 2 to 4", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Movies%20for%20ages%202%20to%204')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Movies%20for%20ages%205%20to%207')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Movies for ages 5 to 7", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Movies%20for%20ages%205%20to%207')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Movies%20for%20ages%208%20to%2010')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Movies for ages 8 to 10", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Movies%20for%20ages%208%20to%2010')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Music')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Music", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Music')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Music%20%26%20Concert%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Music & Concert Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Music%20%26%20Concert%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Music%20%26%20Concert%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Music & Concert Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Music%20%26%20Concert%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Musicals')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Musicals", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Musicals')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Mysteries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Mysteries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Mysteries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Nature%20%26%20Ecology%20TV%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Nature & Ecology TV Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Nature%20%26%20Ecology%20TV%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('New%20Country')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "New Country", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('New%20Country')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('New%20Zealand%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "New Zealand Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('New%20Zealand%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Nickelodeon')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Nickelodeon", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Nickelodeon')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Norwegian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Norwegian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Norwegian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Opera%20%26%20Operetta')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Opera & Operetta", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Opera%20%26%20Operetta')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Outdoor%20%26%20Mountain%20Sports')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Outdoor & Mountain Sports", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Outdoor%20%26%20Mountain%20Sports')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Painting')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Painting", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Painting')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Performance%20Art%20%26%20Spoken%20Word')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Performance Art & Spoken Word", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Performance%20Art%20%26%20Spoken%20Word')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Period%20Pieces')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Period Pieces", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Period%20Pieces')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Pets')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Pets", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Pets')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Photography')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Photography", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Photography')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Pilates%20%26%20Fitness%20Ball')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Pilates & Fitness Ball", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Pilates%20%26%20Fitness%20Ball')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Polish%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Polish Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Polish%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Political%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Political Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Political%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Political%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Political Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Political%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Political%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Political Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Political%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Political%20Thrillers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Political Thrillers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Political%20Thrillers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Political%20TV%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Political TV Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Political%20TV%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Pop')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Pop", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Pop')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Pregnancy%20%26%20Parenting')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Pregnancy & Parenting", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Pregnancy%20%26%20Parenting')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Pregnancy%20%26%20Post-Natal%20Fitness')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Pregnancy & Post-Natal Fitness", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Pregnancy%20%26%20Post-Natal%20Fitness')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Psychological%20Thrillers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Psychological Thrillers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Psychological%20Thrillers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Punjabi-Language%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Punjabi-Language Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Punjabi-Language%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Punk%20Rock')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Punk Rock", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Punk%20Rock')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Rap%20%26%20Hip-Hop')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Rap & Hip-Hop", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Rap%20%26%20Hip-Hop')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Reality%20TV')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Reality TV", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Reality%20TV')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Reggae')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Reggae", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Reggae')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Reggaeton')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Reggaeton", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Reggaeton')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Religious%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Religious Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Religious%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Rock%20%26%20Pop')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Rock & Pop", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Rock%20%26%20Pop')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Rock%20%26%20Roll%20Oldies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Rock & Roll Oldies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Rock%20%26%20Roll%20Oldies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Rockumentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Rockumentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Rockumentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Romantic%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Romantic Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Romantic%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Romantic%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Romantic Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Romantic%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Romantic%20Foreign%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Romantic Foreign Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Romantic%20Foreign%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Romantic%20Gay%20%26%20Lesbian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Romantic Gay & Lesbian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Romantic%20Gay%20%26%20Lesbian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Romantic%20Independent%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Romantic Independent Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Romantic%20Independent%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Romantic%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Romantic Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Romantic%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Russian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Russian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Russian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Satanic%20Stories')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Satanic Stories", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Satanic%20Stories')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Satires')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Satires", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Satires')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Scandinavian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Scandinavian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Scandinavian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sci-Fi%20%26%20Fantasy')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Sci-Fi & Fantasy", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sci-Fi%20%26%20Fantasy')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sci-Fi%20Adventure')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Sci-Fi Adventure", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sci-Fi%20Adventure')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sci-Fi%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Sci-Fi Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sci-Fi%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sci-Fi%20Horror%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Sci-Fi Horror Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sci-Fi%20Horror%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sci-Fi%20Thrillers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Sci-Fi Thrillers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sci-Fi%20Thrillers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Science%20%26%20Nature%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Science & Nature Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Science%20%26%20Nature%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Science%20%26%20Technology%20TV%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Science & Technology TV Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Science%20%26%20Technology%20TV%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Screwball%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Screwball Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Screwball%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Serbo-Croatian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Serbo-Croatian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Serbo-Croatian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Series')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Series", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Series')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('S%C3%A9ries%20t%C3%A9l%C3%A9')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "S\u00e9ries t\u00e9l\u00e9", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('S%C3%A9ries%20t%C3%A9l%C3%A9')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Shakespeare')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Shakespeare", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Shakespeare')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Showbiz%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Showbiz Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Showbiz%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Showbiz%20Musicals')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Showbiz Musicals", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Showbiz%20Musicals')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Silent%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Silent Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Silent%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Singer-Songwriters')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Singer-Songwriters", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Singer-Songwriters')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Singing%20Cowboy%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Singing Cowboy Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Singing%20Cowboy%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sitcoms')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Sitcoms", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sitcoms')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Slapstick%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Slapstick Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Slapstick%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Slasher%20and%20Serial%20Killer%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Slasher and Serial Killer Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Slasher%20and%20Serial%20Killer%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Snow%20%26%20Ice%20Sports')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Snow & Ice Sports", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Snow%20%26%20Ice%20Sports')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Soccer%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Soccer Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Soccer%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Social%20%26%20Cultural%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Social & Cultural Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Social%20%26%20Cultural%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Social%20Issue%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Social Issue Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Social%20Issue%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Southeast%20Asian%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Southeast Asian Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Southeast%20Asian%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Spanish%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Spanish Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Spanish%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Special%20Interest')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Special Interest", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Special%20Interest')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Spiritual%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Spiritual Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Spiritual%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sports%20%26%20Fitness')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Sports & Fitness", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sports%20%26%20Fitness')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sports%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Sports Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sports%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sports%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Sports Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sports%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sports%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Sports Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sports%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sports%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Sports Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Sports%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Spy%20Action%20%26%20Adventure')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Spy Action & Adventure", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Spy%20Action%20%26%20Adventure')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Spy%20Thrillers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Spy Thrillers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Spy%20Thrillers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Stage%20Musicals')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Stage Musicals", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Stage%20Musicals')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Stand-up%20Comedy')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Stand-up Comedy", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Stand-up%20Comedy')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Steamy%20Romantic%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Steamy Romantic Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Steamy%20Romantic%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Steamy%20Thrillers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Steamy Thrillers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Steamy%20Thrillers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Step%20Aerobics%20Workouts')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Step Aerobics Workouts", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Step%20Aerobics%20Workouts')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Style%20%26%20Beauty')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Style & Beauty", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Style%20%26%20Beauty')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Supernatural%20Horror%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Supernatural Horror Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Supernatural%20Horror%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Supernatural%20Thrillers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Supernatural Thrillers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Supernatural%20Thrillers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Swedish%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Swedish Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Swedish%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Swing%20%26%20Big%20Band')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Swing & Big Band", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Swing%20%26%20Big%20Band')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Tai%20Chi%20%26%20Qigong')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Tai Chi & Qigong", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Tai%20Chi%20%26%20Qigong')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Tamil-Language%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Tamil-Language Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Tamil-Language%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Tearjerkers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Tearjerkers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Tearjerkers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Teen%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Teen Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Teen%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Teen%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Teen Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Teen%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Teen%20Screams')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Teen Screams", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Teen%20Screams')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Teen%20TV%20Shows')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Teen TV Shows", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Teen%20TV%20Shows')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Telugu-Language%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Telugu-Language Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Telugu-Language%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Thai%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Thai Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Thai%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Theater%20Arts')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Theater Arts", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Theater%20Arts')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Theatrical%20Performances')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Theatrical Performances", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Theatrical%20Performances')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Thrillers')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Thrillers", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Thrillers')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Traditional%20Latin%20Music')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Traditional Latin Music", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Traditional%20Latin%20Music')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Travel%20%26%20Adventure%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Travel & Adventure Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Travel%20%26%20Adventure%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Action%20%26%20Adventure')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Action & Adventure", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Action%20%26%20Adventure')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Animated%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Animated Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Animated%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Cartoons')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Cartoons", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Cartoons')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Documentaries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Documentaries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Documentaries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Dramedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Dramedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Dramedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Mysteries')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Mysteries", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Mysteries')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Sci-Fi%20%26%20Fantasy')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Sci-Fi & Fantasy", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Sci-Fi%20%26%20Fantasy')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Shows')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Shows", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Shows')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Sketch%20Comedies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Sketch Comedies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Sketch%20Comedies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Soaps')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Soaps", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Soaps')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Teen%20Dramas')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Teen Dramas", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Teen%20Dramas')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Variety%20%26%20Talk%20Shows')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Variety & Talk Shows", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Variety%20%26%20Talk%20Shows')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Westerns')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "TV Westerns", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('TV%20Westerns')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Urban%20%26%20Dance')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Urban & Dance", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Urban%20%26%20Dance')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Vampire%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Vampire Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Vampire%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Vietnamese%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Vietnamese Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Vietnamese%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Vocal%20Jazz')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Vocal Jazz", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Vocal%20Jazz')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Vocal%20Pop')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Vocal Pop", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Vocal%20Pop')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Werewolf%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Werewolf Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Werewolf%20Movies')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Westerns')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Westerns", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Westerns')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Wine%20%26%20Beverage%20Appreciation')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Wine & Beverage Appreciation", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Wine%20%26%20Beverage%20Appreciation')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Workouts')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Workouts", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Workouts')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('World%20Fusion')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "World Fusion", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('World%20Fusion')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('World%20Music')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "World Music", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('World%20Music')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Yoga')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Yoga", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Yoga')/Titles"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Zombie%20Movies')", "type": "Netflix.Catalog.v2.Genre"
+}, "Name": "Zombie Movies", "Titles": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Genres('Zombie%20Movies')/Titles"
+}
+}
+}
+]
+}
