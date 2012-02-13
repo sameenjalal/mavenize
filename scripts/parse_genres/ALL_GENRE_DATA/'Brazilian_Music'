@@ -1,0 +1,2591 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApSZX')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/60027923.jpg", "content_type": "image/jpeg", "media_etag": "\"4/1/2010 7:09:31 AM\""
+}, "Id": "ApSZX", "Name": "Antonio Carlos Jobim: An All-Star Tribute", "ShortName": "Antonio Carlos Jobim: An All-Star Tribute", "Synopsis": "This tribute video captures the last recorded concert performance of late Brazilian jazz pioneer Antonio Carlos Jobim, featuring such classics as \"Girl from Ipanema.\" Adapting the percussive excitement of the samba to the intimacy of the guitar while echoing the melodies and harmonies of Cool Jazz, Jobim's new sound quickly became a staple ingredient in the jazz cookbook, and in 1991 Jobim was inducted into the Songwriter's Hall of Fame.", "ShortSynopsis": "This tribute video captures the last recorded concert performance of late Brazilian jazz pioneer Antonio Carlos Jobim, featuring such classics as \"Girl from Ipanema.\"", "AverageRating": 3, "ReleaseYear": 1995, "Url": "http://www.netflix.com/Movie/Antonio_Carlos_Jobim_An_All-Star_Tribute/60027923", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1270105771000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60027923", "TinyUrl": "http://movi.es/ApSZX", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/60027923.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/60027923.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/60027923.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1051142400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZX')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApUGz')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/60034461.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "ApUGz", "Name": "The Annual DVD: Ministry of Sound", "ShortName": "The Annual DVD: Ministry of Sound", "Synopsis": "Time to party! Without ever leaving the confines of your couch, you'll experience New Year's Eve in Sydney, Australia, Miami, Brazil and Ibiza. Songs include \"City Slickers/Extended\" (2 Heads Out of the City), \"So Fly/Hot 22 Remix\" (M001), \"Home\" (Julie McKnight), \"Fly with Me/Main Mix\" (Coloursound), \"Fascinated/Joey Negro Club Mix\" (Raven Maize), \"Dancin Tonight/Live II Infinity Master Mix\" (Stereopol featuring Nevada) and more.", "ShortSynopsis": null, "AverageRating": 2.8, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/The_Annual_DVD_Ministry_of_Sound/60034461", "Runtime": 5760, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60034461", "TinyUrl": "http://movi.es/ApUGz", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/60034461.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/60034461.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/60034461.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1080604800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5760
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUGz')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVaMT')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70067641.jpg", "content_type": "image/jpeg", "media_etag": "\"6/23/2011 6:41:39 PM\""
+}, "Id": "BVaMT", "Name": "Baden Powell: Self Portrait", "ShortName": "Baden Powell: Self Portrait", "Synopsis": "Internationally renowned Brazilian musician Baden Powell performs live in front of an appreciative audience in this 1990 performance. A mainstay of the bossa nova movement, Powell blends classical and popular styles to create his unique soulful sound. Songs include \"Voltei,\" \"Revendo o Passado,\" \"Naquele Tempo,\" \"Palhaco,\" \"Rapaz de Bem,\" \"Samba Triste,\" \"Alem do Amor/Deixa,\" \"Tem Do,\" \"O Astronauta,\" \"Samba em Preludio\" and more.", "ShortSynopsis": null, "AverageRating": 2.3, "ReleaseYear": 1990, "Url": "http://www.netflix.com/Movie/Baden_Powell_Self_Portrait/70067641", "Runtime": 3720, "Rating": "NR", "DateModified": "\/Date(1308854499000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70067641", "TinyUrl": "http://movi.es/BVaMT", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70067641.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70067641.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70067641.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1178582400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3720
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMT')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVIsr')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70000457.jpg", "content_type": "image/jpeg", "media_etag": "\"1/20/2012 6:43:12 PM\""
+}, "Id": "BVIsr", "Name": "Carlinhos Brown: World Music Portraits", "ShortName": "Carlinhos Brown: World Music Portraits", "Synopsis": "Brazilian pop star Carlinhos Brown blends the traditional percussion of his native Bahia province with soul, rap and hip-hop to create a uniquely contemporary sound. This documentary includes a tour of Brown's Bahian neighborhood, impromptu performances on guitar and percussion and live concert footage from a 50,000-strong concert in Salvador, Brazil. Songs include \"Uma Brasileira,\" \"Segue o Seco,\" \"Vide Gal\" and \"A Namorada.\"", "ShortSynopsis": "This intimate portrait includes a tour of Brown's Bahian neighborhood, impromptu performances and footage from a concert in Salvador, Brazil.", "AverageRating": 2.7, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Carlinhos_Brown_World_Music_Portraits/70000457", "Runtime": 3120, "Rating": "NR", "DateModified": "\/Date(1327084992000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70000457", "TinyUrl": "http://movi.es/BVIsr", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70000457.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70000457.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70000457.jpg", "HighDefinitionUrl": "http://cdn-7.nflximg.com/en_us/boxshots/ghd/70000457.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1086652800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3120
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1301616000000)\/", "AvailableTo": "\/Date(1344988800000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 3116
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIsr')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVK9h')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70005345.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVK9h", "Name": "Maria Rita", "ShortName": "Maria Rita", "Synopsis": "Jazzy Brazilian singer Maria Rita carries on the legacy of her musical family in this live 2003 performance to promote her debut album. Daughter of famed bossa nova singer Elis Regina, Rita performs songs including \"Pagu,\" \"N&#227;o Vale a Pena,\" \"Lavadeira Do Rio,\" \"Encontros e Despedidas,\" \"Menina da Lua,\" \"Cara Valente,\" \"Cupido,\" \"A Festa\" and \"Tristesse.\" Extras include interviews, a biography and videos for \"Dos Gardenias\" and \"Vero.\"", "ShortSynopsis": null, "AverageRating": 2.9, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Maria_Rita/70005345", "Runtime": 3420, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70005345", "TinyUrl": "http://movi.es/BVK9h", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70005345.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70005345.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70005345.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1095120000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3420
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK9h')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVLSE')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70010338.jpg", "content_type": "image/jpeg", "media_etag": "\"10/11/2010 6:11:30 PM\""
+}, "Id": "BVLSE", "Name": "Tribalistas", "ShortName": "Tribalistas", "Synopsis": "In this live performance, innovative Brazilian mod-rockers Tribalistas crank out every song from their wildly popular eponymous debut album, including the tracks \"Carnav&#225;lia,\" \"Um a Um,\" \"Velha Inf&#226;ncia\" and \"Passe em Casa.\" Marisa Monte, Arnaldo Antunes and Carlinhos Brown offer a glimpse into their unique collaborative process as they play \"J&#225; Sei Namorar,\" \"Mary Cristo,\" \"L&#225; de Longe,\" \"Carnalismo,\" \"Pecado &#233; Ihe Deixar de Molho\" and more.", "ShortSynopsis": "In this live performance, innovative Brazilian mod-rockers Tribalistas crank out every song from their wildly popular eponymous debut album, including the tracks \"Carnav\u00e1lia,\" \"Um a Um,\" \"Velha Inf\u00e2ncia\" and \"Passe em Casa.\"", "AverageRating": 3, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Tribalistas/70010338", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1286820690000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70010338", "TinyUrl": "http://movi.es/BVLSE", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70010338.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70010338.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70010338.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLSE')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70110705.jpg", "content_type": "image/jpeg", "media_etag": "\"2/26/2011 8:14:48 PM\""
+}, "Id": "BVlZ3", "Name": "Tanya Maria: The Beat of Brazil", "ShortName": "Tanya Maria: The Beat of Brazil", "Synopsis": "Singer, composer and pianist Tanya Maria engagingly fuses Brazilian melodies and beats with American jazz in this electrifying pair of episodes from the 1980-81 jazz and blues series \"Ad Lib.\" Songs include \"It's Not for Me to Say,\" \"Ven P'ra Roda,\" \"Chiclete Com Banana,\" \"Eruption,\" \"Yatra-Ta\" and \"O Que E Amar.\" Brazilian classical guitarist Laurindo Almeida also performs on four tracks. Bonus features include a Maria biography.", "ShortSynopsis": "Singer, composer and pianist Tanya Maria engagingly fuses Brazilian melodies and beats with American jazz in this electrifying pair of episodes from the 1980-81 jazz and blues series \"Ad Lib.\"", "AverageRating": 2.2, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Tanya_Maria_The_Beat_of_Brazil/70110705", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1298751288000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70110705", "TinyUrl": "http://movi.es/BVlZ3", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70110705.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70110705.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70110705.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1227571200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlZ3')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPwB')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70027571.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVPwB", "Name": "Roberto Carlos: Para Siempre: Ao Vivo No Pacaembu", "ShortName": "Roberto Carlos: Para Siempre", "Synopsis": "Brazilian songster Roberto Carlos was a major musical force in his country and initiated a revolution of youth customs in Brazil in the 1960s. Carlos was the leader of \"Jovem Guarda,\" a television program that became a harbinger of musical style and helped to change the face of Brazilian music. This video provides a tantalizing glimpse of what some of that revolutionary Carlos style was all about. &NFi;Obrigado!&NFi_;", "ShortSynopsis": "Brazilian songster Roberto Carlos was a major musical force in his country and initiated a revolution of youth customs in Brazil in the 1960s.", "AverageRating": 3, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Roberto_Carlos_Para_Siempre_Ao_Vivo_No_Pacaembu/70027571", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70027571", "TinyUrl": "http://movi.es/BVPwB", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70027571.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70027571.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70027571.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110844800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwB')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPwD')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70027573.jpg", "content_type": "image/jpeg", "media_etag": "\"8/11/2011 6:24:27 PM\""
+}, "Id": "BVPwD", "Name": "Jota Quest: Clipes", "ShortName": "Jota Quest: Clipes", "Synopsis": "Brazilian pop-funk sensations Jota Quest crank out their energetic, irresistibly danceable sound on this video that gets the party rolling. Clips include \"De Volta Ao Planeta,\" \"Encontrar Alguem,\" \"Desses Tantos Modos,\" \"Sempre Assim,\" \"My Brother,\" \"O Que Eu Tambem Naoentendo\" and the new \"Mais Uma Vez.\" Video remixes of \"Na Moral\" and \"So Hoje\" are also included, along with the band's discography.", "ShortSynopsis": "Brazilian pop-funk sensations Jota Quest crank out their energetic, irresistibly danceable sound on this video that gets the party rolling.", "AverageRating": 2.4, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Jota_Quest_Clipes/70027573", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1313087067000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70027573", "TinyUrl": "http://movi.es/BVPwD", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70027573.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70027573.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70027573.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110844800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPwD')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPYn')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70026121.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVPYn", "Name": "Brasil Brazil: Live: Syracuse Jazz Festival", "ShortName": "Brasil Brazil: Live", "Synopsis": "Ana Gazzola and Sonia Santos created Brasil Brazil to bring the infectious sounds of Carnival to audiences worldwide. Backed by a band of talented young musicians, the two raise the roof in this show from New York's 2002 Syracuse Jazz Festival. More than just a concert, Brasil Brazil is an immersive stage show that brings people to their feet with its upbeat blend of Brazilian music and style. Performances include \"Oxam\" and \"Casa Forte.\"", "ShortSynopsis": "Ana Gazzola and Sonia Santos created Brasil Brazil to bring the infectious sounds of Carnival to audiences worldwide. Backed by a band of talented young musicians, the two raise the roof in this show from New York's 2002 Syracuse Jazz Festival.", "AverageRating": 2.2, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Brasil_Brazil_Live_Syracuse_Jazz_Festival/70026121", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70026121", "TinyUrl": "http://movi.es/BVPYn", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70026121.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70026121.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70026121.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1111449600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPYn')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQbc')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70030140.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVQbc", "Name": "Maricotinha Ao Vivo", "ShortName": "Maricotinha Ao Vivo", "Synopsis": "Brazilian songstress Maria Beth&#226;nia performs live in Rio de Janeiro in this 2002 concert featuring the traditional music favorites that made her famous in her home country -- just like her younger brother, Brazilian songwriter Caetano Veloso. Selections include renditions of \"Explode Cora&#231;&#227;o,\" \"Amigos,\" \"Nem Sol, Nem Lua, Nem Eu,\" \"Menininha,\" \"Nossa Can&#231;&#227;o,\" \"Rosa dos Ventos\" and \"Amor Indio,\" plus an artist biography and interviews.", "ShortSynopsis": "Brazilian songstress Maria Beth\u00e2nia performs live in Rio de Janeiro in this 2002 concert featuring the traditional music favorites that made her famous in her home country -- just like her younger brother, Brazilian songwriter Caetano Veloso.", "AverageRating": 2.7, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Maricotinha_Ao_Vivo/70030140", "Runtime": 4200, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70030140", "TinyUrl": "http://movi.es/BVQbc", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70030140.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70030140.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70030140.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1116892800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQbc')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQCl')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70028599.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVQCl", "Name": "Renato Borghetti Quarteto: Ao Vivo No Theatro S\u00e3o Pedro", "ShortName": "Renato Borghetti: Theatro S\u00e3o Pedro", "Synopsis": "The Renato Borghetti Quartet performs at Brazil's Theatro S&#227;o Pedro in this memorable live concert that features \"Entardecer No Pontal,\" \"Pout-Pourri De Rancheiras,\" \"Taquito Militar\" and \"O Sem Vergonha.\" Other selections include \"Fronteira,\" \"Setima Do Pontal,\" \"Redomona,\" \"Felicidade,\" \"Kilometro 11,\" \"Rancheirinha,\" \"Barra Do Ribeiro,\" \"Lancador,\" \"Asa Branca,\" \"Hospitaleira Vacaria\" and \"Merceditas.\"", "ShortSynopsis": "The Renato Borghetti Quartet performs at Brazil's Theatro S\u00e3o Pedro in this memorable live concert that features \"Entardecer No Pontal,\" \"Pout-Pourri De Rancheiras,\" \"Taquito Militar\" and \"O Sem Vergonha.\"", "AverageRating": 1.9, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Renato_Borghetti_Quarteto_Ao_Vivo_No_Theatro_Sao_Pedro/70028599", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70028599", "TinyUrl": "http://movi.es/BVQCl", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70028599.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70028599.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70028599.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1114473600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCl')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQCW')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70028584.jpg", "content_type": "image/jpeg", "media_etag": "\"1/7/2011 8:59:49 PM\""
+}, "Id": "BVQCW", "Name": "Cidadao Quem: No Theatro S\u00e3o Pedro", "ShortName": "Cidadao Quem: No Theatro S\u00e3o Pedro", "Synopsis": "Brazilian rock band Cidadao Quem -- a group whose name was inspired by the Orson Welles classic Citizen Kane -- plays through a memorable set list of songs in this 2004 concert recorded live at the Theatro S&#227;o Pedro. Selections include \"A la Recherche,\" \"Girassois,\" \"No Quiero Armas,\" \"Os Segundos,\" \"Um Dia,\" \"Bossa,\" \"Por Voce,\" \"Carona,\" \"Terra de Gigantes,\" \"Pinhal,\" \"Musica Inedita,\" \"Jimi,\" \"Yoko,\" \"Dia Especial\" and \"Ao Fim de Tudo.\"", "ShortSynopsis": "Brazilian rock band Cidadao Quem -- a group whose name was inspired by the Orson Welles classic Citizen Kane -- plays through a memorable set list of songs in this 2004 concert recorded live at the Theatro S\u00e3o Pedro.", "AverageRating": 1.8, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Cidadao_Quem_No_Theatro_Sao_Pedro/70028584", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1294433989000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70028584", "TinyUrl": "http://movi.es/BVQCW", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70028584.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70028584.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70028584.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1114473600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCW')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQCX')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70028585.jpg", "content_type": "image/jpeg", "media_etag": "\"11/11/2010 8:11:22 PM\""
+}, "Id": "BVQCX", "Name": "O Bau Do Raul", "ShortName": "O Bau Do Raul", "Synopsis": "Celebrate the legacy of famed Brazilian musician Raul Seixas with this compilation, which features his songs performed by modern Brazilian artists such as \"Gita\" by Toni Garrido, \"Ouro de Tolo\" by Baia and \"Metamorfose Ambulante\" by Zelia Duncan. Other established musicians who contribute their great talents to this special program include Pitty, B Negao, Rick, Marcelo Nova, CPM 22 and many others.", "ShortSynopsis": "Celebrate the legacy of famed Brazilian musician Raul Seixas with this compilation, which features his songs performed by modern Brazilian artists such as \"Gita\" by Toni Garrido, \"Ouro de Tolo\" by Baia and \"Metamorfose Ambulante\" by Zelia Duncan.", "AverageRating": 2.3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/O_Bau_Do_Raul/70028585", "Runtime": 5640, "Rating": "NR", "DateModified": "\/Date(1289506282000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70028585", "TinyUrl": "http://movi.es/BVQCX", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70028585.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70028585.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70028585.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1114473600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5640
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCX')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70028587.jpg", "content_type": "image/jpeg", "media_etag": "\"1/20/2011 8:07:46 PM\""
+}, "Id": "BVQCZ", "Name": "Oswaldo Montenegro: Ao Vivo: 25 Anos", "ShortName": "Oswaldo Montenegro: Ao Vivo: 25 Anos", "Synopsis": "Brazil's Oswaldo Montenegro celebrates 25 years of making music in this memorable live concert that serves as a solid retrospective of his career, highlighting hits such as \"Chao, Po Poeira / Boa Noite,\" \"Inticao\" and \"Sem Mandamentos.\" Other selections include \"Cigana,\" \"Se Puder Sem Medo,\" \"Metade,\" \"Hoje Ainda e Dia de Rock,\" \"Sempre Nao e Todo Dia,\" \"Simpatia de Giz,\" \"Taximetro,\" \"Todo Mundo e Lobo Por Dentro\" and \"Drops de Hortela.\"", "ShortSynopsis": "Brazil's Oswaldo Montenegro celebrates 25 years of making music in this memorable live concert that serves as a solid retrospective of his career, highlighting hits such as \"Chao, Po Poeira / Boa Noite,\" \"Inticao\" and \"Sem Mandamentos.\"", "AverageRating": 2.5, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Oswaldo_Montenegro_Ao_Vivo_25_Anos/70028587", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1295554066000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70028587", "TinyUrl": "http://movi.es/BVQCZ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70028587.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70028587.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70028587.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1114473600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQCZ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQDD')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70028627.jpg", "content_type": "image/jpeg", "media_etag": "\"5/5/2011 4:52:39 PM\""
+}, "Id": "BVQDD", "Name": "Toquinho: So Tenho Tempo Pra Ser Feliz: Ao Vivo", "ShortName": "Toquinho: So Tenho Tempo", "Synopsis": "Brazil's own Toquinho performs some of the biggest hits of his career in this memorable concert recorded live in Canec&#227;o and featuring special guests Carlos Lyra, Carlinhos Vergueiro, L&#233;o Gandelman, Badi Assad and Yamand&#250; Costa. Selections include \"Tarde em Itapo&#227;,\" \"Escravo da Alegria,\" \"S&#243; Tenho Tempo Pra Ser Feliz,\" \"Que Maravilha,\" \"Este Seu Olhar,\" \"Carta ao Tom 74,\" \"Bachianinha No. 1,\" \"Minha Namorada\" and many more.", "ShortSynopsis": "Brazil's own Toquinho performs some of the biggest hits of his career in this memorable concert recorded live in Canec\u00e3o and featuring special guests Carlos Lyra, Carlinhos Vergueiro, L\u00e9o Gandelman, Badi Assad and Yamand\u00fa Costa.", "AverageRating": 2.4, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Toquinho_So_Tenho_Tempo_Pra_Ser_Feliz_Ao_Vivo/70028627", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1304614359000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70028627", "TinyUrl": "http://movi.es/BVQDD", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70028627.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70028627.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70028627.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1116892800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQDD')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQyB')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70031539.jpg", "content_type": "image/jpeg", "media_etag": "\"9/10/2010 5:28:20 PM\""
+}, "Id": "BVQyB", "Name": "Rita Lee: Ac\u00fastico MTV", "ShortName": "Rita Lee: Ac\u00fastico MTV", "Synopsis": "Legendary Brazilian rocker Rita Lee puts on a rousing performance in this 1998 concert filmed for MTV in Rio de Janeiro, Brazil. A founding member of influential rock band Os Mutantes, Lee went on to a successful solo career. Songs include \"Luz Del Fuego,\" \"Agora S&#243; Falta Voc&#234;,\" \"Doce Vampiro,\" \"Lan&#231;a Perfume,\" \"Balada Do Luco,\" \"Flagra\" and more. Musicians Milton Nascimento, C&#225;ssia Eller and Paula Toller make guest appearances.", "ShortSynopsis": "Legendary Brazilian rocker Rita Lee puts on a rousing performance in this 1998 concert filmed for MTV in Rio de Janeiro, Brazil. A founding member of influential rock band Os Mutantes, Lee went on to a successful solo career.", "AverageRating": 2.2, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Rita_Lee_Acustico_MTV/70031539", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1284139700000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70031539", "TinyUrl": "http://movi.es/BVQyB", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70031539.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70031539.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70031539.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1114992000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyB')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVS9r')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70036107.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVS9r", "Name": "MTV Apresenta: Seu Jorge", "ShortName": "MTV Apresenta: Seu Jorge", "Synopsis": "Innovative Brazilian musician Seu Jorge blends the rich rhythms of samba and bossa nova with funk and jazz fusions in this concert at S&#227;o Paulo's beautiful Hotel Unique. Jorge's inspiring set includes songs from his albums \"Cru\" and \"Carolina.\" The soulful singer who grew up on the mean streets of Rio is also an actor, with noteworthy performances in the cult film City of God and Wes Anderson's The Life Aquatic with Steve Zissou.", "ShortSynopsis": null, "AverageRating": 2.3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/MTV_Apresenta_Seu_Jorge/70036107", "Runtime": 4680, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70036107", "TinyUrl": "http://movi.es/BVS9r", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70036107.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70036107.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70036107.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4680
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9r')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVS9v')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70036111.jpg", "content_type": "image/jpeg", "media_etag": "\"7/14/2011 6:42:59 PM\""
+}, "Id": "BVS9v", "Name": "Casa Do Forro", "ShortName": "Casa Do Forro", "Synopsis": "Dance to the passionate rhythms of some of the hottest Brazilian musicians around with this music video. Features 15 tracks from artists Frank Aguiar, Caviar com Rapadura, Washington Brasileiro, Avi&#245;es do Forr&#243;, Francis Lopes, Forro 100 Preconceito, Rob&#233;rio e Seus Teclados, Forr&#243; Biqu&#237;ni de Bolinha, Charlys da Rocinha, Roberto & Banda, Carlos Mais, Forr&#243; Remexe and Wan-Luy. Songs include Aguiar's \"Prenda\" and Lopes's \"Bem Devagarinho.\"", "ShortSynopsis": "Dance to the passionate rhythms of some of the hottest Brazilian musicians around with this music video.", "AverageRating": 2, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Casa_Do_Forro/70036111", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1310668979000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70036111", "TinyUrl": "http://movi.es/BVS9v", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70036111.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70036111.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70036111.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1123545600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVS9v')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVSiS')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70038252.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVSiS", "Name": "Rastape: Cantando a Historia Do Forro: Ao Vivo", "ShortName": "Rastape: Cantando a Historia Do Forro", "Synopsis": "Popular Brazilian musical group Rastape celebrates the spicy, samba-rich sounds of forr&#243; -- a catchy style of dance music from northeastern Brazil that incorporates the accordion and syncopated rhythms. Jorge Son, Marquinhos, Tico, Jair and Jorginho perform songs including \"Bate Coracao,\" \"Homem com H\" and \"Procurando Tu.\" Special guests include Alcione, Trio Nordestino and Fafa de Belem. Also included: \"The Making of Historia of the Forr&#243;.\"", "ShortSynopsis": null, "AverageRating": 2.3, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Rastape_Cantando_a_Historia_Do_Forro_Ao_Vivo/70038252", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70038252", "TinyUrl": "http://movi.es/BVSiS", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70038252.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70038252.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70038252.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1129593600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiS')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVSiY')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70038258.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVSiY", "Name": "Jean-Claude Guiter: O Samba: Popular Music of Brazil", "ShortName": "Jean-Claude Guiter: O Samba", "Synopsis": "Filmmaker Jean-Claude Guiter explores the emerging trends in popular samba music -- a dance-oriented style of movement and rhythm native to Brazil -- through a series of interviews with influential composers. This fascinating documentary also features performances from a variety of artists who best represent each school of samba thought, including Baden Powell, Roberto Menescal, Carlos Lyria, Zeca Pagodinho and more.", "ShortSynopsis": null, "AverageRating": 2.7, "ReleaseYear": 1997, "Url": "http://www.netflix.com/Movie/Jean-Claude_Guiter_O_Samba_Popular_Music_of_Brazil/70038258", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70038258", "TinyUrl": "http://movi.es/BVSiY", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70038258.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70038258.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70038258.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSiY')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVSPp')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70037097.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVSPp", "Name": "Maria Bethania: Brasileirinho Ao Vivo", "ShortName": "Maria Bethania: Brasileirinho Ao Vivo", "Synopsis": "With the help of her signature voice, sultry tropicalia singer Maria Bethania explores the multifaceted world of Brazilian culture through an emotional medium: its music. This concert includes the songs \"Bachianas,\" \"Salve As Folhas,\"  \"Y&#225; Y&#225; Massembo,\" \"Gente Humilde,\" \"Padroeiro Do Brazil,\" \"Cigarro De Paia,\" \"Estrela Do Mar,\" \"Boiadeiro,\" \"Cantiga Para Janaina,\" \"Miseria,\" \"Melodia Sentimental,\" \"Comida\" and \"Rio de Janeiro.\"", "ShortSynopsis": null, "AverageRating": 2.9, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Maria_Bethania_Brasileirinho_Ao_Vivo/70037097", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70037097", "TinyUrl": "http://movi.es/BVSPp", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70037097.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70037097.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70037097.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPp')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVSPq')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70037098.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVSPq", "Name": "Gal Costa Canta Tom Jobim", "ShortName": "Gal Costa Canta Tom Jobim", "Synopsis": "Brazilian jazz vocalist Gal Costa -- a leading artist on the tropicalia scene in the 1960s -- performs live at the Palace S&#227;o Paulo in 1999 as part of her \"Canto Tom Jobim\" tour. An impressive roster of 24 tracks includes \"Fotograf&#237;a,\" \"Garota de Ipanema,\" \"Derradeira Primavera,\" \"Esquecendo Voc&#234;,\" \"Samba do Avi&#227;o,\" \"Anos Dourados,\" \"Desafinado,\" \"Tema de Amor de Gabriela,\" \"Ligia,\" \"Bonita\" and \"Triste.\"", "ShortSynopsis": null, "AverageRating": 3, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/Gal_Costa_Canta_Tom_Jobim/70037098", "Runtime": 4800, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70037098", "TinyUrl": "http://movi.es/BVSPq", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70037098.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70037098.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70037098.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSPq')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVTGV')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70040363.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVTGV", "Name": "Jamal: K-BCA Nu Lugah: Acustico", "ShortName": "K-Bca Nu Lugah", "Synopsis": "Packing plenty of style, Brazilian music sensation Jamal performs live at S&#227;o Paolo's Urbano Club in this festive, 11-song concert. Musicians Wagner Ramos, Fabio Negroni, Luiz Black, Marcos Oliva, Abhu Junior and Sarah P. join Jamal, while deejays Thayde and Marcio Menezes turn up to do their thing. Songs include \"Lunatico,\" \"Vim Buscar O Que Eh Meu,\" \"Black Dog,\" \"Ser Vencedor\" and \"Os Black's Voltaram.\"", "ShortSynopsis": null, "AverageRating": 1.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Jamal_K-BCA_Nu_Lugah_Acustico/70040363", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70040363", "TinyUrl": "http://movi.es/BVTGV", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70040363.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70040363.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70040363.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1130803200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTGV')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVTir')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70042121.jpg", "content_type": "image/jpeg", "media_etag": "\"11/4/2010 4:44:25 PM\""
+}, "Id": "BVTir", "Name": "Banda Cheiro de Amor: Ao Vivo", "ShortName": "Banda Cheiro de Amor: Ao Vivo", "Synopsis": "The members of Banda Cheiro de Amor -- one of the biggest musical acts in Brazil -- bring their intoxicating blend of dance rhythms to the stage in this memorable live performance filmed at the &#193;rea Verde do Othon, featuring vocalist Carla Visi. Tracks include \"&#201; O Ouro,\" \"De Bem Com a Vida,\" \"Lero Lero,\" \"Amassadinho,\" \"Caras e Bocas,\" \"O Seu Adeus,\" \"Canto Ao Pescador,\" \"Vai Sacudir, Vai Abalar,\" \"T&#227;o Seu\" and \"Se Voc&#234; Me Olha.\"", "ShortSynopsis": null, "AverageRating": 2.4, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Banda_Cheiro_de_Amor_Ao_Vivo/70042121", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1288889065000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70042121", "TinyUrl": "http://movi.es/BVTir", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70042121.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70042121.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70042121.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1132012800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTir')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVTnq')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70042430.jpg", "content_type": "image/jpeg", "media_etag": "\"4/22/2010 5:34:41 PM\""
+}, "Id": "BVTnq", "Name": "Mr. Bongo: Brazilian Beats DVD", "ShortName": "Mr. Bongo: Brazilian Beats DVD", "Synopsis": "This groovy compilation of complex Brazilian beats from the aficionados at Mr. Bongo's record shop is a blend of pop, samba, mangue, bossa, jazz and funk, with a variety of regional rhythms thrown in for good measure. Recognizable tunes include Airto Moreira's \"Celebration Suite,\" Jorge Ben's \"Carolina Carol Beta\" and Milton Banana's \"Cidade Vazia,\" plus songs from Tenorio Jr., Trio Mocot&#243; and Ana Mazzotti.", "ShortSynopsis": null, "AverageRating": 2.2, "ReleaseYear": 2002, "Url": "http://www.netflix.com/Movie/Mr._Bongo_Brazilian_Beats_DVD/70042430", "Runtime": 4200, "Rating": "NR", "DateModified": "\/Date(1271957681000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70042430", "TinyUrl": "http://movi.es/BVTnq", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70042430.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70042430.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70042430.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1139270400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTnq')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVUKr')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70044477.jpg", "content_type": "image/jpeg", "media_etag": "\"11/26/2011 7:26:46 PM\""
+}, "Id": "BVUKr", "Name": "Carlos Barbosa-Lima: Favorite Solos", "ShortName": "Carlos Barbosa-Lima: Favorite Solos", "Synopsis": "Brazilian concert guitarist Carlos Barbosa-Lima plays his favorite composers' solo works in a memorable evening of music running the gamut from Claude Debussy to W.C. Handy. Selections include \"Odeon\" by Ernesto Nazareth; \"I Got Rhythm\" by George Gershwin; \"Las Abejas\" by Augustin Barrios; \"Adios\" by Enric Madriguera; \"Sambolero\" by Luiz Bonfa; \"Two Ladies: One Old, One New\" by Bobby Scott; and \"Sons de Carrilhoes\" by Joao Pernambuco.", "ShortSynopsis": null, "AverageRating": 2.9, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Carlos_Barbosa-Lima_Favorite_Solos/70044477", "Runtime": 3120, "Rating": "NR", "DateModified": "\/Date(1322335606000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70044477", "TinyUrl": "http://movi.es/BVUKr", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70044477.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70044477.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70044477.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1137456000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3120
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUKr')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVUlu')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70046154.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVUlu", "Name": "Brasil Brazil: Ana Gazzola & Sonia Santos: L.A. Live", "ShortName": "Brasil Brazil: Ana Gazzola & Sonia Santos", "Synopsis": "Brasil Brazil -- headed by powerful Brazilian vocalists Ana Gazzola and Sonia Santos -- is a native band known for its euphoric celebrations of sound and the carnival-like atmosphere of its live shows. In this colorful concert filmed live in Los Angeles, Gazzola and Santos deliver a boisterous set, joined onstage by rows of scantily clad dancers, capoeira  demonstrations and a backing band of exuberant musicians.", "ShortSynopsis": null, "AverageRating": 2.1, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Brasil_Brazil_Ana_Gazzola_Sonia_Santos_L.A._Live/70046154", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70046154", "TinyUrl": "http://movi.es/BVUlu", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70046154.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70046154.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70046154.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1140480000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUlu')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVV84')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70047528.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVV84", "Name": "Som Imaginario", "ShortName": "Som Imaginario", "Synopsis": "Formed in 1970 to back up Milton Nascimento during his show at the Opiniao Theater, progressive Rio de Janeiro rockers Som Imaginario came of age in the post-bossa nova period. The group soon began recording on its own in addition to backing artists such as Elis Regina, Gal Costa, Fafa de Belem and Sueli Costa during live gigs and in the studio. In this Brazilian musical treat, Som Imaginario performs some of their best-loved songs.", "ShortSynopsis": null, "AverageRating": 2.2, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Som_Imaginario/70047528", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70047528", "TinyUrl": "http://movi.es/BVV84", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70047528.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70047528.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70047528.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV84')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVVRx')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70048761.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVVRx", "Name": "Antonio Nobrega: 9 De Frevereiro", "ShortName": "Antonio Nobrega: 9 De Frevereiro", "Synopsis": "In this frenetic live concert, Brazilian musician Antonio Nobrega pays homage to the native tradition of Carnival, purposely mangling the show's title to reflect the rhythm of his music: &NFi;el frevo&NFi_;. Thanks to his proficiency in five musical instruments -- including the classical violin -- Nobrega has become an integral part of northeastern Brazil's signature sound. (And as if that weren't enough, he's also an acrobat!)", "ShortSynopsis": null, "AverageRating": 2.5, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Antonio_Nobrega_9_De_Frevereiro/70048761", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70048761", "TinyUrl": "http://movi.es/BVVRx", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70048761.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70048761.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70048761.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVRx')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVVWU')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70049042.jpg", "content_type": "image/jpeg", "media_etag": "\"4/8/2010 5:12:04 PM\""
+}, "Id": "BVVWU", "Name": "Tati Quebra Barraco", "ShortName": "Tati Quebra Barraco", "Synopsis": "Popular Brazilian funk singer Tati Quebra Barraco brings her energetic sound to the rest of the world with this vibrant live concert. In front of an enthusiastic audience, Barraco performs hits such as \"Se Marcar,\" \"Dako E Bom,\" \"Satisfacao,\" \"Boladona,\" \"Tapinha Atras, Tapa na Frente,\" \"Montagem Cartao Magnetico,\" \"Vou Botar Voce na Pista,\" \"Kabo Kaqui,\" \"Montagem Guerreira,\" \"Comigo Ninguem Pode\" and many more of her best-loved songs.", "ShortSynopsis": null, "AverageRating": 1.8, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Tati_Quebra_Barraco/70049042", "Runtime": 2880, "Rating": "NR", "DateModified": "\/Date(1270746724000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70049042", "TinyUrl": "http://movi.es/BVVWU", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70049042.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70049042.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70049042.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1151366400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2880
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVWU')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVW7E')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70051320.jpg", "content_type": "image/jpeg", "media_etag": "\"1/27/2011 6:17:28 PM\""
+}, "Id": "BVW7E", "Name": "Seu Jorge: Live at Montreux 2005", "ShortName": "Seu Jorge: Live at Montreux 2005", "Synopsis": "Brazilian guitarist and singer Seu Jorge performs live at Montreux in this 2005 concert that captures the superstar playing songs from his best-selling album \"Cru.\" Jorge, who grew up on Rio's mean streets, gained worldwide attention for his roles in City of God and The Life Aquatic with Steve Zissou. Here, Jorge serves up powerful renditions of \"Mania De Peitao,\" \"Fiori de la Citta\" and more, including three previously unreleased songs.", "ShortSynopsis": null, "AverageRating": 3, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Seu_Jorge_Live_at_Montreux_2005/70051320", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1296152248000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70051320", "TinyUrl": "http://movi.es/BVW7E", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70051320.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70051320.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70051320.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1150156800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW7E')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVXA4')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70055340.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVXA4", "Name": "Maria Rita: Segundo: Ao Vivo", "ShortName": "Maria Rita: Segundo: Ao Vivo", "Synopsis": "Displaying the jazzy style and vocal chops that have earned her multiple Latin Grammies, Brazilian singer Maria Rita puts on an unforgettable show for her hometown audience at Rio de Janeiro's Claro Hall. The offspring of popular musicians C&#233;sar Camargo Mariano and the late Elis Regina, Rita proves that she's her parents' daughter on songs such as \"Muito Pouco,\" \"Mal Intento,\" \"Pagu,\" \"Recado,\" \"Minha Alma\" and many others.", "ShortSynopsis": null, "AverageRating": 3, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Maria_Rita_Segundo_Ao_Vivo/70055340", "Runtime": 5100, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70055340", "TinyUrl": "http://movi.es/BVXA4", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70055340.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70055340.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70055340.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1159833600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXA4')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70056161.jpg", "content_type": "image/jpeg", "media_etag": "\"11/22/2011 7:19:36 PM\""
+}, "Id": "BVXNJ", "Name": "Maria Bethania: Tempo Tempo Tempo Tempo", "ShortName": "Maria Bethania: Tempo Tempo Tempo Tempo", "Synopsis": "One of the most popular and influential female singers in Brazil, Maria Bethania performs more than 40 of her biggest hits on this incredible video compilation. Fans of the dramatic vocal diva will delight in a thoughtful selection of her most popular songs, including \"Modinha,\" \"Nature Boy (Encantado),\" \"A Felicidade,\" \"Bom Dia,\" \"Tristeza,\" \"Olha Maria,\" \"O Astronauta,\" \"Iliminada,\" \"Lamento Mo Moro\" and \"Formosa.\"", "ShortSynopsis": "One of the most popular and influential female singers in Brazil, Maria Bethania performs more than 40 of her biggest hits on this incredible video compilation.", "AverageRating": 2.4, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Maria_Bethania_Tempo_Tempo_Tempo_Tempo/70056161", "Runtime": 7320, "Rating": "NR", "DateModified": "\/Date(1321989576000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70056161", "TinyUrl": "http://movi.es/BVXNJ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70056161.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70056161.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70056161.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1162857600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7320
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXNJ')/Seasons"
+}
+}
+}
+]
+}
+}

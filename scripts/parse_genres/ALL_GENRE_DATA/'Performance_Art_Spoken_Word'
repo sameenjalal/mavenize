@@ -1,0 +1,1299 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApQpa')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/60021230.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:12 PM\""
+}, "Id": "ApQpa", "Name": "Cirque du Soleil: Cirque R\u00e9inv\u00e9nte", "ShortName": "Cirque du Soleil: Cirque R\u00e9inv\u00e9nte", "Synopsis": "Relive highlights from the legendary Cirque du Soleil's 1987 tour with this Emmy Award-winning program. Five years after its creation, the groundbreaking circus sold out audiences everywhere it appeared. Blending dreamlike costumes, striking music and spectacular acts into a surreal sensibility, Cirque du Soleil transforms the traditional circus into a lush feast for all the senses. The acts feature acrobatics, tightrope walking and clowning.", "ShortSynopsis": "Relive highlights from the legendary Cirque du Soleil's 1987 tour with this Emmy Award-winning program. Five years after its creation, the groundbreaking circus sold out audiences everywhere it appeared.", "AverageRating": 3.5, "ReleaseYear": 1992, "Url": "http://www.netflix.com/Movie/Cirque_du_Soleil_Cirque_Reinvente/60021230", "Runtime": 3360, "Rating": "NR", "DateModified": "\/Date(1301582112000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60021230", "TinyUrl": "http://movi.es/ApQpa", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/60021230.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/60021230.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/60021230.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1004400000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3360
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpa')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApQpb')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/60021231.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:11 PM\""
+}, "Id": "ApQpb", "Name": "Cirque du Soleil: La Magie Continue", "ShortName": "Cirque du Soleil: La Magie Continue", "Synopsis": "Since its beginnings in 1984, Cirque du Soleil has been pleasing the public with a novel show concept that is as original as it is non-traditional -- an astonishing, theatrical blend of circus arts and street performance.", "ShortSynopsis": "Since its beginnings in 1984, Cirque du Soleil has been pleasing the public with a novel show concept that is as original as it is non-traditional -- an astonishing, theatrical blend of circus arts and street performance.", "AverageRating": 3.3, "ReleaseYear": 2001, "Url": "http://www.netflix.com/Movie/Cirque_du_Soleil_La_Magie_Continue/60021231", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1301582111000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60021231", "TinyUrl": "http://movi.es/ApQpb", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/60021231.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/60021231.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/60021231.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1004400000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQpb')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApRN8')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/60023310.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:10 PM\""
+}, "Id": "ApRN8", "Name": "Vagina Monologues: Eve Ensler", "ShortName": "Vagina Monologues: Eve Ensler", "Synopsis": "This controversial work, created and performed by Eve Ensler, debuted off-off-Broadway in 1996 and soon rode a wave of national acclaim. Now, the intimacy of Ensler's original show has been lovingly brought to the screen. Capturing her unique performance, the film also follows Ensler as she explores the creative impetus behind the monologues and conducts a series of new interviews as inspiring as those that brought about the original work.", "ShortSynopsis": "Eve Ensler's performance of the controversial work -- which debuted off-off-Broadway in 1996 and rode a wave of acclaim -- is captured for the screen.", "AverageRating": 3.4, "ReleaseYear": 2002, "Url": "http://www.netflix.com/Movie/Vagina_Monologues_Eve_Ensler/60023310", "Runtime": 4560, "Rating": "NR", "DateModified": "\/Date(1301582110000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60023310", "TinyUrl": "http://movi.es/ApRN8", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/60023310.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/60023310.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/60023310.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1024358400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4560
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRN8')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApTP6')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/60031120.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:12 PM\""
+}, "Id": "ApTP6", "Name": "Cirque du Soleil: Varekai", "ShortName": "Cirque du Soleil: Varekai", "Synopsis": "Cirque du Soleil, the mind-bending acrobatic theater troupe, presents this highly imaginative, allegorical tale about a young man who falls from the sky into a kaleidoscopic world populated by fantastic creatures at the base of a volcano. The show-stopping performers include tumblers, jugglers and more.", "ShortSynopsis": "Cirque du Soleil, the mind-bending acrobatic theater troupe, presents this highly imaginative, allegorical tale about a young man who falls from the sky into a kaleidoscopic world populated by fantastic creatures at the base of a volcano.", "AverageRating": 3.8, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Cirque_du_Soleil_Varekai/60031120", "Runtime": 6600, "Rating": "NR", "DateModified": "\/Date(1301582112000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60031120", "TinyUrl": "http://movi.es/ApTP6", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/60031120.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/60031120.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/60031120.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1065484800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTP6')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApUC0')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/60034152.jpg", "content_type": "image/jpeg", "media_etag": "\"7/28/2010 9:42:36 PM\""
+}, "Id": "ApUC0", "Name": "Henry Rollins: Live at Luna Park", "ShortName": "Henry Rollins: Live at Luna Park", "Synopsis": "Spoken-word phenomenon Henry Rollins took up the mega challenge of delivering -- each week for two straight months -- a different three-hour monologue at Luna Park, a nighclub located in the heart of Los Angeles. The result is this \"best of\" collection from those shows, and the stories themselves are as riveting as Rollins's protean achievement. Bits include tales about his travels and observations of women who don mustaches.", "ShortSynopsis": "Spoken-word phenomenon Henry Rollins took up the mega challenge of delivering -- each week for two straight months -- a different three-hour monologue at Luna Park, a nighclub located in the heart of Los Angeles.", "AverageRating": 3.7, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Henry_Rollins_Live_at_Luna_Park/60034152", "Runtime": 4560, "Rating": "NR", "DateModified": "\/Date(1280353356000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60034152", "TinyUrl": "http://movi.es/ApUC0", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/60034152.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/60034152.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/60034152.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1076371200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4560
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUC0')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApVAB')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/60037883.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "ApVAB", "Name": "Ant Farm Video", "ShortName": "Ant Farm Video", "Synopsis": "Founded by Doug Michels and Chip Lord in 1968, Ant Farm is a performance art collective that astounds with audacious (and often hilarious) set pieces. This video contains footage of such Ant Farm works as \"Cadillac Ranch 1974/1994,\" \"Ant Farm's Dirty Dishes,\" \"Inflatables Illustrated\" and the legendary \"Media Burn,\" in which Michels and Curtis Schreier dress up as astronauts and drive their Phantom Dream Car through a pyramid of television sets.", "ShortSynopsis": "Founded by Doug Michels and Chip Lord in 1968, Ant Farm is a performance art collective that astounds with audacious (and often hilarious) set pieces.", "AverageRating": 3.2, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Ant_Farm_Video/60037883", "Runtime": 7620, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60037883", "TinyUrl": "http://movi.es/ApVAB", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/60037883.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/60037883.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/60037883.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1084838400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7620
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApVAB')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVfV3')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70087393.jpg", "content_type": "image/jpeg", "media_etag": "\"2/2/2012 10:10:26 PM\""
+}, "Id": "BVfV3", "Name": "Pride and Prejudice", "ShortName": "Pride and Prejudice", "Synopsis": "Jane Austen's classic novel is brought to life with a combination of dramatized narration, colorful illustrations and on-screen text that allows viewers to read along. Independent Elizabeth Bennet isn't interested in procuring a husband, but when Mr. Darcy arrives in town, she finds her attitude changing. Meanwhile, two of her sisters deal with romances of their own in a world where the proper marriage can determine their family's future.", "ShortSynopsis": "Jane Austen's classic novel is brought to life with a combination of dramatized narration, colorful illustrations and on-screen text that allows viewers to read along.", "AverageRating": 2.6, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Pride_and_Prejudice/70087393", "Runtime": 45000, "Rating": "NR", "DateModified": "\/Date(1328220626000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70087393", "TinyUrl": "http://movi.es/BVfV3", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70087393.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70087393.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70087393.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1203984000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 45000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfV3')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViKw')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70098298.jpg", "content_type": "image/jpeg", "media_etag": "\"2/7/2012 9:30:43 AM\""
+}, "Id": "BViKw", "Name": "The Adventures of Tom Sawyer", "ShortName": "The Adventures of Tom Sawyer", "Synopsis": "Featuring more than 60 illustrations from the likes of Norman Rockwell, Mark Twain's celebrated novel springs to life in this engaging dramatization as mischievous orphan Tom Sawyer and his friends share adventures on the mighty Mississippi River. Using his charm and his wits, Tom always skates away from trouble, whether he's pretending to be a buccaneer or pursuing the lovely Becky Thatcher. On-screen text is included so viewers can read along.", "ShortSynopsis": "Featuring more than 60 illustrations from the likes of Norman Rockwell, Mark Twain's celebrated novel springs to life in this engaging dramatization as mischievous orphan Tom Sawyer and his friends share adventures on the mighty Mississippi River.", "AverageRating": 2.6, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/The_Adventures_of_Tom_Sawyer/70098298", "Runtime": 28800, "Rating": "NR", "DateModified": "\/Date(1328607043000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098298", "TinyUrl": "http://movi.es/BViKw", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70098298.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70098298.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70098298.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1209427200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 28800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKw')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVJGe')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70001932.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVJGe", "Name": "Reno: Rebel Without a Pause", "ShortName": "Reno: Rebel Without a Pause", "Synopsis": "Feminist performance artist and monologist Reno lets loose in a stream-of-consciousness, cathartic, topical screed that blends equal parts incisive wit, political consciousness and common sense -- all about the events of September 11, 2001. A New York City resident (almost at ground zero), Reno witnessed the tragic events of that bloody day and developed a singular monologue that has the amazing ability to heal. Filmmaker Nancy Savoca directs.", "ShortSynopsis": null, "AverageRating": 2.5, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Reno_Rebel_Without_a_Pause/70001932", "Runtime": 4320, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70001932", "TinyUrl": "http://movi.es/BVJGe", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70001932.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70001932.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70001932.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1092096000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4320
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJGe')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVmvI')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70115928.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2012 9:33:41 AM\""
+}, "Id": "BVmvI", "Name": "Charles Bukowski Live: The Last Straw", "ShortName": "Charles Bukowski Live: The Last Straw", "Synopsis": "Showcasing rare footage of poetry icon Charles Bukowski at his last public reading, this dynamic documentary captures both Bukowski's poems and his sometimes-confrontational interactions with the audience. Filmed in Redondo Beach, Calif., in 1980, the reading includes \"Jam,\" \"What Have I Seen?,\" \"Trouble,\" \"Eating the Father,\" \"Competition,\" \"The Secret of My Endurance,\" \"On the Hustle,\" \"I Am a Reasonable Man\" and many more poems.", "ShortSynopsis": "Showcasing rare footage of poetry icon Charles Bukowski at his last public reading, this dynamic documentary captures both Bukowski's poems and his sometimes-confrontational interactions with the audience.", "AverageRating": 3.2, "ReleaseYear": 1980, "Url": "http://www.netflix.com/Movie/Charles_Bukowski_Live_The_Last_Straw/70115928", "Runtime": 4440, "Rating": "NR", "DateModified": "\/Date(1328780021000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70115928", "TinyUrl": "http://movi.es/BVmvI", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70115928.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70115928.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70115928.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1226966400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4440
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmvI')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVMYT')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70014569.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:10 PM\""
+}, "Id": "BVMYT", "Name": "Cirque du Soleil: La Nouba", "ShortName": "Cirque du Soleil: La Nouba", "Synopsis": "In the magical world of La Nouba, dreams become reality and talent turns the ordinary into the extraordinary. Filmed at Cirque du Soleil's permanent venue at Walt Disney World in Orlando, La Nouba is, literally, a dream come true. Amid this waking dream, you'll find clowns, ballerinas, trapeze artists and much more. From the incredible BMX bicycle act to displays of precision and balance on the high wire, La Nouba will amaze and delight.", "ShortSynopsis": "In the magical world of La Nouba, dreams become reality and talent turns the ordinary into the extraordinary. Filmed at Cirque du Soleil's permanent venue at Walt Disney World in Orlando, La Nouba is, literally, a dream come true.", "AverageRating": 3.8, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Cirque_du_Soleil_La_Nouba/70014569", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1301582110000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70014569", "TinyUrl": "http://movi.es/BVMYT", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70014569.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70014569.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70014569.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1099353600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYT')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVMYU')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70014570.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:12 PM\""
+}, "Id": "BVMYU", "Name": "Cirque Du Soleil: La Nouba: Bonus Material", "ShortName": "Cirque Du Soleil: La Nouba: Bonus Material", "Synopsis": "Bonus features on this supplement to Cirque Du Soleil: La Nouba include a \"Meet the Musicians\" featurette, Cirque Du Soleil promos and a photo gallery, that will mesmerize you with the wonders to be experienced, all courtesy of the talented cast of Cirque Du Soleil.", "ShortSynopsis": null, "AverageRating": 3.6, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Cirque_Du_Soleil_La_Nouba_Bonus_Material/70014570", "Runtime": 3360, "Rating": "NR", "DateModified": "\/Date(1301582112000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70014570", "TinyUrl": "http://movi.es/BVMYU", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70014570.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70014570.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70014570.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1099353600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3360
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMYU')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPEb')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70024869.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVPEb", "Name": "Puppetry of the Penis: Tackle Happy", "ShortName": "Puppetry of the Penis: Tackle Happy", "Synopsis": "Simon Morley and David Friend made a name for themselves by traveling around the world manipulating their not-so-private parts in their popular \"genital origami\" show. This entertaining documentary follows the duo on their first tour of Australia. Go behind-the-scenes and learn what makes these blokes tick, then watch in amazement as they twist their genitalia into hamburgers, the Loch Ness monster, a nuclear explosion and more.", "ShortSynopsis": "Simon Morley and David Friend made a name for themselves by traveling around the world manipulating their not-so-private parts in their popular \"genital origami\" show. This entertaining documentary follows the duo on their first tour of Australia.", "AverageRating": 2.7, "ReleaseYear": 2002, "Url": "http://www.netflix.com/Movie/Puppetry_of_the_Penis_Tackle_Happy/70024869", "Runtime": 4500, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70024869", "TinyUrl": "http://movi.es/BVPEb", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70024869.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70024869.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70024869.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4500
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEb')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70028077.jpg", "content_type": "image/jpeg", "media_etag": "\"1/31/2012 9:45:16 AM\""
+}, "Id": "BVQ4L", "Name": "Poetry in Motion", "ShortName": "Poetry in Motion", "Synopsis": "With Charles Bukowski articulating the everyman view that poetry is irrelevant, self-indulgent, dull and nonsensical, two dozen North American poets -- including Allen Ginsberg -- provide the counterpoint with stirring interpretations of their words. William S. Burroughs, Anne Waldman and Jim Carroll are among the other hipster bards on hand in this impressive anthology of recitations. Also included is a brief interview with director Ron Mann.", "ShortSynopsis": "Two dozen North American poets -- including Allen Ginsberg -- set out to prove poetry's relevance with stirring interpretations of their words.", "AverageRating": 2.9, "ReleaseYear": 1982, "Url": "http://www.netflix.com/Movie/Poetry_in_Motion/70028077", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1328003116000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70028077", "TinyUrl": "http://movi.es/BVQ4L", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70028077.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70028077.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70028077.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(883612800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ4L')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVSlr')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70038463.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVSlr", "Name": "Drift", "ShortName": "Drift", "Synopsis": "Visual artist Leah Singer and musician-poet Lee Ranaldo of Sonic Youth teamed up to create this immersive audiovisual experience. Image and text blend with guitar, poetry and soundscapes as Singer manipulates her films on the fly to complement Ranaldo's sounds. Performed live in museums and galleries across the world, Drift surrounds audiences in various atmospheres, from the sublime to hard-edged realism.", "ShortSynopsis": null, "AverageRating": 2.3, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Drift/70038463", "Runtime": 3360, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70038463", "TinyUrl": "http://movi.es/BVSlr", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70038463.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70038463.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70038463.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1137456000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3360
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSlr')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVTMC')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70040716.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:11 PM\""
+}, "Id": "BVTMC", "Name": "Cirque du Soleil: Midnight Sun", "ShortName": "Cirque du Soleil: Midnight Sun", "Synopsis": "Montreal's St. Catherine Street sets the stage for an enchanted evening of entertainment as an audience of 200,000 thrills at Cirque du Soleil's unprecedented tour de force \"Midnight Sun,\" a three-stage circus extravaganza with a cast of 250. Join Cirque du Soleil for their spectacular 20th anniversary celebration show, which features special appearances by Youssou N'Dour, Jorane and Daniela Mercury.", "ShortSynopsis": "Montreal's St. Catherine Street sets the stage for an enchanted evening of entertainment as an audience of 200,000 thrills at Cirque du Soleil's unprecedented tour de force \"Midnight Sun,\" a three-stage circus extravaganza with a cast of 250.", "AverageRating": 3.3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Cirque_du_Soleil_Midnight_Sun/70040716", "Runtime": 5700, "Rating": "NR", "DateModified": "\/Date(1301582111000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70040716", "TinyUrl": "http://movi.es/BVTMC", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70040716.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70040716.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70040716.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1125964800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5700
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTMC')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70047240.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVV3Q", "Name": "Security: When All Else Fails, Who Do You Turn To?", "ShortName": "Security: When All Else Fails ...", "Synopsis": "Jerome Gay Jr. writes, directs and stars in this powerful, independently produced spoken word performance aimed squarely at urban teenagers, examining the difficult decisions a young woman faces in a world riddled with hidden dangers. As she makes her way through adolescence, she confronts a variety of hot-button issues, including AIDS, abortion, domestic violence, parental neglect and religious hypocrisy.", "ShortSynopsis": null, "AverageRating": 1.9, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Security_When_All_Else_Fails_Who_Do_You_Turn_To/70047240", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70047240", "TinyUrl": "http://movi.es/BVV3Q", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70047240.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70047240.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70047240.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1144108800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV3Q')/Seasons"
+}
+}
+}
+]
+}
+}

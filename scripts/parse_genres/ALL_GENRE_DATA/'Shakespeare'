@@ -1,0 +1,1527 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApT1N')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/60029649.jpg", "content_type": "image/jpeg", "media_etag": "\"11/1/2011 7:22:11 AM\""
+}, "Id": "ApT1N", "Name": "Hamlet", "ShortName": "Hamlet", "Synopsis": "Kevin Kline treads the boards as one of William Shakespeare's most memorable characters -- the melancholy, deep-thinking prince Hamlet -- opposite Dana Ivey as Gertrude in this PBS adaptation. Kline, alongside Kirk Browning, also directs this inspired version about royal family treachery and betrayal, refreshing the tale with modern-day costumes, tremendous intelligence and slightly less doom and gloom.", "ShortSynopsis": "Kevin Kline stars in and co-directs this inspired version of Shakespeare's tale that features modern-day costumes and slightly less doom and gloom.", "AverageRating": 3.3, "ReleaseYear": 1990, "Url": "http://www.netflix.com/Movie/Hamlet/60029649", "Runtime": 10800, "Rating": "NR", "DateModified": "\/Date(1320132131000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60029649", "TinyUrl": "http://movi.es/ApT1N", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/60029649.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/60029649.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/60029649.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1058918400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 10800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApT1N')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVIm6')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70000038.jpg", "content_type": "image/jpeg", "media_etag": "\"2/1/2011 7:33:47 PM\""
+}, "Id": "BVIm6", "Name": "American Ballet Theatre: The Dream", "ShortName": "American Ballet Theatre: The Dream", "Synopsis": "Choreographed by Frederick Ashton in honor of William Shakespeare's 400th birthday, this magical production -- based on the Bard's play \"A Midsummer Night's Dream\" -- features Felix Mendelssohn's famed score and sublime sets that add to the charm. Ethan Stiefel delivers an impressive performance as the lordly Oberon, Alessandra Ferri shines as fairy queen Titania, and Herman Cornejo is pitch-perfect as the impish Puck.", "ShortSynopsis": "Choreographed by Frederick Ashton in honor of William Shakespeare's 400th birthday, this magical production -- based on the Bard's play \"A Midsummer Night's Dream\" -- features Felix Mendelssohn's famed score and sublime sets that add to the charm.", "AverageRating": 3.5, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/American_Ballet_Theatre_The_Dream/70000038", "Runtime": 3240, "Rating": "NR", "DateModified": "\/Date(1296588827000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70000038", "TinyUrl": "http://movi.es/BVIm6", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70000038.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70000038.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70000038.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1084838400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3240
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIm6')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVjoC')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70103956.jpg", "content_type": "image/jpeg", "media_etag": "\"5/27/2011 8:20:35 AM\""
+}, "Id": "BVjoC", "Name": "The Tempest", "ShortName": "The Tempest", "Synopsis": "William Woodman directs this faithful adaptation of Shakespeare's comedy, which stars award-winning actor Efrem Zimbalist Jr. as Prospero, the magician and former Duke of Milan who spends 12 years stranded on an island with his daughter, Miranda (J.E. Taylor). Staged and costumed in the tradition of the original Globe Theatre performances, this noteworthy production also stars William H. Bassett, Ted Sorel, Ron Palillo and William Hootkins.", "ShortSynopsis": "William Woodman directs this faithful adaptation of Shakespeare's comedy, which stars award-winning actor Efrem Zimbalist Jr. as Prospero, the magician and former Duke of Milan who spends 12 years stranded on an island with his daughter, Miranda.", "AverageRating": 2.5, "ReleaseYear": 1983, "Url": "http://www.netflix.com/Movie/The_Tempest/70103956", "Runtime": 7620, "Rating": "NR", "DateModified": "\/Date(1306484435000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70103956", "TinyUrl": "http://movi.es/BVjoC", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70103956.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70103956.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70103956.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7620
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoC')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVjoD')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70103957.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:23:04 PM\""
+}, "Id": "BVjoD", "Name": "King Lear", "ShortName": "King Lear", "Synopsis": "Based on the original Globe Theatre staging, director Alan Cooke's mesmerizing production of William Shakespeare's classic tragedy -- which many consider one of the Bard's finest works -- stars Mike Kellin as the ill-fated king destined for betrayal. Produced by Jack Nakano, this celebrated effort features scintillating supporting performances by Kitty Winn, Gela Nash and Melora Marshall as Lear's three daughters.", "ShortSynopsis": "Based on the original Globe Theatre staging, director Alan Cooke's mesmerizing production of William Shakespeare's classic tragedy -- which many consider one of the Bard's finest works -- stars Mike Kellin as the ill-fated king destined for betrayal.", "AverageRating": 2.1, "ReleaseYear": 1982, "Url": "http://www.netflix.com/Movie/King_Lear/70103957", "Runtime": 10920, "Rating": "NR", "DateModified": "\/Date(1328901784000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70103957", "TinyUrl": "http://movi.es/BVjoD", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70103957.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70103957.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70103957.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1217894400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 10920
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoD')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVjoF')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70103959.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVjoF", "Name": "Romeo & Juliet", "ShortName": "Romeo & Juliet", "Synopsis": "William Woodman directs this faithful yet accessible production of Shakespeare's beloved tragedy, starring Alex Hyde-White and Blanche Baker as ill-fated teenage lovers trapped in the midst of a bitter family rivalry. With costumes and sets inspired by the original Globe Theatre production, producer Jack Nakano's adaptation also features fine performances from Esther Rolle, Dan Hamilton and Frederic Hehne.", "ShortSynopsis": "William Woodman directs this faithful yet accessible production of Shakespeare's beloved tragedy, starring Alex Hyde-White and Blanche Baker as ill-fated teenage lovers trapped in the midst of a bitter family rivalry.", "AverageRating": 2.6, "ReleaseYear": 1982, "Url": "http://www.netflix.com/Movie/Romeo_Juliet/70103959", "Runtime": 9900, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70103959", "TinyUrl": "http://movi.es/BVjoF", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70103959.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70103959.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70103959.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1221523200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9900
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjoF')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVKao')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70007026.jpg", "content_type": "image/jpeg", "media_etag": "\"11/1/2011 7:22:11 AM\""
+}, "Id": "BVKao", "Name": "King Lear", "ShortName": "King Lear", "Synopsis": "James Earl Jones delivers a riveting performance as paranoid patriarch King Lear, an aging monarch who insists that his three daughters prove their love for him, only to learn he's exalted the two who seek to destroy him. This live performance recording of Joseph Papp's New York Shakespeare Festival production deftly envisions the bard's haunting tragedy with a fine supporting cast, including Raul Julia, Paul Sorvino and Rene Auberjonois.", "ShortSynopsis": "An aging monarch insists that his three daughters prove their love for him in this performance by the New York Shakespeare Festival.", "AverageRating": 3.3, "ReleaseYear": 1974, "Url": "http://www.netflix.com/Movie/King_Lear/70007026", "Runtime": 10800, "Rating": "NR", "DateModified": "\/Date(1320132131000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70007026", "TinyUrl": "http://movi.es/BVKao", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70007026.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70007026.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70007026.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1113264000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 10800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKao')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVL2L')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70008733.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVL2L", "Name": "Merry Wives of Windsor", "ShortName": "Merry Wives of Windsor", "Synopsis": "Down on his luck, Sir John Falstaff (Leon Charles) sets out to seduce and then blackmail two married women (Gloria Grahame and Valerie Seelie-Snyder) in this highly accessible production of Shakespeare's comedy, with sets and costumes in the play's original 16th-century style. When mistresses Page and Ford receive almost identical love letters from Falstaff, they unite in a scheme to get revenge on the portly knight.", "ShortSynopsis": "Down on his luck, Sir John Falstaff sets out to seduce and then blackmail two married women in this highly accessible production of Shakespeare's comedy, with sets and costumes in the play's original 16th-century style.", "AverageRating": 2.4, "ReleaseYear": 1983, "Url": "http://www.netflix.com/Movie/Merry_Wives_of_Windsor/70008733", "Runtime": 9000, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70008733", "TinyUrl": "http://movi.es/BVL2L", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70008733.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70008733.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70008733.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110844800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVL2L')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVMkr')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70015337.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVMkr", "Name": "Shakespeare's Tragedies: Hamlet", "ShortName": "Shakespeare's Tragedies: Hamlet", "Synopsis": "William Houston plays the lead role of Hamlet in this 2003 production of William Shakespeare's timeless tragedy, the story of a Danish prince haunted by his father's ghost -- and by the pain of his mother's treachery. The film's supporting cast includes Gareth Thomas as Claudius, Jilly Bond as Gertrude, Lucy Cockram as Ophelia and David Powell-Davies in the role of Polonius.", "ShortSynopsis": null, "AverageRating": 2.4, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Shakespeare_s_Tragedies_Hamlet/70015337", "Runtime": 6900, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70015337", "TinyUrl": "http://movi.es/BVMkr", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70015337.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70015337.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70015337.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1171324800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6900
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkr')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVMpM')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70015616.jpg", "content_type": "image/jpeg", "media_etag": "\"12/15/2011 8:19:01 AM\""
+}, "Id": "BVMpM", "Name": "Shakespeare Comedies: The Merchant of Venice", "ShortName": "The Merchant of Venice - BBC", "Synopsis": "Warren Mitchell and Gemma Jones star in Shakespeare's comedy-drama about Portia, a wealthy young woman whose father controls who she'll marry, and Bassanio, who wishes to marry Portia, but can't afford to. Bassanio borrows money from Shylock, but if he can't repay the debt, a \"pound of flesh\" will be taken from Bassanio's friend, Antonio. Meanwhile, Portia's father puts potential husbands to the test, but Bassanio is the only man she wants.", "ShortSynopsis": "Warren Mitchell and Gemma Jones star in Shakespeare's comedy-drama about Portia, a wealthy young woman whose father controls who she'll marry, and Bassanio, who wishes to marry Portia, but can't afford to.", "AverageRating": 3.4, "ReleaseYear": 1980, "Url": "http://www.netflix.com/Movie/Shakespeare_Comedies_The_Merchant_of_Venice/70015616", "Runtime": 9420, "Rating": "NR", "DateModified": "\/Date(1323937141000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70015616", "TinyUrl": "http://movi.es/BVMpM", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70015616.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70015616.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70015616.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1101168000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9420
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpM')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVMpN')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70015617.jpg", "content_type": "image/jpeg", "media_etag": "\"12/15/2011 8:19:01 AM\""
+}, "Id": "BVMpN", "Name": "Shakespeare Tragedies: Othello", "ShortName": "Shakespeare Tragedies: Othello", "Synopsis": "Anthony Hopkins and Bob Hoskins star in Shakespeare's tragedy about jealousy, love and deceit. Set in Venice, the play centers on the Moor Othello and his love, Desdemona. Angry that Othello chose Cassio as his officer and not him, the treacherous Iago conceives plan after plan to destroy Cassio and get back at Othello. The two-faced Iago eventually convinces Othello that Cassio and Desdemona are having an affair, with truly tragic results.", "ShortSynopsis": "Anthony Hopkins and Bob Hoskins star in Shakespeare's tragedy about jealousy, love and deceit in Venice as Othello falls victim to the two-faced Iago.", "AverageRating": 3.3, "ReleaseYear": 1981, "Url": "http://www.netflix.com/Movie/Shakespeare_Tragedies_Othello/70015617", "Runtime": 12180, "Rating": "NR", "DateModified": "\/Date(1323937141000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70015617", "TinyUrl": "http://movi.es/BVMpN", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70015617.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70015617.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70015617.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1099958400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 12180
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpN')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVMpR')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70015621.jpg", "content_type": "image/jpeg", "media_etag": "\"12/15/2011 8:19:01 AM\""
+}, "Id": "BVMpR", "Name": "Shakespeare Tragedies: Romeo and Juliet", "ShortName": "Shakespeare Tragedies: Romeo and Juliet", "Synopsis": "John Gielgud, Rebecca Saire and Patrick Ryecart star in Shakespeare's tragedy about Romeo and Juliet, who fall madly in love and, due to a longstanding feud between their families, marry in secret, despite the fact that Juliet is promised to another man. After Romeo kills Juliet's cousin, Juliet's grief-ridden family readies her arranged marriage. To stop her impending marriage and stay true to Romeo, Juliet makes a dire decision.", "ShortSynopsis": "John Gielgud, Rebecca Saire and Patrick Ryecart star in Shakespeare's tragedy about Romeo and Juliet, who fall madly in love and, due to a longstanding feud between their families, marry in secret, despite the fact that Juliet is already betrothed.", "AverageRating": 3.2, "ReleaseYear": 1978, "Url": "http://www.netflix.com/Movie/Shakespeare_Tragedies_Romeo_and_Juliet/70015621", "Runtime": 10020, "Rating": "NR", "DateModified": "\/Date(1323937141000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70015621", "TinyUrl": "http://movi.es/BVMpR", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70015621.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70015621.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70015621.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1099958400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 10020
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpR')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVMpS')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70015622.jpg", "content_type": "image/jpeg", "media_etag": "\"12/15/2011 8:19:01 AM\""
+}, "Id": "BVMpS", "Name": "Shakespeare Tragedies: Hamlet", "ShortName": "Shakespeare Tragedies: Hamlet", "Synopsis": "Derek Jacobi, Patrick Stewart, Eric Porter and Claire Bloom star in Shakespeare's tragedy about Hamlet, a prince distraught by the hasty marriage of his Uncle Claudius to his newly widowed mother. The ghost of Hamlet's father visits his son, reveals that he was murdered by Claudius and entreats Hamlet to set things right. Shaken, Hamlet devises a complex plan to prove Claudius's guilt, but the choices he makes result in multiple tragedies.", "ShortSynopsis": "Derek Jacobi, Patrick Stewart, Eric Porter and Claire Bloom star in Shakespeare's tragedy about Hamlet, a prince distraught by the hasty marriage of his Uncle Claudius to his newly widowed mother.", "AverageRating": 3.6, "ReleaseYear": 1980, "Url": "http://www.netflix.com/Movie/Shakespeare_Tragedies_Hamlet/70015622", "Runtime": 13320, "Rating": "NR", "DateModified": "\/Date(1323937141000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70015622", "TinyUrl": "http://movi.es/BVMpS", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70015622.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70015622.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70015622.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1099958400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 13320
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpS')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVMv0')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70015966.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVMv0", "Name": "Shakespeare's Tragedies: Macbeth", "ShortName": "Shakespeare's Tragedies: Macbeth", "Synopsis": "Jason Connery and Helen Baxendale get top billing in the lead roles of Macbeth and his infamous lady -- a couple who lets ambition get in the way of human decency -- in this 1997 production of William Shakespeare's timeless tragedy. After hearing a witches' prophecy that he's destined to become king of Scotland, Macbeth and his wife decide to help fate along by taking matters into their own bloody hands.", "ShortSynopsis": null, "AverageRating": 2.6, "ReleaseYear": 1997, "Url": "http://www.netflix.com/Movie/Shakespeare_s_Tragedies_Macbeth/70015966", "Runtime": 7740, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70015966", "TinyUrl": "http://movi.es/BVMv0", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70015966.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70015966.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70015966.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1171324800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7740
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMv0')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVnAS')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70116868.jpg", "content_type": "image/jpeg", "media_etag": "\"7/1/2011 3:11:25 AM\""
+}, "Id": "BVnAS", "Name": "King Lear", "ShortName": "King Lear", "Synopsis": "In this 2008 Royal Shakespeare Company production of the bard's enduring tragedy, Ian McKellen (in an Emmy-nominated role) stars as the world-weary title character, a doting father who abdicates the throne and divides his empire among his three daughters (Frances Barber, Monica Dolan and Romola Garai). But the stage is set for betrayal when the sovereign announces that the daughter who loves him most will receive the largest share.", "ShortSynopsis": "This 2008 Royal Shakespeare Company production stars Ian McKellen as Lear, who abdicates the throne and divides his empire among his three daughters.", "AverageRating": 3.6, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/King_Lear/70116868", "Runtime": 9300, "Rating": "NR", "DateModified": "\/Date(1309489885000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70116868", "TinyUrl": "http://movi.es/BVnAS", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70116868.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70116868.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70116868.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70116868.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1240272000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9300
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1247443200000)\/", "AvailableTo": "\/Date(1343779200000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 9348
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnAS')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVnQo')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70117882.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVnQo", "Name": "Macbeth: The Tragic Pair", "ShortName": "Macbeth: The Tragic Pair", "Synopsis": "Noted Shakespearean scholars Gary Taylor and Rebecca Flynn explore the language, plot, themes, and geographical and historical background of William Shakespeare's 1623 tragedy in this presentation set against the backdrop of the Scottish highlands. Combining excerpts from the play about the ambitious would-be king and his wife with expert analysis of the text, the program brings the Bard's words to life and provides context for the play's events.", "ShortSynopsis": "Noted Shakespearean scholars Gary Taylor and Rebecca Flynn explore the language, plot, themes, and geographical and historical background of William Shakespeare's 1623 tragedy in this presentation set against the backdrop of the Scottish highlands.", "AverageRating": 2.3, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Macbeth_The_Tragic_Pair/70117882", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70117882", "TinyUrl": "http://movi.es/BVnQo", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70117882.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70117882.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70117882.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1242086400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnQo')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVOdt')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70022593.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVOdt", "Name": "Antony and Cleopatra", "ShortName": "Antony and Cleopatra", "Synopsis": "Using costume and set designs from the original Globe Theatre production, Lawrence Carra's rendition of Shakespeare's infamous play features Bond alumnus Timothy Dalton as Marc Antony and Lynn Redgrave as his beloved Egyptian queen. Renowned for being one of the most romantic -- albeit tragic -- tales of all time, the story follows two lovers whose passion transcends war, conquest and betrayal but ultimately brings doom.", "ShortSynopsis": "Using costume and set designs from the original Globe Theatre production, Lawrence Carra's rendition of Shakespeare's infamous play features Bond alumnus Timothy Dalton as Marc Antony and Lynn Redgrave as his beloved Egyptian queen.", "AverageRating": 2.6, "ReleaseYear": 2001, "Url": "http://www.netflix.com/Movie/Antony_and_Cleopatra/70022593", "Runtime": 10980, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70022593", "TinyUrl": "http://movi.es/BVOdt", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70022593.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70022593.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70022593.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110844800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 10980
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOdt')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVOfP')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70022687.jpg", "content_type": "image/jpeg", "media_etag": "\"5/10/2011 10:46:25 PM\""
+}, "Id": "BVOfP", "Name": "King Lear", "ShortName": "King Lear", "Synopsis": "Having sent his loving daughter Cordelia (Anna Calder-Marshall) into exile, King Lear (Laurence Olivier) finds himself stripped of his status, his belongings and his pride by his other daughters in this British TV adaptation of one of William Shakespeare's best-known dramas. Playing the role of a lifetime, Olivier turns in an Emmy-winning performance as the Bard's tragic hero. Diana Rigg, John Hurt and Leo McKern provide superb support.", "ShortSynopsis": "Having sent his loving daughter Cordelia into exile, King Lear finds himself stripped of his status, his belongings and his pride by his other daughters in this British TV adaptation of one of William Shakespeare's best-known dramas.", "AverageRating": 3.5, "ReleaseYear": 1984, "Url": "http://www.netflix.com/Movie/King_Lear/70022687", "Runtime": 9480, "Rating": "NR", "DateModified": "\/Date(1305067585000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70022687", "TinyUrl": "http://movi.es/BVOfP", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70022687.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70022687.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70022687.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110844800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9480
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOfP')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVOMa')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70021520.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:23:04 PM\""
+}, "Id": "BVOMa", "Name": "Shakespeare's Soliloquies", "ShortName": "Shakespeare's Soliloquies", "Synopsis": "The Bard's greatest soliloquies are interpreted by a young troupe of eager actors, who are shown from various stages of rehearsal to their final thrilling performances. To watch or not to watch? That is the easy question for any Shakespeare fan. The monologues include \"All the world's a stage\" from \"As You Like It,\" \"Friends, Romans, countrymen\" from \"Julius Caesar,\" \"Is this a dagger which I see before me\" from \"Macbeth\" and many more.", "ShortSynopsis": "The Bard's greatest soliloquies are interpreted by a young troupe of eager actors, who are shown from various stages of rehearsal to their final thrilling performances. To watch or not to watch? That is the easy question for any Shakespeare fan.", "AverageRating": 2.4, "ReleaseYear": 2001, "Url": "http://www.netflix.com/Movie/Shakespeare_s_Soliloquies/70021520", "Runtime": 2400, "Rating": "NR", "DateModified": "\/Date(1328901784000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70021520", "TinyUrl": "http://movi.es/BVOMa", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70021520.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70021520.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70021520.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1107216000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOMa')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPho')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70026680.jpg", "content_type": "image/jpeg", "media_etag": "\"7/21/2010 8:25:11 AM\""
+}, "Id": "BVPho", "Name": "Dancer's Dream: Romeo and Juliet", "ShortName": "Dancer's Dream: Romeo and Juliet", "Synopsis": "Years after choreographing \"Romeo and Juliet\" for the London Festival Ballet in 1977, Rudolf Nureyev brought his colorful production to the Paris Opera. The making of that stellar performance is chronicled in this fascinating portrait of an artist. Interviews with Nureyev's handpicked dancers -- including the sensational Elisabeth Maurin and Manuel Legris -- and collaborators pay tribute to the dancer and choreographer's genius.", "ShortSynopsis": "Years after choreographing \"Romeo and Juliet\" for the London Festival Ballet in 1977, Rudolf Nureyev brought his colorful production to the Paris Opera. The making of that stellar performance is chronicled in this fascinating portrait of an artist.", "AverageRating": 2.9, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/Dancer_s_Dream_Romeo_and_Juliet/70026680", "Runtime": 5340, "Rating": "NR", "DateModified": "\/Date(1279700711000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70026680", "TinyUrl": "http://movi.es/BVPho", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70026680.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70026680.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70026680.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5340
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPho')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVV97')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70047593.jpg", "content_type": "image/jpeg", "media_etag": "\"2/1/2012 9:54:50 AM\""
+}, "Id": "BVV97", "Name": "The Winter's Tale", "ShortName": "The Winter's Tale", "Synopsis": "Extolled by critics and played to packed houses, this Royal Shakespeare Company production of the bard's classic tragicomedy was filmed in 1999 at London's Barbican Theatre. Believing his wife, Hermione (Alexandra Gilbreath), guilty of infidelity with his friend Polixenes (Ken Bones), King Leontes (Antony Sher) persecutes his queen and ruins the lives of those closest to him. But as the years pass, Leontes atones and is given a second chance.", "ShortSynopsis": null, "AverageRating": 3.1, "ReleaseYear": 1998, "Url": "http://www.netflix.com/Movie/The_Winter_s_Tale/70047593", "Runtime": 10200, "Rating": "NR", "DateModified": "\/Date(1328090090000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70047593", "TinyUrl": "http://movi.es/BVV97", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70047593.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70047593.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70047593.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1132617600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 10200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV97')/Seasons"
+}
+}
+}
+]
+}
+}

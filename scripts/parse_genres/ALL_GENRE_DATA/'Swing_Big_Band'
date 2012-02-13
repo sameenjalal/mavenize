@@ -1,0 +1,3655 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/26578204.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "8Z6lw", "Name": "Diane Schuur & the Count Basie Orchestra", "ShortName": "Diane Schuur & the Count Basie Orchestra", "Synopsis": "Jazz singer Diane Schuur joins forces with the Count Basie Orchestra, under the direction of Frank Foster, to perform jazz standards and swinging blues hits on this DVD. The performance takes place at A&M Studios in 1987 and includes music selections such as \"Until I Met You,\" \"Jumpin' at the Woodside,\" \"Only You,\" \"Splanky,\" \"Trav'lin Blues,\" \"We'll Be Together Again\" and \"Caught a Touch of Your Love.\"", "ShortSynopsis": null, "AverageRating": 3, "ReleaseYear": 1987, "Url": "http://www.netflix.com/Movie/Diane_Schuur_the_Count_Basie_Orchestra/26578204", "Runtime": 3060, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/26578204", "TinyUrl": "http://movi.es/8Z6lw", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/26578204.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/26578204.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/26578204.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3060
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8Z6lw')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApLNI')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/60000256.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "ApLNI", "Name": "At the Jazz Band Ball: Early Hot Jazz, Song and Dance", "ShortName": "Jazz Band Ball: Early Hot Jazz", "Synopsis": "Rare footage from the dawn of the jazz era constitutes the lion's share of this musical documentary. Fifteen clips from 1925 to 1932 are here, including Louis Armstrong playing \"Chinatown, My Chinatown\" and \"High Society\"; Duke Ellington's rendition of \"Old Man Blues\"; the Dorsey Brothers performing \"Get Out and Get Under the Moon\"; and Tommy Christian swingin' on the \"Tommy Christian Stomp.\"", "ShortSynopsis": "Rare footage from the dawn of the jazz era constitutes the lion's share of this musical documentary.", "AverageRating": 2.7, "ReleaseYear": 1933, "Url": "http://www.netflix.com/Movie/At_the_Jazz_Band_Ball_Early_Hot_Jazz_Song_and_Dance/60000256", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60000256", "TinyUrl": "http://movi.es/ApLNI", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/60000256.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/60000256.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/60000256.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(954201600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNI')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApLsK')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/60002180.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "ApLsK", "Name": "Billy Vaughn & His Orchestra", "ShortName": "Billy Vaughn & His Orchestra", "Synopsis": "Legendary big band leader Billy Vaughn and his orchestra take the stage in this exciting vintage live concert performance. Filmed at the Nakano Sun Plaza Hall in Japan, Vaughn strikes up the band to deliver a wealth of swing-time favorites, including \"Sail Along, Silv'ry Moon,\" \"Opus One,\" \"Red Sails in the Sunset,\" \"Little Brown Jug,\" \"Moonlight Serenade,\" \"String of Pearls,\" \"Tiny Bubbles,\" \"Blue Hawaii,\" \"Strike Up the Band\" and more.", "ShortSynopsis": null, "AverageRating": 2.1, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Billy_Vaughn_His_Orchestra/60002180", "Runtime": 3180, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60002180", "TinyUrl": "http://movi.es/ApLsK", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/60002180.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/60002180.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/60002180.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3180
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLsK')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApMGR')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/60003675.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "ApMGR", "Name": "Benny Goodman: Adventures in the Kingdom of Swing", "ShortName": "Benny Goodman: Kingdom of Swing", "Synopsis": "The life and music of Benny Goodman come alive in this documentary about the highly influential bandleader dubbed the \"King of Swing.\" The film details the birth of the swing genre; Goodman's effect on racial borders; his family; and his storied career. Included are raw performance and studio rehearsal footage, home movies, rare audio tracks, commentary from Goodman's contemporaries and interviews with Goodman.", "ShortSynopsis": null, "AverageRating": 3.4, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Benny_Goodman_Adventures_in_the_Kingdom_of_Swing/60003675", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60003675", "TinyUrl": "http://movi.es/ApMGR", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/60003675.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/60003675.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/60003675.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(974160000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMGR')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApSZd')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/60027929.jpg", "content_type": "image/jpeg", "media_etag": "\"4/1/2010 7:09:31 AM\""
+}, "Id": "ApSZd", "Name": "Louie Bellson and His Big Band", "ShortName": "Louie Bellson and His Big Band", "Synopsis": "Phenomenal drum technician Louie Bellson, who revived the Duke Ellington Orchestra during the 1950s, leads his own group in this live concert performance from Switzerland. Randy and Michael Brecker, Lew Soloff, Tom Malone, Herb Geller, Howard Johnson and Gil Goldstein are some of the featured soloists. Songs include \"Explosion,\" \"Samantha,\" \"Niles Ahead,\" \"The Drum Squad,\" \"Blues for Freddy,\" and \"We've Come a Long Way Together.\"", "ShortSynopsis": "Phenomenal drum technician Louie Bellson, who revived the Duke Ellington Orchestra during the 1950s, leads his own group in this live concert performance from Switzerland. Songs include \"Explosion,\" \"Samantha,\" and \"We've Come a Long Way Together.\"", "AverageRating": 2.9, "ReleaseYear": 1986, "Url": "http://www.netflix.com/Movie/Louie_Bellson_and_His_Big_Band/60027929", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1270105771000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60027929", "TinyUrl": "http://movi.es/ApSZd", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/60027929.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/60027929.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/60027929.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1051142400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSZd')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApTfa')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/60032142.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "ApTfa", "Name": "Duke Ellington: Live at Tivoli Gardens: Parts 1 and 2", "ShortName": "Duke Ellington: Live at Tivoli Gardens", "Synopsis": "Recorded in 1971, this collection of two Duke Ellington concerts shows the master jazzman in his prime. Hugely influential but never surpassed, Duke and his Orchestra work their way through a variety of material, including such classics as \"Take The 'A' train,\" \"I Got It Bad,\" \"All Too Soon,\" \"Cotton-Tail\" and more.", "ShortSynopsis": null, "AverageRating": 2.5, "ReleaseYear": 1971, "Url": "http://www.netflix.com/Movie/Duke_Ellington_Live_at_Tivoli_Gardens_Parts_1_and_2/60032142", "Runtime": 8400, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60032142", "TinyUrl": "http://movi.es/ApTfa", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/60032142.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/60032142.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/60032142.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1068508800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTfa')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApU3r')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/60033647.jpg", "content_type": "image/jpeg", "media_etag": "\"7/28/2011 9:22:18 PM\""
+}, "Id": "ApU3r", "Name": "The Big Chris Barber Band: Hot Jazz Festival Europa-Park", "ShortName": "The Big Chris Barber Band", "Synopsis": "Like the Energizer Bunny, jazz great Chris Barber (in his 50th year in the business) just keeps going and going. This live release was recorded at the Hot Jazz Festival in Germany, with the virtuoso trombone player ably backed by a kick-butt pickup band. The swingin' tracks include \"Sweet Georgia Brown\" and many others.", "ShortSynopsis": null, "AverageRating": 1.9, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/The_Big_Chris_Barber_Band_Hot_Jazz_Festival_Europa-Park/60033647", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1311888138000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60033647", "TinyUrl": "http://movi.es/ApU3r", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/60033647.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/60033647.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/60033647.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1074556800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApU3r')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApUcg')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/60035806.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "ApUcg", "Name": "Duke Ellington: Forever Gold", "ShortName": "Duke Ellington: Forever Gold", "Synopsis": "Duke Ellington is, hands down, the most important innovator jazz music has ever known. The Duke was justly famed for his genius at arranging, songwriting and intuition (that sometimes bordered on prescience) in being able to determine jazz trends. This collection compiles some of his best-known songs, such as \"Take the 'A' Train,\" \"Bugle Call Rag,\" \"Black and Tan Fantasy,\" \"Satin Doll,\" \"Stormy Weather\" and more.", "ShortSynopsis": null, "AverageRating": 2.5, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Duke_Ellington_Forever_Gold/60035806", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60035806", "TinyUrl": "http://movi.es/ApUcg", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/60035806.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/60035806.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/60035806.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1079395200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUcg')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApUch')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/60035807.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "ApUch", "Name": "Legends of Jazz: Forever Gold", "ShortName": "Legends of Jazz: Forever Gold", "Synopsis": "During the Jazz Age, soundies (short film subjects) were made of many of the leading bands and orchestras. Shown in small coin-operated machines located in bars and restaurants, soundies were often the only way fans could watch their heroes perform. This unique collection contains soundies of Nat \"King\" Cole, Cab Calloway, Fats Waller, The Mills Brothers and The Count Basie Orchestra.", "ShortSynopsis": null, "AverageRating": 2.5, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Legends_of_Jazz_Forever_Gold/60035807", "Runtime": 1800, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60035807", "TinyUrl": "http://movi.es/ApUch", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/60035807.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/60035807.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/60035807.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1079395200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 1800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUch')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApUt7')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/60036825.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "ApUt7", "Name": "Buddy Rich and the Buddy Rich Band: Live at the 1982 Montreal Jazz Festival", "ShortName": "Buddy Rich: 1982 Montreal Jazz Festival", "Synopsis": "Jazz drummer Buddy Rich is backed by his stellar band for this performance that showcases the musician's talents. Featured songs include \"Hookin' It,\" \"Brush Strokes,\" \"If They Could See Me Now,\" \"Good News,\" \"West Side Story Medley,\" \"Carioca\" and \"Time Check.\" Also includes a bonus clip of a 1972 performance of \"On Green Dolphin Street.\"", "ShortSynopsis": null, "AverageRating": 3.3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Buddy_Rich_and_the_Buddy_Rich_Band_Live_at_the_1982_Montreal_Jazz_Festival/60036825", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60036825", "TinyUrl": "http://movi.es/ApUt7", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/60036825.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/60036825.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/60036825.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1081814400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUt7')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApUyt')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/60037183.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "ApUyt", "Name": "Cab Calloway: Hi-De-Ho and Other Movies", "ShortName": "Cab Calloway: Hi-De-Ho and Other Movies", "Synopsis": "Swingin' bandleader Cab Calloway, the \"original Hi-De-Ho Man,\" was a force of nature, especially during his heyday in the 1930s. This compilation of clips and rare outtakes shows what an incredible and exuberant stage performer Calloway was -- a man with showmanship to spare. Among the many featured highlights is Cab's signature number, \"Minnie the Moocher.\"", "ShortSynopsis": "Swingin' bandleader Cab Calloway, the \"original Hi-De-Ho Man,\" was a force of nature, especially during his heyday in the 1930s. This compilation of clips and rare outtakes shows what Calloway was -- an incredible and exuberant stage performer.", "AverageRating": 3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Cab_Calloway_Hi-De-Ho_and_Other_Movies/60037183", "Runtime": 6060, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60037183", "TinyUrl": "http://movi.es/ApUyt", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/60037183.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/60037183.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/60037183.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1085443200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6060
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyt')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApUyu')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/60037184.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "ApUyu", "Name": "Duke Ellington / Lionel Hampton: Swing Era", "ShortName": "Duke Ellington / Lionel Hampton: Swing Era", "Synopsis": "Legendary jazzman Duke Ellington and master of the vibraphone Lionel Hampton are the stars of this fascinating video that includes rarely seen archival material (short films called \"soundies\") from the 1940s and '50s. Watch \"The Duke\" and Lionel swing in this film footage that, thankfully, has been rescued and preserved for succeeding generations of jazz fans to enjoy.", "ShortSynopsis": "Legendary jazzman Duke Ellington and master of the vibraphone Lionel Hampton are the stars of this fascinating video that includes rarely seen archival material (short films called \"soundies\") from the 1940s and '50s.", "AverageRating": 2.6, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Duke_Ellington_Lionel_Hampton_Swing_Era/60037184", "Runtime": 4620, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60037184", "TinyUrl": "http://movi.es/ApUyu", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/60037184.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/60037184.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/60037184.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1085443200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4620
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUyu')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApV2l')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/60037423.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "ApV2l", "Name": "Peggy Lee: Swing Era", "ShortName": "Peggy Lee: Swing Era", "Synopsis": "A celebration of women in jazz is the focus of this unique documentary that combines the lovely sounds of Peggy Lee with supplementary highlights from the work of fellow jazz artist June Christy. Packed with music from the swing era, the film also highlights many all-female orchestras led by the likes of Ina Ray Hutton, Lorraine Page and Rita Rio.", "ShortSynopsis": null, "AverageRating": 2.7, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Peggy_Lee_Swing_Era/60037423", "Runtime": 4080, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60037423", "TinyUrl": "http://movi.es/ApV2l", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/60037423.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/60037423.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/60037423.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1085443200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4080
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApV2l')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVc5R')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70074273.jpg", "content_type": "image/jpeg", "media_etag": "\"9/15/2011 6:02:19 PM\""
+}, "Id": "BVc5R", "Name": "James Last: Live in Berlin", "ShortName": "James Last: Live in Berlin", "Synopsis": "Popular German arranger and musical wunderkind James Last brings his magic live to a thrilled Berlin audience. This memorable 1982 concert features some of Last's most popular orchestral arrangements of pop hits, including \"Knock on Wood.\" Last also enthralls fans with his innovative takes on songs such as \"Roses from the South,\" \"The Long and Winding Road,\" \"Star Wars\" and \"Games That Lovers Play.\"", "ShortSynopsis": "Popular German arranger and musical wunderkind James Last brings his magic live to a thrilled Berlin audience. This memorable 1982 concert features some of Last's most popular orchestral arrangements of pop hits, including \"Knock on Wood.\"", "AverageRating": 2.3, "ReleaseYear": 1982, "Url": "http://www.netflix.com/Movie/James_Last_Live_in_Berlin/70074273", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1316109739000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70074273", "TinyUrl": "http://movi.es/BVc5R", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70074273.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70074273.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70074273.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1185235200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc5R')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVe3D')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70081823.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVe3D", "Name": "Jazz Legends: The Big Bands: Vol. 2: The Soundies", "ShortName": "The Big Bands: Vol. 2: The Soundies", "Synopsis": "The swinging continues in this second batch of big-band performances culled from classic film offerings. See and hear famous names such as the great bandleader Jimmy Dorsey, drummer extraordinaire Gene Krupa and suave vocalist Victor Young. Other performers include Al Donahue, Will Bradley, Charlie Spivak, Johnny Long and Johnny Messner. Tracks include Dorsey's \"Man That's Groovy\" and Krupa's \"Thanks for the Boogie Ride.\"", "ShortSynopsis": "The swinging continues in this second batch of big-band performances culled from classic film offerings. See and hear famous names such as the great bandleader Jimmy Dorsey, drummer extraordinaire Gene Krupa and suave vocalist Victor Young.", "AverageRating": 2.6, "ReleaseYear": 1940, "Url": "http://www.netflix.com/Movie/Jazz_Legends_The_Big_Bands_Vol._2_The_Soundies/70081823", "Runtime": 2880, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70081823", "TinyUrl": "http://movi.es/BVe3D", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70081823.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70081823.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70081823.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1193702400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2880
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVe3D')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVh7o')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70093640.jpg", "content_type": "image/jpeg", "media_etag": "\"9/2/2010 5:41:11 PM\""
+}, "Id": "BVh7o", "Name": "James Last: Live at the Royal Albert Hall", "ShortName": "James Last: Live at the Royal Albert Hall", "Synopsis": "German big-band leader and easy-listening sensation James Last thrills a live audience at London's Royal Albert Hall, alongside guest vocalists Mac Kissoon, Simon Bell, Sonja Jones, Tracey D. Duncan and Ingrid Arthur. The eclectic set list includes \"Pulstar,\" \"The Way We Were,\" \"Somewhere Over the Rainbow,\" \"Orange Blossom Special,\" \"Tequila,\" \"Vertigo,\" \"Hip-Hop Polka Medley\" and a very danceable \"Greensleeves.\"", "ShortSynopsis": "German big-band leader and easy-listening sensation James Last thrills a live audience at London's Royal Albert Hall, alongside guest vocalists Mac Kissoon, Simon Bell, Sonja Jones, Tracey D. Duncan and Ingrid Arthur.", "AverageRating": 2.7, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/James_Last_Live_at_the_Royal_Albert_Hall/70093640", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1283449271000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70093640", "TinyUrl": "http://movi.es/BVh7o", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70093640.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70093640.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70093640.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1210032000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVh7o')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVK2D')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70004881.jpg", "content_type": "image/jpeg", "media_etag": "\"10/27/2011 6:15:12 PM\""
+}, "Id": "BVK2D", "Name": "Duke Ellington: Rare Video Footage", "ShortName": "Duke Ellington: Rare Video Footage", "Synopsis": "There was only one Duke, and he was indeed American musical royalty. By the time of his death, Duke Ellington had been awarded the highest civil honor America could bestow: the Presidential Medal of Freedom. Providing a glimpse into Ellington's stunning jazz oeuvre, this collection spans the legend's career, from performing hits such as \"Black and Tan Fantasy\" in the 1940s to '50s and '60s television shows and concert footage.", "ShortSynopsis": "There was only one Duke, and he was indeed American musical royalty. By the time of his death, Duke Ellington had been awarded the highest civil honor America could bestow: the Presidential Medal of Freedom.", "AverageRating": 2.1, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Duke_Ellington_Rare_Video_Footage/70004881", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1319739312000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70004881", "TinyUrl": "http://movi.es/BVK2D", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70004881.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70004881.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70004881.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1127779200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2D')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVK2G')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70004884.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVK2G", "Name": "Duke Ellington: Memories of Duke", "ShortName": "Duke Ellington: Memories of Duke", "Synopsis": "Capturing the legendary Duke Ellington during his 1968 tour through Mexico, this unique musical tribute also includes footage of trumpeter Cootie Williams and clarinetist Russell Procope watching the master in action and commenting on his work. Featured songs include \"The Mooch,\" \"Creole Love Call,\" \"Black and Tan Fantasy,\" \"It Don't Mean a Thing (If It Ain't Got that Swing),\" \"Mood Indigo\" and the rarely performed \"Mexican Suite.\"", "ShortSynopsis": "Capturing the legendary Duke Ellington during his 1968 tour through Mexico, this unique musical tribute also includes footage of trumpeter Cootie Williams and clarinetist Russell Procope watching the master in action and commenting on his work.", "AverageRating": 2.8, "ReleaseYear": 2002, "Url": "http://www.netflix.com/Movie/Duke_Ellington_Memories_of_Duke/70004884", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70004884", "TinyUrl": "http://movi.es/BVK2G", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70004884.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70004884.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70004884.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1108425600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2G')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVK2H')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70004885.jpg", "content_type": "image/jpeg", "media_etag": "\"5/20/2011 5:18:44 AM\""
+}, "Id": "BVK2H", "Name": "Duke Ellington: In Hollywood: Swing Era", "ShortName": "Duke Ellington: In Hollywood: Swing Era", "Synopsis": "Bringing together some incredibly rare footage featuring Duke Ellington, this compilation of material largely centers around work he did for major Hollywood productions. Much of it dates back to the 1920s and 1930s, and includes \"Black and Tan,\" \"Symphony In Black,\" and many others.", "ShortSynopsis": "Bringing together some incredibly rare footage featuring Duke Ellington, this compilation of material largely centers around work he did for major Hollywood productions.", "AverageRating": 2.8, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Duke_Ellington_In_Hollywood_Swing_Era/70004885", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1305868724000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70004885", "TinyUrl": "http://movi.es/BVK2H", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70004885.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70004885.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70004885.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1108425600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK2H')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70005026.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVK4Y", "Name": "Buddy Rich: At the Top", "ShortName": "Buddy Rich: At the Top", "Synopsis": "Flanked by a crew of young musicians, legendary drummer and bandleader Buddy Rich shows off his formidable talent in this 1973 concert filmed inside the Top of the Plaza nightclub in Rochester, N.Y., at the peak of his storied career. The memorable set list includes \"Love for Sale,\" \"Time Check,\" \"Basically Blues,\" a cover of the Beatles' \"Norwegian Wood\" and a medley of songs from composer Leonard Bernstein's \"West Side Story.\"", "ShortSynopsis": "Flanked by a crew of young musicians, legendary drummer and bandleader Buddy Rich shows off his formidable talent in this 1973 concert filmed inside the Top of the Plaza nightclub in Rochester, N.Y., at the peak of his storied career.", "AverageRating": 3, "ReleaseYear": 1973, "Url": "http://www.netflix.com/Movie/Buddy_Rich_At_the_Top/70005026", "Runtime": 5220, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70005026", "TinyUrl": "http://movi.es/BVK4Y", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70005026.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70005026.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70005026.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5220
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK4Y')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVK6W')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70005148.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVK6W", "Name": "Norman Granz' Jazz in Montreux: Count Basie Jam '75", "ShortName": "Norman Granz' Jazz: Count Basie Jam '75", "Synopsis": "One of music's most influential men in the 20th century, Norman Granz brought live jazz to the masses with his \"Jazz at the Philharmonic\" concert series. Producing some of the great names in the genre, such as Billie Holiday, Dizzy Gillespie and Count Basie, he became a legend in every aspect of the jazz music scene. Commemorating Granz's innovations at the Montreux Jazz Festival in 1975, renowned jazz-man Count Basie performs.", "ShortSynopsis": null, "AverageRating": 3, "ReleaseYear": 1975, "Url": "http://www.netflix.com/Movie/Norman_Granz_Jazz_in_Montreux_Count_Basie_Jam_75/70005148", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70005148", "TinyUrl": "http://movi.es/BVK6W", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70005148.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70005148.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70005148.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1094515200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVK6W')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVKG3')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70005739.jpg", "content_type": "image/jpeg", "media_etag": "\"5/20/2011 5:18:44 AM\""
+}, "Id": "BVKG3", "Name": "Swing Era: Count Basie", "ShortName": "Swing Era: Count Basie", "Synopsis": "Widely considered one of the greatest big band leaders of all time, Count Basie pioneered the sound of the 1930s, helping to spearhead the swing-era phenomenon that would soon sweep the nation. Celebrate the career of this musical giant with classic performances featuring such luminaries as Bill \"Bojangles\" Robinson, Fats Waller, Gene Krupa and the legendary Satchmo himself, Louis Armstrong.", "ShortSynopsis": "Widely considered one of the greatest big band leaders of all time, Count Basie pioneered the sound of the 1930s, helping to spearhead the swing-era phenomenon that would soon sweep the nation.", "AverageRating": 3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Swing_Era_Count_Basie/70005739", "Runtime": 5640, "Rating": "NR", "DateModified": "\/Date(1305868724000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70005739", "TinyUrl": "http://movi.es/BVKG3", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70005739.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70005739.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70005739.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5640
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKG3')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVkSj')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70106469.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVkSj", "Name": "Woody Herman: Fanfare for the Common Man", "ShortName": "Woody Herman: Fanfare for the Common Man", "Synopsis": "Renowned bandleader Woody Herman takes the stage with his Young Thundering Herd -- plus special guests the Dukes of Dixieland, Joe Williams, Pete Barbutti and Clark Terry -- in this 1985 concert filmed live in Houston. Selections from the set list include \"Woodchopper's Ball,\" \"Muskrat Ramble,\" \"All of Me,\" \"Mumbles,\" \"Peanut Vendor,\" \"C.T. Express\" and \"April in Paris,\" a song paying tribute to Count Basie.", "ShortSynopsis": "Renowned bandleader Woody Herman takes the stage with his Young Thundering Herd -- plus special guests the Dukes of Dixieland, Joe Williams, Pete Barbutti and Clark Terry -- in this 1985 concert filmed live in Houston.", "AverageRating": 2.1, "ReleaseYear": 1985, "Url": "http://www.netflix.com/Movie/Woody_Herman_Fanfare_for_the_Common_Man/70106469", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70106469", "TinyUrl": "http://movi.es/BVkSj", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70106469.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70106469.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70106469.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1225152000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkSj')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVMpx')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70015653.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVMpx", "Name": "The Royal Ellington Concert", "ShortName": "The Royal Ellington Concert", "Synopsis": "Renowned pianist and composer Duke Ellington has long been considered jazz royalty, his talent an inspiration to many musicians in the genre who followed in his footsteps. It's fitting, then, that he's known for \"The Queen's Suite,\" a breathtaking piece of music he penned when he was inspired by Queen Elizabeth after meeting her in 1957. This video documents the debut public performance of the song, which puts Ellington's genius in full display.", "ShortSynopsis": "Renowned pianist and composer Duke Ellington has long been considered jazz royalty, his talent an inspiration to many musicians in the genre who followed in his footsteps.", "AverageRating": 2, "ReleaseYear": 1989, "Url": "http://www.netflix.com/Movie/The_Royal_Ellington_Concert/70015653", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70015653", "TinyUrl": "http://movi.es/BVMpx", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70015653.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70015653.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70015653.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1098748800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMpx')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVOmi')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70023140.jpg", "content_type": "image/jpeg", "media_etag": "\"4/8/2010 5:12:04 PM\""
+}, "Id": "BVOmi", "Name": "Encore Series: Duke Ellington", "ShortName": "Encore Series: Duke Ellington", "Synopsis": "Legendary jazz icon Duke Ellington performs alongside his talented band in this collection of clips from 1961, featuring popular songs such as \"Take the 'A' Train,\" \"Stormy Weather,\" \"Bugle Call Rag,\" \"I Got Rhythm,\" \"Jam with Sam\" and more. As a composer, pianist and bandleader, Ellington worked with many talented musicians and gained a reputation for being one of the most important figures in jazz history.", "ShortSynopsis": "Legendary jazz icon Duke Ellington performs alongside his talented band in this collection of clips from 1961, featuring popular songs such as \"Take the 'A' Train,\" \"Stormy Weather,\" \"Bugle Call Rag,\" \"I Got Rhythm,\" \"Jam with Sam\" and more.", "AverageRating": 1.9, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Encore_Series_Duke_Ellington/70023140", "Runtime": 1500, "Rating": "NR", "DateModified": "\/Date(1270746724000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70023140", "TinyUrl": "http://movi.es/BVOmi", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70023140.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70023140.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70023140.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110844800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 1500
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOmi')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVORa')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70021830.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVORa", "Name": "Classic Jazz Drummers: Swing Era and Beyond", "ShortName": "Classic Jazz Drummers", "Synopsis": "This collection of vintage performance clips captures 20 of the greatest jazz drumming talents to ever hit the stage, spanning a range of styles from bop to hard bop, big band to Dixieland and swing. Highlights include footage of Sid Catlett performing with Louis Armstrong, Gus Johnson in a Count Basie small-group session, Panama Francis with Cab Calloway and Joe Harris drumming with the Dizzy Gillespie Orchestra.", "ShortSynopsis": "This collection of vintage performance clips captures 20 of the greatest jazz drumming talents to ever hit the stage, spanning a range of styles from bop to hard bop, big band to Dixieland and swing.", "AverageRating": 3, "ReleaseYear": 2002, "Url": "http://www.netflix.com/Movie/Classic_Jazz_Drummers_Swing_Era_and_Beyond/70021830", "Runtime": 4200, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70021830", "TinyUrl": "http://movi.es/BVORa", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70021830.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70021830.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70021830.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110240000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVORa')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70022254.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVOYQ", "Name": "Buddy Rich: Jazz Legend: 1917-1987", "ShortName": "Buddy Rich: Jazz Legend: 1917-1987", "Synopsis": "Narrated by Mel Torme, this retrospective showcasing jazz icon Buddy Rich is packed with rare performance footage, interviews and behind-the-scenes clips. The collection features the legendary musician in a remarkable drum duel with Gene Krupa and performing with the Artie Shaw, Harry James and Tommy Dorsey bands. Commentary from Rich, his daughter and various friends sheds light on the life and work of this musical genius.", "ShortSynopsis": "Narrated by Mel Torme, this retrospective showcasing jazz icon Buddy Rich is packed with rare performance footage, interviews and behind-the-scenes clips.", "AverageRating": 3.5, "ReleaseYear": 1996, "Url": "http://www.netflix.com/Movie/Buddy_Rich_Jazz_Legend_1917-1987/70022254", "Runtime": 8820, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70022254", "TinyUrl": "http://movi.es/BVOYQ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70022254.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70022254.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70022254.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8820
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOYQ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVp15')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70123975.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVp15", "Name": "Count Basie & His Orchestra: Live in Berlin & Stockholm 1968", "ShortName": "Count Basie & His Orchestra: 1968", "Synopsis": "With class and complete command of the stage, celebrated bandleader and pianist Count Basie leads an all-star roster of musicians through such timeless songs as \"All of Me,\" \"Blues for Ilean,\" \"A Night in Tunisia,\" \"Cherokee\" and \"The Magic Flea.\" Recorded during a European tour, the concert program features the impressive talents of Eddie Davis, Richard Boone, Bobby Plater and Marshall Royal.", "ShortSynopsis": "With class and complete command of the stage, celebrated bandleader and pianist Count Basie leads an all-star roster of musicians through such timeless songs as \"All of Me,\" \"Blues for Ilean,\" \"A Night in Tunisia,\" \"Cherokee\" and \"The Magic Flea.\"", "AverageRating": 2.7, "ReleaseYear": 1968, "Url": "http://www.netflix.com/Movie/Count_Basie_His_Orchestra_Live_in_Berlin_Stockholm_1968/70123975", "Runtime": 4080, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70123975", "TinyUrl": "http://movi.es/BVp15", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70123975.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70123975.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70123975.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4080
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVp15')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQs9')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70031165.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVQs9", "Name": "The Black Big Bands", "ShortName": "The Black Big Bands", "Synopsis": "Swing into the past with four short films showcasing the best of the big band era: \"Jitterbug Party\" (1935), \"Boarding House Blues\" (1948), \"Killer Diller\" (1948) and \"Rhythm in a Riff\" (1946). The legendary Cab Calloway stars in the first film; Lucky Millinder headlines the second; the third features Andy Kirk's Kansas City style on \"Basie Boogie\"; and Billy Eckstine wraps things up with his trademark \"Prisoner of Love.\"", "ShortSynopsis": "Swing into the past with four short films showcasing the best of the big band era: \"Jitterbug Party\" (1935), \"Boarding House Blues\" (1948), \"Killer Diller\" (1948) and \"Rhythm in a Riff\" (1946).", "AverageRating": 2.3, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/The_Black_Big_Bands/70031165", "Runtime": 3660, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70031165", "TinyUrl": "http://movi.es/BVQs9", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70031165.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70031165.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70031165.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3660
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQs9')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQTI')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70029624.jpg", "content_type": "image/jpeg", "media_etag": "\"9/2/2011 6:29:49 PM\""
+}, "Id": "BVQTI", "Name": "Woody Herman: Woodchopper's Ball", "ShortName": "Woody Herman: Woodchopper's Ball", "Synopsis": "This lively concert film features renowned clarinetist and big band leader Woody Herman conducting his group the Young Thundering Herd in a set of tunes from throughout his career, including \"Woodchopper's Ball\" and \"April in Paris.\" Joined onstage by guests Joe Williams, Clark Terry, Pete Barbutti and the Dukes of Dixieland, Herman and company also perform \"Mind to Ramble,\" \"All of Me\" and a rousing finale, \"Fanfare for the Common Man.\"", "ShortSynopsis": "This lively concert film features renowned clarinetist and big band leader Woody Herman conducting his group the Young Thundering Herd in a set of tunes from throughout his career, including \"Woodchopper's Ball\" and \"April in Paris.\"", "AverageRating": 2.5, "ReleaseYear": 1991, "Url": "http://www.netflix.com/Movie/Woody_Herman_Woodchopper_s_Ball/70029624", "Runtime": 3540, "Rating": "NR", "DateModified": "\/Date(1314988189000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70029624", "TinyUrl": "http://movi.es/BVQTI", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70029624.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70029624.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70029624.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1114992000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3540
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQTI')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQtj')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70031263.jpg", "content_type": "image/jpeg", "media_etag": "\"10/6/2010 6:25:28 PM\""
+}, "Id": "BVQtj", "Name": "Duke Ellington and Lionel Hampton: The Big Bands", "ShortName": "Duke Ellington and Lionel Hampton", "Synopsis": "Experience the excitement of big band music with the genre's greatest talents. Duke Ellington leads his band through renditions of \"Sophisticated Lady\" and \"Caravan,\" while Lionel Hampton and his boys play \"Cobb's Idea,\" \"Vibe Boogie\" and more. Although Ellington preferred his group to simply play their music, Hampton encouraged his crew to keep audiences entertained with extra gimmicks such as chanting and clapping.", "ShortSynopsis": "Experience the excitement of big band music with the genre's greatest talents. Duke Ellington leads his band through renditions of \"Sophisticated Lady\" and \"Caravan,\" while Lionel Hampton and his boys play \"Cobb's Idea,\" \"Vibe Boogie\" and more.", "AverageRating": 2.2, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Duke_Ellington_and_Lionel_Hampton_The_Big_Bands/70031263", "Runtime": 3780, "Rating": "NR", "DateModified": "\/Date(1286389528000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70031263", "TinyUrl": "http://movi.es/BVQtj", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70031263.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70031263.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70031263.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3780
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQtj')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQuj')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70031325.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:23:04 PM\""
+}, "Id": "BVQuj", "Name": "Harlem Roots: Vol. 1: The Big Bands", "ShortName": "Harlem Roots: Vol. 1: The Big Bands", "Synopsis": "Originally produced for special jukebox machines called Panorams, \"soundies\" were short musical programs made in the 1940s. This collection features performance footage showcasing four of the greatest big band leaders of all time. Highlights include Duke Ellington's \"I Got It Bad and That Ain't Good,\" Cab Calloway's \"Minnie the Moocher,\" Count Basie's \"Take Me Back Baby\" and Lucky Millinder's \"Hello Bill.\"", "ShortSynopsis": "Originally produced for special jukebox machines called Panorams, \"soundies\" were short musical programs made in the 1940s. This collection features performance footage showcasing four of the greatest big band leaders of all time.", "AverageRating": 2.6, "ReleaseYear": 1988, "Url": "http://www.netflix.com/Movie/Harlem_Roots_Vol._1_The_Big_Bands/70031325", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1328901784000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70031325", "TinyUrl": "http://movi.es/BVQuj", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70031325.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70031325.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70031325.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1185840000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuj')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQuk')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70031326.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:23:04 PM\""
+}, "Id": "BVQuk", "Name": "Harlem Roots: Vol. 2: The Headliners", "ShortName": "Harlem Roots: Vol. 2: The Headliners", "Synopsis": "This anthology of early musical shorts features jazz legends Louis Armstrong, Fats Waller and Louis Jordan performing freewheeling numbers such as \"Honeysuckle Rose,\" \"When It's Sleepy Time Down South\" and \"Five Guys Named Moe.\" Designed to be played in early jukeboxes, these brief \"soundies\" also include \"Your Feet's Too Big,\" \"I'll Be Glad When You're Dead You Rascal You,\" \"Honey Chile,\" \"Fuzzy Wuzzy,\" \"Swinging on Nothing\" and more.", "ShortSynopsis": "This anthology of early musical shorts features jazz legends Louis Armstrong, Fats Waller and Louis Jordan performing freewheeling numbers such as \"Honeysuckle Rose,\" \"When It's Sleepy Time Down South\" and \"Five Guys Named Moe.\"", "AverageRating": 2.4, "ReleaseYear": 1988, "Url": "http://www.netflix.com/Movie/Harlem_Roots_Vol._2_The_Headliners/70031326", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1328901784000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70031326", "TinyUrl": "http://movi.es/BVQuk", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70031326.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70031326.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70031326.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1086048000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQuk')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQvP')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70031367.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVQvP", "Name": "Jazz Legends: Boogie Woogie", "ShortName": "Jazz Legends: Boogie Woogie", "Synopsis": "This compilation of live boogie-woogie performances features an all-star lineup of renowned musicians and singers, including Pete Johnson, Meade Lux Lewis, Albert Ammons, Lena Horne, Harry Gibson and Maurice Rocco. Songs include \"Roll 'Em,\" \"Beat Me Daddy, Eight to the Bar,\" \"Boardwalk Boogie,\" \"Backstage Blues,\" \"Adventures in Boogie Woogie,\" \"Boogie Woogie Upstairs,\" \"Martha's Boogie,\" \"Low Down Dog\" and more.", "ShortSynopsis": "This compilation of live boogie-woogie performances features an all-star lineup of renowned musicians and singers, including Pete Johnson, Meade Lux Lewis, Albert Ammons, Lena Horne, Harry Gibson and Maurice Rocco.", "AverageRating": 2.1, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Jazz_Legends_Boogie_Woogie/70031367", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70031367", "TinyUrl": "http://movi.es/BVQvP", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70031367.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70031367.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70031367.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQvP')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQW3')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70029795.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2012 7:04:30 PM\""
+}, "Id": "BVQW3", "Name": "Louis Prima: The Wildest", "ShortName": "Louis Prima: The Wildest", "Synopsis": "This biographical portrait chronicles the amazing life and career of renowned entertainer and New Orleans native Louis Prima, a singer, songwriter and trumpet player whose charisma and undeniable talent earned him the nickname \"King of the Swingers.\" In tracing Prima's journey from the Deep South to New York City and eventually to Sin City, the program also serves as a time capsule of 20th century American music.", "ShortSynopsis": "This biographical portrait chronicles the amazing life and career of renowned entertainer and New Orleans native Louis Prima, a singer, songwriter and trumpet player whose charisma and undeniable talent earned him the nickname \"King of the Swingers.", "AverageRating": 3.4, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/Louis_Prima_The_Wildest/70029795", "Runtime": 6420, "Rating": "NR", "DateModified": "\/Date(1328814270000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70029795", "TinyUrl": "http://movi.es/BVQW3", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70029795.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70029795.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70029795.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(989280000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6420
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQW3')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQXM')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70029876.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVQXM", "Name": "The Brian Setzer Orchestra: Live In Japan", "ShortName": "The Brian Setzer Orchestra: Live In Japan", "Synopsis": "Former Stray Cats front man, Brian Setzer brings his rockabilly, swing revival to the Land of the Rising Sun, wowing a sold-out Tokyo crowd with this dynamic 20-song set from his horn-heavy 17-piece big band. Blazing their way through energetic renditions of tunes such as \"I Won't Stand in Your Way,\" \"Stray Cat Strut\" and \"Rock This Town,\" Setzer and the band keep the crowd transfixed with their onstage antics and trademark showmanship.", "ShortSynopsis": "Former Stray Cats front man, Brian Setzer brings his rockabilly, swing revival to the Land of the Rising Sun, wowing a sold-out Tokyo crowd with this dynamic 20-song set from his horn-heavy 17-piece big band.", "AverageRating": 3.5, "ReleaseYear": 2001, "Url": "http://www.netflix.com/Movie/The_Brian_Setzer_Orchestra_Live_In_Japan/70029876", "Runtime": 5160, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70029876", "TinyUrl": "http://movi.es/BVQXM", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70029876.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70029876.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70029876.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1114992000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5160
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQXM')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQyF')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70031543.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVQyF", "Name": "Ruby Braff Trio: In Concert: Live at Brecon Jazz Festival 1991", "ShortName": "Ruby Braff Trio: In Concert: Live", "Synopsis": "The celebrated Ruby Braff Trio -- consisting of legendary jazz cornet player Ruby Braff, drummer Howard Alden and bassist Frank Tate -- performs live at the French Brecon Jazz Festival in this 1991 concert. Songs include \"It's Only a Paper Moon,\" \"Miss Brown to You,\" \"Lonely Moments,\" \"I've Grown Accustomed to Her Face,\" \"When a Man Loves a Woman,\" \"Black Beauty,\" \"Liza,\" \"Do It Again\" and \"Them There Eyes.\"", "ShortSynopsis": "The celebrated Ruby Braff Trio -- consisting of legendary jazz cornet player Ruby Braff, drummer Howard Alden and bassist Frank Tate -- performs live at the French Brecon Jazz Festival in this 1991 concert.", "AverageRating": 2.1, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Ruby_Braff_Trio_In_Concert_Live_at_Brecon_Jazz_Festival_1991/70031543", "Runtime": 2820, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70031543", "TinyUrl": "http://movi.es/BVQyF", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70031543.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70031543.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70031543.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2820
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQyF')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQzI')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70031608.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2010 7:48:10 PM\""
+}, "Id": "BVQzI", "Name": "The Big Bands: Vol. 2", "ShortName": "The Big Bands: Vol. 2", "Synopsis": "This swinging compilation features popular Big Band-era musicians Charlie Barnet, Ralph Flanagan, Tony Pastor and Les Brown performing a variety of hit tunes, including \"Caravan\" and \"Stars and Stripes Forever.\" This collection of \"telescriptions,\" akin to early music videos, also includes \"Skyliner,\" \"I've Got the World on a String,\" \"Your Red Wagon,\" \"Time Will Take Care of Everything,\" \"My Old Flame,\" \"Brother Bill\" and more.", "ShortSynopsis": "This swinging compilation features popular Big Band-era musicians Charlie Barnet, Ralph Flanagan, Tony Pastor and Les Brown performing a variety of hit tunes, including \"Caravan\" and \"Stars and Stripes Forever.\"", "AverageRating": 2.2, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/The_Big_Bands_Vol._2/70031608", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1286480890000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70031608", "TinyUrl": "http://movi.es/BVQzI", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70031608.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70031608.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70031608.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzI')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70031609.jpg", "content_type": "image/jpeg", "media_etag": "\"11/5/2010 1:29:51 AM\""
+}, "Id": "BVQzJ", "Name": "Jazz Legends: The Big Bands: Vol. 1: The Soundies", "ShortName": "The Big Bands: Vol. 1", "Synopsis": "Experience the classic big band sound of the 1940s with this jazz collection, which features tunes like Stan Kenton's \"Eager Beaver,\" Sonny Dunham's \"Sleepy Lagoon,\" Alvino Rey's \"Saint Louis Blues,\" Buddy Rogers's \"12th Street Rag\" and many more. Other notable stars featured in this compilation include Bob Chester, Glen Gray and His Orchestra, Larry Clinton, Tony Pastor, Les Brown and Doris Day.", "ShortSynopsis": "Experience the classic big band sound of the 1940s with this jazz collection, which features tunes like Stan Kenton's \"Eager Beaver,\" Sonny Dunham's \"Sleepy Lagoon,\" Alvino Rey's \"Saint Louis Blues,\" Buddy Rogers's \"12th Street Rag\" and many more.", "AverageRating": 2.7, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Jazz_Legends_The_Big_Bands_Vol._1_The_Soundies/70031609", "Runtime": 3840, "Rating": "NR", "DateModified": "\/Date(1288920591000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70031609", "TinyUrl": "http://movi.es/BVQzJ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70031609.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70031609.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70031609.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1185840000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3840
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQzJ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVR07')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70031659.jpg", "content_type": "image/jpeg", "media_etag": "\"11/2/2010 7:00:31 PM\""
+}, "Id": "BVR07", "Name": "Victory Concert", "ShortName": "Victory Concert", "Synopsis": "To honor the 50th anniversary of Paris's liberation during World War II, renowned French musician Claude Bolling presents this concert celebration, which features songs like \"Stormy Weather,\" \"Route 66,\" \"Sing Sing Sing,\" \"Flying Home\" and more. Recorded in 1994 at the Place de la Concorde in Paris, this landmark performance features Bolling entertaining more than 300,000 fans with a rousing Big Band sound.", "ShortSynopsis": "To honor the 50th anniversary of Paris's liberation during World War II, renowned French musician Claude Bolling presents this concert celebration, which features songs like \"Stormy Weather,\" \"Route 66,\" \"Sing Sing Sing,\" \"Flying Home\" and more.", "AverageRating": 2.4, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Victory_Concert/70031659", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1288724431000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70031659", "TinyUrl": "http://movi.es/BVR07", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70031659.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70031659.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70031659.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVR07')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVRal')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70033931.jpg", "content_type": "image/jpeg", "media_etag": "\"11/11/2011 6:47:20 PM\""
+}, "Id": "BVRal", "Name": "Mel Lewis: Jazz Masters Series", "ShortName": "Mel Lewis: Jazz Masters Series", "Synopsis": "Meet Mel Lewis, the jazz drum master who singularly claimed the instrument as his own and was point man for numerous ensembles beginning in the late 1940s. This program, part documentary and part concert, features Lewis's work with his legendary band, the 17-piece Jazz Orchestra, and showcases his sensational percussion skills. Watch as they run through some of the most memorable tunes of the genre, including bebop, big band and fusion.", "ShortSynopsis": null, "AverageRating": 2.3, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Mel_Lewis_Jazz_Masters_Series/70033931", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1321037240000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70033931", "TinyUrl": "http://movi.es/BVRal", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70033931.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70033931.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70033931.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1121126400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRal')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVSOK')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70037004.jpg", "content_type": "image/jpeg", "media_etag": "\"6/22/2010 8:23:22 AM\""
+}, "Id": "BVSOK", "Name": "The Swing Years: Lullaby of Broadway", "ShortName": "The Swing Years: Lullaby of Broadway", "Synopsis": "This compilation of clips from the swing years (1932-1944) features the music of the artists who made the era great, from Mel Torme to Fats Waller. Songs include \"My Lost Horizon\" by Doris Day and Les Brown and his orchestra; \"Clink! Clink! Another Drink\" by Spike Jones and his City Slickers; \"Doin' the Hot Foot\" by Carol Adams, Billy Trueheart, Hal Borne and his orchestra; and \"My Gal Sal\" by the Eton Boys.", "ShortSynopsis": null, "AverageRating": 2.2, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/The_Swing_Years_Lullaby_of_Broadway/70037004", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1277195002000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70037004", "TinyUrl": "http://movi.es/BVSOK", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70037004.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70037004.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70037004.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSOK')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVSya')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70039252.jpg", "content_type": "image/jpeg", "media_etag": "\"3/17/2010 11:22:46 PM\""
+}, "Id": "BVSya", "Name": "Stan Kenton: Artistry in Rhythm", "ShortName": "Stan Kenton: Artistry in Rhythm", "Synopsis": "Innovative jazz band leader Stan Kenton performs live in this 1977 concert at the Leisure Lounge in Ontario, Canada. Kenton broke away from traditional big band jazz by focusing on emotion and harmonies instead of swing styles. Filmed two years before his death, this show features Kenton and his band entertaining the audience with standards, including \"Send in the Clowns,\" \"Inner Crisis,\" \"Body & Soul,\" \"Love for Sale\" and \"Artistry in Rhythm.\"", "ShortSynopsis": "Innovative jazz band leader Stan Kenton performs live in this 1977 concert at the Leisure Lounge in Ontario, Canada. Kenton broke away from traditional big band jazz by focusing on emotion and harmonies instead of swing styles.", "AverageRating": 2.6, "ReleaseYear": 1977, "Url": "http://www.netflix.com/Movie/Stan_Kenton_Artistry_in_Rhythm/70039252", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1268868166000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70039252", "TinyUrl": "http://movi.es/BVSya", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70039252.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70039252.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70039252.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1126569600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSya')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVW8x')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70051427.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVW8x", "Name": "Big Band: Artie Shaw & Duke Ellington", "ShortName": "Big Band: Artie Shaw & Duke Ellington", "Synopsis": "Savor the sounds of big band jazz and swing with this compendium of live performance clips from some of the genre's most legendary musicians. Besides innovative clarinetist, composer and bandleader Artie Shaw and the incomparably elegant pianist, composer and bandleader Duke Ellington, other featured artists include trombonist Jack Teagarden, singer and bandleader Cab Calloway and bandleader Boyd Raeburn.", "ShortSynopsis": null, "AverageRating": 2.4, "ReleaseYear": 1940, "Url": "http://www.netflix.com/Movie/Big_Band_Artie_Shaw_Duke_Ellington/70051427", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70051427", "TinyUrl": "http://movi.es/BVW8x", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70051427.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70051427.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70051427.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW8x')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVWXC')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70052930.jpg", "content_type": "image/jpeg", "media_etag": "\"6/19/2010 8:23:23 AM\""
+}, "Id": "BVWXC", "Name": "Swing! Swing! Swing!", "ShortName": "Swing! Swing! Swing!", "Synopsis": "Swing dance until your toes blister with this 29-song collection starring 18 world-class big band artists, including Louis Prima, Duke Ellington, Count Basie and Artie Shaw. One hit follows another in this lively big band compilation, so you can get the joint jumping and hold your own swing dance marathon. Also features Stan Kenton, Larry Clinton, Bobby Hackett, Fats Waller and the Dorsey Brothers.", "ShortSynopsis": "Swing dance until your toes blister with this 29-song collection starring 18 world-class big band artists, including Louis Prima, Duke Ellington, Count Basie and Artie Shaw.", "AverageRating": 2.7, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Swing_Swing_Swing/70052930", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1276935803000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70052930", "TinyUrl": "http://movi.es/BVWXC", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70052930.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70052930.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70052930.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXC')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVWXE')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70052932.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVWXE", "Name": "Let's Hear It for the Girls!", "ShortName": "Let's Hear It for the Girls!", "Synopsis": "There's nothing like the voice of a woman singing jazz, and this video brings together performances by some of the biggest names in the business, including Anita O'Day, June Christy, Lena Horne and Sarah Vaughan. Rare footage features showstoppers such as \"Let Me Off Uptown,\" \"Hollywood Boogie,\" \"I'm in the Mood for Love,\" \"Love Is Where You Find It\" and \"Bombshell from Brooklyn.\" This captivating collection is a must-see for all jazz fans.", "ShortSynopsis": "There's nothing like the voice of a woman singing jazz, and this video brings together performances by some of the biggest names in the business, including Anita O'Day, June Christy, Lena Horne and Sarah Vaughan.", "AverageRating": 2.7, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Let_s_Hear_It_for_the_Girls/70052932", "Runtime": 5100, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70052932", "TinyUrl": "http://movi.es/BVWXE", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70052932.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70052932.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70052932.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1155600000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWXE')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVXST')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70056481.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVXST", "Name": "Denver & the Mile High Orchestra: Live at Long Hollow: Bonus Material", "ShortName": "Denver & the Mile High Orchestra: Bonus", "Synopsis": "This companion disc to the live concert footage of Denver Bierman and the Mile High Orchestra includes an interview with Bierman, unplugged versions of five songs and a behind-the-scenes look at the band.", "ShortSynopsis": null, "AverageRating": 2.9, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Denver_the_Mile_High_Orchestra_Live_at_Long_Hollow_Bonus_Material/70056481", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70056481", "TinyUrl": "http://movi.es/BVXST", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70056481.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70056481.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70056481.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1150588800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXST')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BWE6A')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70220390.jpg", "content_type": "image/jpeg", "media_etag": "\"1/13/2012 11:40:01 PM\""
+}, "Id": "BWE6A", "Name": "Seth MacFarlane: Swingin' in Concert", "ShortName": "Seth MacFarlane: Swingin' in Concert", "Synopsis": "Writer, actor and \"Family Guy\" creator Seth MacFarlane proves he's also got serious vocal chops in this concert film, which features MacFarlane on stage in Los Angeles, backed by an orchestra, singing classic songs from the 1940s and '50s.", "ShortSynopsis": "\"Family Guy\" creator Seth MacFarlane takes the stage in Los Angeles and, backed by an orchestra, sings classic songs from the 1940s and '50s.", "AverageRating": 2.9, "ReleaseYear": 2011, "Url": "http://www.netflix.com/Movie/Seth_MacFarlane_Swingin_in_Concert/70220390", "Runtime": 3001, "Rating": "NR", "DateModified": "\/Date(1326498001000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70220390", "TinyUrl": "http://movi.es/BWE6A", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70220390.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70220390.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70220390.jpg", "HighDefinitionUrl": "http://cdn-0.nflximg.com/en_us/boxshots/ghd/70220390.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1325116800000)\/", "AvailableTo": "\/Date(1346457600000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 3001
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWE6A')/Seasons"
+}
+}
+}
+]
+}
+}

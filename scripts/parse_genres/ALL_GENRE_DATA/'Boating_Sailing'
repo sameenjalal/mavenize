@@ -1,0 +1,1755 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVKcp')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70007151.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVKcp", "Name": "Learn to Sail", "ShortName": "Learn to Sail", "Synopsis": "Olympic sailor and renowned sailing instructor Steve Colgate teaches you all the skills you need to sail out into the wild blue water, including sailing lingo, rope work such as knots and rigging, emergency procedures and more. Featuring real-life onboard situations with novice sailors (actors Audrey Landers and Sam Jones), the program demonstrates each technique in practice to help you see and remember every application clearly.", "ShortSynopsis": "Olympic sailor and renowned sailing instructor Steve Colgate teaches you all the skills you need to sail out into the wild blue water, including sailing lingo, rope work such as knots and rigging, emergency procedures and more.", "AverageRating": 2.8, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Learn_to_Sail/70007151", "Runtime": 6360, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70007151", "TinyUrl": "http://movi.es/BVKcp", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70007151.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70007151.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70007151.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6360
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKcp')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVKTd')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70006581.jpg", "content_type": "image/jpeg", "media_etag": "\"7/10/2011 8:23:53 AM\""
+}, "Id": "BVKTd", "Name": "Heavy Weather Power Boating", "ShortName": "Heavy Weather Power Boating", "Synopsis": "Knowing how to pilot in rough weather can help minimize the danger of being caught at sea in stormy conditions. This comprehensive video teaches viewers the techniques that can protect them, their passengers and their power boat in a storm. It begins with lessons on how to avoid bad weather in the first place. Then, clear instructions explain handling and maneuvering in a storm, and the importance of having the right equipment on board.", "ShortSynopsis": "This comprehensive video teaches viewers the techniques that can protect them, their passengers and their power boat in a storm.", "AverageRating": 2.5, "ReleaseYear": 1997, "Url": "http://www.netflix.com/Movie/Heavy_Weather_Power_Boating/70006581", "Runtime": 2760, "Rating": "NR", "DateModified": "\/Date(1310286233000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70006581", "TinyUrl": "http://movi.es/BVKTd", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70006581.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70006581.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70006581.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2760
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVKTd')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70009723.jpg", "content_type": "image/jpeg", "media_etag": "\"7/10/2011 8:23:53 AM\""
+}, "Id": "BVLIJ", "Name": "The Annapolis Book of Seamanship: Vol. 3: Safety at Sea", "ShortName": "Annapolis Book of Seamanship: Vol. 3", "Synopsis": "Sailing expert John Rousmaniere hosts this visual guidebook in which he demonstrates techniques and equipment for handling nautical emergencies. The skills and tools used here will benefit anyone who enjoys the pleasures -- and respects the dangers -- of the sea. Lessons cover state-of-the-art equipment, boat and crew preparation, going aloft in a boatswain's chair, using flares and man-overboard rescue techniques.", "ShortSynopsis": "Sailing expert John Rousmaniere hosts this visual guidebook in which he demonstrates techniques and equipment for handling nautical emergencies.", "AverageRating": 2.9, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/The_Annapolis_Book_of_Seamanship_Vol._3_Safety_at_Sea/70009723", "Runtime": 5640, "Rating": "NR", "DateModified": "\/Date(1310286233000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70009723", "TinyUrl": "http://movi.es/BVLIJ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70009723.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70009723.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70009723.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5640
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIJ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVLIK')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70009724.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVLIK", "Name": "The Annapolis Book of Seamanship: Vol. 4: Sailboat Navigation", "ShortName": "Annapolis Book of Seamanship: Vol. 4", "Synopsis": "Get the skills you need to learn for sailboat navigation from a pro. Sailing expert John Rousmaniere offers easy-to-follow lessons in both dead reckoning and electronically assisted sailing. In demonstrations from a Coast Guard simulator and on the open water, you'll learn the warning signs for dangerous conditions, how to avoid collisions, navigating in the fog and after dark, reading charts, the compass, GPS and more.", "ShortSynopsis": "Get the skills you need to learn for sailboat navigation from a pro. Sailing expert John Rousmaniere offers easy-to-follow lessons in both dead reckoning and electronically assisted sailing.", "AverageRating": 2.9, "ReleaseYear": 1989, "Url": "http://www.netflix.com/Movie/The_Annapolis_Book_of_Seamanship_Vol._4_Sailboat_Navigation/70009724", "Runtime": 4200, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70009724", "TinyUrl": "http://movi.es/BVLIK", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70009724.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70009724.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70009724.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLIK')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVMkz')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70015345.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVMkz", "Name": "Handling Your Single Engine Inboard/Outboard", "ShortName": "Single Engine Inboard/Outboard", "Synopsis": "There's a knack for handling a single-engine inboard/outboard motor, but it's not tough to learn. This program clearly explains everything viewers need to know about piloting a boat with a single-engine motor under a variety of conditions. Topics include docking and undocking in tight spaces, entering and departing slips, backing up, turning at slow speeds, and the effects of wind and water current on single-engine navigation.", "ShortSynopsis": "There's a knack for handling a single-engine inboard/outboard motor, but it's not tough to learn. This program clearly explains everything viewers need to know about piloting a boat with a single-engine motor under a variety of conditions.", "AverageRating": 1.9, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Handling_Your_Single_Engine_Inboard_Outboard/70015345", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70015345", "TinyUrl": "http://movi.es/BVMkz", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70015345.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70015345.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70015345.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMkz')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVMl0')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70015346.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVMl0", "Name": "Handling Your Twin Engine Inboard/Outboard", "ShortName": "Handling Your Twin Engine Inboard/Outboard", "Synopsis": "Learn from the experts and become a pro at boating with a twin-engine inboard/outboard motor. This comprehensive program offers step-by-step instructions for twin-engine boating under a variety of conditions. Topics include controls and instrumentation, launching and loading, trim tabs, backing, power tilt and trim, turning at low speeds, dealing with the effects of wind and water current, and more.", "ShortSynopsis": "Learn from the experts and become a pro at boating with a twin-engine inboard/outboard motor. This comprehensive program offers step-by-step instructions for twin-engine boating under a variety of conditions.", "AverageRating": 1.8, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Handling_Your_Twin_Engine_Inboard_Outboard/70015346", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70015346", "TinyUrl": "http://movi.es/BVMl0", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70015346.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70015346.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70015346.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMl0')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVMnB')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70015481.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVMnB", "Name": "Top 60 Tips: Boat Handling", "ShortName": "Top 60 Tips: Boat Handling", "Synopsis": "This must-see guide presents an array of hints for handling both inboards and outboards in situations and conditions all boaters will likely encounter, including open water, rough weather, following seas, head-on seas and running in the trough. Other topics covered include safely negotiating marinas and docking and undocking in narrow slips. Whatever your skill level, this program will increase your confidence and safety.", "ShortSynopsis": "This must-see guide presents an array of hints for handling both inboards and outboards in situations and conditions all boaters will likely encounter, including open water, rough weather, following seas, head-on seas and running in the trough.", "AverageRating": 2, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Top_60_Tips_Boat_Handling/70015481", "Runtime": 2700, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70015481", "TinyUrl": "http://movi.es/BVMnB", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70015481.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70015481.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70015481.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2700
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMnB')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVN37')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70016469.jpg", "content_type": "image/jpeg", "media_etag": "\"8/13/2011 8:26:59 AM\""
+}, "Id": "BVN37", "Name": "Sailing with Confidence", "ShortName": "Sailing with Confidence", "Synopsis": "Gain the confidence you need for safe and seaworthy sailing with this instructional program designed especially for beginners and novice sailors. Expert mariner Bud Foulke warms up with the basics before moving on to intermediate and advanced sailing techniques, covering everything from helmsmanship and maneuvering to heavy-weather sailing and flying spinnakers along the way.", "ShortSynopsis": "Gain the confidence you need for safe and seaworthy sailing with this instructional program designed especially for beginners and novice sailors.", "AverageRating": 2.9, "ReleaseYear": 1993, "Url": "http://www.netflix.com/Movie/Sailing_with_Confidence/70016469", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1313224019000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70016469", "TinyUrl": "http://movi.es/BVN37", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70016469.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70016469.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70016469.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVN37')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVNCC')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70017032.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVNCC", "Name": "Powerboat Handling: Twin Screw", "ShortName": "Powerboat Handling: Twin Screw", "Synopsis": "This accessible instructional guide features easy-to-follow tips for handling your twin-screw powerboat, from the basics of controls to tricky maneuvers and docking in narrow places such as slips. Other advanced topics include strategies for dealing with a stalled engine and compensating for winds and currents. Whatever your skill level, this program will give you the confidence you need to become a master boater.", "ShortSynopsis": "This accessible instructional guide features easy-to-follow tips for handling your twin-screw powerboat, from the basics of controls to tricky maneuvers and docking in narrow places such as slips.", "AverageRating": 2.3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Powerboat_Handling_Twin_Screw/70017032", "Runtime": 4500, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70017032", "TinyUrl": "http://movi.es/BVNCC", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70017032.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70017032.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70017032.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4500
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNCC')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPEp')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70024883.jpg", "content_type": "image/jpeg", "media_etag": "\"12/28/2011 9:17:10 PM\""
+}, "Id": "BVPEp", "Name": "Encyclopedia of Boating Tips: 2003", "ShortName": "Encyclopedia of Boating Tips: 2003", "Synopsis": "Encyclopedia of Boating Tips: 2003 provides everything a boater needs to know to operate and maintain a boat -- from safety tips to plumbing to the end result of relaxation and fun, this program covers it all! Topics include tips on depth sounders, jet skis, navigation, and much more.", "ShortSynopsis": null, "AverageRating": 2.3, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Encyclopedia_of_Boating_Tips_2003/70024883", "Runtime": 12600, "Rating": "NR", "DateModified": "\/Date(1325107030000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70024883", "TinyUrl": "http://movi.es/BVPEp", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70024883.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70024883.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70024883.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112659200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 12600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPEp')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPya')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70027720.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVPya", "Name": "Boating Basics for First Time Boaters", "ShortName": "Boating Basics for First Time Boaters", "Synopsis": "When it's time to get your sea legs, there's no better place to start than with this instructional video that that covers all the power-boat basics for first-time skippers. Presenting the complete information contained in state boating courses, this encyclopedic video includes segments on choosing the right boat, boating laws, navigation rules and aids, getting under way and bringing your craft safely back into harbor.", "ShortSynopsis": "When it's time to get your sea legs, there's no better place to start than with this instructional video that that covers all the power-boat basics for first-time skippers.", "AverageRating": 2.4, "ReleaseYear": 1992, "Url": "http://www.netflix.com/Movie/Boating_Basics_for_First_Time_Boaters/70027720", "Runtime": 4500, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70027720", "TinyUrl": "http://movi.es/BVPya", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70027720.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70027720.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70027720.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4500
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPya')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPyT')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70027713.jpg", "content_type": "image/jpeg", "media_etag": "\"7/10/2011 8:23:53 AM\""
+}, "Id": "BVPyT", "Name": "100 Boating Mistakes & How to Avoid Them", "ShortName": "100 Boating Mistakes & How to Avoid Them", "Synopsis": "Sometimes, doing things correctly is only a matter of knowing what &NFi;not&NFi_; to do. And when it comes to boating, learning from your mistakes isn't always the safest method. This instructional video sports a checklist of common errors to avoid and covers a range of topics, from running aground, wasting fuel and getting lost at sea to colliding with another vessel, getting seasick and getting caught in bad weather.", "ShortSynopsis": "This instructional film sports a checklist of common errors boaters often make, from running aground to getting lost at sea.", "AverageRating": 2.1, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/100_Boating_Mistakes_How_to_Avoid_Them/70027713", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1310286233000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70027713", "TinyUrl": "http://movi.es/BVPyT", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70027713.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70027713.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70027713.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPyT')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPz2')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70027748.jpg", "content_type": "image/jpeg", "media_etag": "\"7/10/2011 8:23:53 AM\""
+}, "Id": "BVPz2", "Name": "Powerboat Navigation with John Rousmaniere", "ShortName": "Powerboat Navigation with John Rousmaniere", "Synopsis": "Author John Rousmaniere hosts this instructional program for amateur sailors, produced in cooperation with the U.S. Coast Guard, that was designed to impart the basics of powerboat navigation. Segments focus on understanding compasses, charts and common instruments; taking and plotting bearings; navigating in dark and foggy conditions; allowing for tidal currents; and making quick -- but critical -- decisions.", "ShortSynopsis": "Author John Rousmaniere hosts this instructional program designed to impart the basics of powerboat navigation to amateur sailors.", "AverageRating": 2.4, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Powerboat_Navigation_with_John_Rousmaniere/70027748", "Runtime": 4080, "Rating": "NR", "DateModified": "\/Date(1310286233000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70027748", "TinyUrl": "http://movi.es/BVPz2", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70027748.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70027748.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70027748.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4080
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz2')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPz4')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70027750.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVPz4", "Name": "Spring Commissioning and Winterizing Your Boat", "ShortName": "Commissioning & Winterizing Your Boat", "Synopsis": "Find out how to prepare your boat for winter storage and learn spring fitting-out procedures with Bennett Marine's step-by-step tutorial, which covers protecting your vessel from harsh weather and fine-tuning it for the first voyage of the year. You'll get helpful tips from the pros and valuable information about tools, materials and methods required for successfully winterizing and spring commissioning your seaworthy investment.", "ShortSynopsis": "Find out how to prepare your boat for winter storage and learn spring fitting-out procedures with Bennett Marine's step-by-step tutorial, which covers protecting your vessel from harsh weather and fine-tuning it for the first voyage of the year.", "AverageRating": 2.1, "ReleaseYear": 1997, "Url": "http://www.netflix.com/Movie/Spring_Commissioning_and_Winterizing_Your_Boat/70027750", "Runtime": 4800, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70027750", "TinyUrl": "http://movi.es/BVPz4", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70027750.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70027750.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70027750.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz4')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPz5')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70027751.jpg", "content_type": "image/jpeg", "media_etag": "\"7/10/2011 8:23:53 AM\""
+}, "Id": "BVPz5", "Name": "The Annapolis Book of Seamanship: Vol. 1: Cruising Under Sail", "ShortName": "The Annapolis Book of Seamanship: Vol. 1", "Synopsis": "With experienced sailor and author John Rousmaniere as your able tutor, you'll begin building your nautical skills in the first volume of this five-part series on seamanship, filmed during a coastal passage under sail. Segments focus on what to wear, basic navigation, knot and rope types, sail-handling and sail trim, steering and boat-handling, anchoring and docking and, most important of all, safety at sea.", "ShortSynopsis": "With experienced sailor/author John Rousmaniere as your tutor for this instructional guide, you'll begin building your nautical skills in no time.", "AverageRating": 3.1, "ReleaseYear": 1989, "Url": "http://www.netflix.com/Movie/The_Annapolis_Book_of_Seamanship_Vol._1_Cruising_Under_Sail/70027751", "Runtime": 4320, "Rating": "NR", "DateModified": "\/Date(1310286233000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70027751", "TinyUrl": "http://movi.es/BVPz5", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70027751.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70027751.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70027751.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4320
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz5')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPz9')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70027755.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVPz9", "Name": "Top 60 Tips: Maintenance", "ShortName": "Top 60 Tips: Maintenance", "Synopsis": "With production help from the folks at Boating Magazine, this release offers 60 useful ways to keep your boat in tip-top shape, including broad topics such as winter lay-ups, spring start-ups, diesel and gas engines, refinishing, polishing and waxing. Also covered are areas such as rust removal, preventing mildew, storing lines, fuel stabilizers, hoses, battery switches, trailer wiring and much more.", "ShortSynopsis": "With help from the folks at Boating Magazine, this release offers 60 useful ways to keep your boat in tip-top shape, including broad topics such as winter lay-ups, spring start-ups, diesel and gas engines, refinishing, polishing and waxing.", "AverageRating": 2, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Top_60_Tips_Maintenance/70027755", "Runtime": 2700, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70027755", "TinyUrl": "http://movi.es/BVPz9", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70027755.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70027755.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70027755.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2700
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPz9')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPzA')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70027756.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVPzA", "Name": "Top 60 Tips: Safety", "ShortName": "Top 60 Tips: Safety", "Synopsis": "This instructional program will provide any boater -- whether expert or novice -- with a useful and important safety checklist designed for repeated use, ideally before a boat hits the water each and every time. Topics explored include personal flotation devices, fire prevention, life rafts, weather considerations, fuel system safety, radar use, first aid, at-sea emergencies, radio procedures, tips for low visibility and more.", "ShortSynopsis": "This instructional program will provide any boater -- whether expert or novice -- with a useful and important safety checklist designed for repeated use, ideally before a boat hits the water each and every time.", "AverageRating": 1.9, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Top_60_Tips_Safety/70027756", "Runtime": 2700, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70027756", "TinyUrl": "http://movi.es/BVPzA", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70027756.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70027756.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70027756.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2700
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzA')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPzB')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70027757.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVPzB", "Name": "Top 60 Tips: Sailing", "ShortName": "Top 60 Tips: Sailing", "Synopsis": "Novice and experienced sailors alike will soon be filled with more confidence, thanks to this instructional video filled with 60 helpful tips on tying knots, trimming sails, jibbing and tacking -- with an emphasis on safety. Subjects include preparing and hoisting the sails, sailing maneuvers, casting off, navigating and anchoring, pulling in lines, and information on wind, weather, tides and currents.", "ShortSynopsis": "Novice and experienced sailors alike will soon be filled with more confidence, thanks to this instructional video filled with 60 helpful tips on tying knots, trimming sails, jibbing and tacking -- with an emphasis on safety.", "AverageRating": 2.3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Top_60_Tips_Sailing/70027757", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70027757", "TinyUrl": "http://movi.es/BVPzB", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70027757.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70027757.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70027757.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPzB')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVSRs')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70037224.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVSRs", "Name": "Pacific High: The Ensenada Yacht Race", "ShortName": "Pacific High: The Ensenada Yacht Race", "Synopsis": "Sail down the coast of California over an unpredictable 125-mile course as 4,000 competitors participate in the world-famous Newport-Ensenada Yacht Race. The exciting aerial photography and the compelling onboard and on-land activities and interviews bring this exhilarating sporting event up close and personal. Yachting enthusiast and Disney Studios head Roy Disney produced this exciting look at one of sailing's most prestigious contests.", "ShortSynopsis": null, "AverageRating": 2.7, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Pacific_High_The_Ensenada_Yacht_Race/70037224", "Runtime": 4980, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70037224", "TinyUrl": "http://movi.es/BVSRs", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70037224.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70037224.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70037224.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1124150400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4980
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSRs')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVV4c')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70047314.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVV4c", "Name": "Practical Boater: Your New Inboard Powered Boat", "ShortName": "Your New Inboard Powered Boat", "Synopsis": "You'll need to know more than a few things to properly care for your new inboard-powered boat, and this educational program covers them all. Lessons focus on the basics of operating, maneuvering, docking, fueling and anchoring your boat; the different types of inboard power, hull choices and drive options; and an easy-to-follow maintenance program designed to keep your boat and engine in prime condition.", "ShortSynopsis": "You'll need to know more than a few things to properly care for your new inboard-powered boat, and this educational program covers them all.", "AverageRating": 2, "ReleaseYear": 1997, "Url": "http://www.netflix.com/Movie/Practical_Boater_Your_New_Inboard_Powered_Boat/70047314", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70047314", "TinyUrl": "http://movi.es/BVV4c", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70047314.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70047314.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70047314.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1144108800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4c')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVV4g')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70047318.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVV4g", "Name": "Race & Win: Making the Best of Your Crew", "ShortName": "Race & Win: Making the Best of Your Crew", "Synopsis": "Serving as the ultimate audiovisual reference for racing crews and America's Cup hopefuls, this educational program hosted by racing coach Tucker Thompson offers a detailed look at the mechanics involved in each individual crew position on a modern race boat. Professional sailors lead you through segments that focus on the responsibilities of the bow, mast, pit, headsail trimmer, main trimmer, tailer, tacks, jibes and douses.", "ShortSynopsis": null, "AverageRating": 2.5, "ReleaseYear": 1997, "Url": "http://www.netflix.com/Movie/Race_Win_Making_the_Best_of_Your_Crew/70047318", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70047318", "TinyUrl": "http://movi.es/BVV4g", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70047318.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70047318.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70047318.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1144108800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV4g')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVXSA')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70056462.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2012 7:04:30 PM\""
+}, "Id": "BVXSA", "Name": "Spinnaker Sailing", "ShortName": "Spinnaker Sailing", "Synopsis": "America's Cup champion and world-renowned racer Tom Whidden explains the ins and outs of spinnaker sailing in this hands-on instructional program. Covering both cruising and racing chutes, Whidden provides a wealth of information -- including demonstrations of techniques such as trimming, launching, gybing, dousing and packing. He also discusses pole height and angle variations, crew positions, sails and rigging.", "ShortSynopsis": null, "AverageRating": 2.9, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Spinnaker_Sailing/70056462", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1328814270000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70056462", "TinyUrl": "http://movi.es/BVXSA", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70056462.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70056462.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70056462.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1159228800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSA')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVXSE')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70056466.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:23:04 PM\""
+}, "Id": "BVXSE", "Name": "Practical Boater: Easy Fixes to Common Boat Problems", "ShortName": "Practical Boater: Easy Fixes Boat Problems", "Synopsis": "You'll learn how to keep your boat afloat thanks to this hourlong instructional video as a group of marine industry experts discusses how to avoid potential problems and how to resolve those that do arise. Topics include structural, mechanical and electrical issues, plus common operator mistakes. The review of your vessel's engine, wiring harness, steering system, electronics and hardware will help you spot trouble before it starts.", "ShortSynopsis": null, "AverageRating": 2.3, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Practical_Boater_Easy_Fixes_to_Common_Boat_Problems/70056466", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1328901784000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70056466", "TinyUrl": "http://movi.es/BVXSE", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70056466.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70056466.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70056466.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1159228800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXSE')/Seasons"
+}
+}
+}
+]
+}
+}

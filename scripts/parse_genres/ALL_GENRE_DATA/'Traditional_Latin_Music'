@@ -1,0 +1,3047 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVa30')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70066434.jpg", "content_type": "image/jpeg", "media_etag": "\"1/21/2011 5:56:44 PM\""
+}, "Id": "BVa30", "Name": "Los Caminantes: Lo Mas Chulo, Chulo, Chulo", "ShortName": "Los Caminantes: Lo Mas Chulo, Chulo, Chulo", "Synopsis": "For more than 20 years, Guanajuato, Mexico, natives Los Caminantes have delighted fans with a stream of hit songs and memorable live concerts. Their music has transcended the borders of their homeland and has garnered the band a fan base that stretches from the United States to South America. This collection of six video hits includes \"Jaula Dorada,\" \"Baraja Adicta,\" \"Sin un Adios,\" \"Ven y Abrazame,\" \"Amor sin Palabras\" and \"Todo Me Gusta de Ti.\"", "ShortSynopsis": null, "AverageRating": 2.4, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Los_Caminantes_Lo_Mas_Chulo_Chulo_Chulo/70066434", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1295632604000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70066434", "TinyUrl": "http://movi.es/BVa30", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70066434.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70066434.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70066434.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1170720000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa30')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVb9a')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70070686.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVb9a", "Name": "Sergio Vega: Dueno de Ti ... Lo Mejor de El Shaka", "ShortName": "Sergio Vega: Dueno de Ti", "Synopsis": "Sergio Vega, known as \"El Shaka\" for his warriorlike willingness to take on any challenge, is one of Mexico's musical superstars. Following his return from a self-imposed two-year hiatus, his popularity has soared. This video compilation features nine of Vega's best-known songs. Tracks include \"Cosas del Amor,\" \"Me Gusta Estar Contigo,\" \"Musico, Poeta y Loco,\" \"Te Quiero Enamorar\" and \"Due&#241;o de Ti.\"", "ShortSynopsis": null, "AverageRating": 2.9, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Sergio_Vega_Dueno_de_Ti_..._Lo_Mejor_de_El_Shaka/70070686", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70070686", "TinyUrl": "http://movi.es/BVb9a", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70070686.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70070686.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70070686.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1182816000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb9a')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVeFM')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70082576.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVeFM", "Name": "Los Merengues del Casandra", "ShortName": "Los Merengues del Casandra", "Synopsis": "This thrilling collection gathers nearly 20 merengues, each of which earned the coveted Casandra prize for Merengue of the Year, with participants including Pavel Nu&#241;ez, Raffy Matias, Ram&#243;n Orlando and Jandy F&#233;liz. Other unforgettable performances are offered by H&#233;ctor Acosta and Watson Brazoban, Miryam Cruz, Kinito M&#233;ndez, Eddy Herrera, Roberto Del Castillo and many more.", "ShortSynopsis": "This thrilling collection gathers nearly 20 merengues, each of which earned the coveted Casandra prize for Merengue of the Year, with participants including Pavel Nu\u00f1ez, Raffy Matias, Ram\u00f3n Orlando and Jandy F\u00e9liz.", "AverageRating": 2.4, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Los_Merengues_del_Casandra/70082576", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70082576", "TinyUrl": "http://movi.es/BVeFM", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70082576.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70082576.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70082576.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1187049600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeFM')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVeps')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70084840.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVeps", "Name": "Jenni Rivera: La Diva En Vivo", "ShortName": "Jenni Rivera: La Diva En Vivo", "Synopsis": "Mexican-American singer-songwriter Jenni Rivera (aka La Diva de la Banda) sets fans ablaze with her fiery delivery of Mexican <i>banda</i> music, proving why she's one of the leading female vocalists of the genre. In this live concert, Rivera grabs the crowd with such hits as \"De Contrabanda,\" \"Que Me Vas A Dar,\" \"La Mentada Contestada\" and more. And with her covers of \"Sufriendo a Solas\" and \"Inocente Pobre Amiga,\" she leaves the crowd wanting more.", "ShortSynopsis": "Mexican-American singer-songwriter Jenni Rivera (aka La Diva de la Banda) sets fans ablaze with her fiery delivery of Mexican banda music, proving why she's one of the leading female vocalists of the genre.", "AverageRating": 3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Jenni_Rivera_La_Diva_En_Vivo/70084840", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70084840", "TinyUrl": "http://movi.es/BVeps", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70084840.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70084840.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70084840.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1201564800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeps')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVhcL')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70095533.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVhcL", "Name": "Bachatas Pegaditas en Video", "ShortName": "Bachatas Pegaditas en Video", "Synopsis": "Enjoy the Dominican Republic's answer to the blues with this compilation of videos by some of the biggest names in <i>bachata</I>. The clips feature bittersweet lyrics and haunting melodies by artists such as Andy Andy, El Gringo de la Bachata, Monchy & Alexandra, Zacarias Ferreira, Wilkin Rivera, Toby Love, Nicold Frias, Kiko Rodr&#237;guez and Ronald Nu&#241;ez.", "ShortSynopsis": "Enjoy the Dominican Republic's answer to the blues with this compilation of videos by some of the biggest names in bachata.", "AverageRating": 2.6, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Bachatas_Pegaditas_en_Video/70095533", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70095533", "TinyUrl": "http://movi.es/BVhcL", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70095533.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70095533.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70095533.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1209427200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcL')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVhcM')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70095534.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVhcM", "Name": "Merengues Pegaditos en Video", "ShortName": "Merengues Pegaditos en Video", "Synopsis": "Get your toes tapping to the unique sound of the Dominican Republic's trademark music with this compilation of videos by some of the biggest names in merengue. The clips feature infectious tunes by artists such as Karis, Milly Quezada, Jandy Ventura, Eddy Herrera, Kinito M&#233;ndez, Giselle, Sergio Vargas, Fulanito, Opalo, Ilegales and Grupo Mania.", "ShortSynopsis": "Get your toes tapping to the unique sound of the Dominican Republic's trademark music with this compilation of videos by some of the biggest names in merengue.", "AverageRating": 2.5, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Merengues_Pegaditos_en_Video/70095534", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70095534", "TinyUrl": "http://movi.es/BVhcM", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70095534.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70095534.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70095534.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1209427200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcM')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVhcN')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70095535.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVhcN", "Name": "Salsas Pegaditas en Video", "ShortName": "Salsas Pegaditas en Video", "Synopsis": "Thrill to the fiery sounds of Latin America's biggest musical export with this compilation of videos by some of the biggest names in salsa. The clips feature Caribbean- and African-influenced melodies by artists such as V&#237;ctor Manuelle, N'Klabe, La Organizaci&#243;n, Tito Rojas, Orquesta Guayac&#225;n, Jerry Rivera, Puerto Rican Power, Luis Manuel and 3 Son Salsa.", "ShortSynopsis": "Thrill to the fiery sounds of Latin America's biggest musical export with this compilation of videos by some of the biggest names in salsa.", "AverageRating": 2.7, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Salsas_Pegaditas_en_Video/70095535", "Runtime": 3420, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70095535", "TinyUrl": "http://movi.es/BVhcN", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70095535.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70095535.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70095535.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1209427200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3420
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhcN')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVhJB')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70094345.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVhJB", "Name": "Vicente Fern\u00e1ndez: Para Siempre", "ShortName": "Vicente Fern\u00e1ndez: Para Siempre", "Synopsis": "With Mexican soap star Angelica Rivera as your host, this musical treat features legendary <i>ranchera</i> singer Vicente Fern&#225;ndez performing his platinum album \"Para Siempre\" in its entirety at fabulous locales such as Mexico City's Plaza de Toros. Songs include \"La Derrota,\" \"Los Cazahuate,\" \"Amor Sin Cuenta,\" \"Estos Celos,\" \"Adorado Tormento,\" \"Millon de Primaveras,\" \"El Chofer\" and the title track.", "ShortSynopsis": "With Mexican soap star Angelica Rivera as your host, this musical treat features legendary ranchera singer Vicente Fern\u00e1ndez performing his platinum album \"Para Siempre\" in its entirety at fabulous locales such as Mexico City's Plaza de Toros.", "AverageRating": 3.2, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Vicente_Fernandez_Para_Siempre/70094345", "Runtime": 2820, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70094345", "TinyUrl": "http://movi.es/BVhJB", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70094345.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70094345.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70094345.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1208217600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2820
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhJB')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVhXK')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70095222.jpg", "content_type": "image/jpeg", "media_etag": "\"12/2/2010 5:53:37 PM\""
+}, "Id": "BVhXK", "Name": "Joe Veras: La Travesia", "ShortName": "Joe Veras: La Travesia", "Synopsis": "One of the biggest names in <i>bachata</i> music, Joe Veras is known for producing some of the genre's smoothest rhythms and richest melodies with songs such as \"En El Amor,\" \"Que Es Lo Que Me Gusta\" and \"Chiquilla Chiquita.\" Featuring 12 unforgettable songs from the Billboard Award nominee, this companion piece to \"La Travesia\" also features a behind-the-scenes look at the creation of the album many regard as Veras's most transcendental.", "ShortSynopsis": "One of the biggest names in bachata music, Joe Veras is known for producing some of the genre's smoothest rhythms and richest melodies with songs such as \"En El Amor,\" \"Que Es Lo Que Me Gusta\" and \"Chiquilla Chiquita.\"", "AverageRating": 2.1, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Joe_Veras_La_Travesia/70095222", "Runtime": 3240, "Rating": "NR", "DateModified": "\/Date(1291312417000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70095222", "TinyUrl": "http://movi.es/BVhXK", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70095222.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70095222.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70095222.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1208217600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3240
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhXK')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViKF')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70098255.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BViKF", "Name": "Super Vallenatos del A\u00f1o 2008", "ShortName": "Super Vallenatos del Ano 2008", "Synopsis": "Top artists of the popular Colombian folk music <i>vallenato</i> perform their biggest hits in this lively compilation. Songs include \"El Amor Es As&#237;\" by Jorge Celedon and Jimmy Zambrano and \"Casualidad,\" performed by Nelson Velasquez. Other artists are Silvestre Dangond, Juancho de la Espriella, Felipe Pelaez, Jean Carlos Centeno, Jose Fernando Romero, Poncho Zuleta and El Cocha Molina. Salsa superstar Gilberto Santa Rosa makes a special appearance.", "ShortSynopsis": "Top artists of the popular Colombian folk music vallenato perform their biggest hits in this lively compilation. Songs include \"El Amor Es As\u00ed\" by Jorge Celedon and Jimmy Zambrano and \"Casualidad,\" performed by Nelson Velasquez.", "AverageRating": 2.2, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Super_Vallenatos_del_Ano_2008/70098255", "Runtime": 4080, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098255", "TinyUrl": "http://movi.es/BViKF", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70098255.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70098255.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70098255.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1211241600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4080
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViKF')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70101669.jpg", "content_type": "image/jpeg", "media_etag": "\"11/10/2011 9:50:59 PM\""
+}, "Id": "BVjDJ", "Name": "Vallenatos: Pegaditos en Video", "ShortName": "Vallenatos: Pegaditos en Video", "Synopsis": "Any vallenato fan will be enchanted by this music video collection, which features some of the greatest artists of the Colombian folk tradition performing many of their most-beloved hits, as well as a variety of old favorites. Some of the renowned musicians appearing in this program include Los Gigantes, Ivan Villazon, Alcides Diaz, Ramiro y Joche, Felipe Pelaez, Rugido Vallenato, Sabor Latino and many more.", "ShortSynopsis": "Any vallenato fan will be enchanted by this music video collection, which features some of the greatest artists of the Colombian folk tradition performing many of their most-beloved hits, as well as a variety of old favorites.", "AverageRating": 2, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Vallenatos_Pegaditos_en_Video/70101669", "Runtime": 3960, "Rating": "NR", "DateModified": "\/Date(1320961859000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70101669", "TinyUrl": "http://movi.es/BVjDJ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70101669.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70101669.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70101669.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1214870400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3960
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDJ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVjDp')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70101701.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVjDp", "Name": "Monchy & Alexandra: En Vivo Desde Bellas Artes", "ShortName": "En Vivo Desde Bellas Artes", "Synopsis": "Filmed live in Puerto Rico, this concert video features the Dominican bachata duo Monchy & Alexandra, as they play a rhythmic tropical Latin set featuring some of their best-known hits, along with a few of their more recent songs. Tracks from this performance include \"Eras Diferente,\" \"Te Quiero Igual Que Ayer,\" \"Hasta el Fin,\" \"Perdidos,\" \"Polo Opuesto,\" \"Llorando Penas,\" \"Dos Locos\" and many more.", "ShortSynopsis": "Filmed live in Puerto Rico, this concert video features the Dominican bachata duo Monchy & Alexandra, as they play a rhythmic tropical Latin set featuring some of their best-known hits, along with a few of their more recent songs.", "AverageRating": 2.4, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Monchy_Alexandra_En_Vivo_Desde_Bellas_Artes/70101701", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70101701", "TinyUrl": "http://movi.es/BVjDp", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70101701.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70101701.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70101701.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1211241600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjDp')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVk7V')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70105153.jpg", "content_type": "image/jpeg", "media_etag": "\"6/9/2010 8:21:41 AM\""
+}, "Id": "BVk7V", "Name": "Benise: Nights of Fire", "ShortName": "Benise: Nights of Fire", "Synopsis": "In this exciting stage show that's part concert, part theatrical event, flamenco guitar virtuoso Roni Benise -- backed by 50 stirring performers -- displays the amazing musical talents and gifted showmanship that have made him famous. Guaranteed to thrill, this world beat spectacle features a variety of Latin sounds and exhilarating dance sequences, including  the Cuban-style \"Salsa, Salsa\" routine and Benise's unique version of \"Desperado.\"", "ShortSynopsis": "In this exciting stage show that's part concert, part theatrical event, flamenco guitar virtuoso Roni Benise -- backed by 50 stirring performers -- displays the amazing musical talents and gifted showmanship that have made him famous.", "AverageRating": 2.8, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Benise_Nights_of_Fire/70105153", "Runtime": 8820, "Rating": "NR", "DateModified": "\/Date(1276071701000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70105153", "TinyUrl": "http://movi.es/BVk7V", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70105153.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70105153.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70105153.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8820
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk7V')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVl5p')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70108893.jpg", "content_type": "image/jpeg", "media_etag": "\"5/5/2011 4:52:39 PM\""
+}, "Id": "BVl5p", "Name": "Luisito Carrion: Clasicos en Vivo", "ShortName": "Luisito Carrion: Clasicos en Vivo", "Synopsis": "Puerto Rican salsa vocalist Luisito Carrion brings his best-loved hits together in this compilation of performances. In his prolific career, Carrion has performed with such salsa legends as Gilberto Santa Rosa, Ismael Miranda, Maelo Ruiz and others. Songs include \"El Senor de la Senora,\" \"La Fuga,\" \"Yare,\" \"Por Alguien Que Se Fue,\" \"Culpame,\" \"Me Diste de Tu Agua,\" \"Renta de Amor,\" \"Modelo de la Noche,\" \"Sin Tu Amore\" and \"Una Chica Como Tu.\"", "ShortSynopsis": "Puerto Rican salsa vocalist Luisito Carrion brings his best-loved hits together in this compilation of performances. In his prolific career, Carrion has performed with such salsa legends as Gilberto Santa Rosa, Ismael Miranda, Maelo Ruiz and others.", "AverageRating": 2.3, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Luisito_Carrion_Clasicos_en_Vivo/70108893", "Runtime": 3660, "Rating": "NR", "DateModified": "\/Date(1304614359000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70108893", "TinyUrl": "http://movi.es/BVl5p", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70108893.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70108893.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70108893.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1226966400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3660
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl5p')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVlAE')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70109166.jpg", "content_type": "image/jpeg", "media_etag": "\"11/17/2011 7:05:00 PM\""
+}, "Id": "BVlAE", "Name": "K-Paz de la Sierra: Una Historia", "ShortName": "K-Paz de la Sierra: Una Historia", "Synopsis": "Featuring great music videos from Mexican-American <i>duranguese</i> group K-Paz de la Sierra, this compilation volume contains \"Querido Amigo,\" an homage to band founder Sergio G&#243;mez, who was murdered in December 2007. Other selections include \"Mi Vecinita,\" \"Mi Credo,\" \"Pero Te Vas a Arrepentir,\" \"Procuro Olvidarte,\" \"Silueta de Cristal,\" \"Y Aqu&#237; Estoy\" and \"Volver&#233;.\" A documentary about K-Paz de la Sierra rounds out the package.", "ShortSynopsis": "Featuring great music videos from Mexican-American duranguese group K-Paz de la Sierra, this compilation volume contains \"Querido Amigo,\" an homage to band founder Sergio G\u00f3mez, who was murdered in December 2007.", "AverageRating": 2.4, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/K-Paz_de_la_Sierra_Una_Historia/70109166", "Runtime": 5580, "Rating": "NR", "DateModified": "\/Date(1321556700000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70109166", "TinyUrl": "http://movi.es/BVlAE", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70109166.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70109166.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70109166.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1225756800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5580
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlAE')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVlta')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70111978.jpg", "content_type": "image/jpeg", "media_etag": "\"11/23/2011 7:47:27 PM\""
+}, "Id": "BVlta", "Name": "Los Caminantes en Vivo!: Desde Tijuana, San Diego y Mexicali", "ShortName": "Los Caminantes en Vivo!", "Synopsis": "Known for chart-topping hits such as \"Cuando Dos Almas,\" \"He Sabido,\" \"Porque Tengo Tu Amor\" and \"Ven y Abrazame,\" Los Caminantes have been one of the most beloved ranchera bands for a quarter of a century. Featuring live performance highlights, this concert film captures the band as they delight their fans with memorable renditions of their biggest songs, including \"Supe Perder,\" \"El Puente Roto,\" \"Las Gaviotas\" and \"La Guitarra y la Mujer.\"", "ShortSynopsis": "Known for chart-topping hits such as \"Cuando Dos Almas,\" \"He Sabido,\" \"Porque Tengo Tu Amor\" and \"Ven y Abrazame,\" Los Caminantes have been one of the most beloved ranchera bands for a quarter of a century.", "AverageRating": 2.7, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Los_Caminantes_en_Vivo_Desde_Tijuana_San_Diego_y_Mexicali/70111978", "Runtime": 2820, "Rating": "NR", "DateModified": "\/Date(1322077647000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70111978", "TinyUrl": "http://movi.es/BVlta", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70111978.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70111978.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70111978.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1229385600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2820
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlta')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVlXW')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70110610.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVlXW", "Name": "La Autentica de Jerez: En Vivo Desde Jerez Zacatecas", "ShortName": "La Autentica de Jerez: En Vivo...", "Synopsis": "Performing live in their hometown of Jerez, Zacatecas, regional Mexican band La Autentica de Jerez put on an entertaining concert that features many of their hits, including \"24 Horas del Dia,\" \"Los Tres de Zacatecas\" and \"Usted Que Haria.\" Formed in 1993, this talented and popular music group has had considerable success touring on both sides of the border, in Mexico and the United States.", "ShortSynopsis": "Performing live in their hometown of Jerez, Zacatecas, regional Mexican band La Autentica de Jerez put on an entertaining concert that features many of their hits, including \"24 Horas del Dia,\" \"Los Tres de Zacatecas\" and \"Usted Que Haria.\"", "AverageRating": 2.2, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/La_Autentica_de_Jerez_En_Vivo_Desde_Jerez_Zacatecas/70110610", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70110610", "TinyUrl": "http://movi.es/BVlXW", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70110610.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70110610.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70110610.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1234310400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlXW')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVmsm')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70115772.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVmsm", "Name": "Raphael: 50 A\u00f1os Despues", "ShortName": "Raphael: 50 A\u00f1os Despues", "Synopsis": "This collection features Latin singer-actor Raphael performing 20 unforgettable duets with an all-star list of collaborators, including Vicente Fern&#225;ndez, Armando Manzanero, Roc&#237;o D&#250;rcal, Jos&#233; Luis Perales and Paul Anka. The accomplished crooner delivers songs such as \"Infinito,\" \"Hijo de la Luna,\" \"Como Yo Te Amo,\" \"Morir de Amor,\" \"Adoro,\" \"Como Han Pasado los A&#241;os,\" \"Quiero Abrazarte Tanto\" and \"Volver Volver.\"", "ShortSynopsis": "This collection features Latin singer-actor Raphael performing 20 unforgettable duets with an all-star list of collaborators, including Vicente Fern\u00e1ndez, Armando Manzanero, Roc\u00edo D\u00farcal, Jos\u00e9 Luis Perales and Paul Anka.", "AverageRating": 3.1, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Raphael_50_Anos_Despues/70115772", "Runtime": 5880, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70115772", "TinyUrl": "http://movi.es/BVmsm", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70115772.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70115772.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70115772.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1238457600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5880
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmsm')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVn6s')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70116646.jpg", "content_type": "image/jpeg", "media_etag": "\"2/3/2011 5:54:18 PM\""
+}, "Id": "BVn6s", "Name": "Jorge Celedon & Jimmy Zambrano: Exitos de Jorge Celedon", "ShortName": "Celedon/Zambrano: Exitos de Jorge Celedon", "Synopsis": "Jorge Celedon and Jimmy Zambrano -- whose explorations in Vallenato and other styles of Colombian folk have introduced a new generation to this infectious music -- showcase their musical mastery in this zesty music-video compilation. Tracks include the duo's sensational hit \"Esta Vida,\" as well as \"Tu Amor Fue Malo,\" \"Cuatro Rosas,\" \"El Amor Es As&#237;,\" \"Sin Perd&#243;n,\" \"Por Gustarte,\" \"Por Tu Primer Beso,\" \"No Podr&#225;n Separarnos\" and others.", "ShortSynopsis": "Jorge Celedon and Jimmy Zambrano -- whose explorations in Vallenato and other styles of Colombian folk have introduced a new generation to this infectious music -- showcase their musical mastery in this zesty music-video compilation.", "AverageRating": 2.8, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Jorge_Celedon_Jimmy_Zambrano_Exitos_de_Jorge_Celedon/70116646", "Runtime": 5160, "Rating": "NR", "DateModified": "\/Date(1296755658000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70116646", "TinyUrl": "http://movi.es/BVn6s", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70116646.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70116646.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70116646.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1238457600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5160
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn6s')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQMp')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70029223.jpg", "content_type": "image/jpeg", "media_etag": "\"3/25/2011 5:45:05 PM\""
+}, "Id": "BVQMp", "Name": "Fernando Ortega: Live in St. Paul", "ShortName": "Fernando Ortega: Live in St. Paul", "Synopsis": "Inspired by traditional Hispanic, Irish and American folk music, contemporary Christian musician Fernando Ortega plays an uplifting set of gospel music, which includes songs like \"This Good Day,\" Creation Song,\" \"Virginia Rose\" and more. A native of New Mexico, the award-winning Ortega proclaims his love and gratitude to God through beautifully crafted songs, which have touched and comforted countless listeners.", "ShortSynopsis": "Inspired by traditional Hispanic, Irish and American folk music, contemporary Christian musician Fernando Ortega plays an uplifting set of gospel music, which includes songs like \"This Good Day,\" Creation Song,\" \"Virginia Rose\" and more.", "AverageRating": 2.8, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Fernando_Ortega_Live_in_St._Paul/70029223", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1301075105000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70029223", "TinyUrl": "http://movi.es/BVQMp", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70029223.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70029223.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70029223.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1117497600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQMp')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQwA')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70031414.jpg", "content_type": "image/jpeg", "media_etag": "\"11/30/2011 7:46:53 PM\""
+}, "Id": "BVQwA", "Name": "Lo Mejor de la Quebradita en Vivo", "ShortName": "Lo Mejor de la Quebradita en Vivo", "Synopsis": "Latin music's finest artists are showcased in this collection of live clips. Emphasizing <i>banda</i>, the popular, brassy style hailing from Mexico, the anthology features Banda Ca&#241;a Verde, Banda R-15, Los Nuevos Santa Rosa and others. The 10 tracks include \"Prendido a un Sentimiento,\" \"Jacinto Senovio,\" \"No Nos Vamos a Olvidar,\" \"Lat Talega del Caf&#233;,\" \"Pascual,\" \"Mil Cartas,\" \"Sangre de Rey\" and \"Tumba La Cana.\"", "ShortSynopsis": "Latin music's finest artists are showcased in this collection of live clips. Emphasizing banda, the popular, brassy style hailing from Mexico, the anthology features Banda Ca\u00f1a Verde, Banda R-15, Los Nuevos Santa Rosa and others.", "AverageRating": 1.9, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Lo_Mejor_de_la_Quebradita_en_Vivo/70031414", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1322682413000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70031414", "TinyUrl": "http://movi.es/BVQwA", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70031414.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70031414.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70031414.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1114992000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwA')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQwD')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70031417.jpg", "content_type": "image/jpeg", "media_etag": "\"1/6/2011 6:07:00 PM\""
+}, "Id": "BVQwD", "Name": "Los Mas Jovenes De La Musica Nortena", "ShortName": "Los Mas Jovenes De La Musica Nortena", "Synopsis": "Explore the many styles of popular <i>norte&#241;o</i> artists in this collection of sizzling music video hits from south of the border, including \"De Uno y de Todos los Modos\" by Palomo, \"Poco a Poquito\" by Masizzo and \"M&#237;rame Bien\" by Violento. Other songs include \"Tragos Amargos\" by El Tenampa, \"Para Olvidarme de Ti\" by Los Reyes Del Camino, \"Dec&#237;dete\" by El Poder del Norte, \"C&#243;mo Te Va Mi Amor\" by Los Reales and more.", "ShortSynopsis": "Explore the many styles of popular norte\u00f1o artists in this collection of sizzling music video hits from south of the border, including \"De Uno y de Todos los Modos\" by Palomo, \"Poco a Poquito\" by Masizzo and \"M\u00edrame Bien\" by Violento.", "AverageRating": 2, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Los_Mas_Jovenes_De_La_Musica_Nortena/70031417", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1294337220000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70031417", "TinyUrl": "http://movi.es/BVQwD", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70031417.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70031417.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70031417.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1114992000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwD')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQwF')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70031419.jpg", "content_type": "image/jpeg", "media_etag": "\"12/9/2010 6:16:24 PM\""
+}, "Id": "BVQwF", "Name": "Los Sencillos Duranguenses Del A\u00f1o", "ShortName": "Los Sencillos Duranguenses Del A\u00f1o", "Synopsis": "Fans will savor the best of Duranguense music included in this assortment of infectious concert clips and music videos from genre artists such as Grupo Mont&#233;z de Durango, Patrulla 81, K-Paz de la Sierra and others. Among the percussive tunes are \"L&#225;grimas de Cristal,\" \"Te Quise Olvidar,\" \"Con Olor a Hierba,\" \"Jambalaya,\" \"Una Sola Caida,\" \"Los Chismes,\" \"Dos Locos\" and \"C&#243;mo Pude Enamorarme de Ti?\"", "ShortSynopsis": "Fans will savor the best of Duranguense music included in this assortment of infectious concert clips and music videos from genre artists such as Grupo Mont\u00e9z de Durango, Patrulla 81, K-Paz de la Sierra and others.", "AverageRating": 2.1, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Los_Sencillos_Duranguenses_Del_Ano/70031419", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1291918584000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70031419", "TinyUrl": "http://movi.es/BVQwF", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70031419.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70031419.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70031419.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1114992000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwF')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQwG')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70031420.jpg", "content_type": "image/jpeg", "media_etag": "\"9/22/2011 5:54:06 PM\""
+}, "Id": "BVQwG", "Name": "Los Sencillos Sonideros del A\u00f1o", "ShortName": "Los Sencillos Sonideros del A\u00f1o", "Synopsis": "Featuring the likes of Kinto Sol, Yahari, Rayito Colombiano, Grupo Bryndis, Chon Arauzo, Alberto y Roberto, Los Askis and Los Angeles Azules, this compilation features contributions from many of the biggest acts in contemporary Mexican music. Selections include \"No Podras\" and \"Una Vez Mas\" by Chon Arauza y la Furia Colombiana, \"Por el Amor a mi Madre\" by Los Angeles Azules and \"Caliente\" by Los Askis.", "ShortSynopsis": "Featuring the likes of Kinto Sol, Yahari, Rayito Colombiano, Grupo Bryndis, Chon Arauzo, Alberto y Roberto, Los Askis and Los Angeles Azules, this compilation features contributions from many of the biggest acts in contemporary Mexican music.", "AverageRating": 2, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Los_Sencillos_Sonideros_del_Ano/70031420", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1316714046000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70031420", "TinyUrl": "http://movi.es/BVQwG", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70031420.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70031420.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70031420.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1114992000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQwG')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVsgn')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70138093.jpg", "content_type": "image/jpeg", "media_etag": "\"7/1/2011 8:23:00 AM\""
+}, "Id": "BVsgn", "Name": "Benise: The Spanish Guitar", "ShortName": "Benise: The Spanish Guitar", "Synopsis": "Join fiery flamenco guitarist Benise for an unforgettable music and dance spectacular incorporating scenes from his epic journey around the world, including Venice's canals, a Parisian caf\u00e9, a Spanish bullring, the Arabian Desert and old Havana. Featuring lavish sets and beautifully choreographed routines, this captivating performance includes guest appearances by Kimberley Locke, Giorgia Fumanti, Nick Kosovich and Lena Bacheva.", "ShortSynopsis": "Join the fiery flamenco guitarist for an unforgettable music and dance spectacular incorporating scenes from his epic journey around the world.", "AverageRating": 3.1, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/Benise_The_Spanish_Guitar/70138093", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1309508580000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70138093", "TinyUrl": "http://movi.es/BVsgn", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70138093.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70138093.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70138093.jpg", "HighDefinitionUrl": "http://cdn-3.nflximg.com/en_us/boxshots/ghd/70138093.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1278374400000)\/", "AvailableTo": "\/Date(1341532800000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 3608
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsgn')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVU8c')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70043718.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVU8c", "Name": "Jose Alfredo Jimenez: La Historia De El Rey", "ShortName": "La Historia De El Rey", "Synopsis": "Sombrero-clad composer Jos&#233; Alfredo Jim&#233;nez is one of the most celebrated musicians of his era, producing a catalog of beloved traditional songs. This collection of performances, selected from Jim&#233;nez's appearances on Mexican television, includes \"15 de Septiembre,\" \"El Silencio de la Noche,\" \"Te Necesito Amor,\" \"Lleg&#243; Borracho el Borracho,\" \"Serenata Huasteca,\" \"No Me Amenaces,\" \"El Rey\" and \"Camino de Guanajuato.\"", "ShortSynopsis": null, "AverageRating": 3, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Jose_Alfredo_Jimenez_La_Historia_De_El_Rey/70043718", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70043718", "TinyUrl": "http://movi.es/BVU8c", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70043718.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70043718.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70043718.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1137456000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVU8c')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVV47')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70047283.jpg", "content_type": "image/jpeg", "media_etag": "\"2/25/2010 6:09:10 PM\""
+}, "Id": "BVV47", "Name": "Lo Mejor de La Musica Nortena", "ShortName": "Lo Mejor de La Musica Nortena", "Synopsis": "This compilation video -- featuring the vocal talents of Armando Arteaga and Virgilio Barrios -- rounds up some of the best &NFi;musica nortena&NFi_;, the Mexican music that springs from the country's northern regions and from immigrant communities in Texas. Tracks include \"El Rey de los Coliaderos,\" \"Promesas de Dios,\" \"Sentimiento de Dolor,\" \"Caminos de Michoac&#225;n,\" \"Por las Parrandas\" and \"Quisieras Verme Llorando.\"", "ShortSynopsis": null, "AverageRating": 2, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Lo_Mejor_de_La_Musica_Nortena/70047283", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1267121350000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70047283", "TinyUrl": "http://movi.es/BVV47", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70047283.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70047283.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70047283.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1147132800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV47')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVVeL')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70049529.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVVeL", "Name": "Baile Grupero", "ShortName": "Baile Grupero", "Synopsis": "This collection of &NFi;grupero&NFi_; hits boasts the genre's hottest acts, including Los Bukis, Los Bondadosos, Los Greys, Mojado, Mandingo, Los Yonics, Los Caminantes, Industria del Amor, Los Rehenes de Javier Torres and Bronco. Grupero has won legions of fans throughout the Americas for its creative fusion of &NFi;cumbia&NFi_;, &NFi;ranchera&NFi_;, sultry tropical rhythms, hip-shaking Latin beats and hopeful, heartrending ballads.", "ShortSynopsis": null, "AverageRating": 2.4, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Baile_Grupero/70049529", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70049529", "TinyUrl": "http://movi.es/BVVeL", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70049529.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70049529.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70049529.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1148342400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVeL')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVVFL')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70047979.jpg", "content_type": "image/jpeg", "media_etag": "\"6/3/2011 4:40:26 PM\""
+}, "Id": "BVVFL", "Name": "El Gringo de la Bachata", "ShortName": "El Gringo de la Bachata", "Synopsis": "Bachata is the music of the people in the Dominican Republic -- a style of song that shantytown residents call their own, with its guitar-based compositions and catchy rhythms. This collection of live performances and music videos by El Gringo de la Bachata includes both lively dance tunes and slower songs with moving lyrics that exemplify the unique beauty of this compelling musical form. Tracks include \"Calzoncillos Cortos,\" \"Volvi\" and more.", "ShortSynopsis": null, "AverageRating": 2.2, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/El_Gringo_de_la_Bachata/70047979", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1307119226000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70047979", "TinyUrl": "http://movi.es/BVVFL", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70047979.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70047979.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70047979.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1145923200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVFL')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVXeI')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70057214.jpg", "content_type": "image/jpeg", "media_etag": "\"12/1/2011 8:20:41 AM\""
+}, "Id": "BVXeI", "Name": "Canciones del Corazon", "ShortName": "Canciones del Corazon", "Synopsis": "This musical compilation showcases the Latin vocal leaders of the norte&#241;o music movement, including headliners such as Julio Iglesias and Jon Secada. A full hour of inspiring love songs and ballads includes popular selections such as \"El Amor Que Te Hace Falta,\" \"Los Dos Cogidos de la Mano\" and \"Solo Otra D&#237;a.\" Norte&#241;o music has its roots in Latin rural culture and is popular in both Mexico and the United States.", "ShortSynopsis": "This compilation showcases the masters of norte\u00f1o love songs and ballads, including headliners such as Julio Iglesias and Jon Secada.", "AverageRating": 2.7, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Canciones_del_Corazon/70057214", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1322727641000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70057214", "TinyUrl": "http://movi.es/BVXeI", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70057214.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70057214.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70057214.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1164067200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXeI')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVXF3')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70055649.jpg", "content_type": "image/jpeg", "media_etag": "\"3/3/2011 6:01:57 PM\""
+}, "Id": "BVXF3", "Name": "Vagon Chicano: Super Exitos en DVD", "ShortName": "Vagon Chicano: Super Exitos en DVD", "Synopsis": "The rich sounds of Mexico's traditional country music flavor this greatest hits video collection from &NFi;norte&#241;o&NFi_; musicians Vagon Chicano. Formed by the Torres brothers, Vagon Chicano's popularity continues to grow in their native Mexico and in the United States. The compilation features nine of their music videos, including \"Mi Amuleto Eres Tu,\" \"El Hijo del Mojado,\" \"Como Te Extrano,\" \"Una Vez Mas,\" \" La Moneda\" and \"Necesidad.\"", "ShortSynopsis": null, "AverageRating": 1.9, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Vagon_Chicano_Super_Exitos_en_DVD/70055649", "Runtime": 1800, "Rating": "NR", "DateModified": "\/Date(1299175317000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70055649", "TinyUrl": "http://movi.es/BVXF3", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70055649.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70055649.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70055649.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1159833600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 1800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXF3')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVXhh')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70057425.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVXhh", "Name": "Original Salsa Kings: Vol. 3", "ShortName": "Original Salsa Kings: Vol. 3", "Synopsis": "Are you ready to spice up your life? Marc Anthony, Tito Puente, Ruben Blades, Hector Lavoe and Eddie Palmieri are just some of the amazing &NFi;salseros&NFi_; who are featured in this red-hot collection of salsa music. Feel the beat with this sizzling celebration of salsa, a musical fusion of traditional African, Cuban and other Latin American rhythms that traveled from the islands of the Caribbean to New York.", "ShortSynopsis": null, "AverageRating": 2.8, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Original_Salsa_Kings_Vol._3/70057425", "Runtime": 3300, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70057425", "TinyUrl": "http://movi.es/BVXhh", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70057425.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70057425.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70057425.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1160438400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3300
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXhh')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVXMv')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70056137.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVXMv", "Name": "Cumbia Mix 2006", "ShortName": "Cumbia Mix 2006", "Synopsis": "Colombia's great musical export -- cumbia -- is showcased on this grooving compilation, complete with tunes by such cumbia pros as Megaton, Grupo Sonador, Chucho Pinto, Yukon and Maravilla. The tracks include \"Cumbia de los Barrios,\" \"La Chica del Lunar,\" \"Yo Me Ire,\" \"No Llores Gitana,\" \"Te Lo Pido Por Favor,\" \"Chambacu,\" \"Muchachita Tonta,\" \"Ya Llego la Cumbia,\" \"Naci Para Quererte\" and \"Hoy Se Marcho.\"", "ShortSynopsis": null, "AverageRating": 2.2, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Cumbia_Mix_2006/70056137", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70056137", "TinyUrl": "http://movi.es/BVXMv", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70056137.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70056137.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70056137.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1160438400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXMv')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVXTW')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70056546.jpg", "content_type": "image/jpeg", "media_etag": "\"11/1/2011 7:22:11 AM\""
+}, "Id": "BVXTW", "Name": "Mariachi Campanas de America", "ShortName": "Mariachi Campanas de America", "Synopsis": "Celebrate the 25th anniversary of the popular Mariachi Campanas de America with this energetic concert. Blending traditional Mexican mariachi music with Latin and mainstream pop rhythms, this talented band has thrilled enthusiastic audiences around the country. Songs include \"No Me Queda Mas,\" \"La Rondinella,\" \"El Son de la Negra,\" \"La Bikina,\" \"Por Mujeres Como Tu,\" \"Tragos Amargos,\" \"Volver, Volver,\" \"El Tejano Enamorado\" and many more.", "ShortSynopsis": "This concert celebrate the 25th anniversary of the group that blends traditional Mexican mariachi music with Latin and mainstream pop rhythms.", "AverageRating": 3.1, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Mariachi_Campanas_de_America/70056546", "Runtime": 3360, "Rating": "NR", "DateModified": "\/Date(1320132131000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70056546", "TinyUrl": "http://movi.es/BVXTW", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70056546.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70056546.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70056546.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1163462400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3360
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXTW')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVXyG')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70058452.jpg", "content_type": "image/jpeg", "media_etag": "\"1/13/2011 8:09:00 PM\""
+}, "Id": "BVXyG", "Name": "Huella Nortena: Primavera & Los Rieleros", "ShortName": "Huella Nortena: Primavera & Los Rieleros", "Synopsis": "Two longtime institutions of &NFi;norte&#241;o&NFi_; music whose origins date back to the late 1970s -- Conjunto Primavera and Los Rieleros del Norte -- share the spotlight in this compilation. Both groups have built successful careers through their moving songs in the norte&#241;o tradition, a style born in Texas that fuses the polka beats brought by German immigrants with the ranchero music of Northern Mexico.", "ShortSynopsis": null, "AverageRating": 2.5, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Huella_Nortena_Primavera_Los_Rieleros/70058452", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1294949340000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70058452", "TinyUrl": "http://movi.es/BVXyG", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70058452.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70058452.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70058452.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1164067200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXyG')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVY20')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70058684.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVY20", "Name": "Dueto Voces del Rancho: Pura Raza", "ShortName": "Dueto Voces del Rancho: Pura Raza", "Synopsis": "The Mexican &NFi;norte&#241;o&NFi_; band Dueto Voces del Rancho -- a duo composed of Edgar Rodriguez and Mariano Fernandez -- perform a blend of traditional favorites in this collection of live performances that also features Mexican &NFi;banda&NFi_; singer Lupillo Rivera. Featured tracks include \"Donde Est&#225;n,\" \"Lamberto Quintero,\" \"Los Tres Gallos,\" \"Clave 585,\" \"Corrido del Toro las Tres Vueltas,\" \"Sonora de Mis Ojos Negros\" and \"El Diablo en una Botella.\"", "ShortSynopsis": null, "AverageRating": 3.1, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Dueto_Voces_del_Rancho_Pura_Raza/70058684", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70058684", "TinyUrl": "http://movi.es/BVY20", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70058684.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70058684.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70058684.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY20')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVYE5')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70059433.jpg", "content_type": "image/jpeg", "media_etag": "\"11/1/2011 7:22:11 AM\""
+}, "Id": "BVYE5", "Name": "Los Tres Reyes en Concierto", "ShortName": "Los Tres Reyes en Concierto", "Synopsis": "A special connection between the acclaimed bolero trio and their fans is evident in this memorable concert performance. The \"music of love\" flows from Gilberto Puenta, Raul Puente and Hernando Avilez as they delight their audience with renditions of \"Jacarandosa,\" \"Mujeres Divinas\" and \"La Revancha.\" The evening event is capped off in a touching tribute to Selena when the group covers the late superstar's hit song \"No Me Queda Mas.\"", "ShortSynopsis": "Witness the special connection between the acclaimed bolero trio and their fans in this concert that culminates in a touching tribute to Selena.", "AverageRating": 3.4, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Los_Tres_Reyes_en_Concierto/70059433", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1320132131000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70059433", "TinyUrl": "http://movi.es/BVYE5", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70059433.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70059433.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70059433.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1168905600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYE5')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVYnl')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70061645.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVYnl", "Name": "Jose Luis Rodriguez: La Historia Del Puma", "ShortName": "Jose Luis Rodriguez: La Historia Del Puma", "Synopsis": "Latin music sensation Jose Luis Rodriguez presents a historical compilation of songs from his decade-long career. Known as \"the Puma\" to his fans, the Venezuelan vocalist and percussionist has performed in a variety of styles including bolero, mariachi, norte&#241;o and romantic ballad. This collection includes \"Agua Bendita,\" \"Poquita Fe,\" \"Celoso,\" \"Boca, Dulce Boca\" and \"Diosito Santo.\"", "ShortSynopsis": null, "AverageRating": 2.6, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Jose_Luis_Rodriguez_La_Historia_Del_Puma/70061645", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70061645", "TinyUrl": "http://movi.es/BVYnl", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70061645.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70061645.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70061645.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1170115200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYnl')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVYRn')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70060283.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVYRn", "Name": "Frente a Frente: Solido", "ShortName": "Frente a Frente: Solido", "Synopsis": "Latin Grammy-winning band Solido performs some of their best songs in this compilation of music videos spanning the group's career. Their debut smash hit, \"Hasta la Cima del Cielo,\" is included, along with \"En Mi Oracion,\" \"Muero,\" \"Una Rosa,\" \"No Puedo Olvidar,\" \"Dile la Verdad,\" \"Contando los Segundos,\" the title track and more. Among the extras are live footage of the Tejano band and a photo gallery.", "ShortSynopsis": null, "AverageRating": 2.8, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Frente_a_Frente_Solido/70060283", "Runtime": 2640, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70060283", "TinyUrl": "http://movi.es/BVYRn", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70060283.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70060283.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70060283.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2640
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYRn')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVYT4')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70060362.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVYT4", "Name": "Megaconcierto: Live at Madison Square Garden", "ShortName": "Megaconcierto: Live at Madison Square", "Synopsis": "The biggest names in Latin music gather for this sonic fiesta at New York's Madison Square Garden. The tunes range from traditional salsa to the latest in reggaeton. The salsa numbers include \"Ese\" and \"Amores Como el Nuestro\" by Jerry Rivera and \"Si Te Dijeron\" and \"Locura de Amor\" by Gilberto Santa Rosa. Meanwhile, Wisin y Yandel keep the party going with their reggaeton hits. Famed international vocalist Oscar D'Leon also performs.", "ShortSynopsis": null, "AverageRating": 3.1, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Megaconcierto_Live_at_Madison_Square_Garden/70060362", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70060362", "TinyUrl": "http://movi.es/BVYT4", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70060362.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70060362.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70060362.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYT4')/Seasons"
+}
+}
+}
+]
+}
+}

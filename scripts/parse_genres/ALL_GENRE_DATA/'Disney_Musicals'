@@ -1,0 +1,919 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('7ksgF')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/14607635.jpg", "content_type": "image/jpeg", "media_etag": "\"5/6/2011 9:26:09 PM\""
+}, "Id": "7ksgF", "Name": "Mulan: Special Edition", "ShortName": "Mulan: Special Edition", "Synopsis": "Disney brings an ancient legend to life in this animated tale of the brave Mulan (voiced by Ming-Na Wen, with Broadway's Lea Salonga lending her singing voice), a tomboyish girl who disguises herself as a young man so she can fight with the Imperial Chinese Army against the invading Huns. With help from wise-cracking dragon Mushu (Eddie Murphy), Mulan just might save her country -- and win the heart of handsome Captain Li Shang (B.D. Wong).", "ShortSynopsis": "Disney brings an ancient legend to life in this animated tale of a tomboy who disguises herself as a man so she can fight with the Chinese Army.", "AverageRating": 4, "ReleaseYear": 1998, "Url": "http://www.netflix.com/Movie/Mulan_Special_Edition/14607635", "Runtime": 5280, "Rating": "G", "DateModified": "\/Date(1304717169000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/14607635", "TinyUrl": "http://movi.es/7ksgF", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/14607635.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/14607635.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/14607635.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1098748800000)\/", "AvailableTo": null, "Rating": "G", "Runtime": 5280
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7ksgF')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('7LwN')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/752639.jpg", "content_type": "image/jpeg", "media_etag": "\"5/6/2011 9:26:09 PM\""
+}, "Id": "7LwN", "Name": "Melody Time", "ShortName": "Melody Time", "Synopsis": "Opening with songbird Frances Langford crooning \"Once Upon a Wintertime\" over beautiful frosty scenes, this charming  follow-up to Make Mine Music fuses wonderful Disney animation and contemporary music from 1948, the year the film was released. The anthology continues with a blend of nature and musical images set to \"Bumble Boogie,\" and Donald Duck reunites with his cigar-smoking pal Jos&#233; Carioca in \"Blame It on the Samba.\"", "ShortSynopsis": "Opening with songbird Frances Langford crooning \"Once Upon a Wintertime\" over beautiful frosty scenes, this charming follow-up to Make Mine Music fuses wonderful Disney animation and contemporary music from 1948, the year the film was released.", "AverageRating": 3.4, "ReleaseYear": 1948, "Url": "http://www.netflix.com/Movie/Melody_Time/752639", "Runtime": 4500, "Rating": "NR", "DateModified": "\/Date(1304717169000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/752639", "TinyUrl": "http://movi.es/7LwN", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/752639.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/752639.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/752639.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(960249600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4500
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7LwN')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('7Ztc')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/806284.jpg", "content_type": "image/jpeg", "media_etag": "\"2/1/2012 8:25:03 PM\""
+}, "Id": "7Ztc", "Name": "The Nightmare Before Christmas", "ShortName": "The Nightmare Before Christmas", "Synopsis": "Tired of scaring humans every October 31 with the same old bag of tricks, Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver shrunken heads and other ghoulish gifts to children on Christmas morning. But as Christmas approaches, Jack's rag-doll girlfriend, Sally, tries to foil his misguided plans. This music-filled, stop motion-animated delight springs from the gleefully twisted mind of Tim Burton.", "ShortSynopsis": "Jack Skellington, the spindly king of Halloween Town, kidnaps Santa Claus and plans to deliver ghoulish gifts to children on Christmas morning.", "AverageRating": 3.8, "ReleaseYear": 1993, "Url": "http://www.netflix.com/Movie/The_Nightmare_Before_Christmas/806284", "Runtime": 4500, "Rating": "PG", "DateModified": "\/Date(1328127903000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/806284", "TinyUrl": "http://movi.es/7Ztc", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1219708800000)\/", "AvailableTo": null, "Rating": "PG", "Runtime": 4500
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/806284.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/806284.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/806284.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(881020800000)\/", "AvailableTo": null, "Rating": "PG", "Runtime": 4500
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7Ztc')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApNvU')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/60010064.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 8:17:33 AM\""
+}, "Id": "ApNvU", "Name": "Aladdin", "ShortName": "Aladdin", "Synopsis": "When resourceful \"street rat\" Aladdin falls in love with the sultan's beautiful, independent daughter, there's nothing he won't do to win her heart -- including enlisting the help of a scene-stealing genie.", "ShortSynopsis": "When resourceful \"street rat\" Aladdin falls in love with the sultan's beautiful, independent daughter, there's nothing he won't do to win her heart.", "AverageRating": 4.1, "ReleaseYear": 1992, "Url": "http://www.netflix.com/Movie/Aladdin/60010064", "Runtime": 5400, "Rating": "G", "DateModified": "\/Date(1328861853000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60010064", "TinyUrl": "http://movi.es/ApNvU", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/60010064.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/60010064.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/60010064.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1096934400000)\/", "AvailableTo": null, "Rating": "G", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApNvU')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApO9F')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/60010917.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "ApO9F", "Name": "Song of the South", "ShortName": "Song of the South", "Synopsis": "Controversial for its dated treatment of slavery, Disney's classic film blends live action with animation to tell the story of Johnny, who's been sent to live on his grandmother's plantation. The film won an Oscar for best song (\"Zip-A-Dee-Doo-Dah\"), and James Baskett received an honorary award for his performance as Johnny's kindly Uncle Remus, who regales him with fables about trickster Br'er Rabbit.", "ShortSynopsis": "Controversial for its dated treatment of slavery, Disney's classic tells the story of a man who goes to live on his grandmother's plantation.", "AverageRating": 4.2, "ReleaseYear": 1946, "Url": "http://www.netflix.com/Movie/Song_of_the_South/60010917", "Runtime": 5640, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60010917", "TinyUrl": "http://movi.es/ApO9F", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/60010917.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/60010917.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/60010917.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5640
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApO9F')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApQuE')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/60021518.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "ApQuE", "Name": "Newsies", "ShortName": "Newsies", "Synopsis": "It's 1899, and the ragtag orphans who deliver the news to New York City stage a protest when publisher Joseph Pulitzer raises the price they must shell out for their supply of papers. Can they unite the oppressed and fight the powers that be? Inspired by a local trolley workers' strike, newsie Jack Kelly (Christian Bale) sets out to organize the boys into a union, with David Jacobs (David Moscow) as the outfit's brains and Jack as its spokesman.", "ShortSynopsis": "In 1899, the orphans who deliver the news to New York City protest when publisher Joseph Pulitzer ups the price they must shell out for their supply.", "AverageRating": 3.8, "ReleaseYear": 1992, "Url": "http://www.netflix.com/Movie/Newsies/60021518", "Runtime": 7260, "Rating": "PG", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60021518", "TinyUrl": "http://movi.es/ApQuE", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/60021518.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/60021518.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/60021518.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1011052800000)\/", "AvailableTo": null, "Rating": "PG", "Runtime": 7260
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApQuE')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVbca')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70072484.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 10:17:11 AM\""
+}, "Id": "BVbca", "Name": "High School Musical 2", "ShortName": "High School Musical 2", "Synopsis": "School's out, and Troy (Zac Efron), Gabriella (Vanessa Anne Hudgens), Chad (Corbin Bleu) and Taylor (Monique Coleman) land summer jobs at the country club owned by Ryan (Lucas Grabeel) and Sharpay's (Ashley Tisdale) family. When Troy and Gabriella team up for the talent competition, jealous Ryan and Sharpay scheme to break them up. Tons of infectious new songs and energetic dance numbers make this a fun, Emmy-nominated sequel to the hit Disney Channel movie.", "ShortSynopsis": "Tons of infectious new songs, favorite faces and energetic dance numbers make this a fun, Emmy-nominated sequel to the hit Disney Channel movie.", "AverageRating": 3.3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/High_School_Musical_2/70072484", "Runtime": 6660, "Rating": "TV-G", "DateModified": "\/Date(1328869031000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70072484", "TinyUrl": "http://movi.es/BVbca", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1197331200000)\/", "AvailableTo": null, "Rating": "TV-G", "Runtime": 6660
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70072484.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70072484.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70072484.jpg", "HighDefinitionUrl": "http://cdn-4.nflximg.com/en_us/boxshots/ghd/70072484.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1197331200000)\/", "AvailableTo": null, "Rating": "TV-G", "Runtime": 6660
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1296518400000)\/", "AvailableTo": "\/Date(1420329600000)\/", "HighDefinitionAvailable": false, "Rating": "TV-G", "Runtime": 6343
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbca')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViiw')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70099786.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:51:30 AM\""
+}, "Id": "BViiw", "Name": "The Cheetah Girls: One World", "ShortName": "The Cheetah Girls: One World", "Synopsis": "Cheetah Girls Chanel (Adrienne Bailon), Aqua (Kiely Williams) and Dorinda (Sabrina Bryan) are back, this time on their way to India to act in a Bollywood movie -- but what they don't count on is that they'll have to beat each other out for a single starring role. Can the Cheetahs' friendship withstand this level of cutthroat competition or will it threaten to destroy the group once and for all?", "ShortSynopsis": "The all-girl singing group travels to India to act in a Bollywood movie, but they'll have to beat each other out for a single starring role.", "AverageRating": 3.5, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/The_Cheetah_Girls_One_World/70099786", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1328860290000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70099786", "TinyUrl": "http://movi.es/BViiw", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1229385600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70099786.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70099786.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70099786.jpg", "HighDefinitionUrl": "http://cdn-6.nflximg.com/en_us/boxshots/ghd/70099786.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1229385600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1296518400000)\/", "AvailableTo": "\/Date(1420329600000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 4971
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViiw')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVRHY')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70032740.jpg", "content_type": "image/jpeg", "media_etag": "\"6/22/2011 7:36:38 PM\""
+}, "Id": "BVRHY", "Name": "Pocahontas: Bonus Material", "ShortName": "Pocahontas: Bonus Material", "Synopsis": "The companion disc to Disney's animated adventure about one of America's early heroines includes a making-of featurette, early animation material and deleted sequences, a storyboard-to-film comparison, music featurettes, a music video, trailers, premiere footage, a multi-language reel, design featurettes and galleries, a publicity gallery and more.", "ShortSynopsis": null, "AverageRating": 3.6, "ReleaseYear": 1995, "Url": "http://www.netflix.com/Movie/Pocahontas_Bonus_Material/70032740", "Runtime": 7200, "Rating": "NR", "DateModified": "\/Date(1308771398000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70032740", "TinyUrl": "http://movi.es/BVRHY", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70032740.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70032740.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70032740.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1115078400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVRHY')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVVCl')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70047819.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 11:57:10 AM\""
+}, "Id": "BVVCl", "Name": "High School Musical", "ShortName": "High School Musical", "Synopsis": "In this Emmy-winning sensation, basketball star Troy and brainy transfer student Gabriella defy their friends' expectations by choosing the school musical over their usual pursuits. Meanwhile, romance is in the air for the unlikely couple.", "ShortSynopsis": "In this Emmy-winning hit, a jock and a brainy new girl defy their friends' expectations by choosing the school musical over their usual pursuits.", "AverageRating": 3.3, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/High_School_Musical/70047819", "Runtime": 5880, "Rating": "TV-G", "DateModified": "\/Date(1328875030000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70047819", "TinyUrl": "http://movi.es/BVVCl", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1234828800000)\/", "AvailableTo": null, "Rating": "TV-G", "Runtime": 5880
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70047819.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70047819.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70047819.jpg", "HighDefinitionUrl": "http://cdn-9.nflximg.com/en_us/boxshots/ghd/70047819.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1148342400000)\/", "AvailableTo": null, "Rating": "TV-G", "Runtime": 5880
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1296518400000)\/", "AvailableTo": "\/Date(1420329600000)\/", "HighDefinitionAvailable": false, "Rating": "TV-G", "Runtime": 5884
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVCl')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVZJi')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70063626.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:10 PM\""
+}, "Id": "BVZJi", "Name": "Peter Pan: Bonus Material", "ShortName": "Peter Pan: Bonus Material", "Synopsis": "Bonus material for this Disney classic includes the following: \"Sing Along Songs: Peter Pan - You Can Fly!,\" an array of interactive games, Peter's Playful Prank DVD Storybook,\" \"Magical Environment\" Take Flight With Peter Pan, never-before-seen alternate opening, deleted songs, \"In Walt's Words: A New Discovery!\" Walt Disney Reveals \"Why I Made PETER PAN\" and a sneak peek at the new Tinker Bell movie.", "ShortSynopsis": null, "AverageRating": 3.8, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Peter_Pan_Bonus_Material/70063626", "Runtime": 7200, "Rating": "NR", "DateModified": "\/Date(1301582110000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70063626", "TinyUrl": "http://movi.es/BVZJi", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70063626.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70063626.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70063626.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1173139200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZJi')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BW197')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70170601.jpg", "content_type": "image/jpeg", "media_etag": "\"8/5/2011 6:36:47 PM\""
+}, "Id": "BW197", "Name": "Sharpay's Fabulous Adventure", "ShortName": "Sharpay's Fabulous Adventure", "Synopsis": "When a talent scout gives her the green light to go on to bigger and better things in New York City, Sharpay Evans (Ashley Tisdale) expects an easy bop to the top on Broadway. But the city's charms are clouded by a scheming singer (Cameron Goodman) who will do anything to get ahead. Tisdale also executive produced this High School Musical spinoff that features a furry co-star -- Sharpay's dog, Boi -- and four original songs.", "ShortSynopsis": "Sharpay Evans expects an easy bop to the top on Broadway, but the city's charms are clouded by a scheming singer who will do anything to get ahead.", "AverageRating": 3.5, "ReleaseYear": 2011, "Url": "http://www.netflix.com/Movie/Sharpay_s_Fabulous_Adventure/70170601", "Runtime": 5340, "Rating": "NR", "DateModified": "\/Date(1312569407000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70170601", "TinyUrl": "http://movi.es/BW197", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1303171200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5340
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70170601.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70170601.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70170601.jpg", "HighDefinitionUrl": "http://cdn-1.nflximg.com/en_us/boxshots/ghd/70170601.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1303171200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5340
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1310947200000)\/", "AvailableTo": "\/Date(1342569600000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 5440
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW197')/Seasons"
+}
+}
+}
+]
+}
+}
