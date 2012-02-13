@@ -1,0 +1,2819 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('7tuE')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/883202.jpg", "content_type": "image/jpeg", "media_etag": "\"5/6/2011 9:26:09 PM\""
+}, "Id": "7tuE", "Name": "The Quarrel", "ShortName": "The Quarrel", "Synopsis": "When a chance meeting in Montreal reunites Holocaust survivors Hersh Rasseyner (Saul Rubinek) and Chaim (R.H. Thomson) on Rosh Hashanah 1948, the men become involved in a daylong discussion of God, fate, reconciliation and friendship in this sensitive film from director Eli Cohen. David Brandes adapted the play by Joseph Telushkin, from the short story \"My Quarrel with Hersh Rasseyner\" by Chaim Grade.", "ShortSynopsis": null, "AverageRating": 3.1, "ReleaseYear": 1991, "Url": "http://www.netflix.com/Movie/The_Quarrel/883202", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1304717169000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/883202", "TinyUrl": "http://movi.es/7tuE", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/883202.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/883202.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/883202.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('7tuE')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('8WvEr')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/26057213.jpg", "content_type": "image/jpeg", "media_etag": "\"10/1/2011 7:08:19 AM\""
+}, "Id": "8WvEr", "Name": "Jakob the Liar", "ShortName": "Jakob the Liar", "Synopsis": "While detained at Nazi headquarters, Jewish shopkeeper Jakob (Robin Williams) overhears a broadcast about Soviet troop advances. Back in the Warsaw ghetto, Jakob shares the news with his friend Mischa (Liev Schreiber), who believes Jakob has obtained a radio -- something the Nazis have forbidden. Instead of explaining what really happened, Jakob concocts more fictitious news about the war to raise morale in the ghetto.", "ShortSynopsis": "In the Warsaw ghetto, Jewish shopkeeper Jakob lies to friends that he has a radio, which is forbidden by the Nazis, and invents news to raise morale.", "AverageRating": 3.6, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/Jakob_the_Liar/26057213", "Runtime": 7200, "Rating": "PG-13", "DateModified": "\/Date(1317452899000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/26057213", "TinyUrl": "http://movi.es/8WvEr", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/26057213.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/26057213.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/26057213.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(953596800000)\/", "AvailableTo": null, "Rating": "PG-13", "Runtime": 7200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8WvEr')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApOKF')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/60011599.jpg", "content_type": "image/jpeg", "media_etag": "\"5/25/2011 7:09:34 AM\""
+}, "Id": "ApOKF", "Name": "Yentl", "ShortName": "Yentl", "Synopsis": "Based on Isaac Bashevis Singer's story, this Oscar-winning musical stars Barbra Streisand as Yentl, the bookish daughter of a Talmud teacher who instructs her even though it's forbidden to teach the sacred text to girls. Determined to continue her schooling after her father dies, Yentl disguises herself as a boy to gain entry to a yeshiva. There, she meets the brilliant Avigdor (Mandy Patinkin), who only has eyes for Hadass (Amy Irving).", "ShortSynopsis": "This Oscar-winning musical stars Barbra Streisand as the daughter of a Talmud teacher who disguises herself as a boy to gain entry to a yeshiva.", "AverageRating": 3.5, "ReleaseYear": 1983, "Url": "http://www.netflix.com/Movie/Yentl/60011599", "Runtime": 7920, "Rating": "PG", "DateModified": "\/Date(1306307374000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60011599", "TinyUrl": "http://movi.es/ApOKF", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/60011599.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/60011599.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/60011599.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1233619200000)\/", "AvailableTo": null, "Rating": "PG", "Runtime": 7920
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApOKF')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApRo1')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/60024977.jpg", "content_type": "image/jpeg", "media_etag": "\"5/23/2011 6:18:11 PM\""
+}, "Id": "ApRo1", "Name": "The Grey Zone", "ShortName": "The Grey Zone", "Synopsis": "Based on actual events, this is the staggeringly powerful story of Auschwitz's 12th Sonderkommando -- one of 13 \"special squads\" of Jewish prisoners forced by the Nazis to help exterminate fellow Jews in exchange for a few more months of life. Written and directed by Tim Blake Nelson, the film features a first-rate ensemble cast, including Steve Buscemi, Harvey Keitel, David Arquette and Mira Sorvino.", "ShortSynopsis": "Based on actual events, this is the staggeringly powerful story of Auschwitz's 12th Sonderkommando -- one of 13 \"special squads\" of Jewish prisoners forced by the Nazis to help exterminate fellow Jews in exchange for a few more months of life.", "AverageRating": 3.1, "ReleaseYear": 2001, "Url": "http://www.netflix.com/Movie/The_Grey_Zone/60024977", "Runtime": 6480, "Rating": "R", "DateModified": "\/Date(1306174691000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60024977", "TinyUrl": "http://movi.es/ApRo1", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/60024977.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/60024977.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/60024977.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1047945600000)\/", "AvailableTo": null, "Rating": "R", "Runtime": 6480
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRo1')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApSkx')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/60028631.jpg", "content_type": "image/jpeg", "media_etag": "\"4/15/2011 4:45:51 PM\""
+}, "Id": "ApSkx", "Name": "Esther", "ShortName": "Esther", "Synopsis": "Director Amos Gitai's feature starts as a low-budget retelling of the Old Testament tale of Esther, who saved the Jews from the manipulations of Haman. Slowly, documentary elements creep in. Jackhammers and sirens are heard in the background. A pivotal scene takes place at a modern junkyard as Gitai's true concerns become apparent and the actors break character to describe their own connections to the bigotry and conflict dramatized in the film.", "ShortSynopsis": null, "AverageRating": 2.2, "ReleaseYear": 1986, "Url": "http://www.netflix.com/Movie/Esther/60028631", "Runtime": 5760, "Rating": "NR", "DateModified": "\/Date(1302885951000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60028631", "TinyUrl": "http://movi.es/ApSkx", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/60028631.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/60028631.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/60028631.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1055548800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5760
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSkx')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApUIA')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/60034534.jpg", "content_type": "image/jpeg", "media_etag": "\"5/26/2011 7:10:22 AM\""
+}, "Id": "ApUIA", "Name": "Hiding and Seeking", "ShortName": "Hiding and Seeking", "Synopsis": "In this compelling documentary from the directors of the just-as-riveting A Life Apart: Hasidism in America, a father takes his grown-up Orthodox Jewish sons to Poland to teach them about the perils of putting up walls to keep those they deem dangerous outside. After he introduces them to the Polish family who helped their grandfather during the Holocaust, they discover the value in building bridges.", "ShortSynopsis": "A father takes his grown Orthodox Jewish sons to Poland to teach them about the perils of putting up walls to keep those they deem dangerous outside.", "AverageRating": 3.7, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Hiding_and_Seeking/60034534", "Runtime": 5100, "Rating": "NR", "DateModified": "\/Date(1306393822000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60034534", "TinyUrl": "http://movi.es/ApUIA", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/60034534.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/60034534.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/60034534.jpg", "HighDefinitionUrl": "http://cdn-4.nflximg.com/en_us/boxshots/ghd/60034534.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1102982400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1182988800000)\/", "AvailableTo": "\/Date(1369526400000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 5093
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUIA')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApUjN')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/60036221.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "ApUjN", "Name": "Divan", "ShortName": "Divan", "Synopsis": "Filmmaker Pearl Gluck returns to her Hungarian roots to find a couch that has been in her family for years. Through her clever and lighthearted quest to find the precious family heirloom, Gluck also undergoes a search for her true identity. Her intense, tenacious and sometimes ironic obsession with finding the beloved sofa provides a glimpse into her culture and why this particular piece of furniture means so much.", "ShortSynopsis": "Filmmaker Pearl Gluck returns to her Hungarian roots to find a couch that has been in her family for years. Through her clever and lighthearted quest to find the precious family heirloom, Gluck also undergoes a search for her true identity.", "AverageRating": 3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Divan/60036221", "Runtime": 4620, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60036221", "TinyUrl": "http://movi.es/ApUjN", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/60036221.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/60036221.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/60036221.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1127174400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4620
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUjN')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApUS6')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/60035150.jpg", "content_type": "image/jpeg", "media_etag": "\"2/2/2012 9:45:23 AM\""
+}, "Id": "ApUS6", "Name": "Artists of the 20th Century: Marc Chagall", "ShortName": "Artists of the 20th Century: Marc Chagall", "Synopsis": "Russian-born French painter Marc Chagall (1887-1985), famed for his fanciful, dreamlike paintings that are often steeped in Hasidic culture, refused to be categorized as a Surrealist. Color was what really governed the artist's compositions, along with the tug of memory (mostly of his small-town upbringing in Vitebsk). Part of the \"Artists of the 20th Century\" series that examines the life and work of major artists of the century.", "ShortSynopsis": "Russian-born French painter Marc Chagall (1887-1985), famed for his fanciful, dreamlike paintings that are often steeped in Hasidic culture, refused to be categorized as a Surrealist.", "AverageRating": 2.8, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Artists_of_the_20th_Century_Marc_Chagall/60035150", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1328175923000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60035150", "TinyUrl": "http://movi.es/ApUS6", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/60035150.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/60035150.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/60035150.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1078185600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUS6')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVaT2')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70068048.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVaT2", "Name": "I Am a Jerusalemite!", "ShortName": "I Am a Jerusalemite!", "Synopsis": "Although born in Jerusalem, legendary singer Yehoram Gaon was, like all Jews, forbidden from entering most of the city until the 1967 reunification. This fascinating documentary follows Gaon's exploration of his city, from his grandfather's simple home to the Western Wall and the Old City's open markets. Along the way, he performs eight of his most-loved songs that pay tribute to his birthplace.", "ShortSynopsis": null, "AverageRating": 2.3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/I_Am_a_Jerusalemite/70068048", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70068048", "TinyUrl": "http://movi.es/BVaT2", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70068048.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70068048.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70068048.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1179187200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaT2')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVcRc')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70075648.jpg", "content_type": "image/jpeg", "media_etag": "\"2/8/2012 7:30:41 PM\""
+}, "Id": "BVcRc", "Name": "The Five Books of Moses", "ShortName": "The Five Books of Moses", "Synopsis": "Bringing the Scriptures to life, this presentation provides dramatized accounts of the events of the first five books of the Hebrew Bible -- Genesis, Exodus, Leviticus, Numbers and Deuteronomy -- long held to have been recorded by Moses. From the story of the Creation through the Israelites' journey into the promised land, the film brings historical and religious insight to these often-told tales.", "ShortSynopsis": "Bringing the Scriptures to life, this presentation provides dramatized accounts of the events of the first five books of the Hebrew Bible -- Genesis, Exodus, Leviticus, Numbers and Deuteronomy -- long held to have been recorded by Moses.", "AverageRating": 2.6, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/The_Five_Books_of_Moses/70075648", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1328729441000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70075648", "TinyUrl": "http://movi.es/BVcRc", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70075648.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70075648.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70075648.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1188259200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRc')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVeHC')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70082690.jpg", "content_type": "image/jpeg", "media_etag": "\"2/2/2012 10:10:26 PM\""
+}, "Id": "BVeHC", "Name": "Hitler's Jewish Soldiers", "ShortName": "Hitler's Jewish Soldiers", "Synopsis": "Though Nazi law proclaimed anyone who was one-quarter Jewish to be a Jew, many mixed-lineage men were proud patriots who were drafted into the German army. This harrowing documentary follows four such soldiers. Larry Price's fascinating film explores the complicated challenges faced by this quartet and paints a devastating portrait of the systematic destruction at the heart of Hitler's rule.", "ShortSynopsis": "Though Nazi law proclaimed anyone who was one-quarter Jewish to be a Jew, many mixed-lineage men were proud patriots who were drafted into the German army. This harrowing documentary follows four such soldiers.", "AverageRating": 2.9, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Hitler_s_Jewish_Soldiers/70082690", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1328220626000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70082690", "TinyUrl": "http://movi.es/BVeHC", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70082690.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70082690.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70082690.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1196121600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeHC')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVeIh')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70082783.jpg", "content_type": "image/jpeg", "media_etag": "\"5/20/2011 5:18:44 AM\""
+}, "Id": "BVeIh", "Name": "The Ritchie Boys", "ShortName": "The Ritchie Boys", "Synopsis": "This compelling documentary recounts the story of 10 Jewish intellectuals who were expelled from Nazi Germany, only to return during World War II to use their intimate knowledge of the country to wreak psychological havoc on Hitler's Nazi forces. Trained at Maryland's Camp Ritchie, these German refugees were a strange sight in the U.S. Army, but their contributions to the war effort were heroic and invaluable.", "ShortSynopsis": "A group of 10 Jewish refugees are trained by the U.S. Army and return to Nazi Germany to wreak psychological havoc during World War II.", "AverageRating": 3.7, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/The_Ritchie_Boys/70082783", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1305868724000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70082783", "TinyUrl": "http://movi.es/BVeIh", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70082783.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70082783.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70082783.jpg", "HighDefinitionUrl": "http://cdn-3.nflximg.com/en_us/boxshots/ghd/70082783.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1195516800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1201824000000)\/", "AvailableTo": "\/Date(1351641600000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 5564
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeIh')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVeO6')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70083118.jpg", "content_type": "image/jpeg", "media_etag": "\"5/23/2011 4:58:41 AM\""
+}, "Id": "BVeO6", "Name": "Yiddish Theater: A Love Story", "ShortName": "Yiddish Theater: A Love Story", "Synopsis": "Following the passionate work of Zypora Spaisman, proprietor of the longest-running Yiddish theater in America, acclaimed Israeli director Dan Katzir traces the roots of Yiddish theater and its evolution. Spaisman's devotion to preserving the heritage of this art form while updating it for modern audiences has kept her Lower East Side stage alive and inspired new generations to continue her legacy.", "ShortSynopsis": "Following the passionate work of Zypora Spaisman, proprietor of the longest-running Yiddish theater in America, acclaimed Israeli director Dan Katzir traces the roots of Yiddish theater and its evolution.", "AverageRating": 3.3, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Yiddish_Theater_A_Love_Story/70083118", "Runtime": 4800, "Rating": "NR", "DateModified": "\/Date(1306126721000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70083118", "TinyUrl": "http://movi.es/BVeO6", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70083118.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70083118.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70083118.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeO6')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVgIC')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70090440.jpg", "content_type": "image/jpeg", "media_etag": "\"1/20/2011 11:23:24 PM\""
+}, "Id": "BVgIC", "Name": "The Island on Bird Street", "ShortName": "The Island on Bird Street", "Synopsis": "Amidst the Nazi occupation of Poland, 11-year old Alex (Jordan Kiziuk) is separated from his family and finds shelter in an abandoned house. Kept company by a mouse and comforted by his father's (Patrick Bergin) promise to find him, Alex finds strength by reading <i>Robinson Crusoe</i>. With a loft as his secret-hideaway home base, Alex puts his survival skills to the test while dodging the Nazis. This award-winning drama is based on a true story.", "ShortSynopsis": "An 11-year old Polish boy must learn to survive by himself while hiding in a deserted building to elude the Nazis who've invaded his Jewish ghetto.", "AverageRating": 3.8, "ReleaseYear": 1997, "Url": "http://www.netflix.com/Movie/The_Island_on_Bird_Street/70090440", "Runtime": 6120, "Rating": "PG-13", "DateModified": "\/Date(1295565804000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70090440", "TinyUrl": "http://movi.es/BVgIC", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70090440.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70090440.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70090440.jpg", "HighDefinitionUrl": "http://cdn-0.nflximg.com/en_us/boxshots/ghd/70090440.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1207008000000)\/", "AvailableTo": null, "Rating": "PG-13", "Runtime": 6120
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1293753600000)\/", "AvailableTo": "\/Date(1341014400000)\/", "HighDefinitionAvailable": false, "Rating": "PG-13", "Runtime": 6191
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgIC')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVhdj')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70095619.jpg", "content_type": "image/jpeg", "media_etag": "\"10/27/2011 6:12:56 PM\""
+}, "Id": "BVhdj", "Name": "I'm Still Here", "ShortName": "I'm Still Here", "Synopsis": "Zach Braff, Ryan Gosling, Kate Hudson, Brittany Murphy, Joaquin Phoenix and Elijah Wood lend their voices to this moving documentary with an original soundtrack by Moby that honors young people who suffered the horrors of the holocaust. Blending archival film footage and photos with firsthand accounts from the diaries of young Jews, the film re-creates the tumultuous emotional journeys of their collective experience.", "ShortSynopsis": "Zach Braff, Ryan Gosling, Kate Hudson, Brittany Murphy, Joaquin Phoenix and Elijah Wood lend their voices to this moving documentary with an original soundtrack by Moby that honors young people who suffered the horrors of the holocaust.", "AverageRating": 3.3, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/I_m_Still_Here/70095619", "Runtime": 2880, "Rating": "NR", "DateModified": "\/Date(1319739176000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70095619", "TinyUrl": "http://movi.es/BVhdj", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70095619.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70095619.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70095619.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1208217600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2880
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhdj')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70094679.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVhOZ", "Name": "Bubbe Meises: Bubbe Stories", "ShortName": "Bubbe Meises: Bubbe Stories", "Synopsis": "In this one-person musical tribute, a woman recalls the wise and witty anecdotes she heard from her two Jewish grandmothers while growing up. Bubbe Gittie emphasized caring for others, while Bubbe Annie championed living life to its fullest. Starring the talented Ellen Gould, the Emmy Award-winning program will bring a smile to your face and touch your heart.", "ShortSynopsis": "In this one-person musical tribute, a woman recalls the wise and witty anecdotes she heard from her two Jewish grandmothers while growing up. Bubbe Gittie emphasized caring for others, while Bubbe Annie championed living life to its fullest.", "AverageRating": 2.3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Bubbe_Meises_Bubbe_Stories/70094679", "Runtime": 4500, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70094679", "TinyUrl": "http://movi.es/BVhOZ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70094679.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70094679.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70094679.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1208822400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4500
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhOZ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVi9x')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70097617.jpg", "content_type": "image/jpeg", "media_etag": "\"9/17/2010 3:40:49 PM\""
+}, "Id": "BVi9x", "Name": "A Taste of Passover", "ShortName": "A Taste of Passover", "Synopsis": "Featuring ancient and contemporary songs such as \"Der Bekher,\" \"Seder Plate Round\" and \"Chad Gadya,\" this cultural extravaganza -- recorded at the New England Conservatory's Jordan Hall --celebrates the time-honored Jewish customs of Passover. With venerated Broadway star Theodore Bikel serving as host, the video also features witty observations by humorist Moshe Waldoks and a demonstration of how to make matzo balls.", "ShortSynopsis": "Featuring ancient and contemporary songs such as \"Der Bekher,\" \"Seder Plate Round\" and \"Chad Gadya,\" this cultural extravaganza -- recorded at the New England Conservatory's Jordan Hall --celebrates the time-honored Jewish customs of Passover.", "AverageRating": 2.6, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/A_Taste_of_Passover/70097617", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1284738049000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70097617", "TinyUrl": "http://movi.es/BVi9x", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70097617.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70097617.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70097617.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(883612800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVi9x')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViOr')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70098541.jpg", "content_type": "image/jpeg", "media_etag": "\"1/26/2012 9:50:13 AM\""
+}, "Id": "BViOr", "Name": "Secrets of the Dead: Escape from Auschwitz", "ShortName": "Secrets of the Dead: Escape from Auschwitz", "Synopsis": "This compelling documentary uncovers the amazing story of two young Slovak Jews, Rudolph Vrba and Alfred Wetzler, who managed to escape Auschwitz and wake up the world with their account of what went on in the death camps. Holocaust horrors are common knowledge today, but at the time, the atrocities committed by the Nazis behind the gates of concentration camps were among the most closely kept secrets of the Third Reich.", "ShortSynopsis": "This compelling documentary uncovers the amazing story of two young Slovak Jews, Rudolph Vrba and Alfred Wetzler, who managed to escape Auschwitz and wake up the world with their account of what went on in the death camps.", "AverageRating": 3.5, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Secrets_of_the_Dead_Escape_from_Auschwitz/70098541", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1327571413000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098541", "TinyUrl": "http://movi.es/BViOr", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70098541.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70098541.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70098541.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1211846400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViOr')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViTv')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70098855.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BViTv", "Name": "A Little Family Conversation", "ShortName": "A Little Family Conversation", "Synopsis": "Directed by French actress Helene Lapiower, this fascinating documentary chronicles a seven-year odyssey into her family's Jewish roots and history, including their emigration from Poland to France decades before. More than a mere family album, the film raises broader cultural and religious questions: How is a family's sense of itself transmitted from generation to generation? How do its religious beliefs change over time?", "ShortSynopsis": "Directed by French actress Helene Lapiower, this fascinating documentary chronicles a seven-year odyssey into her family's Jewish roots and history, including their emigration from Poland to France decades before.", "AverageRating": 2.1, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/A_Little_Family_Conversation/70098855", "Runtime": 4140, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098855", "TinyUrl": "http://movi.es/BViTv", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70098855.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70098855.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70098855.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4140
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViTv')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVk1n')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70104799.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:23:04 PM\""
+}, "Id": "BVk1n", "Name": "Miracle of Survival", "ShortName": "Miracle of Survival", "Synopsis": "Chronicling the events surrounding the birth of the state of Israel in 1948, this documentary also includes the horrific events in Europe that sparked the nation's founding and the overwhelming regional hostility that it confronted. Director Larry Frisch explores the military prowess and innovative solutions to environmental and other challenges that have helped Israel flourish. Actor Steven Hill narrates.", "ShortSynopsis": "Chronicling the events surrounding the birth of the state of Israel in 1948, this documentary also includes the horrific events in Europe that sparked the nation's founding and the overwhelming regional hostility that it confronted.", "AverageRating": 2.5, "ReleaseYear": 1970, "Url": "http://www.netflix.com/Movie/Miracle_of_Survival/70104799", "Runtime": 4980, "Rating": "NR", "DateModified": "\/Date(1328901784000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70104799", "TinyUrl": "http://movi.es/BVk1n", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70104799.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70104799.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70104799.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1219708800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4980
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVk1n')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVl3m')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70108766.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVl3m", "Name": "The Last Klezmer", "ShortName": "The Last Klezmer", "Synopsis": "Filmmaker Yale Strom chronicles the inspiring journey of Leopold Kozlowski, a Ukrainian-born holocaust survivor whose passion for Jewish klezmer music -- a lively blend of liturgical and folk music -- has kept the disappearing musical genre alive. Featuring interviews with Kozlowski and following him on a moving visit to his hometown, the film celebrates both traditional klezmer music and the still-vibrant musician's devotion to preserving it.", "ShortSynopsis": "Filmmaker Yale Strom chronicles the inspiring journey of Leopold Kozlowski, a Ukrainian-born holocaust survivor whose passion for Jewish klezmer music -- a lively blend of liturgical and folk music -- has kept the disappearing musical genre alive.", "AverageRating": 2.5, "ReleaseYear": 1994, "Url": "http://www.netflix.com/Movie/The_Last_Klezmer/70108766", "Runtime": 5100, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70108766", "TinyUrl": "http://movi.es/BVl3m", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70108766.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70108766.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70108766.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl3m')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVlWb')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70110553.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVlWb", "Name": "The First Basket", "ShortName": "The First Basket", "Synopsis": "Filmmaker David Vyorst examines the link between basketball and Jewish culture, starting in 1946 with the first basket ever made in a professional game by Ossie Schectman of the New York Knickerbockers. The film explains why this uniquely American sport became a melting pot for Jewish immigrants in the early 20th century, and how the development of pro basketball leagues was intertwined with the emerging Jewish community.", "ShortSynopsis": "Filmmaker David Vyorst examines the link between basketball and Jewish culture, starting in 1946 with the first basket ever made in a professional game by Ossie Schectman of the New York Knickerbockers.", "AverageRating": 3, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/The_First_Basket/70110553", "Runtime": 5160, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70110553", "TinyUrl": "http://movi.es/BVlWb", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70110553.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70110553.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70110553.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1246320000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5160
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlWb')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVm9c')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70112972.jpg", "content_type": "image/jpeg", "media_etag": "\"2/7/2012 8:22:12 PM\""
+}, "Id": "BVm9c", "Name": "Frontline: Shtetl", "ShortName": "Frontline: Shtetl", "Synopsis": "Director Marian Marzynski follows a Polish-American Holocaust survivor as he journeys back to his ancestral village in Bransk, Poland, from where thousands of Jews were sent to their deaths in concentration camps during World War II. When the survivor visits a Jewish cemetery and other haunting locales of his youth, he also encounters former gentile neighbors and confronts the still-potent legacy of that horrific era.", "ShortSynopsis": "Director Marian Marzynski follows a Polish-American Holocaust survivor as he journeys back to his ancestral village in Bransk, Poland, from where thousands of Jews were sent to their deaths in concentration camps during World War II.", "AverageRating": 3, "ReleaseYear": 1996, "Url": "http://www.netflix.com/Movie/Frontline_Shtetl/70112972", "Runtime": 10800, "Rating": "NR", "DateModified": "\/Date(1328646132000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70112972", "TinyUrl": "http://movi.es/BVm9c", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70112972.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70112972.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70112972.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1237248000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 10800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm9c')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVmJn')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70113603.jpg", "content_type": "image/jpeg", "media_etag": "\"5/25/2011 1:02:01 AM\""
+}, "Id": "BVmJn", "Name": "Yentl: Bonus Material", "ShortName": "Yentl: Bonus Material", "Synopsis": "The bonus material for this award winning film includes \"The Director's Reel,\" \"Where is it Written? Original Rehearsal Concept,\" \"Where is it Written Rehearsal/Feature Comparison,\" \"No Wonder - Reprise Pre-Rehearsal/Feature Comparison,\" storyboard sequences, stills galleries, trailers and so much more!", "ShortSynopsis": null, "AverageRating": 3.7, "ReleaseYear": 1983, "Url": "http://www.netflix.com/Movie/Yentl_Bonus_Material/70113603", "Runtime": 3900, "Rating": "NR", "DateModified": "\/Date(1306285321000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70113603", "TinyUrl": "http://movi.es/BVmJn", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70113603.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70113603.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70113603.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1233619200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3900
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmJn')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVmpN')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70115561.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVmpN", "Name": "K*ke Like Me", "ShortName": "K*ke Like Me", "Synopsis": "By throwing back at the world the question so often asked him -- Are you Jewish? -- filmmaker Jamie Kastner confronts issues of identity and what it means to be an outsider as he travels to London, Paris, Berlin and Jerusalem for answers. From a chat with conservative pundit Patrick J. Buchanan to a street interview with Arab residents of suburban Paris, Kastner's self-described \"black comedy road movie\" sheds a new light on identity politics.", "ShortSynopsis": "By throwing back at the world the question so often asked him -- Are you Jewish? -- filmmaker Jamie Kastner confronts issues of identity and what it means to be an outsider as he travels to London, Paris, Berlin and Jerusalem for answers.", "AverageRating": 2.8, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/K_ke_Like_Me/70115561", "Runtime": 5160, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70115561", "TinyUrl": "http://movi.es/BVmpN", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70115561.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70115561.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70115561.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1240876800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5160
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmpN')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVNxL')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70019955.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVNxL", "Name": "Shanghai Ghetto", "ShortName": "Shanghai Ghetto", "Synopsis": "Actor Martin Landau narrates this riveting documentary about Shanghai's little-known Jewish ghetto, settled in the 1930s by Jews who fled Nazi Germany. The filmmakers head to Shanghai with two ex-residents, who relate tales of life in the squalid enclave. Through interviews, letters, archival and modern-day footage, and family photos, the saga chronicles the survivors' escape, relocation, life in Shanghai and ultimate exodus to the United States.", "ShortSynopsis": "Actor Martin Landau narrates this documentary about Shanghai's little-known Jewish ghetto, settled in the 1930s by Jews who fled Nazi Germany.", "AverageRating": 3.6, "ReleaseYear": 2002, "Url": "http://www.netflix.com/Movie/Shanghai_Ghetto/70019955", "Runtime": 5700, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70019955", "TinyUrl": "http://movi.es/BVNxL", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70019955.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70019955.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70019955.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1106611200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5700
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxL')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVoQH')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70121693.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:23:04 PM\""
+}, "Id": "BVoQH", "Name": "Old Jews Telling Jokes", "ShortName": "Old Jews Telling Jokes", "Synopsis": "The title doesn't lie: This release really is a collection of \"old Jews telling jokes.\" But it's also a vibrant record of a charming brand of bawdy humor that's specific -- and unique -- to the Jewish culture. The everyday comedians in director Sam Hoffman's spirited homage to older folks' jokes from days gone by include a wine salesman and a garment worker as well as the requisite doctors, lawyers and other retired professionals.", "ShortSynopsis": "The title doesn't lie: This release really is a collection of \"old Jews telling jokes.\" But it's also a vibrant record of a charming brand of bawdy humor that's specific -- and unique -- to the Jewish culture.", "AverageRating": 3, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Old_Jews_Telling_Jokes/70121693", "Runtime": 2640, "Rating": "NR", "DateModified": "\/Date(1328901784000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70121693", "TinyUrl": "http://movi.es/BVoQH", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70121693.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70121693.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70121693.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1252972800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2640
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoQH')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVs3L')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70135647.jpg", "content_type": "image/jpeg", "media_etag": "\"4/20/2011 11:49:48 PM\""
+}, "Id": "BVs3L", "Name": "Playing for Time", "ShortName": "Playing for Time", "Synopsis": "When Jewish songstress Fania F\u00e9nelon (Vanessa Redgrave) is plucked from the stage and sent to Auschwitz, she and other musicians find themselves assigned to a terrible task: using their talents to soothe fellow prisoners who are sentenced to die in the gas chambers. Daniel Mann directs this Emmy-winning television movie based on F\u00e9nelon's autobiography; famed playwright Arthur Miller penned the script.", "ShortSynopsis": "When Jewish songstress Fania F\u00e9nelon is plucked from the stage and sent to Auschwitz, she and other musicians find themselves assigned to a terrible task: using their talents to soothe fellow prisoners who are sentenced to die in the gas chambers.", "AverageRating": 3.8, "ReleaseYear": 1980, "Url": "http://www.netflix.com/Movie/Playing_for_Time/70135647", "Runtime": 9000, "Rating": "NR", "DateModified": "\/Date(1303343388000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70135647", "TinyUrl": "http://movi.es/BVs3L", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70135647.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70135647.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70135647.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1283817600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVs3L')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVTNP')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70040791.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVTNP", "Name": "Israel in Songs", "ShortName": "Israel in Songs", "Synopsis": "Director Arik Lebovich takes viewers on a visual journey through Israel in this compelling documentary, set to a soundtrack of 35 folk, religious and modern songs sung in Hebrew by Israelis. Stops along the way include the Dead Sea, Red Sea and Mediterranean coasts; the Western Wall; the green mountains and hills of the north; and the urban landscapes of the country's four largest cities: Jerusalem, Tel Aviv, Haifa and Be'er Sheva.", "ShortSynopsis": null, "AverageRating": 2.6, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Israel_in_Songs/70040791", "Runtime": 5100, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70040791", "TinyUrl": "http://movi.es/BVTNP", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70040791.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70040791.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70040791.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1135036800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTNP')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVVBq')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70047762.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVVBq", "Name": "Glamour", "ShortName": "Glamour", "Synopsis": "The sweep of 100 years of history is seen through the experience of a prosperous Hungarian-Jewish family, the Vendels, in this fragmented drama. From an Orthodox Passover celebration after World War I, the triumphs and heartaches of the family play out against subsequent Nazi invasions and Communist incursions. Koroly Eperjes and Eszter Onodi star. Frigyes Godros directed this autobiographical film as a tribute to his indomitable parents.", "ShortSynopsis": null, "AverageRating": 2.1, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Glamour/70047762", "Runtime": 6600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70047762", "TinyUrl": "http://movi.es/BVVBq", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70047762.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70047762.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70047762.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1148947200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVBq')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVVqp')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70050303.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVVqp", "Name": "Dudu Fisher's Kindergarten: The Friendship Trip", "ShortName": "Dudu Fisher: The Friendship Trip", "Synopsis": "Broadway star and celebrated Israeli cantor Dudu Fisher plays a singing kindergarten teacher who leads children on an outdoor adventure that celebrates the joy of music while also exploring the essence of religion. The glories of nature set the stage for learning as Fisher shares with young viewers some important lessons about Judaism and life itself. Filled with stories and catchy tunes, this program promises fun while teaching values.", "ShortSynopsis": null, "AverageRating": 2, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Dudu_Fisher_s_Kindergarten_The_Friendship_Trip/70050303", "Runtime": 2460, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70050303", "TinyUrl": "http://movi.es/BVVqp", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70050303.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70050303.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70050303.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1149552000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2460
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVqp')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVVXI')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70049092.jpg", "content_type": "image/jpeg", "media_etag": "\"9/9/2010 6:33:27 PM\""
+}, "Id": "BVVXI", "Name": "Dudu Fisher's Kindergarten", "ShortName": "Dudu Fisher's Kindergarten", "Synopsis": "Actor and Israeli cantor David \"Dudu\" Fisher plays the part of a kindergarten teacher in this enchanting musical program designed to impart important lessons in Jewish history and values. Suitable for use in orthodox schools or at home, the program invites youngsters to sing along to 13 catchy tunes that emphasize kindness, respect and friendship. And with engaging games and stories interwoven with the music, learning has never been so much fun.", "ShortSynopsis": null, "AverageRating": 2.2, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Dudu_Fisher_s_Kindergarten/70049092", "Runtime": 2100, "Rating": "NR", "DateModified": "\/Date(1284057207000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70049092", "TinyUrl": "http://movi.es/BVVXI", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70049092.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70049092.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70049092.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1148342400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVXI')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVX07')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70054723.jpg", "content_type": "image/jpeg", "media_etag": "\"5/20/2011 5:18:44 AM\""
+}, "Id": "BVX07", "Name": "Steal a Pencil for Me", "ShortName": "Steal a Pencil for Me", "Synopsis": "Director Mich&#232;le Ohayon's moving documentary chronicles the unshakeable romance between Jack Polak and Ina Soep of Amsterdam, who met and fell in love despite their deportation to Nazi concentration camps during the war. As they corresponded with love letters composed on any scrap of paper they could find, the couple's blossoming relationship coincided with the horrors of the Holocaust and their internment in Westerbork and Bergen-Belsen.", "ShortSynopsis": "This moving documentary chronicles the unshakeable romance between a couple who met and fell in love while imprisoned in a Nazi concentration camp.", "AverageRating": 3.7, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Steal_a_Pencil_for_Me/70054723", "Runtime": 5640, "Rating": "NR", "DateModified": "\/Date(1305868724000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70054723", "TinyUrl": "http://movi.es/BVX07", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70054723.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70054723.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70054723.jpg", "HighDefinitionUrl": "http://cdn-3.nflximg.com/en_us/boxshots/ghd/70054723.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1197331200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5640
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1197331200000)\/", "AvailableTo": "\/Date(4102444800000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 5665
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVX07')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVXcT')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70057101.jpg", "content_type": "image/jpeg", "media_etag": "\"10/30/2011 7:14:36 AM\""
+}, "Id": "BVXcT", "Name": "One Night with the King", "ShortName": "One Night with the King", "Synopsis": "This amazing biblical drama chronicles the brave and historic legend of Hadassah (Tiffany Dupont), a Jewish orphan with exceptional beauty who rises to become Queen Esther of Persia and saves Persian Jews from genocide. By revealing her heritage to the king, Esther thwarts the evil prime minister's plan to annihilate all Jews in the Persian Empire. The annual festival of Purim is inspired by her heroism.", "ShortSynopsis": "This biblical drama chronicles the brave and historic legend of Hadassah, a Jewish orphan with exceptional beauty who rises to become Queen Esther.", "AverageRating": 3.7, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/One_Night_with_the_King/70057101", "Runtime": 6000, "Rating": "PG", "DateModified": "\/Date(1319958876000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70057101", "TinyUrl": "http://movi.es/BVXcT", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70057101.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70057101.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70057101.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1170115200000)\/", "AvailableTo": null, "Rating": "PG", "Runtime": 6000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXcT')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVYUG')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70060436.jpg", "content_type": "image/jpeg", "media_etag": "\"5/1/2011 3:17:07 AM\""
+}, "Id": "BVYUG", "Name": "Lies My Father Told Me", "ShortName": "Lies My Father Told Me", "Synopsis": "Growing up in a ghetto is tough on David, an 8-year-old Orthodox Jewish boy. His only real friend is his grandfather, who places great value on tradition. But David's father is anxious to assimilate, creating constant tension in the household.", "ShortSynopsis": "Growing up in a ghetto is tough on David, an 8-year-old Orthodox Jewish boy. His only real friend is his grandfather, who places great value on tradition. But David's father is anxious to assimilate, creating constant tension in the household.", "AverageRating": 3.5, "ReleaseYear": 1975, "Url": "http://www.netflix.com/Movie/Lies_My_Father_Told_Me/70060436", "Runtime": 6120, "Rating": "PG", "DateModified": "\/Date(1304219827000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70060436", "TinyUrl": "http://movi.es/BVYUG", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70060436.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70060436.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70060436.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "PG", "Runtime": 6120
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYUG')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVZzq')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70066238.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVZzq", "Name": "DNA and Torah", "ShortName": "DNA and Torah", "Synopsis": "Dr. Gene Lavers, a New York University professor who studies the relationship between genetic code and Jewish law, leads this thought-provoking discussion about the connections between the four types of nucleic acids found in DNA and the 22 letters of the Hebrew alphabet found in the Torah. This lecture was originally released as part of a series exploring the Noahide movement, which considers the role of non-Jews in Judaism.", "ShortSynopsis": null, "AverageRating": 3.3, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/DNA_and_Torah/70066238", "Runtime": 3900, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70066238", "TinyUrl": "http://movi.es/BVZzq", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70066238.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70066238.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70066238.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3900
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZzq')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BW3FL')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70178675.jpg", "content_type": "image/jpeg", "media_etag": "\"11/14/2011 6:07:14 PM\""
+}, "Id": "BW3FL", "Name": "Jews and Baseball: An American Love Story", "ShortName": "Jews and Baseball: An American Love Story", "Synopsis": "Actor Dustin Hoffman narrates this decade-spanning documentary that highlights the contributions of Jewish Americans to the most American sport of them all: baseball. Highlights include a rare interview with legendary pitcher Sandy Koufax.", "ShortSynopsis": "This decade-spanning documentary highlights the contributions of Jewish Americans to the most American sport of them all: baseball.", "AverageRating": 3.4, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/Jews_and_Baseball_An_American_Love_Story/70178675", "Runtime": 5460, "Rating": "NR", "DateModified": "\/Date(1321294034000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70178675", "TinyUrl": "http://movi.es/BW3FL", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70178675.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70178675.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70178675.jpg", "HighDefinitionUrl": "http://cdn-5.nflximg.com/en_us/boxshots/ghd/70178675.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5460
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1306195200000)\/", "AvailableTo": "\/Date(1337817600000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 5445
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW3FL')/Seasons"
+}
+}
+}
+]
+}
+}

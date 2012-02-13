@@ -1,0 +1,1299 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/7775192.jpg", "content_type": "image/jpeg", "media_etag": "\"5/6/2011 9:26:09 PM\""
+}, "Id": "1Ca8e", "Name": "Tenchi the Movie: Tenchi Muy\u00f4! In Love", "ShortName": "Tenchi the Movie: Tenchi Muy\u00f4! In Love", "Synopsis": "In this first feature film of the animated franchise, Tenchi and company find their lives disrupted by the time-traveling entity Kain, who escapes from subspace and threatens revenge upon the Jurai royal family ... including its emperor, Tenchi. When Kain returns to 1970 to kill Tenchi's mother before she gives birth to him, Tenchi and friends follow -- but seeing his mom alive in the past soon opens old wounds.", "ShortSynopsis": "In this first feature film of the animated franchise, Tenchi and company find their lives disrupted by the time-traveling entity Kain, who escapes from subspace and threatens revenge upon the Jurai royal family... including its emperor, Tenchi.", "AverageRating": 3, "ReleaseYear": 1996, "Url": "http://www.netflix.com/Movie/Tenchi_the_Movie_Tenchi_Muyo_In_Love/7775192", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1304717169000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/7775192", "TinyUrl": "http://movi.es/1Ca8e", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/7775192.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/7775192.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/7775192.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('1Ca8e')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/22335786.jpg", "content_type": "image/jpeg", "media_etag": "\"5/6/2011 9:26:09 PM\""
+}, "Id": "8HJ7q", "Name": "Ninja Resurrection", "ShortName": "Ninja Resurrection", "Synopsis": "Get ready for a nightmarish journey through faith and betrayal as the infamous Jubei Yagyu wields his deadly blades against the forces of good and evil alike. When a group of rebel priests declares the religious rebel Shiro Amakusa the anti-Christ, Shogunate officials dispatch Jubei Yagyu to deal with the matter. To his horror, Jubei finds that the priests are right. Now, he must battle a horde of demons to destroy their satanic master.", "ShortSynopsis": "Get ready for a nightmarish journey through faith and betrayal as the infamous Jubei Yagyu wields his deadly blades against the forces of good and evil alike.", "AverageRating": 2.9, "ReleaseYear": 1998, "Url": "http://www.netflix.com/Movie/Ninja_Resurrection/22335786", "Runtime": 6000, "Rating": "NR", "DateModified": "\/Date(1304717169000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/22335786", "TinyUrl": "http://movi.es/8HJ7q", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/22335786.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/22335786.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/22335786.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(945129600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('8HJ7q')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApMBB')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/60003349.jpg", "content_type": "image/jpeg", "media_etag": "\"5/6/2011 9:26:09 PM\""
+}, "Id": "ApMBB", "Name": "Phantom Quest Corp: Perfect Collection", "ShortName": "Phantom Quest Corp: Perfect Collection", "Synopsis": "This Japanese anime compilation includes a quartet of whimsical adventures featuring redheaded klutz Ayaka Kisaragi. The freewheeling Ayaka loves to party hearty, but she's also the CEO of Phantom Quest, a company dedicated to dispatching paranormal pests. Helping her crack cases with finesse -- along with Ayaka's lipstick, which morphs into a magic saber -- is a formidable but madcap medley of cabalists.", "ShortSynopsis": null, "AverageRating": 3.1, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/Phantom_Quest_Corp_Perfect_Collection/60003349", "Runtime": 7200, "Rating": "NR", "DateModified": "\/Date(1304717169000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60003349", "TinyUrl": "http://movi.es/ApMBB", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/60003349.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/60003349.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/60003349.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApMBB')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApRe8')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/60024364.jpg", "content_type": "image/jpeg", "media_etag": "\"5/6/2011 9:26:09 PM\""
+}, "Id": "ApRe8", "Name": "Nightwalker #2: Eternal Darkness", "ShortName": "Nightwalker #2: Eternal Darkness", "Synopsis": "Vampire Hunter Shido finds himself with a beautiful young apprentice. But when she is seduced by a beautiful demon and reborn as a vampire, she becomes a pawn of detective-warrior Shido's oldest foe -- the ancient vampire who has stolen his memory. Can he save her from herself before it's too late? This video contains episodes 7-12 of the \"Nightwalker\" series.", "ShortSynopsis": "Vampire Hunter Shido finds himself with a beautiful young apprentice. But when she is seduced by a beautiful demon and reborn as a vampire, she becomes a pawn of detective-warrior Shido's oldest foe -- the ancient vampire who has stolen his memory.", "AverageRating": 3.3, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Nightwalker_2_Eternal_Darkness/60024364", "Runtime": 8880, "Rating": "NR", "DateModified": "\/Date(1304717169000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60024364", "TinyUrl": "http://movi.es/ApRe8", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/60024364.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/60024364.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/60024364.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8880
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRe8')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVbtg')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70073544.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVbtg", "Name": "The Naoyuki Tsuji Animaton Collection", "ShortName": "The Naoyuki Tsuji Animaton Collection", "Synopsis": "With a singular vision and distinct style, animator Naoyuki Tsuji is an artist unlike any other. At once crude yet elegant, his charcoal and pastel sketches captivate fans with their stark imagery. This collection of Tsuji's films captures the best and worst of the childhood imagination, moving from sublime fantasy to haunting nightmares. Selections include \"Trilogy About Clouds,\" \"Wake Up\" and \"Experiment.\"", "ShortSynopsis": "With a singular vision and distinct style, animator Naoyuki Tsuji is an artist unlike any other. At once crude yet elegant, his charcoal and pastel sketches captivate fans with their stark imagery.", "AverageRating": 1.8, "ReleaseYear": 1992, "Url": "http://www.netflix.com/Movie/The_Naoyuki_Tsuji_Animaton_Collection/70073544", "Runtime": 2820, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70073544", "TinyUrl": "http://movi.es/BVbtg", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70073544.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70073544.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70073544.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1185235200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2820
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVbtg')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVdKz')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70079081.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVdKz", "Name": "Hellsing Ultimate: Vol. 3", "ShortName": "Hellsing Ultimate: Vol. 3", "Synopsis": "At the behest of Integra, vampires Alucard and Seras join forces with the legendary Wild Geese mercenaries on a vital South American mission in this third action-packed volume of the popular anime series. Rogue bloodsuckers have nearly destroyed the Hellsing Organization in a devastating attack, and now, the Wild Geese are standing in for the operation's decimated fighting force as the crucial covert association works to rebuild itself.", "ShortSynopsis": "At the behest of Integra, vampires Alucard and Seras join forces with the legendary Wild Geese mercenaries on a vital South American mission in this third action-packed volume of the popular anime series.", "AverageRating": 4.1, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Hellsing_Ultimate_Vol._3/70079081", "Runtime": 2940, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70079081", "TinyUrl": "http://movi.es/BVdKz", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70079081.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70079081.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70079081.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1192492800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2940
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdKz')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVJHb')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70001991.jpg", "content_type": "image/jpeg", "media_etag": "\"5/20/2011 3:30:38 PM\""
+}, "Id": "BVJHb", "Name": "Tortured Souls: Animae Damnatae", "ShortName": "Tortured Souls: Animae Damnatae", "Synopsis": "Clive Barker's graphic novella serves as inspiration for this equally gruesome anime about goddesses and monsters battling it out for survival and relevance. With clashing motives, will they be able to co-exist in a chaotic and ruthless universe? Going head to head are the all-powerful Agonistes; the killing machine called Scyther-Meister; the maniacal medic, Talisac; the vengeful Lucidique; the murderous Venal Anatomica; and the baby Mongroid.", "ShortSynopsis": "Clive Barker's graphic novella serves as inspiration for this equally gruesome anime about goddesses and monsters battling it out for survival and relevance. With clashing motives, will they be able to co-exist in a chaotic and ruthless universe?", "AverageRating": 3.1, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Tortured_Souls_Animae_Damnatae/70001991", "Runtime": null, "Rating": "NR", "DateModified": "\/Date(1305905438000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70001991", "TinyUrl": "http://movi.es/BVJHb", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70001991.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70001991.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70001991.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJHb')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70010235.jpg", "content_type": "image/jpeg", "media_etag": "\"11/28/2011 8:12:00 AM\""
+}, "Id": "BVLQZ", "Name": "Vampire Wars", "ShortName": "Vampire Wars", "Synopsis": "When a CIA operative's corpse turns up in the Seine days after a terrorist attack on an Arizona NASA base, a French Secret Service agent senses a link between the incidents in this kinetic anime tale. Setting out to confirm his theory, he discovers that a famed Tinseltown actress may be the key to the mystery -- but with a cult of vampires after her blood, the G-man has his work cut out. The story is based on Kiyoshi Kasai's best-selling novel.", "ShortSynopsis": "When a CIA operative's body turns up in the Seine days after a terrorist attack in the U.S., a Secret Service agent senses the incidents are related.", "AverageRating": 2.7, "ReleaseYear": 1995, "Url": "http://www.netflix.com/Movie/Vampire_Wars/70010235", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1322467920000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70010235", "TinyUrl": "http://movi.es/BVLQZ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70010235.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70010235.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70010235.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLQZ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70010536.jpg", "content_type": "image/jpeg", "media_etag": "\"5/20/2011 3:31:23 PM\""
+}, "Id": "BVLVQ", "Name": "Tokyo Revelation", "ShortName": "Tokyo Revelation", "Synopsis": "Swords and sorcery and demonic attacks combine in this anime adventure that focuses on two childhood friends -- one a fey young man who's become part of a demonic conspiracy, the other the reincarnation of the guardian deity Masakado Taira. Now teens, the boys find themselves at odds when one comes to realize that the other is scheming to bring the Satan-like President Ose to power -- and will stop at nothing to accomplish that goal.", "ShortSynopsis": "Swords and sorcery and demonic attacks combine in this anime adventure that focuses on two childhood friends -- one a fey young man who's become part of a demonic conspiracy, the other the reincarnation of the guardian deity Masakado Taira.", "AverageRating": 2.6, "ReleaseYear": 1994, "Url": "http://www.netflix.com/Movie/Tokyo_Revelation/70010536", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1305905483000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70010536", "TinyUrl": "http://movi.es/BVLVQ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70010536.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70010536.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70010536.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVLVQ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVMAz')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70013113.jpg", "content_type": "image/jpeg", "media_etag": "\"7/28/2011 6:46:10 PM\""
+}, "Id": "BVMAz", "Name": "Blood: The Last Vampire", "ShortName": "Blood: The Last Vampire", "Synopsis": "In this anime horror romp, Saya is a secret slayer of demons who's sent undercover to a military base in Tokyo just before Halloween. Posing as a student, she discovers that her classmates are slowly being turned into shape-shifting vampires.", "ShortSynopsis": "A top-secret government agency sends half-vampire Saya to an American military base to root out a demon who's masquerading as a student.", "AverageRating": 3.5, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Blood_The_Last_Vampire/70013113", "Runtime": 2880, "Rating": "NR", "DateModified": "\/Date(1311878770000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70013113", "TinyUrl": "http://movi.es/BVMAz", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1259020800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2880
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70013113.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70013113.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70013113.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1111449600000)\/", "AvailableTo": null, "Rating": "UR", "Runtime": 2580
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVMAz')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVnyW')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70119972.jpg", "content_type": "image/jpeg", "media_etag": "\"6/20/2011 5:22:52 PM\""
+}, "Id": "BVnyW", "Name": "Death Note: Re-light: Visions of A God", "ShortName": "Death Note: Re-light: Visions of A God", "Synopsis": "From death god Ryuk's fascinating point of view, follow superintelligent high school student Light as he tries to evade genius Det. L and vanquish evil criminals with the Death Note, a powerful book that kills anyone whose name is written inside it. Featuring brand-new dialogue, music and scenes, this exhilarating redux offers fans of the popular anime series a fresh and exciting take on familiar events.", "ShortSynopsis": "From death god Ryuk's fascinating point of view, follow superintelligent high school student Light as he tries to evade genius Det. L and vanquish evil criminals with the Death Note, a powerful book that kills anyone whose name is written inside it.", "AverageRating": 3.9, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Death_Note_Re-light_Visions_of_A_God/70119972", "Runtime": 7800, "Rating": "NR", "DateModified": "\/Date(1308590572000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70119972", "TinyUrl": "http://movi.es/BVnyW", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70119972.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70119972.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70119972.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1245110400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnyW')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPFM')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70024916.jpg", "content_type": "image/jpeg", "media_etag": "\"10/1/2010 11:19:23 PM\""
+}, "Id": "BVPFM", "Name": "Pet Shop of Horrors", "ShortName": "Pet Shop of Horrors", "Synopsis": "When a string of deaths leads Detective Orcott to a strange little shop in Chinatown run by the enigmatic Count D, he discovers that the boutique specializes in weird and wonderful pets that seem to fit your specific emotional needs like a glove. But each strange critter comes with a strict contract regarding its care that the owner dare not break. These dark anime tales are told in the classic noir style.", "ShortSynopsis": "When a string of deaths leads Detective Orcott to a strange little shop in Chinatown run by the enigmatic Count D, he discovers that the boutique specializes in weird and wonderful pets that seem to fit your specific emotional needs like a glove.", "AverageRating": 3.6, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/Pet_Shop_of_Horrors/70024916", "Runtime": 7200, "Rating": "TV-14", "DateModified": "\/Date(1285975163000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70024916", "TinyUrl": "http://movi.es/BVPFM", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70024916.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70024916.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70024916.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1231804800000)\/", "AvailableTo": null, "Rating": "TV-14", "Runtime": 7200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPFM')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQb3')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70030105.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVQb3", "Name": "Baoh", "ShortName": "Baoh", "Synopsis": "This violent anime action flick centers on Ikuroo, a young man with a parasite called Baoh implanted into his brain by mad scientist Dr. Kasuminome, who works for an evil organization known as Doress. Though Baoh gives him immortality and the ability to transform into a fearsome beast when in distress, Ikuroo wants to avoid his fate as a pawn of Doress and tries to escape their grasp with some help from Sumire, a psychic young girl.", "ShortSynopsis": "This violent anime action flick centers on Ikuroo, a young man with a parasite called Baoh implanted into his brain by mad scientist Dr. Kasuminome, who works for an evil organization known as Doress.", "AverageRating": 3.1, "ReleaseYear": 1989, "Url": "http://www.netflix.com/Movie/Baoh/70030105", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70030105", "TinyUrl": "http://movi.es/BVQb3", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70030105.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70030105.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70030105.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQb3')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVV1e')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70047130.jpg", "content_type": "image/jpeg", "media_etag": "\"7/19/2011 7:56:30 PM\""
+}, "Id": "BVV1e", "Name": "Karas: The Prophecy", "ShortName": "Karas: The Prophecy", "Synopsis": "In a futuristic Tokyo, humans and spirits are sharing the same living space without realizing it, thanks in part to the guardian raven Karas and his masters, who maintain the precarious balance between both dimensions. But when a former Karas named Eko decides to challenge the system by seizing control, it's up to the entity Yurine, who represents the will of the Japanese people, to secure the future for humanity.", "ShortSynopsis": "In a futuristic Tokyo, humans and spirits share the same living space without realizing it, due in part to the guardian raven Karas and his masters.", "AverageRating": 3.7, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Karas_The_Prophecy/70047130", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1311105390000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70047130", "TinyUrl": "http://movi.es/BVV1e", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70047130.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70047130.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70047130.jpg", "HighDefinitionUrl": "http://cdn-0.nflximg.com/en_us/boxshots/ghd/70047130.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1145923200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1209600000000)\/", "AvailableTo": "\/Date(1343779200000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 4786
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVV1e')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVxxt')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70158373.jpg", "content_type": "image/jpeg", "media_etag": "\"8/17/2011 9:29:23 PM\""
+}, "Id": "BVxxt", "Name": "Vampire Knight Guilty: Vol. 1", "ShortName": "Vampire Knight Guilty: Vol. 1", "Synopsis": "Student Yuki Cross and her childhood friend Zero Kiryu serve an important function as part of the Disciplinary Committee at Cross Academy: to keep the Day Class students from discovering that the enchanting Night Class students are all vampires. While Yuki has an affinity for vampires and believes they can live together peacefully with humans, Zero regards the bloodsuckers as mortal enemies not to be trusted.", "ShortSynopsis": "Student Yuki Cross and her childhood friend Zero Kiryu serve an important function as part of the Disciplinary Committee at Cross Academy: to keep the Day Class students from discovering that the enchanting Night Class students are all vampires.", "AverageRating": 4.3, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Vampire_Knight_Guilty_Vol._1/70158373", "Runtime": 5760, "Rating": "NR", "DateModified": "\/Date(1313616563000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70158373", "TinyUrl": "http://movi.es/BVxxt", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70158373.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70158373.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70158373.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1302566400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5760
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVxxt')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BW1BP')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70170743.jpg", "content_type": "image/jpeg", "media_etag": "\"8/17/2011 9:29:27 PM\""
+}, "Id": "BW1BP", "Name": "Vampire Knight Guilty: Vol. 2", "ShortName": "Vampire Knight Guilty: Vol. 2", "Synopsis": "This sequel to the anime series \"Vampire Knight\" follows the exploits of inquisitive student Yuki Cross, a teen in charge of protecting the daytime students of Cross Academy, who don't know that the dangerous nighttime students are actually vampires. Yuki is also trying to preserve the little humanity left of her longtime friend Zero, who drank the blood of a vampire, even as she uncovers shocking truths about her family's tempestuous history.", "ShortSynopsis": "This sequel to the anime series \"Vampire Knight\" follows the exploits of inquisitive student Yuki Cross, a teen in charge of protecting the daytime students of Cross Academy, who don't know that the dangerous nighttime students are actually vampires.", "AverageRating": 4.4, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Vampire_Knight_Guilty_Vol._2/70170743", "Runtime": 5700, "Rating": "NR", "DateModified": "\/Date(1313616567000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70170743", "TinyUrl": "http://movi.es/BW1BP", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70170743.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70170743.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70170743.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1306800000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5700
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW1BP')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BWBfC')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70211030.jpg", "content_type": "image/jpeg", "media_etag": "\"12/14/2011 11:47:14 PM\""
+}, "Id": "BWBfC", "Name": "Chaos;Head: Season 1", "ShortName": "Chaos;Head: Season 1", "Synopsis": "In the inaugural season of this mind-warping anime series, paranoid computer geek Takumi starts to question his grip on reality when he finds himself stalked by sword-wielding femmes fatales and suspected by the cops for a gruesome murder.", "ShortSynopsis": "Computer geek Takumi questions his grip on reality when he finds himself stalked by sword-wielding femmes fatales and wanted by the cops for murder.", "AverageRating": 3.4, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Chaos_Head_Season_1/70211030", "Runtime": 18900, "Rating": "TV-14", "DateModified": "\/Date(1323906434000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70211030", "TinyUrl": "http://movi.es/BWBfC", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70211030.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70211030.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70211030.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "TV-14", "Runtime": 18900
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBfC')/Seasons"
+}
+}
+}
+]
+}
+}

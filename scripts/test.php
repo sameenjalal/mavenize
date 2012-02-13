@@ -14,8 +14,8 @@
 	 */
 
     // this is the URL path (note the lack of arguments.)
-    // $path = "http://api.netflix.com/catalog/titles";
-    $path = "http://api.netflix.com/catalog/titles/index";
+    $path = "http://api.netflix.com/catalog/titles";
+    //$$path = "http://api.netflix.com/catalog/titles/index";
 
     // Create the Signature object.
     $oauth = new OAuthSimple();

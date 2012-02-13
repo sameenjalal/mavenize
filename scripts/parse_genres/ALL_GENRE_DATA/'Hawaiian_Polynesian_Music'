@@ -1,0 +1,615 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('6c5A')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/576360.jpg", "content_type": "image/jpeg", "media_etag": "\"5/7/2011 3:28:54 AM\""
+}, "Id": "6c5A", "Name": "Hawaiian Rainbow", "ShortName": "Hawaiian Rainbow", "Synopsis": "Featuring traditional chants, percussion, ukulele and authentic hula, this documentary profiles the origins and practice of Hawaiian music. Musicologist Robert Mugge explores the ways traditional Hawaiian musicians have absorbed various outside influences such as the steel guitar and Christian hymns. Among the musicians featured are Raymond Kane, the Sam Bernard Trio, Vicky Holt Takamine and Makaha Sons of Ni'ihau.", "ShortSynopsis": null, "AverageRating": 2.8, "ReleaseYear": 1988, "Url": "http://www.netflix.com/Movie/Hawaiian_Rainbow/576360", "Runtime": 5100, "Rating": "NR", "DateModified": "\/Date(1304738934000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/576360", "TinyUrl": "http://movi.es/6c5A", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/576360.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/576360.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/576360.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('6c5A')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVekJ')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70084495.jpg", "content_type": "image/jpeg", "media_etag": "\"6/9/2011 4:49:29 PM\""
+}, "Id": "BVekJ", "Name": "Keali'i Reichel: Kukahi: Live in Concert", "ShortName": "Keali'i Reichel: Kukahi: Live in Concert", "Synopsis": "Maui native Keali'i Reichel shares his love and knowledge of Hawaiian music and culture in this performance filmed at Honolulu's Blaisdell Concert Hall. Beginning with a series of ancient chants and hula celebrating Hawaii's precontact era, the performance then segues to contemporary songs and dances about Hawaii's natural and living treasures. Guest Ben Vegas joins Reichel on \"Pua Nani\"; other tracks include \"E O Mai,\" \"Malie's Song\" and more.", "ShortSynopsis": "Maui native Keali'i Reichel shares his love and knowledge of Hawaiian music and culture in this performance filmed at Honolulu's Blaisdell Concert Hall.", "AverageRating": 3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Keali_i_Reichel_Kukahi_Live_in_Concert/70084495", "Runtime": 5580, "Rating": "NR", "DateModified": "\/Date(1307638169000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70084495", "TinyUrl": "http://movi.es/BVekJ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1212451200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5580
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70084495.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70084495.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70084495.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1199750400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5580
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVekJ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVjpd')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70104045.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVjpd", "Name": "Jake Shimabukuro: A Million Miles Away", "ShortName": "Jake Shimabukuro: A Million Miles Away", "Synopsis": "Hawaiian ukulele virtuoso Jake Shimabukuro provides an up-close and personal look at his process with this program that features performance footage, rehearsal clips and a glimpse of his pre-show routine during his 2004 Rainbow Tour. Songs include \"Heartbeat,\" \"Walking Down Rainhill,\" \"Crosscurrent,\" \"Blue Roses Falling,\" \"Touch,\" \"Tradewinds\" and more. The Devil's Strings Quartet accompanies Shimabukuro on three songs.", "ShortSynopsis": "Hawaiian ukulele virtuoso Jake Shimabukuro provides an up-close and personal look at his process with this program that features performance footage, rehearsal clips and a glimpse of his pre-show routine during his 2004 Rainbow Tour.", "AverageRating": 2.5, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Jake_Shimabukuro_A_Million_Miles_Away/70104045", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70104045", "TinyUrl": "http://movi.es/BVjpd", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70104045.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70104045.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70104045.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1218499200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpd')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVjpe')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70104046.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2011 9:16:39 AM\""
+}, "Id": "BVjpe", "Name": "Jake Shimabukuro: Play Loud Ukelele", "ShortName": "Jake Shimabukuro: Play Loud Ukelele", "Synopsis": "Get an inside look at Hawaiian ukulele virtuoso Jake Shimabukuro's remarkable music with this program featuring interviews, live performance footage, music videos and an instructional segment in which he demonstrates his spectacularly rapid fingers. Live song performances include \"Sunday Morning,\" \"Equator,\" \"Crazy G\" and several more; music videos include \"Toastman's Dilemma,\" \"Wish on My Star\" and \"Crosscurrent.\"", "ShortSynopsis": "Get an inside look at Hawaiian ukulele virtuoso Jake Shimabukuro's remarkable music with this program featuring interviews, live performance footage, music videos and an instructional segment in which he demonstrates his spectacularly rapid fingers.", "AverageRating": 2.7, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Jake_Shimabukuro_Play_Loud_Ukelele/70104046", "Runtime": 6000, "Rating": "NR", "DateModified": "\/Date(1297242999000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70104046", "TinyUrl": "http://movi.es/BVjpe", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70104046.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70104046.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70104046.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjpe')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPj9')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70026763.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVPj9", "Name": "Israel Kamakawiwo'ole: IZ: The Man Behind the Music", "ShortName": "The Man Behind the Music", "Synopsis": "Go backstage with legendary Hawaiian musician Israel Kamakawiwo'ole and discover the man behind the sweet voice and amazing ukelele technique in this biopic about the \"gentle giant\" whose untimely 1997 death at 38 was linked to his massive weight. The film combines historical footage, rare interviews, music videos and clips from some of Iz's best concerts to document the brief life of this talented performer.", "ShortSynopsis": "Go backstage with legendary Hawaiian musician Israel Kamakawiwo'ole and discover the man behind the sweet voice and amazing ukelele technique in this biopic about the \"gentle giant\" whose untimely 1997 death at 38 was linked to his massive weight.", "AverageRating": 3.3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Israel_Kamakawiwo_ole_IZ_The_Man_Behind_the_Music/70026763", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70026763", "TinyUrl": "http://movi.es/BVPj9", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70026763.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70026763.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70026763.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112659200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPj9')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPjK')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70026774.jpg", "content_type": "image/jpeg", "media_etag": "\"6/23/2010 10:29:39 PM\""
+}, "Id": "BVPjK", "Name": "The Brothers Cazimero: 25th Annual May Day Concert 2002", "ShortName": "Brothers Cazimero: 25th Annual May Day", "Synopsis": "Join the Brothers Cazimero as they present their annual May Day concert, which has become a popular tradition on Honolulu's Waikiki Beach. The duo performs their favorite songs and popular hits like \"Waika,\" \"Live a Little\" and \"I Am, I Am.\" In addition to beautiful costumes, flowers and lighting, this concert also features special guests the Ladies of the Royal Dance Company, Vicky Holt Takamine and Leina'ala Kalama Heine.", "ShortSynopsis": "Join the Brothers Cazimero as they present their annual May Day concert, which has become a popular tradition on Honolulu's Waikiki Beach. The duo performs their favorite songs and popular hits like \"Waika,\" \"Live a Little\" and \"I Am, I Am.\"", "AverageRating": 3, "ReleaseYear": 2002, "Url": "http://www.netflix.com/Movie/The_Brothers_Cazimero_25th_Annual_May_Day_Concert_2002/70026774", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1277332179000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70026774", "TinyUrl": "http://movi.es/BVPjK", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70026774.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70026774.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70026774.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPjK')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQfd')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70030389.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVQfd", "Name": "Hawai'i: A Musical Postcard", "ShortName": "Hawai'i: A Musical Postcard", "Synopsis": "Tour the sumptuous sights of Hawaii with the soothing sounds of the Brothers Cazimero, a veteran music duo whose laid-back interpretations of classic island tunes adorn the soundtrack. Tracks include \"Talk With Me Wakiki/Sweet Memories,\" \"Kalihi,\" \"I Lei 'Oe,\" \"E Ku'u Baby Hot Cha Cha,\" \"Ka Wai Lehua 'A'ala Ka Honua,\" \"E Ola Mau,\" \"E Lili'u E,\" \"Ke Kali Nei Au,\" \"Waikapu,\" \"Kaimana Hila\" and six others.", "ShortSynopsis": "Tour the sumptuous sights of Hawaii with the soothing sounds of the Brothers Cazimero, a veteran music duo whose laid-back interpretations of classic island tunes adorn the soundtrack.", "AverageRating": 3, "ReleaseYear": 1990, "Url": "http://www.netflix.com/Movie/Hawai_i_A_Musical_Postcard/70030389", "Runtime": 3180, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70030389", "TinyUrl": "http://movi.es/BVQfd", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70030389.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70030389.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70030389.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1117497600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3180
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQfd')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQgO')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70030436.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVQgO", "Name": "The History of the Sons of Hawaii", "ShortName": "The History of the Sons of Hawaii", "Synopsis": "Via archival footage, performance clips and interviews, this in-depth documentary recounts the history of renowned Hawaiian quartet the Sons of Hawaii, chronicling more than three decades of the group's storied career. Founded in 1960 by ukulele maestro Eddie Kamae, the Sons of Hawaii were the vanguard of revitalizing traditional Hawaiian music and helped fan the flames of Hawaii's cultural renaissance.", "ShortSynopsis": "Via archival footage, performance clips and interviews, this in-depth documentary recounts the history of renowned Hawaiian quartet the Sons of Hawaii, chronicling more than three decades of the group's storied career.", "AverageRating": 3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/The_History_of_the_Sons_of_Hawaii/70030436", "Runtime": 4800, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70030436", "TinyUrl": "http://movi.es/BVQgO", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70030436.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70030436.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70030436.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1117497600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQgO')/Seasons"
+}
+}
+}
+]
+}
+}

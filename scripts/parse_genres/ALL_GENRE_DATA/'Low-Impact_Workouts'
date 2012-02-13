@@ -1,0 +1,3351 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApTAi')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/60030228.jpg", "content_type": "image/jpeg", "media_etag": "\"7/19/2011 7:56:30 PM\""
+}, "Id": "ApTAi", "Name": "Crunch: Fat-Burning Pilates", "ShortName": "Crunch: Fat-Burning Pilates", "Synopsis": "Fitness instructor Ellen Barrett leads this 40-minute, two-part workout that does double duty on your problem areas. You'll burn calories, tone your core and lower body, tighten up flabby abs and sculpt your entire body lean with the workout's combination of cardio-inspired Pilates moves and targeted mat work. And if you're just beginning a fitness program or it's been awhile, Barrett's routine includes exercise modifications.", "ShortSynopsis": "Fitness instructor Ellen Barrett leads this 40-minute, two-part workout that does double duty on your problem areas.", "AverageRating": 3.5, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Crunch_Fat-Burning_Pilates/60030228", "Runtime": 2400, "Rating": "NR", "DateModified": "\/Date(1311105390000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60030228", "TinyUrl": "http://movi.es/ApTAi", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/60030228.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/60030228.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/60030228.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/60030228.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1063065600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1168905600000)\/", "AvailableTo": "\/Date(1343779200000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 2608
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTAi')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVa9G')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70066822.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVa9G", "Name": "Yoga for the Golden Years", "ShortName": "Yoga for the Golden Years", "Synopsis": "Yoga can be practiced by people of all ages and fitness levels, and this program -- led by yogi Marlon Braccia -- is geared toward senior citizens. With clear instructions and helpful tips, Braccia demonstrates poses designed to improve flexibility, overall strength, bone loss and eyesight issues. The five 25-minute sessions include \"Ujjayi Pranayama,\" \"Beginner Practice I,\" \"Hamstring Opener,\" \"Strengthen I\" and \"Eye Strengthener.\"", "ShortSynopsis": null, "AverageRating": 1.9, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Yoga_for_the_Golden_Years/70066822", "Runtime": 6300, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70066822", "TinyUrl": "http://movi.es/BVa9G", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70066822.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70066822.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70066822.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1099267200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6300
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa9G')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70067647.jpg", "content_type": "image/jpeg", "media_etag": "\"11/17/2011 7:05:00 PM\""
+}, "Id": "BVaMZ", "Name": "Sandy Gimpel: Stuntblasters Low Impact Cardio Workout", "ShortName": "Sandy Gimpel: Stuntblasters Workout", "Synopsis": "Hollywood's top stuntwoman, Sandy Gimpel, shares her fitness secrets in this low-impact workout. Follow Sandy's easy instructions and dance-style movements to build endurance and strength, tone muscles, burn fat and increase your energy. You'll have fun while improving your cardio health in this high-energy routine and discover a new approach to better alignment and balance.", "ShortSynopsis": null, "AverageRating": 1.7, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Sandy_Gimpel_Stuntblasters_Low_Impact_Cardio_Workout/70067647", "Runtime": 2400, "Rating": "NR", "DateModified": "\/Date(1321556700000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70067647", "TinyUrl": "http://movi.es/BVaMZ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70067647.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70067647.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70067647.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1179187200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaMZ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVapH')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70069427.jpg", "content_type": "image/jpeg", "media_etag": "\"6/30/2011 6:42:07 PM\""
+}, "Id": "BVapH", "Name": "Pain Free Workout: Vol. 2", "ShortName": "Pain Free Workout: Vol. 2", "Synopsis": "The Egoscue system teaches practitioners to use their entire body to minimize pain and boost strength and flexibility. This routine is designed for those who train regularly but who want to improve their posture and engage their muscles. Three versions of the workout are included: one with detailed instruction, a second set to relaxing music and a third track featuring a technical description of how every exercise affects the body.", "ShortSynopsis": null, "AverageRating": 2.1, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Pain_Free_Workout_Vol._2/70069427", "Runtime": 2580, "Rating": "NR", "DateModified": "\/Date(1309459327000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70069427", "TinyUrl": "http://movi.es/BVapH", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70069427.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70069427.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70069427.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1182211200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2580
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVapH')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVc1a')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70074034.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVc1a", "Name": "Phil Ross' Ultimate Self-Defense Workout: Survive a Violent Environment", "ShortName": "Self-Defense Workout: Survive a Violent...", "Synopsis": "Hall of Fame martial artist Phil Ross combines the strengthening and cardio exercises required for his self-defense classes into a high-energy, low-impact workout for beginners. The first level of Ross's Survive a Violent Environment (SAVE) series, the program includes toning exercises to enhance self-defense and strengthen core muscle groups.", "ShortSynopsis": "Hall of Fame martial artist Phil Ross combines the strengthening and cardio exercises required for his self-defense classes into a high-energy, low-impact workout for beginners.", "AverageRating": 2.5, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Phil_Ross_Ultimate_Self-Defense_Workout_Survive_a_Violent_Environment/70074034", "Runtime": 6000, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70074034", "TinyUrl": "http://movi.es/BVc1a", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70074034.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70074034.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70074034.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1186444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1a')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVc1P')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70074023.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVc1P", "Name": "10 Minute Solution: Tone Trouble Zones", "ShortName": "10 Minute Solution: Tone Trouble Zones", "Synopsis": "No time for a workout? This series of easy-to-follow routines helps you tone specific trouble zones in only 10 minutes. In addition to a total-body sculpting workout, targeted routines take aim at the arms and shoulders, butt and thighs and abs The program also features a 10-minute stretching routine to help prevent injury and make exercising easier.", "ShortSynopsis": "No time for a workout? This series of easy-to-follow routines helps you tone specific trouble zones in only 10 minutes.", "AverageRating": 3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/10_Minute_Solution_Tone_Trouble_Zones/70074023", "Runtime": 3240, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70074023", "TinyUrl": "http://movi.es/BVc1P", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70074023.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70074023.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70074023.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1186444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3240
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVc1P')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVevR')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70085185.jpg", "content_type": "image/jpeg", "media_etag": "\"5/7/2011 5:50:10 AM\""
+}, "Id": "BVevR", "Name": "Leslie Sansone: Weight Loss Walk 4", "ShortName": "Leslie Sansone: Weight Loss Walk 4", "Synopsis": "With these advanced routines from fitness guru Leslie Sansone (who has more than 70 walking videos to her credit), viewers will huff and puff their way through a 4-mile workout that can be done in three separate segments or all at once. With fun music and relaxing cool-down routines, Sansone's workouts are just what the doctor ordered for achieving maximum weight loss and fitness gains fast.", "ShortSynopsis": "With these advanced routines from fitness guru Leslie Sansone (who has more than 70 walking videos to her credit), viewers will huff and puff their way through a 4-mile workout that can be done in three separate segments or all at once.", "AverageRating": 3.1, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/Leslie_Sansone_Weight_Loss_Walk_4/70085185", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1304747410000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70085185", "TinyUrl": "http://movi.es/BVevR", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70085185.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70085185.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70085185.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1199750400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVevR')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVf6w')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70085898.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVf6w", "Name": "Leslie Sansone: Walk at Home: Walk Slim", "ShortName": "Leslie Sansone: Walk at Home: Walk Slim", "Synopsis": "Walk off your last meal with this four-mile trek from instructor Leslie Sansone, who leads a fast and fun walk that blasts calories and sculpts muscles. Menu options allow you to take a one-, two-, three- or four-mile journey. A mile meter gives a visual record of your progress. And after you're finished, wind down with a thorough stretch designed to keep joints fluid and muscles flexible.", "ShortSynopsis": "Walk off your last meal with this four-mile trek from instructor Leslie Sansone, who leads a fast and fun walk that blasts calories and sculpts muscles. Menu options allow you to take a one-, two-, three- or four-mile journey.", "AverageRating": 3.4, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Leslie_Sansone_Walk_at_Home_Walk_Slim/70085898", "Runtime": 3360, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70085898", "TinyUrl": "http://movi.es/BVf6w", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70085898.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70085898.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70085898.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1210032000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3360
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf6w')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVf7T')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70085931.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVf7T", "Name": "Zookinesis: Chair Exercises for Seniors", "ShortName": "Zookinesis: Chair Exercises for Seniors", "Synopsis": "Experienced tai chi instructor Bob Klein leads this low- to no-impact routine for seniors that can be performed seated. It may sound like a newfangled word, but <i>Zookinesis</i> is based on an ancient Chinese exercise system designed to keep the elderly young at heart. With a focus on gentle movement, the program aims to improve flexibility, tone and strengthen muscles and promote relaxation through breathing.", "ShortSynopsis": "Experienced tai chi instructor Bob Klein leads this low- to no-impact routine for seniors that can be performed seated.", "AverageRating": 2.4, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Zookinesis_Chair_Exercises_for_Seniors/70085931", "Runtime": 2520, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70085931", "TinyUrl": "http://movi.es/BVf7T", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70085931.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70085931.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70085931.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(883612800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2520
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf7T')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVf8q')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70086016.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVf8q", "Name": "Stott Pilates: Relaxation Workout", "ShortName": "Stott Pilates: Relaxation Workout", "Synopsis": "Designed to promote relaxation and a sense of peace, this easy-to-follow workout program features 21 gentle exercises. By toning, stretching and breathing along with the routine, participants will find themselves becoming calmer. Perfect after a long stressful day at work or right before bedtime, this workout has the power to soothe your nerves and heal your body, mind and spirit.", "ShortSynopsis": "Designed to promote relaxation and a sense of peace, this easy-to-follow workout program features 21 gentle exercises. By toning, stretching and breathing along with the routine, participants will find themselves becoming calmer.", "AverageRating": 2.4, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Stott_Pilates_Relaxation_Workout/70086016", "Runtime": 4440, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70086016", "TinyUrl": "http://movi.es/BVf8q", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70086016.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70086016.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70086016.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1167609600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4440
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8q')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVf8w')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70086022.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVf8w", "Name": "Stott Pilates: The Secret to Weight Loss: Vol. 2", "ShortName": "The Secret to Weight Loss: Vol. 2", "Synopsis": "Use the power of Pilates to help you shed unwanted pounds. Under the guidance of trainer Moira Merrithew, you'll perform a mixture of cardio and Pilates exercises that will leave you feeling rejuvenated and good about yourself. A skilled motivator, Merrithew gives it her all to help her viewers remain positive and stay on track with their weight loss goals.", "ShortSynopsis": "Use the power of Pilates to help you shed unwanted pounds. Under the guidance of trainer Moira Merrithew, you'll perform a mixture of cardio and Pilates exercises that will leave you feeling rejuvenated and good about yourself.", "AverageRating": 2.3, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Stott_Pilates_The_Secret_to_Weight_Loss_Vol._2/70086022", "Runtime": 3420, "Rating": "G", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70086022", "TinyUrl": "http://movi.es/BVf8w", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70086022.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70086022.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70086022.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1167609600000)\/", "AvailableTo": null, "Rating": "G", "Runtime": 3420
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf8w')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVfEO')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70086360.jpg", "content_type": "image/jpeg", "media_etag": "\"2/7/2012 8:22:12 PM\""
+}, "Id": "BVfEO", "Name": "Step-by-Step Tai Chi with Tiffany Chen", "ShortName": "Step-by-Step Tai Chi with Tiffany Chen", "Synopsis": "International martial arts champion Tiffany Chen is your guide to unlocking the quiet power of tai chi, the low-impact movement ritual designed to strengthen the body, calm the mind and increase energy and stamina. Suitable for people of all ages, this ancient practice has been known to lower blood pressure, sharpen attention and focus, increase flexibility, ease chronic pain and improve sleep.", "ShortSynopsis": "International martial arts champion Tiffany Chen is your guide to unlocking the quiet power of tai chi, the low-impact movement ritual designed to strengthen the body, calm the mind and increase energy and stamina.", "AverageRating": 2.3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Step-by-Step_Tai_Chi_with_Tiffany_Chen/70086360", "Runtime": 5280, "Rating": "NR", "DateModified": "\/Date(1328646132000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70086360", "TinyUrl": "http://movi.es/BVfEO", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70086360.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70086360.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70086360.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1203984000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5280
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfEO')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVfIf')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70086625.jpg", "content_type": "image/jpeg", "media_etag": "\"9/9/2011 5:33:00 PM\""
+}, "Id": "BVfIf", "Name": "Walk with Joyce Vedral", "ShortName": "Walk with Joyce Vedral", "Synopsis": "Fitness expert and best-selling author Joyce Vedral guides this low-impact, high-intensity walking workout designed to burn calories and trim pounds just by putting one foot in front of the other. Vedral's energetic attitude can get anyone moving, and the upbeat music will keep people in motion as she leads the way through a six-minute warm-up, 50 minutes of cardio stepping drills and a six-minute cooldown.", "ShortSynopsis": "Fitness expert and best-selling author Joyce Vedral guides this low-impact, high-intensity walking workout designed to burn calories and trim pounds just by putting one foot in front of the other.", "AverageRating": 1.9, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Walk_with_Joyce_Vedral/70086625", "Runtime": 3720, "Rating": "NR", "DateModified": "\/Date(1315589580000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70086625", "TinyUrl": "http://movi.es/BVfIf", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70086625.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70086625.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70086625.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1203984000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3720
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVfIf')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVg3J')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70089517.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVg3J", "Name": "Amy Bento: Hi-Lo Xtreme Workout", "ShortName": "Amy Bento: Hi-Lo Xtreme Workout", "Synopsis": "Fitness guru Amy Bento delivers a fun and eclectic mix of high- and low-impact exercises without the hassle of overly complicated moves that trip up you and your workout. Bento separates her five hi-lo combinations with interval surprises. Each high-impact routine is set to the beat of heart-pumping tunes and can be modified to a low-impact equivalent.", "ShortSynopsis": "Fitness guru Amy Bento delivers a fun and eclectic mix of high- and low-impact exercises without the hassle of overly complicated moves that trip up you and your workout. Bento separates her five hi-lo combinations with interval surprises.", "AverageRating": 2.7, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Amy_Bento_Hi-Lo_Xtreme_Workout/70089517", "Runtime": 3960, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70089517", "TinyUrl": "http://movi.es/BVg3J", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70089517.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70089517.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70089517.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1204588800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3960
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVg3J')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVIpW')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70000250.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 9:33:17 AM\""
+}, "Id": "BVIpW", "Name": "40 Plus Workout Walk: Leslie Sansone", "ShortName": "40 Plus Workout Walk: Leslie Sansone", "Synopsis": "Fitness instructor Leslie Sansone guides this very low-impact workout routine designed specifically for those over 40 years old. With minimal intensity stages such as taking steps forward and back, kicks and marching in place, the 20-minute introductory level program also includes a 5-minute warm-up and similar cool-down. The aerobic walking formula is great for the beginner or someone who needs a very light exercise pattern.", "ShortSynopsis": null, "AverageRating": 2.8, "ReleaseYear": 2002, "Url": "http://www.netflix.com/Movie/40_Plus_Workout_Walk_Leslie_Sansone/70000250", "Runtime": 1800, "Rating": "NR", "DateModified": "\/Date(1328866397000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70000250", "TinyUrl": "http://movi.es/BVIpW", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70000250.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70000250.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70000250.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1085443200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 1800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVIpW')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVkak')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70106966.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:23:04 PM\""
+}, "Id": "BVkak", "Name": "Hoop Dance Workout", "ShortName": "Hoop Dance Workout", "Synopsis": "Fitness instructor and self-styled \"Hoop Girl\" Christabel Zamor leads viewers through a low-impact, hoop-themed workout, which offers a unique yet effective approach to toning, slimming and fat burning. Using simple, step-by-step instructions, Zamor illustrates how to make the most of the hoop to firm the abs, thighs and arms in a relaxed, festive atmosphere that incorporates a soundtrack of inspiring dance music.", "ShortSynopsis": "Fitness instructor and self-styled \"Hoop Girl\" Christabel Zamor leads viewers through a low-impact, hoop-themed workout, which offers a unique yet effective approach to toning, slimming and fat burning.", "AverageRating": 2.5, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Hoop_Dance_Workout/70106966", "Runtime": 3420, "Rating": "NR", "DateModified": "\/Date(1328901784000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70106966", "TinyUrl": "http://movi.es/BVkak", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70106966.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70106966.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70106966.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1222732800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3420
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkak')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVkHN')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70105765.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVkHN", "Name": "Sit & Get Fit: Upper Body", "ShortName": "Sit & Get Fit: Upper Body", "Synopsis": "Condition your upper body while sitting with this fun and effective program geared toward seniors. Exercise instructor Michael Horn leads viewers through a gentle workout that can be performed in a chair. Beginning with reflexology for the face and hands, the routine moves on to movements and breathing exercises to condition the arms, neck and back; increase circulation; enhance flexibility and strengthen muscles.", "ShortSynopsis": "Condition your upper body while sitting with this fun and effective program geared toward seniors. Exercise instructor Michael Horn leads viewers through a gentle workout that can be performed in a chair.", "AverageRating": 2.1, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Sit_Get_Fit_Upper_Body/70105765", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70105765", "TinyUrl": "http://movi.es/BVkHN", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70105765.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70105765.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70105765.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1224547200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkHN')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVkkO')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70107564.jpg", "content_type": "image/jpeg", "media_etag": "\"12/30/2010 6:39:40 PM\""
+}, "Id": "BVkkO", "Name": "Body Sculpt: Super Fat Burner", "ShortName": "Body Sculpt: Super Fat Burner", "Synopsis": "A highly effective fat-blasting routine, this low-impact workout video will get you in shape fast, producing maximum results with a minimum amount of risk. The regimen includes a warm-up, a cooldown session, a challenging stretching sequence and a special segment that will improve your muscle strength and coordination. Renowned health authority Gary Egger weighs in with some judicious fitness advice.", "ShortSynopsis": "A highly effective fat-blasting routine, this low-impact workout video will get you in shape fast, producing maximum results with a minimum amount of risk.", "AverageRating": 2, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Body_Sculpt_Super_Fat_Burner/70107564", "Runtime": 6000, "Rating": "NR", "DateModified": "\/Date(1293734380000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70107564", "TinyUrl": "http://movi.es/BVkkO", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70107564.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70107564.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70107564.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1224547200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkkO')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVkR0')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70106362.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVkR0", "Name": "Walking Strong", "ShortName": "Walking Strong", "Synopsis": "Walking is one of the most frequently recommended exercises, but repetition and boredom keep many from pursuing it. Fitness expert Tracey Staehle cures the monotony with this effective treadmill-based workout. She offers three distinct walking routines, each with a different aim: cardio, upper-body and lower-body toning. The first uses a variety of paces to keep the blood pumping, while the other two help sculpt muscles while burning calories.", "ShortSynopsis": "Walking is one of the most frequently recommended exercises, but repetition and boredom keep many from pursuing it. Fitness expert Tracey Staehle cures the monotony with this effective treadmill-based workout.", "AverageRating": 2.4, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Walking_Strong/70106362", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70106362", "TinyUrl": "http://movi.es/BVkR0", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70106362.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70106362.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70106362.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1222128000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkR0')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVlfx')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70111133.jpg", "content_type": "image/jpeg", "media_etag": "\"12/9/2011 7:23:46 PM\""
+}, "Id": "BVlfx", "Name": "Basic Training with Ada: Low Impact & Strength Training Workout", "ShortName": "Basic Training with Ada: Low Impact...", "Synopsis": "Ada Janklowicz, host of the ESPN workout series \"Basic Training,\" leads viewers through a dynamic hourlong routine based on the popular show. The low-impact program includes both strength training and a cardio workout. From a Hawaii airstrip, Janklowicz uses her fitness and dance training along with her military background to offer up a basic workout for beginners while providing more difficult moves to challenge advanced exercisers.", "ShortSynopsis": "Ada Janklowicz, host of the ESPN workout series \"Basic Training,\" leads viewers through a dynamic hourlong routine based on the popular show. The low-impact program includes both strength training and a cardio workout.", "AverageRating": 2.6, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Basic_Training_with_Ada_Low_Impact_Strength_Training_Workout/70111133", "Runtime": 3660, "Rating": "NR", "DateModified": "\/Date(1323458626000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70111133", "TinyUrl": "http://movi.es/BVlfx", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70111133.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70111133.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70111133.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1200182400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3660
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVlfx')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVmoI')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70115494.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2012 7:04:30 PM\""
+}, "Id": "BVmoI", "Name": "Susan Tuttle's In-Home Fitness: Breath of Life", "ShortName": "In-Home Fitness: Breath of Life", "Synopsis": "Fitness instructor Susan Tuttle leads these two yoga programs geared toward older people and those with limited physical abilities. The 30-minute routines can be done seated in a chair and standing while holding onto a chair for support. The seated workout covers fundamental sitting poses that enhance flexibility, circulation and relaxation. The standing routine concentrates on breathing, release of stress and stretching.", "ShortSynopsis": "Fitness instructor Susan Tuttle leads these two yoga programs geared toward older people and those with limited physical abilities. The 30-minute routines can be done seated in a chair and standing while holding onto a chair for support.", "AverageRating": 2, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Susan_Tuttle_s_In-Home_Fitness_Breath_of_Life/70115494", "Runtime": 3960, "Rating": "NR", "DateModified": "\/Date(1328814270000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70115494", "TinyUrl": "http://movi.es/BVmoI", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70115494.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70115494.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70115494.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1240272000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3960
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmoI')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVOIE')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70021250.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVOIE", "Name": "Gilad: Split Routine: Vols. 1 & 2: Fat Burning, Toning", "ShortName": "Gilad: Fat Burning, Toning", "Synopsis": "In the first part of this disc, basic athletic moves are combined in a high-energy aerobic workout that maximizes calorie-burning potential. The mix of mostly low-impact moves (with a few higher-impact sections) results in a powerful fat-burning workout. In \"Toning,\" you'll concentrate on strengthening all of your body's major muscle groups. From standing to floor exercises, the routine will have you noticing muscles you didn't know existed.", "ShortSynopsis": null, "AverageRating": 3, "ReleaseYear": 1990, "Url": "http://www.netflix.com/Movie/Gilad_Split_Routine_Vols._1_2_Fat_Burning_Toning/70021250", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70021250", "TinyUrl": "http://movi.es/BVOIE", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70021250.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70021250.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70021250.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1108425600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOIE')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVP3e')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70024190.jpg", "content_type": "image/jpeg", "media_etag": "\"2/8/2012 7:30:41 PM\""
+}, "Id": "BVP3e", "Name": "Gilad: 60 & 30 Min. Low-Impact Workouts", "ShortName": "Gilad: 60 & 30 Min. Low-Impact Workouts", "Synopsis": "Popular fitness instructor Gilad leads two complete workouts in this exercise video. The 30-minute routine is for beginners, while the 60-minute routine is for intermediate to advanced fitness levels. Each low-impact routine provides a complete fat-burning, cardiovascular workout and includes segments that target abs, hips, thighs and arms. Gilad is the host of the long-running television program \"Bodies in Motion.\"", "ShortSynopsis": null, "AverageRating": 3, "ReleaseYear": 1987, "Url": "http://www.netflix.com/Movie/Gilad_60_30_Min._Low-Impact_Workouts/70024190", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1328729441000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70024190", "TinyUrl": "http://movi.es/BVP3e", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70024190.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70024190.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70024190.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(883612800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVP3e')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPlC')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70026890.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:11 PM\""
+}, "Id": "BVPlC", "Name": "Kathy Smith: Latin Rhythm Workout", "ShortName": "Kathy Smith: Latin Rhythm Workout", "Synopsis": "Set to spicy Latin beats, this fun dance aerobics workout from fitness expert Kathy Smith helps you burn calories and trim down as you move to the rhythms of salsa, merengue and cha-cha. The workout begins with a warm-up, then moves to a 20-minute low-impact basic program, followed by a more challenging 20-minute routine. Filmed in Los Angeles's famous Conga Room, this dance party features a live band and includes a tutorial on partner dancing.", "ShortSynopsis": "Set to spicy Latin beats, this fun dance aerobics workout from fitness expert Kathy Smith helps you burn calories and trim down as you move to the rhythms of salsa, merengue and cha-cha.", "AverageRating": 2.7, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/Kathy_Smith_Latin_Rhythm_Workout/70026890", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1301582111000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70026890", "TinyUrl": "http://movi.es/BVPlC", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70026890.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70026890.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70026890.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPlC')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPUN')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70025847.jpg", "content_type": "image/jpeg", "media_etag": "\"12/16/2009 5:51:17 PM\""
+}, "Id": "BVPUN", "Name": "RopeSport : Intermediate", "ShortName": "RopeSport : Intermediate", "Synopsis": "Build on the lessons learned in RopeSport: Basic with this fat-burning blast of exercise, which can burn up to 1,000 calories in an hour. The workout includes 10 new jumps and encourages viewers to craft their own freestyle regimen. Jump rope pro Louis Garcia breaks down each move in three simple steps and spaces out his routines with important resting moves. As a bonus, Eric Nies hosts a quick but powerful Ab Blast routine.", "ShortSynopsis": "Build on the lessons learned in RopeSport: Basic with this fat-burning blast of exercise, which can burn up to 1,000 calories in an hour. The workout includes 10 new jumps and encourages viewers to craft their own freestyle regimen.", "AverageRating": 2.2, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/RopeSport_Intermediate/70025847", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1260985877000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70025847", "TinyUrl": "http://movi.es/BVPUN", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70025847.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70025847.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70025847.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPUN')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70028012.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVQ3I", "Name": "More Than Stretch: Senior Fitness for Good Health", "ShortName": "More Than Stretch: Senior Fitness", "Synopsis": "A key part of keeping healthy as one ages is to get plenty of exercise. This low-impact, easy-to-follow fitness regimen was created with seniors in mind and promotes overall body health. Its main focus areas are stretching, strengthening, balance and posture development, relaxation and breathing techniques, and how to preserve a healthy back.  Also highlighted are ways to fend off stress-related illness and sustain a joyful spirit.", "ShortSynopsis": "A key part of keeping healthy as one ages is to get plenty of exercise. This low-impact, easy-to-follow fitness regimen was created with seniors in mind and promotes overall body health.", "AverageRating": 2.4, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/More_Than_Stretch_Senior_Fitness_for_Good_Health/70028012", "Runtime": 3420, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70028012", "TinyUrl": "http://movi.es/BVQ3I", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70028012.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70028012.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70028012.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1112054400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3420
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQ3I')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQej')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70030333.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVQej", "Name": "Stephanie Herman: Dance With Me Ballet Workout", "ShortName": "Dance With Me Ballet Workout", "Synopsis": "Ballerina Stephanie Herman shows you how to sculpt your body and create longer, leaner muscles in this workout that combines ballet and yoga movements with Pilates exercises. All fitness levels can enjoy Herman's easy-to-follow, low-impact routine. Along with muscle toning, the workout also increases strength and poise and results in overall relaxation. Segments include \"Ballet Barre,\" \"Alignment and Ballet Workout\" and \"Body Flow Stretch.\"", "ShortSynopsis": "Ballerina Stephanie Herman shows you how to sculpt your body and create longer, leaner muscles in this workout that combines ballet and yoga movements with Pilates exercises. All fitness levels can enjoy Herman's easy-to-follow, low-impact routine.", "AverageRating": 2.3, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Stephanie_Herman_Dance_With_Me_Ballet_Workout/70030333", "Runtime": 5640, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70030333", "TinyUrl": "http://movi.es/BVQej", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70030333.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70030333.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70030333.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5640
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQej')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVQNf')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70029275.jpg", "content_type": "image/jpeg", "media_etag": "\"6/3/2011 4:40:26 PM\""
+}, "Id": "BVQNf", "Name": "Hollywood Beauty Secrets: Under 30-Minute Model Sculpting Workout", "ShortName": "Hollywood Beauty Secrets", "Synopsis": "Professional fit model Louisa Maccan-Graves leads this superpowered 30-minute workout designed to get your entire body tight, toned and camera-ready in just eight weeks, targeting common problem areas for women. Using a chair and a set of three-pound hand weights, Louisa demonstrates multiple exercises for each muscle area, including abs, butt, hips, legs, triceps, biceps, back and shoulders.", "ShortSynopsis": "Professional fit model Louisa Maccan-Graves leads this superpowered 30-minute workout designed to get your entire body tight, toned and camera-ready in just eight weeks, targeting common problem areas for women.", "AverageRating": 2, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Hollywood_Beauty_Secrets_Under_30-Minute_Model_Sculpting_Workout/70029275", "Runtime": 1860, "Rating": "UR", "DateModified": "\/Date(1307119226000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70029275", "TinyUrl": "http://movi.es/BVQNf", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70029275.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70029275.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70029275.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1124150400000)\/", "AvailableTo": null, "Rating": "UR", "Runtime": 1860
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVQNf')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVSAq')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70036168.jpg", "content_type": "image/jpeg", "media_etag": "\"7/19/2011 7:56:30 PM\""
+}, "Id": "BVSAq", "Name": "Dance Off the Inches: 15-Minute Express", "ShortName": "Dance Off the Inches: 15-Minute Express", "Synopsis": "Dance the inches away and get energized with this high-energy, low-impact aerobic workout from fitness expert and bodybuilder Lydia Haskell. You'll burn calories and fat with Haskell's dance routine, which features fun, easy-to-follow choreographed movements. Perfect for busy people on the go, this 15-minute express program will have you kicking up your heels as you shape and firm your body and boost your metabolism.", "ShortSynopsis": "Dance the inches away and get energized with this high-energy, low-impact aerobic workout from fitness expert and bodybuilder Lydia Haskell.", "AverageRating": 3, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Dance_Off_the_Inches_15-Minute_Express/70036168", "Runtime": 1020, "Rating": "NR", "DateModified": "\/Date(1311105390000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70036168", "TinyUrl": "http://movi.es/BVSAq", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70036168.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70036168.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70036168.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70036168.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1124755200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 1020
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1169251200000)\/", "AvailableTo": "\/Date(1343779200000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 1060
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSAq')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVSCz')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70036301.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVSCz", "Name": "Kukuwa Dance Workout", "ShortName": "Kukuwa Dance Workout", "Synopsis": "Acclaimed fitness instructor Kukuwa Nuamah (a native of Ghana) leads you through a one-of-a-kind exercise experience designed to boost your cardiovascular system and improve a variety of fitness levels with low-impact, high-energy movement. Backed by a soundtrack of pulsing Latino, African and Caribbean music, you'll be dancing your way to toned muscles and slimmer limbs -- and having a great time doing it.", "ShortSynopsis": null, "AverageRating": 2.8, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Kukuwa_Dance_Workout/70036301", "Runtime": 8100, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70036301", "TinyUrl": "http://movi.es/BVSCz", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70036301.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70036301.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70036301.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1127779200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVSCz')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVTB3')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70040025.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVTB3", "Name": "Fat Burning Workout for Dummies", "ShortName": "Fat Burning Workout for Dummies", "Synopsis": "Fitness expert Gay Gasper leads this easy-to-learn fat-burning regimen. Gasper uses step-by-step instructions to teach the 10 basic exercises in a routine that will help you burn more fat and calories through a combination of high- and low-impact aerobics. You'll learn the important essentials of any fitness program, including transitioning smoothly from one exercise to the next, adjusting a workout's intensity and more.", "ShortSynopsis": null, "AverageRating": 2.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Fat_Burning_Workout_for_Dummies/70040025", "Runtime": 2700, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70040025", "TinyUrl": "http://movi.es/BVTB3", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70040025.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70040025.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70040025.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1133827200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2700
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTB3')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVTTm')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70041186.jpg", "content_type": "image/jpeg", "media_etag": "\"4/1/2010 7:09:31 AM\""
+}, "Id": "BVTTm", "Name": "Exercise Can Beat Arthritis", "ShortName": "Exercise Can Beat Arthritis", "Synopsis": "Physical therapist Valerie Sayce of Australia's Arthritis Foundation of Victoria developed this easy-to-follow regimen designed to reduce pain, increase motion, strengthen muscles and joints, and boost energy for arthritis sufferers. And the best part? Each low-impact, aerobic movement has been designed for exercisers of any age -- the perfect choice for seniors in search of a kinder, gentler approach to physical fitness.", "ShortSynopsis": "Physical therapist Valerie Sayce of Australia's Arthritis Foundation of Victoria developed this easy-to-follow regimen designed to reduce pain, increase motion, strengthen muscles and joints, and boost energy for arthritis sufferers.", "AverageRating": 2.4, "ReleaseYear": 1990, "Url": "http://www.netflix.com/Movie/Exercise_Can_Beat_Arthritis/70041186", "Runtime": 2520, "Rating": "NR", "DateModified": "\/Date(1270105771000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70041186", "TinyUrl": "http://movi.es/BVTTm", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70041186.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70041186.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70041186.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1135036800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2520
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTTm')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVUFl')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70044161.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVUFl", "Name": "Michelle LeMay's Spirit Flow: Rejuvenating Core Stretch", "ShortName": "Spirit Flow: Rejuvenating Core Stretch", "Synopsis": "Block out the buzz of a fast-paced, frenetic lifestyle with world-renowned fitness expert and choreographer Michelle LeMay, who leads you through a relaxing and rejuvenating routine based on slow and gentle stretching. Designed to increase mental clarity, promote concentration, enhance creativity and reduce tension by targeting your core muscles, this easy-to-follow program will help you strip away years of stress.", "ShortSynopsis": null, "AverageRating": 2.3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Michelle_LeMay_s_Spirit_Flow_Rejuvenating_Core_Stretch/70044161", "Runtime": 1800, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70044161", "TinyUrl": "http://movi.es/BVUFl", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70044161.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70044161.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70044161.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1155600000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 1800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUFl')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVUGr')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70044229.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVUGr", "Name": "Body & Soul Fitness: Stretching with Nancy Marmorat", "ShortName": "Body & Soul Fitness: Stretching", "Synopsis": "Nancy Marmorat -- an expert in dance, stretching and other forms of movement -- shows you how to improve your figure with this easy-to-follow stretching routine designed as a complement to more strenuous cardiovascular activity. By focusing on various areas of the body, each results-oriented session works to improve your body's muscle tone, increase flexibility and to help relieve the stress in your life.", "ShortSynopsis": null, "AverageRating": 2, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Body_Soul_Fitness_Stretching_with_Nancy_Marmorat/70044229", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70044229", "TinyUrl": "http://movi.es/BVUGr", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70044229.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70044229.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70044229.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1136851200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUGr')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVvI8')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70148096.jpg", "content_type": "image/jpeg", "media_etag": "\"8/24/2010 9:01:39 PM\""
+}, "Id": "BVvI8", "Name": "Elle: Beauty Sculpt", "ShortName": "Elle: Beauty Sculpt", "Synopsis": "Swimsuit model Brooklyn Decker and acclaimed fitness trainer Sara Haley guide you through two 20-minute sculpting workouts designed to revitalize your muscles, strengthen your core, reduce spinal stresses and improve posture. Using interval training and light weights that target both large and small muscle groups, these calorie-burning workouts are perfect for intermediate-level exercisers, with modifications offered for beginners.", "ShortSynopsis": "Swimsuit model Brooklyn Decker and acclaimed fitness trainer Sara Haley guide you through two 20-minute sculpting workouts designed to revitalize your muscles, strengthen your core, reduce spinal stresses and improve posture.", "AverageRating": 2.9, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/Elle_Beauty_Sculpt/70148096", "Runtime": 5520, "Rating": "NR", "DateModified": "\/Date(1282683699000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70148096", "TinyUrl": "http://movi.es/BVvI8", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70148096.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70148096.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70148096.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5520
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVvI8')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70152516.jpg", "content_type": "image/jpeg", "media_etag": "\"8/1/2011 5:28:14 PM\""
+}, "Id": "BVwRQ", "Name": "The Biggest Loser: The Workout: Power Walk", "ShortName": "The Biggest Loser: The Workout: Power Walk", "Synopsis": "Join trainer Bob Harper and fan favorites Tara Costa and Sione Fa from Season 7 of \"The Biggest Loser\" as they demonstrate how low-impact walking can rev up your metabolism, tone your muscles and put you on the path to completing a marathon. Four workouts, each consisting of a one-mile indoor walk, are easy on joints but offer great cardio benefits. Harper also shows ways to incorporate weights, and within three weeks you'll have walked 26 miles!", "ShortSynopsis": "Join trainer Bob Harper and fan favorites Tara Costa and Sione Fa from Season 7 of \"The Biggest Loser\" as they demonstrate how low-impact walking can rev up your metabolism, tone your muscles and put you on the path to completing a marathon.", "AverageRating": 3.1, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/The_Biggest_Loser_The_Workout_Power_Walk/70152516", "Runtime": 4260, "Rating": "NR", "DateModified": "\/Date(1312219694000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70152516", "TinyUrl": "http://movi.es/BVwRQ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70152516.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70152516.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70152516.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1291075200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4260
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwRQ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVXrs')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70058056.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVXrs", "Name": "Chubby Hubby Workout: Knockout Husband", "ShortName": "Chubby Hubby Workout: Knockout Husband", "Synopsis": "Fear the beer belly no more! Sharyn Pak hosts a fun, energizing and not-too-strenuous workout regimen designed for the guy who's packed on a few pounds with the passing years. Moves inspired by martial arts and boxing are incorporated into a routine that includes stretching, warm-up, cardio and resistance training and cooldown. Best of all, a man-friendly soundtrack including blues, rock, funk and rockabilly will keep him coming back for more.", "ShortSynopsis": null, "AverageRating": 1.8, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Chubby_Hubby_Workout_Knockout_Husband/70058056", "Runtime": 3360, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70058056", "TinyUrl": "http://movi.es/BVXrs", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70058056.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70058056.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70058056.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1164672000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3360
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXrs')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVY4a')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70058844.jpg", "content_type": "image/jpeg", "media_etag": "\"10/27/2011 6:15:12 PM\""
+}, "Id": "BVY4a", "Name": "The ABC's of Couple's Fitness: Basic Moves", "ShortName": "The ABC's of Couple's Fitness: Basic Moves", "Synopsis": "Get in shape and pump up your love life with this fun and sexy fitness program designed for couples. Instructor Charles Nathans explains how making time in your life to work out together can help you tone your bodies as well as your emotional intimacy. Instead of heading off for separate workouts, couples can take their health and their relationship to a new level with this series of basic moves geared toward beginners.", "ShortSynopsis": null, "AverageRating": 1.9, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/The_ABC_s_of_Couple_s_Fitness_Basic_Moves/70058844", "Runtime": 2820, "Rating": "NR", "DateModified": "\/Date(1319739312000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70058844", "TinyUrl": "http://movi.es/BVY4a", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70058844.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70058844.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70058844.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1165881600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 2820
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4a')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVY4b')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70058845.jpg", "content_type": "image/jpeg", "media_etag": "\"9/3/2010 8:09:38 PM\""
+}, "Id": "BVY4b", "Name": "The ABC's of Couple's Fitness: Advanced Motions", "ShortName": "The ABC's of Couple's Fitness: Advanced", "Synopsis": "Learn more sexy moves while shaping up with this fun workout program geared toward couples. Instructor Charles Nathans leads you through advanced motions that will tone your bodies as well as your emotional intimacy. In today's busy world, it can be hard to find time for your significant other; this program provides a way to spend quality time together while improving your physical, emotional and sensual fitness levels -- while having a blast.", "ShortSynopsis": null, "AverageRating": 1.9, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/The_ABC_s_of_Couple_s_Fitness_Advanced_Motions/70058845", "Runtime": 3000, "Rating": "NR", "DateModified": "\/Date(1283544578000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70058845", "TinyUrl": "http://movi.es/BVY4b", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70058845.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70058845.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70058845.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1165881600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY4b')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVY50')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70058870.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVY50", "Name": "Walking for Weight Loss", "ShortName": "Walking for Weight Loss", "Synopsis": "Get a great cardio workout and lose weight with this fun and easy walking program that's ideal for all fitness levels. Former personal trainer and fitness expert Debbie Rocker leads viewers through a routine that combines high- and low-intensity cardio movements with strengthening and walking exercises to burn fat while toning the body. With an inspirational attitude and plenty of useful tips, Rocker helps you lose weight and keep it off.", "ShortSynopsis": null, "AverageRating": 2.9, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Walking_for_Weight_Loss/70058870", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70058870", "TinyUrl": "http://movi.es/BVY50", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70058870.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70058870.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70058870.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1165881600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVY50')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVYEA')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70059438.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:12 PM\""
+}, "Id": "BVYEA", "Name": "Kathy Smith: Body Boomers Workout", "ShortName": "Kathy Smith: Body Boomers Workout", "Synopsis": "Veteran fitness expert Kathy Smith offers three complete workouts targeting women of the baby boom generation. \"Moving Through Menopause\" helps reduce symptoms of perimenopause and menopause through low-impact cardio, yoga and strength training. \"Shaper Ball Workout\" tones and trims the abs and lower body, and \"Wellness Mind & Body: Relaxation System\" aims to release tension, lengthen muscles and reenergize the spirit.", "ShortSynopsis": null, "AverageRating": 2.5, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Kathy_Smith_Body_Boomers_Workout/70059438", "Runtime": 9000, "Rating": "NR", "DateModified": "\/Date(1301582112000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70059438", "TinyUrl": "http://movi.es/BVYEA", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70059438.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70059438.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70059438.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1168300800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYEA')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVZDd')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70063249.jpg", "content_type": "image/jpeg", "media_etag": "\"1/6/2011 6:07:00 PM\""
+}, "Id": "BVZDd", "Name": "Joyce Vedral: Complete Interval Aerobic", "ShortName": "Joyce Vedral: Complete Interval Aerobic", "Synopsis": "Best-selling fitness author and instructor Joyce Vedral shows you how to trim down the easy way with this no-impact workout. Built around simple 30-second intervals, Joyce's workout helps you burn fat and sculpt your entire body, with an emphasis on those problem spots: tummy, hips, thighs and buttocks. The program doesn't require weights and includes two workouts: 24-minute and 48-minute. A bonus total-body stretch routine is also included.", "ShortSynopsis": null, "AverageRating": 1.8, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Joyce_Vedral_Complete_Interval_Aerobic/70063249", "Runtime": 3240, "Rating": "NR", "DateModified": "\/Date(1294337220000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70063249", "TinyUrl": "http://movi.es/BVZDd", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70063249.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70063249.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70063249.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1174348800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3240
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZDd')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BWBse')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70211864.jpg", "content_type": "image/jpeg", "media_etag": "\"11/25/2011 8:17:10 AM\""
+}, "Id": "BWBse", "Name": "Jane Fonda Prime Time: Trim, Tone & Flex", "ShortName": "Jane Fonda Prime Time: Trim, Tone & Flex", "Synopsis": "Championing the many benefits that she and other women \"of a certain age\" can get from proper exercise, Jane Fonda leads viewers through gentle but effective upper- and lower-body workouts that keep mature bodies strong, fit and flexible.", "ShortSynopsis": "Jane Fonda leads viewers through gentle but effective upper- and lower-body workouts that keep mature bodies strong, fit and flexible.", "AverageRating": 2.1, "ReleaseYear": 2011, "Url": "http://www.netflix.com/Movie/Jane_Fonda_Prime_Time_Trim_Tone_Flex/70211864", "Runtime": 3660, "Rating": "NR", "DateModified": "\/Date(1322209030000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70211864", "TinyUrl": "http://movi.es/BWBse", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70211864.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70211864.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70211864.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1323129600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3660
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWBse')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BWDIo')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70217330.jpg", "content_type": "image/jpeg", "media_etag": "\"11/29/2011 3:14:34 AM\""
+}, "Id": "BWDIo", "Name": "Leslie Sansone: 4 Fast Miles", "ShortName": "Leslie Sansone: 4 Fast Miles", "Synopsis": "These straightforward and sensible Leslie Sansone Walk at Home programs let you lose weight quickly by employing her all-new Walk Slim techniques. Presented with stirring music and inspirational stories, the Walk Slim program delivers quick results.", "ShortSynopsis": "These straightforward and sensible Leslie Sansone Walk at Home programs let you lose weight quickly by employing her all-new Walk Slim techniques.", "AverageRating": 3.3, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Leslie_Sansone_4_Fast_Miles/70217330", "Runtime": 3120, "Rating": "NR", "DateModified": "\/Date(1322536474000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70217330", "TinyUrl": "http://movi.es/BWDIo", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70217330.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70217330.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70217330.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3120
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BWDIo')/Seasons"
+}
+}
+}
+]
+}
+}

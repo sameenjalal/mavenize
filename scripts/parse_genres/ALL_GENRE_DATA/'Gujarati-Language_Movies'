@@ -1,0 +1,3427 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVhkm')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70096056.jpg", "content_type": "image/jpeg", "media_etag": "\"2/2/2012 10:10:26 PM\""
+}, "Id": "BVhkm", "Name": "Amari Duniya Tamari Duniya", "ShortName": "Amari Duniya Tamari Duniya", "Synopsis": "Siddharth Randeria directs and stars in this touching story about the cultural divide between generations and the loss of long-held traditions and familial responsibilities in a world more focused on self-fulfillment and personal gratification. Retiring after 40 years in the theater, Vidhayapati and his wife find themselves in limbo when they discover that they're not welcome in the homes of their adult children.", "ShortSynopsis": "Siddharth Randeria directs and stars in this touching story about the cultural divide between generations and the loss of long-held traditions and familial responsibilities in a world more focused on self-fulfillment and personal gratification.", "AverageRating": 2.1, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Amari_Duniya_Tamari_Duniya/70096056", "Runtime": 8640, "Rating": "NR", "DateModified": "\/Date(1328220626000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70096056", "TinyUrl": "http://movi.es/BVhkm", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70096056.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70096056.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70096056.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1262649600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8640
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkm')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVhkn')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70096057.jpg", "content_type": "image/jpeg", "media_etag": "\"11/12/2010 10:28:26 PM\""
+}, "Id": "BVhkn", "Name": "Dikri Vahal No Dariyo", "ShortName": "Dikri Vahal No Dariyo", "Synopsis": "Filmmaker Homi Wadia's intense drama follows a simple family forced to engage in an emotionally exhausting legal battle when another family makes the shocking allegation that their teenage daughter belongs to them. The standout cast includes Pratap Sachdev, Ami Trivedi, Jay Purohit, Sharad Vyas, Chitra Vyas and Manasi Patel.", "ShortSynopsis": "Filmmaker Homi Wadia's intense drama follows a simple family forced to engage in an emotionally exhausting legal battle when another family makes the shocking allegation that their teenage daughter belongs to them.", "AverageRating": 1.9, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Dikri_Vahal_No_Dariyo/70096057", "Runtime": 6480, "Rating": "NR", "DateModified": "\/Date(1289600906000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70096057", "TinyUrl": "http://movi.es/BVhkn", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70096057.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70096057.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70096057.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1208822400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6480
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkn')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVhkp')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70096059.jpg", "content_type": "image/jpeg", "media_etag": "\"8/18/2011 5:59:52 PM\""
+}, "Id": "BVhkp", "Name": "Haila Ramila Pachi Aavi", "ShortName": "Haila Ramila Pachi Aavi", "Synopsis": "An emotionally distant family is transformed when the beautiful Ramila enters their lives and helps them reconnect. When she suddenly dies, the family turns to a healer, who brings her back to life -- but not without a few &#8230; complications. Not only has Ramila's spirit returned to her body, but a few other souls have joined her, and now her body's a vessel for a variety of sprits looking to interact with those in the physical world.", "ShortSynopsis": "An emotionally distant family is transformed when the beautiful Ramila enters their lives and helps them reconnect. When she suddenly dies, the family turns to a healer, who brings her back to life -- but not without a few... complications.", "AverageRating": 2, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Haila_Ramila_Pachi_Aavi/70096059", "Runtime": 7080, "Rating": "NR", "DateModified": "\/Date(1313690392000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70096059", "TinyUrl": "http://movi.es/BVhkp", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70096059.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70096059.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70096059.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1208822400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7080
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkp')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVhkt')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70096063.jpg", "content_type": "image/jpeg", "media_etag": "\"2/16/2011 6:50:37 PM\""
+}, "Id": "BVhkt", "Name": "Rang Chhe Rajja", "ShortName": "Rang Chhe Rajja", "Synopsis": "When Amar Desai finds out that he has only six months to live, the anxiety-addled, put-upon bank clerk transforms into a fearless daredevil, risking his life at every turn and laughing in the face of death. Director Siddharth Randeria also stars in this irreverent Gujarati comedy, leading a cast that includes Padmesh Pandit, Rohinton Chesun, Ravi Parmar, Sunil Vishrani, Hitesh Upadhyay, Tejas Parekh, Suraj Vyas, Purvi Vyas and Sanjivani.", "ShortSynopsis": "When Amar Desai finds out that he has only six months to live, the anxiety-addled, put-upon bank clerk transforms into a fearless daredevil, risking his life at every turn and laughing in the face of death.", "AverageRating": 2.1, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Rang_Chhe_Rajja/70096063", "Runtime": 7680, "Rating": "NR", "DateModified": "\/Date(1297882237000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70096063", "TinyUrl": "http://movi.es/BVhkt", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70096063.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70096063.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70096063.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1208822400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7680
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVhkt')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViIu')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70098172.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2010 6:19:43 PM\""
+}, "Id": "BViIu", "Name": "Jo Jo Moda Na Padta", "ShortName": "Jo Jo Moda Na Padta", "Synopsis": "When friends Parag and Bharat become fed up with their wives' belittling back talk, they decide to send them away, thinking the absence will tame the women. But when their plans backfire, can they work out their differences before it's too late? Directed by and co-starring Deepak Gheewala, this entertaining film also stars Sameer Rajda, Pallavi Pathak, Reena Shah and Ragini Shah.", "ShortSynopsis": "When friends Parag and Bharat become fed up with their wives' belittling back talk, they decide to send them away, thinking the absence will tame the women. But when their plans backfire, can they work out their differences before it's too late?", "AverageRating": 2, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Jo_Jo_Moda_Na_Padta/70098172", "Runtime": 9420, "Rating": "NR", "DateModified": "\/Date(1286475583000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098172", "TinyUrl": "http://movi.es/BViIu", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70098172.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70098172.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70098172.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1209427200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9420
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIu')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViIx')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70098175.jpg", "content_type": "image/jpeg", "media_etag": "\"7/28/2011 9:22:18 PM\""
+}, "Id": "BViIx", "Name": "Muthi Uchero Manas", "ShortName": "Muthi Uchero Manas", "Synopsis": "What happens when the hardworking head of a middle class family is suddenly confronted with a situation that challenges everything he believes and has worked for? Can he adapt to the changes, or is he forever stuck in his old ways? Directed by Amit Divetia, this provocative drama stars Deepak Gheewala, Minal Karpe, Amrish Patel, Palvi Pathak and Vijay Rawal.", "ShortSynopsis": "What happens when the hardworking head of a middle class family is suddenly confronted with a situation that challenges everything he believes and has worked for? Can he adapt to the changes, or is he forever stuck in his old ways?", "AverageRating": 1.8, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Muthi_Uchero_Manas/70098175", "Runtime": 6540, "Rating": "NR", "DateModified": "\/Date(1311888138000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098175", "TinyUrl": "http://movi.es/BViIx", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70098175.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70098175.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70098175.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1209427200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6540
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIx')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViIz')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70098177.jpg", "content_type": "image/jpeg", "media_etag": "\"1/6/2012 7:40:26 PM\""
+}, "Id": "BViIz", "Name": "Resham Dankh", "ShortName": "Resham Dankh", "Synopsis": "When a couple desperate to have a baby fails to conceive, they fall prey to an unscrupulous neighbor who claims to have supernatural power to alter their destiny. But the neighbor is playing with powers he cannot begin to understand. Who will end up paying the price for his deception? Directed by and co-starring Homi Wadia, this drama also features Maheshwari, Pallavi Pathak, Ami Trivedi, Anand Garadia and Mehul Buch.", "ShortSynopsis": "When a couple desperate to have a baby fails to conceive, they fall prey to an unscrupulous neighbor who claims to have supernatural power to alter their destiny. But the neighbor is playing with powers he cannot begin to understand.", "AverageRating": 1.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Resham_Dankh/70098177", "Runtime": 9240, "Rating": "NR", "DateModified": "\/Date(1325878826000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098177", "TinyUrl": "http://movi.es/BViIz", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70098177.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70098177.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70098177.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1209427200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9240
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViIz')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViom')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70100148.jpg", "content_type": "image/jpeg", "media_etag": "\"11/12/2010 7:48:56 PM\""
+}, "Id": "BViom", "Name": "Aapnaj Ghar Ma No Entry", "ShortName": "Aapnaj Ghar Ma No Entry", "Synopsis": "Tushar Joshi directs this Gujarati-language play about a rift between a father and his two married sons that eventually widens into a daunting chasm. When the boys' father tells them that he's taken voluntary retirement from his job, the siblings try to convince him to reconsider. But the patriarch's patent refusal to listen ultimately leads to the sons' banishment from the family home. Can a party bring everyone together again?", "ShortSynopsis": "Tushar Joshi directs this Gujarati-language play about a rift between a father and his two married sons that eventually widens into a daunting chasm.", "AverageRating": 1.7, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Aapnaj_Ghar_Ma_No_Entry/70100148", "Runtime": 7020, "Rating": "NR", "DateModified": "\/Date(1289591336000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70100148", "TinyUrl": "http://movi.es/BViom", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70100148.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70100148.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70100148.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7020
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViom')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVion')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70100149.jpg", "content_type": "image/jpeg", "media_etag": "\"4/14/2011 4:34:21 PM\""
+}, "Id": "BVion", "Name": "Ajab Karamat", "ShortName": "Ajab Karamat", "Synopsis": "Pramod has been in the driver's seat for so long that he's used to calling the shots. But in the middle of his latest scheme -- a plot that involves faking his own death and blaming his wife -- he discovers that someone else is playing God. For the first time in a long time, Pramod is no longer in control. Can he use his wits to get back in the game? Director Siddharth Randeria also stars in this Gujarati-language drama.", "ShortSynopsis": "Pramod has been in the driver's seat for so long that he's used to calling the shots. But in the middle of his latest scheme -- a plot that involves faking his own death and blaming his wife -- he discovers that someone else is playing God.", "AverageRating": 2.1, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Ajab_Karamat/70100149", "Runtime": 6480, "Rating": "NR", "DateModified": "\/Date(1302798861000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70100149", "TinyUrl": "http://movi.es/BVion", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70100149.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70100149.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70100149.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1212451200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6480
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVion')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViop')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70100151.jpg", "content_type": "image/jpeg", "media_etag": "\"11/12/2010 9:40:48 PM\""
+}, "Id": "BViop", "Name": "Chaal Reverse Ma Jaiye", "ShortName": "Chaal Reverse Ma Jaiye", "Synopsis": "While celebrating his 60th wedding anniversary with his wife, Manilal can't help but notice that neither one of them is happy. He yearns for the opportunity to go back and do things differently. But he couldn't really do that -- or could he? With divine intervention, anything's possible! Rajesh Joshi directs this Gujarati-language play about living life, cherishing love and taking advantage of second chances.", "ShortSynopsis": "While celebrating his 60th wedding anniversary with his wife, Manilal can't help but notice that neither one of them is happy. He yearns for the opportunity to go back and do things differently. But he couldn't really do that -- or could he?", "AverageRating": 1.8, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Chaal_Reverse_Ma_Jaiye/70100151", "Runtime": 9000, "Rating": "NR", "DateModified": "\/Date(1289598048000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70100151", "TinyUrl": "http://movi.es/BViop", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70100151.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70100151.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70100151.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1212451200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViop')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVios')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70100154.jpg", "content_type": "image/jpeg", "media_etag": "\"10/6/2011 5:30:09 PM\""
+}, "Id": "BVios", "Name": "Mannubhai Matric Fail", "ShortName": "Mannubhai Matric Fail", "Synopsis": "Mannubhai wasn't even clever enough to make it through high school, yet somehow he has an unstoppable optimism that allows him to believe anything's possible. Applying his skills to the hotel business, he sets out to make as much money as he can. The fact that he'll have to pretend to be a graduate -- and that his brother-in-law is the hotel manager -- is hardly an obstacle. Director Arvind Vekariya also stars in this Gujarati-language farce.", "ShortSynopsis": "Mannubhai wasn't even clever enough to make it through high school, yet somehow he has an unstoppable optimism that allows him to believe anything's possible. Applying his skills to the hotel business, he sets out to make as much money as he can.", "AverageRating": 1.7, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Mannubhai_Matric_Fail/70100154", "Runtime": 8160, "Rating": "NR", "DateModified": "\/Date(1317922209000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70100154", "TinyUrl": "http://movi.es/BVios", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70100154.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70100154.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70100154.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1212451200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8160
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVios')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViou')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70100156.jpg", "content_type": "image/jpeg", "media_etag": "\"1/28/2012 6:54:22 PM\""
+}, "Id": "BViou", "Name": "Raja Vaja Ne Varraja", "ShortName": "Raja Vaja Ne Varraja", "Synopsis": "Amar already gets enough grief from his wife, who doesn't approve of his career as a small-time grocer. But his life becomes all the more complicated when his best friend, Samir, steps in to try and help him and a mysterious woman enters the picture. Tushar Joshi directs this Gujarati-language comedy of errors with a cast that includes Ashish Bhatt, Sanjay Shah, Parag Shah, Manisha Kanojia and Pooja Mehar.", "ShortSynopsis": "Amar already gets enough grief from his wife, who doesn't approve of his career as a small-time grocer. But his life becomes all the more complicated when his best friend, Samir, steps in to try and help him and a mysterious woman enters the picture.", "AverageRating": 1.9, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Raja_Vaja_Ne_Varraja/70100156", "Runtime": 6180, "Rating": "NR", "DateModified": "\/Date(1327776862000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70100156", "TinyUrl": "http://movi.es/BViou", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70100156.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70100156.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70100156.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1212451200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6180
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViou')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViPC')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70098562.jpg", "content_type": "image/jpeg", "media_etag": "\"7/28/2011 9:22:18 PM\""
+}, "Id": "BViPC", "Name": "Abhinay Samrat", "ShortName": "Abhinay Samrat", "Synopsis": "After cleverly swindling his way to wealth, a con man with a flair for impersonation ignores the consequences his deception has caused. That is, until the law catches up with him in this gripping adaptation of the Gujurati play. The dark tale of justice and accountability, directed by its lead actor, Upendra Trivedi, also stars Ramanbhai Parmar, Hasmukh Dave, Ramu Bhagat, Deval Patel and Daksha Dave.", "ShortSynopsis": "After cleverly swindling his way to wealth, a con man with a flair for impersonation ignores the consequences his deception has caused. That is, until the law catches up with him in this gripping adaptation of the Gujurati play.", "AverageRating": 1.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Abhinay_Samrat/70098562", "Runtime": 8880, "Rating": "NR", "DateModified": "\/Date(1311888138000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098562", "TinyUrl": "http://movi.es/BViPC", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70098562.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70098562.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70098562.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1210032000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8880
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPC')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViPD')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70098563.jpg", "content_type": "image/jpeg", "media_etag": "\"5/25/2011 6:04:50 PM\""
+}, "Id": "BViPD", "Name": "Bhale Padharya", "ShortName": "Bhale Padharya", "Synopsis": "The dynamics of marital relationships are explored to comic effect in this filmed version of the Gujurati play, which also probes class differences and economic status. With the help of a talented cast that includes Dharmesh Vyas and Surbhi Jhaveri, director Arvind Vekariya delves deeply but humorously into the timeless conflicts that connect us all.", "ShortSynopsis": "The dynamics of marital relationships are explored to comic effect in this filmed version of the Gujurati play, which also probes class differences and economic status.", "AverageRating": 1.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Bhale_Padharya/70098563", "Runtime": 6240, "Rating": "NR", "DateModified": "\/Date(1306346690000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098563", "TinyUrl": "http://movi.es/BViPD", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70098563.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70098563.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70098563.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1210032000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6240
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPD')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViPE')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70098564.jpg", "content_type": "image/jpeg", "media_etag": "\"8/11/2011 6:24:27 PM\""
+}, "Id": "BViPE", "Name": "Dhabkara Ni Dhingamasti", "ShortName": "Dhabkara Ni Dhingamasti", "Synopsis": "Eighteen years ago, Priyanka fell in love with the wonderful Akash but had to marry professor Devdutt instead. History repeats itself when Priyanka's son by Devdutt falls in love with a woman beyond his reach. Only this time, Priyanka is ready to help her son get the love that was denied her. The Gujarati play stars Mehul Buch, Sandeep Mehta, Parag Shah, Bhavesh, Hemant Jha and Sathi Pesvani.", "ShortSynopsis": "Eighteen years ago, Priyanka fell in love with the wonderful Akash but had to marry professor Devdutt instead. History repeats itself when Priyanka's son by Devdutt falls in love with a woman beyond his reach.", "AverageRating": 1.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Dhabkara_Ni_Dhingamasti/70098564", "Runtime": 8280, "Rating": "NR", "DateModified": "\/Date(1313087067000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098564", "TinyUrl": "http://movi.es/BViPE", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70098564.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70098564.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70098564.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1210032000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8280
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPE')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViPF')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70098565.jpg", "content_type": "image/jpeg", "media_etag": "\"11/11/2011 6:47:20 PM\""
+}, "Id": "BViPF", "Name": "Ek Bhool Wonderful", "ShortName": "Ek Bhool Wonderful", "Synopsis": "After years of taking his hardworking wife for granted and driving his sister and mother crazy in the process, a chauvinist husband gets his comeuppance when God intervenes and lets the man see what it's like to be a woman. Life lessons ensue in this Gujarati play starring Aliraza Namdar, Jeetu Mehta, Vimal Upadhyay, Uday Karande, Jigish Vyas, Pankaj Trivedi, Amita Rajda, Eva and Anuradha Kanabar.", "ShortSynopsis": "After years of taking his hardworking wife for granted and driving his sister and mother crazy in the process, a chauvinist husband gets his comeuppance when God intervenes and lets the man see what it's like to be a woman.", "AverageRating": 1.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Ek_Bhool_Wonderful/70098565", "Runtime": 5460, "Rating": "NR", "DateModified": "\/Date(1321037240000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098565", "TinyUrl": "http://movi.es/BViPF", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70098565.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70098565.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70098565.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1210032000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5460
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPF')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViPG')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70098566.jpg", "content_type": "image/jpeg", "media_etag": "\"5/4/2011 5:13:52 PM\""
+}, "Id": "BViPG", "Name": "Ek Murakh Ne Evi Tev", "ShortName": "Ek Murakh Ne Evi Tev", "Synopsis": "A superstitious family gets thrown for a loop when Iccha Shankar brings home a con man masquerading as a mahatma, who tricks the whole house into carrying out his mischievous plans. It's not long before Shankar's perceptive son and son-in-law begin to smell a phony in this satirical farce by Gujurati humorist Tarak Mmehta. The film stars Mukesh Rawal, Santu Rajda, Chirag Acharya, Vimal Upadhyay, Bharat Shroff, Jeetu Mehta and Anuradha Kaabhar.", "ShortSynopsis": "A superstitious family gets thrown for a loop when Iccha Shankar brings home a con man masquerading as a mahatma, who tricks the whole house into carrying out his mischievous plans.", "AverageRating": 2, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Ek_Murakh_Ne_Evi_Tev/70098566", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1304529232000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098566", "TinyUrl": "http://movi.es/BViPG", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70098566.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70098566.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70098566.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1210032000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPG')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViPI')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70098568.jpg", "content_type": "image/jpeg", "media_etag": "\"2/3/2011 5:54:18 PM\""
+}, "Id": "BViPI", "Name": "Kaanch Na Sambandh", "ShortName": "Kaanch Na Sambandh", "Synopsis": "A wife's worst nightmare comes true when Meera learns that her husband of 10 years, Madhav, has fallen in love with her friend Radha. Now, Meera, who's invested her entire identity into being a wife, must learn to face life alone. The Gujurati play, directed by Kamlesh Mota, stars Aliraja Namdar, Dilip Darbar, Babul Bhavsar, Tejal Vyas, Chirag Joshi, Pallavi Pradhan and Manisha Vora.", "ShortSynopsis": "A wife's worst nightmare comes true when Meera learns that her husband of 10 years, Madhav, has fallen in love with her friend Radha. Now, Meera, who's invested her entire identity into being a wife, must learn to face life alone.", "AverageRating": 1.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Kaanch_Na_Sambandh/70098568", "Runtime": 6300, "Rating": "NR", "DateModified": "\/Date(1296755658000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098568", "TinyUrl": "http://movi.es/BViPI", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70098568.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70098568.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70098568.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1210032000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6300
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPI')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViPJ')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70098569.jpg", "content_type": "image/jpeg", "media_etag": "\"10/14/2011 4:57:27 PM\""
+}, "Id": "BViPJ", "Name": "Karmakshetra", "ShortName": "Karmakshetra", "Synopsis": "In this harrowing filmed version of the Gujurati play, an honest cop falls in the line of duty while chasing a gang of vicious criminals. Soon, the gang goes after the cop's bereaved family, who respond by taking on the underworld themselves. This probing exploration of justice, directed by Homi Wadia, stars Vijeta, Jayesh Bharbhaya, Hardik Raval, Homi Wadia, Vijaya Desai and Viral.", "ShortSynopsis": "In this harrowing filmed version of the Gujurati play, an honest cop falls in the line of duty while chasing a gang of vicious criminals. Soon, the gang goes after the cop's bereaved family, who respond by taking on the underworld themselves.", "AverageRating": 1.8, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Karmakshetra/70098569", "Runtime": 8040, "Rating": "NR", "DateModified": "\/Date(1318611447000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098569", "TinyUrl": "http://movi.es/BViPJ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70098569.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70098569.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70098569.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1210032000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8040
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViPJ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViQb')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70098649.jpg", "content_type": "image/jpeg", "media_etag": "\"11/12/2010 8:59:10 PM\""
+}, "Id": "BViQb", "Name": "Avsar Aavine Ubho Aangane", "ShortName": "Avsar Aavine Ubho Aangane", "Synopsis": "On Kunjkishore's 75th birthday, his wife, Snehprabha, invites their three grown children for a surprise party, but the reunion is marred when old conflicts flare up, forcing the family to address some long-ignored wounds. As they celebrate Kunjkishore's big day, his wife and children also try to resolve their disputes and restore peace within their home. Suresh Rajda and Sarita Joshi star in this moving family drama.", "ShortSynopsis": "On Kunjkishore's 75th birthday, his wife, Snehprabha, invites their three grown children for a surprise party, but the reunion is marred when old conflicts flare up, forcing the family to address some long-ignored wounds.", "AverageRating": 1.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Avsar_Aavine_Ubho_Aangane/70098649", "Runtime": 7260, "Rating": "NR", "DateModified": "\/Date(1289595550000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098649", "TinyUrl": "http://movi.es/BViQb", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70098649.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70098649.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70098649.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1210636800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7260
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQb')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViQf')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70098653.jpg", "content_type": "image/jpeg", "media_etag": "\"5/12/2011 4:34:33 PM\""
+}, "Id": "BViQf", "Name": "Gulab Gadbad Na Karto", "ShortName": "Gulab Gadbad Na Karto", "Synopsis": "Henpecked husbands Kamal (Abhay Harpale) and Gulab (Rajiv Mehta) meet during a drunken night out and concoct a half-baked plot to kill their wives during a luxury train vacation. But as the duo prepares to go through with the plan, they encounter one mishap after another. Despite the setbacks, the men are determined to do in their unsuspecting wives, but the women soon notice that something seems amiss in this entertaining black comedy.", "ShortSynopsis": "Henpecked husbands Kamal and Gulab meet during a drunken night out and concoct a half-baked plot to kill their wives during a luxury train vacation. But as the duo prepares to go through with the plan, they encounter one mishap after another.", "AverageRating": 2, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Gulab_Gadbad_Na_Karto/70098653", "Runtime": 6540, "Rating": "NR", "DateModified": "\/Date(1305218073000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098653", "TinyUrl": "http://movi.es/BViQf", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70098653.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70098653.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70098653.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1210636800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6540
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQf')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViQg')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70098654.jpg", "content_type": "image/jpeg", "media_etag": "\"9/9/2011 5:33:00 PM\""
+}, "Id": "BViQg", "Name": "Patta Ni Jod", "ShortName": "Patta Ni Jod", "Synopsis": "The game of life is always a gamble, sometimes depending on pure luck and sometimes resting on a carefully taken risk. See what happens when people play their cards wisely -- and what happens when they don't -- in this Indian family drama. Sanat Vyas, Sharad Vyas, Saumil Daru and Rahul Antani star in a film that examines the ways that luck and circumstance can either reward, or punish, the daring.", "ShortSynopsis": "The game of life is always a gamble, sometimes depending on pure luck and sometimes resting on a carefully taken risk. See what happens when people play their cards wisely -- and what happens when they don't -- in this Indian family drama.", "AverageRating": 2, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Patta_Ni_Jod/70098654", "Runtime": 7500, "Rating": "NR", "DateModified": "\/Date(1315589580000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098654", "TinyUrl": "http://movi.es/BViQg", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70098654.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70098654.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70098654.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1210636800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7500
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQg')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViQi')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70098656.jpg", "content_type": "image/jpeg", "media_etag": "\"1/20/2012 6:43:12 PM\""
+}, "Id": "BViQi", "Name": "Shayankhand No Sikandar", "ShortName": "Shayankhand No Sikandar", "Synopsis": "A married man who believes the key to happiness can be found in a series of affairs rather than with his wife must reconsider his ideas of love and fidelity after he's dumped by one girlfriend after another in a string of comic misadventures. As his love life dwindles, he soon begins to realize that true joy may be waiting for him at home in this romantic comedy starring Ashish Bhatt, Tanmay Vekaria and Hitesh Sampat.", "ShortSynopsis": "A married man who believes the key to happiness can be found in a series of affairs rather than with his wife must reconsider his ideas of love and fidelity after he's dumped by one girlfriend after another in a string of comic misadventures.", "AverageRating": 1.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Shayankhand_No_Sikandar/70098656", "Runtime": 5700, "Rating": "NR", "DateModified": "\/Date(1327084992000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70098656", "TinyUrl": "http://movi.es/BViQi", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70098656.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70098656.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70098656.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1210636800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5700
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViQi')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViWh')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70099027.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 9:33:17 AM\""
+}, "Id": "BViWh", "Name": "Gujjubhai E Gaam Gajavyu", "ShortName": "Gujjubhai E Gaam Gajavyu", "Synopsis": "Hasubhai (Siddharth Randeria) holds out hope that his lovely daughter Kajal (Leena Shah) will marry Rasik (Ashish Bhatt), the manager of his company. Unfortunately for dad, Kajal has her sights set on a handsome filmmaker, causing Hasubhai and Rasik to join forces. The hilarious struggle takes some surprising turns in this filmed adaptation of the Gujurati play, which also stars Suraj Vyas, Maulik Pathak and Rahul Patel.", "ShortSynopsis": "Hasubhai holds out hope that his lovely daughter Kajal will marry Rasik, the manager of his company. Unfortunately for dad, Kajal has her sights set on a handsome filmmaker, causing Hasubhai and Rasik to join forces.", "AverageRating": 2.7, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Gujjubhai_E_Gaam_Gajavyu/70099027", "Runtime": 6780, "Rating": "NR", "DateModified": "\/Date(1328866397000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70099027", "TinyUrl": "http://movi.es/BViWh", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70099027.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70099027.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70099027.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1211241600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6780
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWh')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViWm')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70099032.jpg", "content_type": "image/jpeg", "media_etag": "\"11/10/2010 8:55:54 AM\""
+}, "Id": "BViWm", "Name": "Toh Lagi Sharat", "ShortName": "Toh Lagi Sharat", "Synopsis": "While young couple Bandya and Priya receive the blessing of both families, their pals Param and Sanjana don't have the same luck. Param's only hope is to prove to his would-be father-in-law that he can earn 25 lakh rupees in a month. The plucky Param pursues his paycheck with purpose in this filmed adaptation of the hilarious Gujurati play, which stars Jayesh Barbhaya, Vikas Kadam, Devyani Thakkar, Dimple Hathi and Janhvi Chheda.", "ShortSynopsis": "While young couple Bandya and Priya receive the blessing of both families, their pals Param and Sanjana don't have the same luck. Param's only hope is to prove to his would-be father-in-law that he can earn 25 lakh rupees in a month.", "AverageRating": 1.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Toh_Lagi_Sharat/70099032", "Runtime": 7560, "Rating": "NR", "DateModified": "\/Date(1289379354000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70099032", "TinyUrl": "http://movi.es/BViWm", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70099032.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70099032.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70099032.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1211241600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7560
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWm')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BViWn')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70099033.jpg", "content_type": "image/jpeg", "media_etag": "\"11/13/2010 6:05:36 AM\""
+}, "Id": "BViWn", "Name": "Vasudhaiv Kutumbkam", "ShortName": "Vasudhaiv Kutumbkam", "Synopsis": "Prosperous builder Parekh sacrifices the safety of his construction projects in an effort to boost profits, but his wife and two children do not look approvingly on his corner-cutting dealings. One man's greed comes at a heavy price in this gripping dramatic adaptation of the Gujurati play, which stars Deepak Gheewala, Anand Goradia, Nitin Vekaria, Jigesh Mukati, Chaitanya Bhatt, Nihar Thakkar and  Minal Patel.", "ShortSynopsis": "Prosperous builder Parekh sacrifices the safety of his construction projects in an effort to boost profits, but his wife and two children do not look approvingly on his corner-cutting dealings.", "AverageRating": 1.8, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Vasudhaiv_Kutumbkam/70099033", "Runtime": 6000, "Rating": "NR", "DateModified": "\/Date(1289628336000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70099033", "TinyUrl": "http://movi.es/BViWn", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70099033.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70099033.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70099033.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1211241600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BViWn')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVkT2')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70106488.jpg", "content_type": "image/jpeg", "media_etag": "\"5/5/2011 4:52:39 PM\""
+}, "Id": "BVkT2", "Name": "Bapa Tame Jalsa Karo", "ShortName": "Bapa Tame Jalsa Karo", "Synopsis": "It's Eastern traditionalism vs. Western liberalism in director Amit Devatia's amusing social comedy that centers on the culture clash between a young Westernized Indian (Vipul Vithalani) and his conservative grandfather (Amit Devatia). When he learns that his grandson has impregnated a woman (Swati Shah) whom he doesn't plan to marry, Grandfather sets out to teach the youngster about the pitfalls of impulsive relationships and casual sex.", "ShortSynopsis": "It's Eastern traditionalism vs. Western liberalism in director Amit Devatia's amusing social comedy that centers on the culture clash between a young Westernized Indian and his conservative grandfather.", "AverageRating": 2, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Bapa_Tame_Jalsa_Karo/70106488", "Runtime": 7500, "Rating": "NR", "DateModified": "\/Date(1304614359000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70106488", "TinyUrl": "http://movi.es/BVkT2", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70106488.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70106488.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70106488.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1224547200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7500
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkT2')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVm4t')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70112679.jpg", "content_type": "image/jpeg", "media_etag": "\"4/6/2011 7:08:20 PM\""
+}, "Id": "BVm4t", "Name": "Chaukat Rani Char Ghulam", "ShortName": "Chaukat Rani Char Ghulam", "Synopsis": "The treasure hunt is on for a missing loot of diamonds when jewel thief Mansukh is double-crossed by his two-timing fianc&#233;e, Parijat, and her not-so-brotherly accomplice, Usman. But Mansukh may have a double-dealing surprise of his own. Just when police -- and Parijat -- think they've got the goods, they soon realize there is a puzzling lack of evidence. So who's got the gems? Amit Mistry, Sejal Shah and Dilip Rawal star in this comedy thriller.", "ShortSynopsis": "The treasure hunt is on for a missing loot of diamonds when jewel thief Mansukh is double-crossed by his two-timing fianc\u00e9e, Parijat, and her not-so-brotherly accomplice, Usman. But Mansukh may have a double-dealing surprise of his own.", "AverageRating": 1.9, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Chaukat_Rani_Char_Ghulam/70112679", "Runtime": 6720, "Rating": "NR", "DateModified": "\/Date(1302116900000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70112679", "TinyUrl": "http://movi.es/BVm4t", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70112679.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70112679.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70112679.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1230595200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6720
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4t')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVm4u')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70112680.jpg", "content_type": "image/jpeg", "media_etag": "\"12/8/2010 6:49:19 PM\""
+}, "Id": "BVm4u", "Name": "Hadh Karo Cho Hasubhai", "ShortName": "Hadh Karo Cho Hasubhai", "Synopsis": "In this Gujarati stage comedy, timid Hasu can't understand why his divorce lawyer father refuses to help his son divorce his overbearing wife. But soon Hasu realizes that what his reluctant widowed father needs is a bride -- perhaps like Hasu's wife. And the hunt for the \"perfect\" mate leads to a string of hilarious and unexpected situations. Amit Divetia directs this play that stars Anurag Prapanna, Pinky Parikh and Vaishali Parmar.", "ShortSynopsis": "In this Gujarati stage comedy, timid Hasu can't understand why his divorce lawyer father refuses to help his son divorce his overbearing wife. But soon Hasu realizes that what his reluctant widowed father needs is a bride -- perhaps like Hasu's wife.", "AverageRating": 2, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Hadh_Karo_Cho_Hasubhai/70112680", "Runtime": 7560, "Rating": "NR", "DateModified": "\/Date(1291834159000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70112680", "TinyUrl": "http://movi.es/BVm4u", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70112680.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70112680.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70112680.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1230595200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7560
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm4u')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVm50')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70112686.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:23:04 PM\""
+}, "Id": "BVm50", "Name": "Carry on Lalu", "ShortName": "Carry on Lalu", "Synopsis": "Though he dreams of being a movie star, Lalu bends to family pressure and pretends to be a successful lawyer instead -- until one night when Sonal, a beautiful thief, breaks into his house and turns his world upside down. Falling in love, Sonal changes her dishonest ways, while Lalu discovers a thing or two about following his own heart. Siddharth Randeria directs this charming comedy that also stars Ami Trivedi and Rajul Diwan.", "ShortSynopsis": "Though he dreams of being a movie star, Lalu bends to family pressure and pretends to be a successful lawyer instead -- until one night when Sonal, a beautiful thief, breaks into his house and turns his world upside down.", "AverageRating": 2.1, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Carry_on_Lalu/70112686", "Runtime": 7380, "Rating": "NR", "DateModified": "\/Date(1328901784000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70112686", "TinyUrl": "http://movi.es/BVm50", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70112686.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70112686.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70112686.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1231200000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7380
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm50')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVm52')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70112688.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVm52", "Name": "Gurubrahma", "ShortName": "Gurubrahma", "Synopsis": "When Shrikant's family is going through a very difficult time, things begin to seem irredeemably dark. But a stranger -- Gurubrahmanand Shastri -- unexpectedly appears in their lives, and everything changes. With a light touch and a subtle style, the Guru shares his wisdom, teaching the family how to deal with their difficulties. This inspirational drama stars Siddarth Randeria -- who also directs -- and Padmesh Pandit.", "ShortSynopsis": "When Shrikant's family is going through a very difficult time, things begin to seem irredeemably dark. But a stranger -- Gurubrahmanand Shastri -- unexpectedly appears in their lives, and everything changes.", "AverageRating": 1.8, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Gurubrahma/70112688", "Runtime": 6720, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70112688", "TinyUrl": "http://movi.es/BVm52", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70112688.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70112688.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70112688.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6720
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm52')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVm54')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70112690.jpg", "content_type": "image/jpeg", "media_etag": "\"11/30/2011 7:46:53 PM\""
+}, "Id": "BVm54", "Name": "Sambhav Asambhav", "ShortName": "Sambhav Asambhav", "Synopsis": "When conscientious Dinesh Sanghvi starts working for Sheth Krishnakant, both men are happy with the situation. But Dinesh's life is turned upside down when his new boss is murdered and he decides to investigate the crime. Soon, Dinesh finds himself drawn into a confusing and dark world of betrayal and deception. Directed by Dhiraj Palshekar, this tense thriller stars Manoj Joshi, Jayesh Barbhaia, Harish Panchal and Dharamendra Gohil.", "ShortSynopsis": "When conscientious Dinesh Sanghvi starts working for Sheth Krishnakant, both men are happy with the situation. But Dinesh's life is turned upside down when his new boss is murdered and he decides to investigate the crime.", "AverageRating": 1.9, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Sambhav_Asambhav/70112690", "Runtime": 9120, "Rating": "NR", "DateModified": "\/Date(1322682413000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70112690", "TinyUrl": "http://movi.es/BVm54", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70112690.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70112690.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70112690.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1231200000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9120
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm54')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVm55')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70112691.jpg", "content_type": "image/jpeg", "media_etag": "\"4/14/2011 4:34:21 PM\""
+}, "Id": "BVm55", "Name": "Tamarabhai Fulltoo Fatak", "ShortName": "Tamarabhai Fulltoo Fatak", "Synopsis": "Rajiv and Meghna have a happy life with their children, Dhruv and Ritika. But as small grievances pile up over the years, Rajiv and Meghna gradually become adversaries. Now, their kids team up with a neighbor to stave off their impending divorce. When Meghna takes off, leaving Rajiv responsible for watching over Dhruv and Ritika, the family is turned upside down. But the new situation teaches everyone some important lessons in this family drama.", "ShortSynopsis": "Rajiv and Meghna have a happy life with their children, Dhruv and Ritika. But as small grievances pile up over the years, Rajiv and Meghna gradually become adversaries. Now, their kids team up with a neighbor to stave off their impending divorce.", "AverageRating": 1.9, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Tamarabhai_Fulltoo_Fatak/70112691", "Runtime": 5580, "Rating": "NR", "DateModified": "\/Date(1302798861000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70112691", "TinyUrl": "http://movi.es/BVm55", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70112691.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70112691.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70112691.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1231200000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5580
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm55')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVmQd')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70114027.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2011 5:34:52 PM\""
+}, "Id": "BVmQd", "Name": "Baap Kamai Zindabad", "ShortName": "Baap Kamai Zindabad", "Synopsis": "With a father (Mehul Buch) fixated on wealth and power, a mother (Ambika Ranjankar) obsessed with status and appearance, and children who spend all their time shopping and partying, the Maniar family is a case study in superficiality and frivolity. But everything changes when a family friend hatches an elaborate plan to show the Maniars the error of their ways, teaching them all a lesson in tough love. Tushar Joshi directs.", "ShortSynopsis": "With a father fixated on wealth and power, a mother obsessed with status and appearance, and children who spend all their time shopping and partying, the Maniar family is a case study in superficiality and frivolity.", "AverageRating": 2, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Baap_Kamai_Zindabad/70114027", "Runtime": 6180, "Rating": "NR", "DateModified": "\/Date(1297359292000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70114027", "TinyUrl": "http://movi.es/BVmQd", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70114027.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70114027.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70114027.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1233014400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6180
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmQd')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVn7j')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70116699.jpg", "content_type": "image/jpeg", "media_etag": "\"7/8/2011 6:12:04 PM\""
+}, "Id": "BVn7j", "Name": "Laljilal Malamaal", "ShortName": "Laljilal Malamaal", "Synopsis": "A dreamer by nature but a failure when it comes to turning dreams into reality, Laljilal (Ashish Bhatt) had long endured his neighbors' ridicule. Now, however, thanks to a heavenly intervention, he's ready to turn the tables in this fantasy from Dharmesh Vyas. Having arrived in heaven by mistake -- and none too eager to leave his fancy digs -- Laljilal agrees to return to Earth if he can exact revenge on his tormentors.", "ShortSynopsis": "A dreamer by nature but a failure when it comes to turning dreams into reality, Laljilal had long endured his neighbors' ridicule. Now, however, thanks to a heavenly intervention, he's ready to turn the tables in this fantasy from Dharmesh Vyas.", "AverageRating": 2, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Laljilal_Malamaal/70116699", "Runtime": 6300, "Rating": "NR", "DateModified": "\/Date(1310148724000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70116699", "TinyUrl": "http://movi.es/BVn7j", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70116699.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70116699.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70116699.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1236643200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6300
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVn7j')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVnZm')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70118438.jpg", "content_type": "image/jpeg", "media_etag": "\"11/2/2011 2:58:51 PM\""
+}, "Id": "BVnZm", "Name": "Dholi Taaro Dhol Waage", "ShortName": "Dholi Taaro Dhol Waage", "Synopsis": "When musician Raju meets Mansi, a member of a very wealthy family, he wins her over with his beautiful dhol playing, despite his lower-class position in life. Mansi's family, however, opposes the relationship. But Raju and Mansi aren't willing to give up their great love. Upendra Trivedi, Naresh Kanodia and Roma Manek star in this passionate tale of star-crossed lovers from India directed by Govindbhai Patel.", "ShortSynopsis": "When musician Raju meets Mansi, a member of a very wealthy family, he wins her over with his beautiful dhol playing, despite his lower-class position in life. Mansi's family, however, opposes the relationship.", "AverageRating": 2.1, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Dholi_Taaro_Dhol_Waage/70118438", "Runtime": 9660, "Rating": "NR", "DateModified": "\/Date(1320245931000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70118438", "TinyUrl": "http://movi.es/BVnZm", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70118438.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70118438.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70118438.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1241481600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9660
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZm')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVnZw')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70118448.jpg", "content_type": "image/jpeg", "media_etag": "\"11/3/2011 9:27:41 PM\""
+}, "Id": "BVnZw", "Name": "Pachhi Kehta Nahi Ke Kahyun Nahotu", "ShortName": "Pachhi Kehta Nahi Ke Kahyun Nahotu", "Synopsis": "A family discovers their intellectually challenged daughter is a positive influence rather than an encumbrance in this touching drama from India. When they face a major crisis, the daughter unexpectedly helps them weather their difficulties with grace. Written by Nimesh Shah and directed by Dharmesh Vyas -- who also makes an appearance -- the film stars Alpana Buch, Dilip Darbar, Jay Kapadia, Amita Rajda and Surabhi Vyas.", "ShortSynopsis": "A family discovers their intellectually challenged daughter is a positive influence rather than an encumbrance in this touching drama from India.", "AverageRating": 2.1, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Pachhi_Kehta_Nahi_Ke_Kahyun_Nahotu/70118448", "Runtime": 6960, "Rating": "NR", "DateModified": "\/Date(1320355661000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70118448", "TinyUrl": "http://movi.es/BVnZw", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70118448.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70118448.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70118448.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1243900800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6960
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnZw')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVoFR')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70121021.jpg", "content_type": "image/jpeg", "media_etag": "\"11/10/2010 8:29:19 AM\""
+}, "Id": "BVoFR", "Name": "Parke Paise Lilalaher", "ShortName": "Parke Paise Lilalaher", "Synopsis": "His acting career on the skids, Siddarth (Vipul Vithalani) decides to follow another unstable pursuit: astrology. Using his acting skills to mask his cluelessness about foretelling the future, Siddarth soon discovers he's a natural -- and so does a mob kingpin. With no real idea what he's doing and the crime lord hanging on his every prediction, Siddarth's only chance is to fib his way to the top. Dinyar Contractor and Gayatri Rawal co-star.", "ShortSynopsis": "His acting career on the skids, Siddarth decides to follow another unstable pursuit: astrology. Using his acting skills to mask his cluelessness about foretelling the future, Siddarth soon discovers he's a natural -- and so does a mob kingpin.", "AverageRating": 1.9, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Parke_Paise_Lilalaher/70121021", "Runtime": 7140, "Rating": "NR", "DateModified": "\/Date(1289377759000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70121021", "TinyUrl": "http://movi.es/BVoFR", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70121021.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70121021.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70121021.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1251158400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7140
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoFR')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPQo')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70025626.jpg", "content_type": "image/jpeg", "media_etag": "\"5/17/2011 8:52:24 PM\""
+}, "Id": "BVPQo", "Name": "Patri Parmar: Gujarati", "ShortName": "Patri Parmar: Gujarati", "Synopsis": "After meeting at a mutual friend's wedding, Lakhuba and Patari fall madly in love. Trouble is, Lakhuba's younger brother also harbors tender feelings for Patari -- who commits an unpardonable offense in his eyes by choosing Lakhuba. Will his green-eyed sibling go off the deep end upon hearing that Lakhuba and Patari plan to marry? Directed by Ravidra Dave, the film stars Upendra Trivedi, Arvind Rathod and Snehlata.", "ShortSynopsis": null, "AverageRating": 2.2, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Patri_Parmar_Gujarati/70025626", "Runtime": 8400, "Rating": "NR", "DateModified": "\/Date(1305665544000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70025626", "TinyUrl": "http://movi.es/BVPQo", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70025626.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70025626.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70025626.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110412800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQo')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPQq')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70025628.jpg", "content_type": "image/jpeg", "media_etag": "\"5/17/2011 8:52:48 PM\""
+}, "Id": "BVPQq", "Name": "Raja Gopichand: Gujarati", "ShortName": "Raja Gopichand: Gujarati", "Synopsis": "Born the illustrious offspring of Emperor Trilokchand and Queen Manawati, Raja Gopichand is destined for great things &#8230; despite the fact that his lascivious mother would prefer not to have her son in the picture. On his way up the imperial ladder, Gopichand remembers all the people who hurt him -- including mommy dearest -- and after he's in command, he exacts a hefty price from his erstwhile abusers.", "ShortSynopsis": null, "AverageRating": 2, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Raja_Gopichand_Gujarati/70025628", "Runtime": 8400, "Rating": "NR", "DateModified": "\/Date(1305665568000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70025628", "TinyUrl": "http://movi.es/BVPQq", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70025628.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70025628.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70025628.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110412800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQq')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPQt')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70025631.jpg", "content_type": "image/jpeg", "media_etag": "\"5/17/2011 8:53:05 PM\""
+}, "Id": "BVPQt", "Name": "Sorath No Saavaz: Gujarati", "ShortName": "Sorath No Saavaz: Gujarati", "Synopsis": "Power-mad Queen Fulkunwar lusts after Amarsingh, the victor at the annual horse race, but to her chagrin, he rebuffs her and instead falls for the landlord's daughter, Sonal. The scorned and vengeful queen abducts and jails Amarsingh -- whose friend Dhaniya comes to his rescue. Now the only question is, can Amarsingh save Sonal from the clutches of a would-be rapist and murderer? Naresh Kanodia, Arvind Trivedi and Ramesh Mehta head the cast.", "ShortSynopsis": null, "AverageRating": 1.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Sorath_No_Saavaz_Gujarati/70025631", "Runtime": 8700, "Rating": "NR", "DateModified": "\/Date(1305665585000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70025631", "TinyUrl": "http://movi.es/BVPQt", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70025631.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70025631.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70025631.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110412800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8700
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQt')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPQx')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70025635.jpg", "content_type": "image/jpeg", "media_etag": "\"5/17/2011 8:53:28 PM\""
+}, "Id": "BVPQx", "Name": "Suraj Chandra Ni Sakhe: Gujarati", "ShortName": "Suraj Chandra Ni Sakhe: Gujarati", "Synopsis": "Lovely Soun falls head over heels for Prince Amar after he thwarts her attempted abduction by would-be romantic rival Guman. But the prince's father frowns on the union and promptly jails his son to end the liaison. Meanwhile, Guman worms his way into the good graces of Soun's father -- who promises her hand to Guman. Can Amar escape and reunite with his beloved? Director Ravinder Dave's tale of young love stars Upendra Trivedi and Ramesh Mehta.", "ShortSynopsis": null, "AverageRating": 2, "ReleaseYear": 1979, "Url": "http://www.netflix.com/Movie/Suraj_Chandra_Ni_Sakhe_Gujarati/70025635", "Runtime": 9000, "Rating": "NR", "DateModified": "\/Date(1305665608000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70025635", "TinyUrl": "http://movi.es/BVPQx", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70025635.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70025635.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70025635.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110412800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPQx')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPR2')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70025640.jpg", "content_type": "image/jpeg", "media_etag": "\"5/17/2011 8:53:51 PM\""
+}, "Id": "BVPR2", "Name": "Veer Abhaluvallo: Gujarati", "ShortName": "Veer Abhaluvallo: Gujarati", "Synopsis": "Avaricious tradesman Rupasa asks a saint to suspend precipitation in his region for seven years. Fearful of the consequences, noble King Ebhal steps in to halt the curse -- which puts his life at risk. When a compassionate woman named Sai provides him safe harbor, he promises to go to any lengths to return the favor &#8230; but will the sovereign slay his son to cure Sai's husband of leprosy? The cast includes Arvind Pandya and Padmarani.", "ShortSynopsis": null, "AverageRating": 2.1, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Veer_Abhaluvallo_Gujarati/70025640", "Runtime": 8400, "Rating": "NR", "DateModified": "\/Date(1305665631000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70025640", "TinyUrl": "http://movi.es/BVPR2", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70025640.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70025640.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70025640.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110412800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR2')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVPR3')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70025641.jpg", "content_type": "image/jpeg", "media_etag": "\"5/17/2011 8:54:15 PM\""
+}, "Id": "BVPR3", "Name": "Ver Ni Aag: Gujarati", "ShortName": "Ver Ni Aag: Gujarati", "Synopsis": "A group of thugs who've taken over the city order the execution of Jaideep Singh, a detective who was beginning to crack down on the criminals. Parul is outraged by her brother's death at the hands of these brutal men and, vowing vengeance, she joins forces with Inspector Amar to apprehend and punish the perpetrators -- no matter how long it takes. Will the duo succeed, or will the killers get away with their heinous crime?", "ShortSynopsis": null, "AverageRating": 1.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Ver_Ni_Aag_Gujarati/70025641", "Runtime": 7800, "Rating": "NR", "DateModified": "\/Date(1305665655000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70025641", "TinyUrl": "http://movi.es/BVPR3", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70025641.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70025641.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70025641.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110412800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVPR3')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVYLd')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70059901.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVYLd", "Name": "Lakhtar Ni Ladi Ne Vilayat No Var", "ShortName": "Lakhtar Ni Ladi Ne Vilayat No Var", "Synopsis": "Pushpa (Sharmili Raj) is the most beautiful girl in the village, but when her father dies and she's taken in by her uncle's family in the city, she's dismayed to discover that city men dismiss her as ignorant and unrefined. Her uncle tries to find Pushpa a husband, but everyone, even her cousin Bindu, looks down on her. Pushpa challenges Bindu to an unusual contest: to see whether she can make Bindu's fianc&#233; fall in love with a country girl.", "ShortSynopsis": "Pushpa is the most beautiful girl in the village, but when her father dies and she's taken in by her uncle's family in the city, she's dismayed to discover that city men dismiss her as ignorant and unrefined.", "AverageRating": 2.5, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Lakhtar_Ni_Ladi_Ne_Vilayat_No_Var/70059901", "Runtime": 9600, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70059901", "TinyUrl": "http://movi.es/BVYLd", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70059901.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70059901.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70059901.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(883612800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYLd')/Seasons"
+}
+}
+}
+]
+}
+}

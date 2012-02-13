@@ -1,0 +1,2439 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApLNr')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/60000291.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 10:02:05 PM\""
+}, "Id": "ApLNr", "Name": "Cross My Heart and Hope to Die", "ShortName": "Cross My Heart and Hope to Die", "Synopsis": "Norwegian director Marius Holst's coming-of-age tale skillfully blends mystery and drama. When the best chum of quiet, naive teen Otto Olsen (Martin Dahl Garfalk) heads off for summer vacation, Otto forges a quick friendship with Frank (Jan Devo Kornstad), a charismatic older boy. Unfortunately, Frank's influence is a catalyst for mischief, and soon a rock-throwing incident at a soccer match morphs into a crime spree in this arresting film.", "ShortSynopsis": "Norwegian director Marius Holst's coming-of-age tale skillfully blends mystery and drama. When the best chum of quiet, naive teen Otto Olsen heads off for summer vacation, Otto forges a quick friendship with Frank, a charismatic older boy.", "AverageRating": 2.9, "ReleaseYear": 1997, "Url": "http://www.netflix.com/Movie/Cross_My_Heart_and_Hope_to_Die/60000291", "Runtime": 5940, "Rating": "NR", "DateModified": "\/Date(1301608925000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60000291", "TinyUrl": "http://movi.es/ApLNr", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/60000291.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/60000291.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/60000291.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(955411200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5940
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLNr')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApLVv')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/60000791.jpg", "content_type": "image/jpeg", "media_etag": "\"1/5/2012 11:17:12 PM\""
+}, "Id": "ApLVv", "Name": "The Other Side of Sunday", "ShortName": "The Other Side of Sunday", "Synopsis": "Nominated for an Academy Award, this dark comedy is the coming-of-age story of a rebellious girl raised in a repressive Norwegian village. Maria is terribly aware of her burgeoning sexuality and takes solace in long walks and secret readings of the racy text in the Old Testament. While out strolling, Maria encounters a woman who encourages her to test her sexual wings and savor life, but that's easier said than done for the reclusive girl.", "ShortSynopsis": "Nominated for an Academy Award, this dark comedy is the coming-of-age story of a rebellious girl raised in a repressive Norwegian village.", "AverageRating": 3.2, "ReleaseYear": 1996, "Url": "http://www.netflix.com/Movie/The_Other_Side_of_Sunday/60000791", "Runtime": 6180, "Rating": "PG-13", "DateModified": "\/Date(1325805432000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60000791", "TinyUrl": "http://movi.es/ApLVv", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/60000791.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/60000791.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/60000791.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(962668800000)\/", "AvailableTo": null, "Rating": "PG-13", "Runtime": 6180
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLVv')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApRI7')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/60022999.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "ApRI7", "Name": "Cool & Crazy", "ShortName": "Cool & Crazy", "Synopsis": "The men in the village of economically struggling Berlevag, Norway, have three choices: fish, sing or leave. In this documentary, we get an inside look at the men of the Berlevag Male Choir (who range in age from early 20s to the choir's elder statesman in his mid-90s), as we follow their rehearsals and performances in their hometown and in Murmansk, Russia.", "ShortSynopsis": "The men in the village of economically struggling Berlevag, Norway, have three choices: fish, sing or leave.", "AverageRating": 3, "ReleaseYear": 2001, "Url": "http://www.netflix.com/Movie/Cool_Crazy/60022999", "Runtime": 5340, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60022999", "TinyUrl": "http://movi.es/ApRI7", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/60022999.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/60022999.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/60022999.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1019520000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5340
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRI7')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVa1h')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70066353.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:12 PM\""
+}, "Id": "BVa1h", "Name": "Reprise", "ShortName": "Reprise", "Synopsis": "Close friends Erik (Espen Klouman-H&#248;iner) and Phillip (Anders Danielsen Lie) each await news on their first novels. But when Phillip's book is published before Erik's, he's unprepared for fame and the obsessions and temptations it brings along with it. He eventually emerges from a nervous breakdown, only to discover that Erik has found literary success of his own. This brash look at art and success is director Joachim Trier's feature debut.", "ShortSynopsis": "Differing destinies await a pair of self-absorbed Norwegian friends who hope to become successful novelists in this vividly kinetic drama.", "AverageRating": 3.1, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Reprise/70066353", "Runtime": 6420, "Rating": "R", "DateModified": "\/Date(1301582112000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70066353", "TinyUrl": "http://movi.es/BVa1h", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70066353.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70066353.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70066353.jpg", "HighDefinitionUrl": "http://cdn-3.nflximg.com/en_us/boxshots/ghd/70066353.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1220313600000)\/", "AvailableTo": null, "Rating": "R", "Runtime": 6420
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1220313600000)\/", "AvailableTo": "\/Date(1851465600000)\/", "HighDefinitionAvailable": false, "Rating": "R", "Runtime": 6432
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVa1h')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVcRw')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70075668.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVcRw", "Name": "Lakki: The Boy Who Could Fly", "ShortName": "Lakki: The Boy Who Could Fly", "Synopsis": "Gritty reality combines with flights of fancy in this lyrical Norwegian film about an angel-faced teen who looks to the streets for shelter when his parents ignore him and trouble finds him at school. Dreaming of escape, 14-year-old Lakki (Anders Borchgrevink) begins sprouting feathers on his back. But is the transformation real, or is it imagined? And does it even matter in the nightmare urban landscape that defines Lakki's existence?", "ShortSynopsis": "Gritty reality combines with flights of fancy in this lyrical Norwegian film about an angel-faced teen who looks to the streets for shelter when his parents ignore him and trouble finds him at school.", "AverageRating": 2.7, "ReleaseYear": 1992, "Url": "http://www.netflix.com/Movie/Lakki_The_Boy_Who_Could_Fly/70075668", "Runtime": 5880, "Rating": "UR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70075668", "TinyUrl": "http://movi.es/BVcRw", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70075668.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70075668.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70075668.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1187654400000)\/", "AvailableTo": null, "Rating": "UR", "Runtime": 5880
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcRw')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVcUr')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70075849.jpg", "content_type": "image/jpeg", "media_etag": "\"1/17/2011 8:50:51 AM\""
+}, "Id": "BVcUr", "Name": "The Bothersome Man", "ShortName": "The Bothersome Man", "Synopsis": "Mysteriously deposited in a perfectly serene but colorless city where every need is met, Andreas soon realizes that not even a new lover can change the sterile banality drowning him. Is this placid life a dream come true or an inescapable hell? Is the lovely music coming from a crack in the basement his ticket out? This provocative black comedy is directed by Jens Lien and stars Trond Fausa Aurvaag and Petronella Barker.", "ShortSynopsis": "Deposited in a serene but colorless city where every need is met, a man wonders if this placid life is a dream come true or an inescapable hell.", "AverageRating": 3.4, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/The_Bothersome_Man/70075849", "Runtime": 5700, "Rating": "NR", "DateModified": "\/Date(1295254251000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70075849", "TinyUrl": "http://movi.es/BVcUr", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70075849.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70075849.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70075849.jpg", "HighDefinitionUrl": "http://cdn-9.nflximg.com/en_us/boxshots/ghd/70075849.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1199750400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5700
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1197676800000)\/", "AvailableTo": "\/Date(1418515200000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 5488
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcUr')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVf78')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70085910.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2012 7:04:30 PM\""
+}, "Id": "BVf78", "Name": "Kissed by Winter", "ShortName": "Kissed by Winter", "Synopsis": "Consumed with grief in the wake of her young son's tragic death, a Norwegian doctor (Annika Hallin) breaks all ties with her husband and begins a new life, retreating to the relative void of a remote country town. Once there, she finds herself embroiled in an investigation surrounding the death of a Muslim immigrant by getting dangerously close to the man (Kristoffer Joner) everyone suspects of committing the crime.", "ShortSynopsis": "Consumed with grief in the wake of her young son's tragic death, a Norwegian doctor breaks all ties with her husband and begins a new life, retreating to the relative void of a remote country town.", "AverageRating": 2.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Kissed_by_Winter/70085910", "Runtime": 4860, "Rating": "NR", "DateModified": "\/Date(1328814270000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70085910", "TinyUrl": "http://movi.es/BVf78", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70085910.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70085910.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70085910.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1202774400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4860
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVf78')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVihs')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70099720.jpg", "content_type": "image/jpeg", "media_etag": "\"7/13/2011 7:11:58 AM\""
+}, "Id": "BVihs", "Name": "Cold Prey", "ShortName": "Cold Prey", "Synopsis": "Upon breaking his leg, a snowboarder and his four friends find themselves stranded at a decrepit ski lodge in the Norwegian mountains in this thriller from Roar Uthaug. After learning that the hotel was closed long ago when a boy vanished, the group discovers they are not alone and they'll be lucky to stay alive, let alone return home. The chiller stars Ingrid Bols&#248; Berdal, Rolf Kristian Larsen, Tomas Alf Larsen, Endre Martin Midtstigen and Viktoria Winge.", "ShortSynopsis": "A group of snowboarders find themselves stranded at a decrepit ski lodge, where they soon learn they are not alone and they'll be lucky to stay alive.", "AverageRating": 3, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Cold_Prey/70099720", "Runtime": 5820, "Rating": "NR", "DateModified": "\/Date(1310541118000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70099720", "TinyUrl": "http://movi.es/BVihs", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70099720.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70099720.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70099720.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1232409600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5820
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVihs')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVJCg')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70001686.jpg", "content_type": "image/jpeg", "media_etag": "\"1/13/2010 8:45:08 AM\""
+}, "Id": "BVJCg", "Name": "Last Lieutenant", "ShortName": "Last Lieutenant", "Synopsis": "As the Nazis are about to invade Norway at the start of World War II, a maturing Norwegian marine decides to head back home to his wife in Oslo. But when he learns of the troubling fate of his country, he reenlists in order to help out. What he doesn't know is that the army is in shambles, and he'll have to do things his way if he's to save his fellow soldiers. Stars Espen Skj&#248;nberg, Thor Espedal, Lars Andreas Larssen and Gard B. Eidsvold.", "ShortSynopsis": "As the Nazis are about to invade Norway at the start of World War II, a maturing Norwegian marine decides to head back home to his wife in Oslo. But when he learns of the troubling fate of his country, he reenlists in order to help out.", "AverageRating": 3, "ReleaseYear": 1993, "Url": "http://www.netflix.com/Movie/Last_Lieutenant/70001686", "Runtime": 6120, "Rating": "NR", "DateModified": "\/Date(1263372308000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70001686", "TinyUrl": "http://movi.es/BVJCg", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70001686.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70001686.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70001686.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1101168000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6120
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVJCg')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVl08')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70108540.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVl08", "Name": "Cold Lunch", "ShortName": "Cold Lunch", "Synopsis": "In her debut feature, Norwegian director Eva S&#248;rhaug presents a thought-provoking character study of modern-day Oslo through the eyes of strangers whose lives are subtly intertwined. Christer (Aksel Hennie) lives hand to mouth while Turid (Birgitte Victoria Svendsen) clings to her waning youth. The sheltered Leni (Ane Dahl Torp) is terrified of people, and Heidi (Pia Tjelta) is preoccupied with her fractured love life.", "ShortSynopsis": "In her debut feature, Norwegian director Eva S\u00f8rhaug presents a thought-provoking character study of modern-day Oslo through the eyes of strangers whose lives are subtly intertwined.", "AverageRating": 2.8, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Cold_Lunch/70108540", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70108540", "TinyUrl": "http://movi.es/BVl08", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70108540.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70108540.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70108540.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl08')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVm1T')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70112467.jpg", "content_type": "image/jpeg", "media_etag": "\"5/7/2011 3:09:13 AM\""
+}, "Id": "BVm1T", "Name": "Dead Snow", "ShortName": "Dead Snow", "Synopsis": "A group of Norwegian friends get the scariest history lesson of their lives during a weekend getaway to the snowy town of &#216;ksfjord, where the party is interrupted by throngs of Nazi zombies who once occupied the area. Armed with a machine-gun-equipped snowmobile, the gang fights for survival in director Tommy Wirkola's quirky horror, shot on location in the mountains of Norway. The film had its U.S. premiere at the 2009 Sundance Film Festival.", "ShortSynopsis": "A group of friends gets the scariest history lesson of their lives during a weekend getaway, where the party is interrupted by Nazi zombies.", "AverageRating": 3.4, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Dead_Snow/70112467", "Runtime": 5520, "Rating": "NR", "DateModified": "\/Date(1304737753000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70112467", "TinyUrl": "http://movi.es/BVm1T", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1266883200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5520
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70112467.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70112467.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70112467.jpg", "HighDefinitionUrl": "http://cdn-7.nflximg.com/en_us/boxshots/ghd/70112467.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1266883200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5520
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1266883200000)\/", "AvailableTo": "\/Date(1361577600000)\/", "HighDefinitionAvailable": false, "Rating": "TV-MA", "Runtime": 5498
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1T')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVmdf')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70114835.jpg", "content_type": "image/jpeg", "media_etag": "\"3/18/2010 8:17:57 AM\""
+}, "Id": "BVmdf", "Name": "Black Metal: The Norwegian Legacy", "ShortName": "Black Metal: The Norwegian Legacy", "Synopsis": "Though the term \"black metal\" was coined by the English band Venom, some argue that Norwegian groups really created the subgenre. This hard-driving documentary tries to determine once and for all who originated the black metal style. Members of Enslaved, Finntroll, Dark Funeral, Naglfar, Rotting Christ and Bloodthorn discuss whether the Norwegians, the Swedes or another group can claim credit. The film also includes live performance footage.", "ShortSynopsis": "Though the term \"black metal\" was coined by the English band Venom, some argue that Norwegian groups really created the subgenre. This hard-driving documentary tries to determine once and for all who originated the black metal style.", "AverageRating": 3, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Black_Metal_The_Norwegian_Legacy/70114835", "Runtime": 7020, "Rating": "NR", "DateModified": "\/Date(1268900277000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70114835", "TinyUrl": "http://movi.es/BVmdf", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70114835.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70114835.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70114835.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7020
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmdf')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVmY3')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70114487.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVmY3", "Name": "North", "ShortName": "North", "Synopsis": "When washed-up downhill skiing pro Jomar Henriksen (Anders Baasmo Christiansen) learns that he has a son he never knew about living up north, he packs a gallon of booze, hops on his snowmobile and lurches off to see his progeny. But his trip is touch-and-go as he runs into other lonesome souls and some surreal obstacles. Will he find his way to his son -- and back to a productive life? Rune Denstad Langlo directs this delightfully offbeat comedy.", "ShortSynopsis": "When washed-up downhill skiing pro Jomar Henriksen learns that he has a son he never knew about living up north, he packs a gallon of booze, hops on his snowmobile and lurches off to see his progeny.", "AverageRating": 3.4, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/North/70114487", "Runtime": 4680, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70114487", "TinyUrl": "http://movi.es/BVmY3", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70114487.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70114487.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70114487.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4680
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVmY3')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVnqB')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70119455.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVnqB", "Name": "Big John", "ShortName": "Big John", "Synopsis": "Helmed by H&#229;vard Bustnes, this documentary tracks the trials and tribulations of up-and-coming Norwegian boxer Ole \"the Golden Viking\" Klemetsen and his trainer-father, Big John Klemetsen. While navigating the treacherous waters of the cutthroat boxing world, from the 1992 Olympic trials to the European Championships, Team Klemetsen struggles mightily to keep their family together in the face of tremendous sacrifice and strife.", "ShortSynopsis": "Helmed by H\u00e5vard Bustnes, this documentary tracks the trials and tribulations of up-and-coming Norwegian boxer Ole \"the Golden Viking\" Klemetsen and his trainer-father, Big John Klemetsen.", "AverageRating": 2.6, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Big_John/70119455", "Runtime": 5160, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70119455", "TinyUrl": "http://movi.es/BVnqB", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70119455.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70119455.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70119455.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5160
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnqB')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVnRo')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70117944.jpg", "content_type": "image/jpeg", "media_etag": "\"1/17/2011 12:32:45 PM\""
+}, "Id": "BVnRo", "Name": "Troubled Water", "ShortName": "Troubled Water", "Synopsis": "After serving time in prison for murdering a child, Jan Thomas (P&#229;l Sverre Valheim Hagen) takes a job as a church organist and becomes involved with Anna (Ellen Dorrit Petersen), a pastor and single mother -- but the crime he insists he didn't commit still haunts him. Jan keeps his past a secret from Anna, but when a local woman (Trine Dyrholm) recognizes him as the convicted killer of her son, his new life is threatened in this tense drama.", "ShortSynopsis": "After serving time in prison for murdering a child, an ex-con takes a job as a church organist and becomes involved with the female pastor.", "AverageRating": 3.7, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Troubled_Water/70117944", "Runtime": 6960, "Rating": "NR", "DateModified": "\/Date(1295267565000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70117944", "TinyUrl": "http://movi.es/BVnRo", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70117944.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70117944.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70117944.jpg", "HighDefinitionUrl": "http://cdn-4.nflximg.com/en_us/boxshots/ghd/70117944.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1265673600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6960
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1265673600000)\/", "AvailableTo": "\/Date(1360368000000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 7256
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnRo')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVOkX')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70023005.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2012 7:04:30 PM\""
+}, "Id": "BVOkX", "Name": "Zero Kelvin", "ShortName": "Zero Kelvin", "Synopsis": "Bored with his uneventful life and in search of inspiration, aspiring poet Henrik Larsen (Gard B. Eidsvold) leaves the comforts of his Oslo home for the harsh elements of Greenland, where he joins a fur-trapping expedition led by a grizzled hunter named Randb&#230;k (Stellan Skarsg&#229;rd). As the grueling expedition grows increasingly trying, the men work feverishly to stay alive, battling the merciless elements as well as one another.", "ShortSynopsis": "Bored with his uneventful life and in search of inspiration, aspiring poet Henrik leaves the comforts of Oslo for the harsh elements of Greenland.", "AverageRating": 2.9, "ReleaseYear": 1995, "Url": "http://www.netflix.com/Movie/Zero_Kelvin/70023005", "Runtime": 6780, "Rating": "NR", "DateModified": "\/Date(1328814270000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70023005", "TinyUrl": "http://movi.es/BVOkX", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70023005.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70023005.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70023005.jpg", "HighDefinitionUrl": "http://cdn-5.nflximg.com/en_us/boxshots/ghd/70023005.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(883612800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6780
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1309478400000)\/", "AvailableTo": "\/Date(1393632000000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 6874
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOkX')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVpC0')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70124652.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVpC0", "Name": "The Angel", "ShortName": "The Angel", "Synopsis": "Lea's (Maria Bonnevie) idyllic life and bright future is shattered forever when her father's untimely death frees Lea's mother to take up with an abusive man and ultimately influences the growing girl's decisions about alcohol and eventually heroin. Director Margreth Olin's documentary-turned-fictitious tale of how an unhealthy family relationship and environment literally breeds an addict is as compelling as it is disturbing.", "ShortSynopsis": "Lea's idyllic life and bright future is shattered forever when her father's untimely death frees Lea's mother to take up with an abusive man and ultimately influences the growing girl's decisions about alcohol and eventually heroin.", "AverageRating": 2.8, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/The_Angel/70124652", "Runtime": 6060, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70124652", "TinyUrl": "http://movi.es/BVpC0", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70124652.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70124652.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70124652.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6060
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpC0')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVpCi')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70124696.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVpCi", "Name": "Cold Prey 2", "ShortName": "Cold Prey 2", "Synopsis": "After five of her friends die violently on Norway's Jotunheimen mountain range, lone survivor Jannicke (Ingrid Bols\u00f8 Berdal) treks back to civilization, where her hospital stay is interrupted by the arrival of a new patient: the mountain man who killed her friends. Snowbound terror ensues in this tense sequel to the 2006 Norwegian slasher treat. Marthe Snorresdotter Rovik, Mats Eldoen and Kim Wifladt co-star.", "ShortSynopsis": "After five of her friends die violently on Norway's Jotunheimen mountain range, lone survivor Jannicke treks back to civilization, where her hospital stay is interrupted by the arrival of a new patient: the mountain man who killed her friends.", "AverageRating": 3.8, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Cold_Prey_2/70124696", "Runtime": 5160, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70124696", "TinyUrl": "http://movi.es/BVpCi", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70124696.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70124696.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70124696.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5160
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVpCi')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVqTX')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70129583.jpg", "content_type": "image/jpeg", "media_etag": "\"5/19/2011 5:15:04 AM\""
+}, "Id": "BVqTX", "Name": "Free Jimmy", "ShortName": "Free Jimmy", "Synopsis": "Over-the-hill circus elephant Jimmy has a huge stash of heroin stitched into his hide -- a fortune that aspiring circus owner Roy (voice of Woody Harrelson) wants to cash in on. But when Jimmy goes AWOL, Roy's dream becomes the real endangered species. While the drugged-up elephant goes cold turkey in the tundra, a gang of stoners, vegans and mobsters stays hot on his trail in this animated farce from Norwegian cartoonist Christopher Nielsen.", "ShortSynopsis": "Over-the-hill circus elephant Jimmy has a huge stash of heroin stitched into his hide -- a fortune that aspiring circus owner Roy wants to cash in on. But when Jimmy goes AWOL, Roy's dream becomes the real endangered species.", "AverageRating": 3.2, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Free_Jimmy/70129583", "Runtime": 5100, "Rating": "NR", "DateModified": "\/Date(1305782104000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70129583", "TinyUrl": "http://movi.es/BVqTX", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70129583.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70129583.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70129583.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqTX')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVrHd')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70132689.jpg", "content_type": "image/jpeg", "media_etag": "\"3/19/2010 12:03:33 AM\""
+}, "Id": "BVrHd", "Name": "Rafiki", "ShortName": "Rafiki", "Synopsis": "Mette, Julie and Naisha, a trio of spirited 9-year-olds, are best friends. But just before Christmas, Naisha and her mother disappear after they are denied asylum to remain in Norway. Crushed, Mette and Julie set out to find her. Believing that Naisha has traveled to far-off Oslo, Mette and Julie stow away on a train, with Julie's policeman father hot on their heels. They find Naisha, but must scramble to keep their bond from breaking for good.", "ShortSynopsis": "Mette, Julie and Naisha, a trio of spirited 9-year-olds, are best friends. But just before Christmas, Naisha and her mother disappear after they are denied asylum to remain in Norway. Crushed, Mette and Julie set out to find her.", "AverageRating": 3, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Rafiki/70132689", "Runtime": 4740, "Rating": "NR", "DateModified": "\/Date(1268957013000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70132689", "TinyUrl": "http://movi.es/BVrHd", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70132689.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70132689.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70132689.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4740
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrHd')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVrIX')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70132745.jpg", "content_type": "image/jpeg", "media_etag": "\"3/19/2010 12:44:33 AM\""
+}, "Id": "BVrIX", "Name": "Twigson", "ShortName": "Twigson", "Synopsis": "Young Lillebror is having a tough time being the new boy in town. He has no friends yet, and his family's eccentricities aren't helping him fit in. But all of this changes when he finds a companion in an animated daredevil little twig named Twigson. Lillebror's new comrade encourages him to be daring in pursuit of his fantasies, helps him with schemes to contribute to the family's half-empty coffers and always boosts his faltering self-esteem.", "ShortSynopsis": "Young Lillebror is having a tough time being the new boy in town. He has no friends yet, and his family's eccentricities aren't helping him fit in. But all of this changes when he finds a companion in an animated daredevil little twig named Twigson.", "AverageRating": 3, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Twigson/70132745", "Runtime": 4500, "Rating": "NR", "DateModified": "\/Date(1268959473000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70132745", "TinyUrl": "http://movi.es/BVrIX", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70132745.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70132745.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70132745.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4500
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVrIX')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVtuP')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70142781.jpg", "content_type": "image/jpeg", "media_etag": "\"7/28/2010 10:32:19 PM\""
+}, "Id": "BVtuP", "Name": "Fatso", "ShortName": "Fatso", "Synopsis": "Overweight loner Rino (Nils J\u00f8rgen Kaalstad) has spent most of his life in limited company, making little to no contact with humans. That is, until his dad rents a room to an overtly sexual girl (Josefin Ljungman) who challenges Rino to break down his walls. Of course, suddenly joining the world after decades of self-induced seclusion isn't bound to go smoothly, particularly when you're dealing with Rino's libido.", "ShortSynopsis": "verweight loner Rino has spent most of his life in limited company, making little to no contact with humans. That is, until his dad rents a room to an overtly sexual girl who challenges Rino to break down his walls.", "AverageRating": 3.5, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Fatso/70142781", "Runtime": 5460, "Rating": "NR", "DateModified": "\/Date(1280356339000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70142781", "TinyUrl": "http://movi.es/BVtuP", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70142781.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70142781.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70142781.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5460
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtuP')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVugH')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70145749.jpg", "content_type": "image/jpeg", "media_etag": "\"8/24/2010 8:42:52 PM\""
+}, "Id": "BVugH", "Name": "Tears of Gaza", "ShortName": "Tears of Gaza", "Synopsis": "Filmmaker Vibeke L\u00f8kkeberg offers this documentary that chronicles how the women, children and other civilians of Gaza endured the devastation brought on by the Israeli military's 2008-09 bombing campaign of the region. Featuring powerful footage, the film contemplates the futility of war from the perspective of those who often pay the highest price: the noncombatants.", "ShortSynopsis": "Filmmaker Vibeke L\u00f8kkeberg offers this documentary that chronicles how the women, children and other civilians of Gaza endured the devastation brought on by the Israeli military's 2008-09 bombing campaign of the region.", "AverageRating": 3.9, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/Tears_of_Gaza/70145749", "Runtime": null, "Rating": "NR", "DateModified": "\/Date(1282682572000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70145749", "TinyUrl": "http://movi.es/BVugH", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70145749.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70145749.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70145749.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVugH')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVUow')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70046342.jpg", "content_type": "image/jpeg", "media_etag": "\"1/18/2011 1:34:56 AM\""
+}, "Id": "BVUow", "Name": "Hawaii, Oslo", "ShortName": "Hawaii, Oslo", "Synopsis": "On the hottest day of the year in Oslo, the lives of several people collide -- literally -- in this spellbinding drama. As Frode (Stig Henrik Hoff) and Milla (Silje Torp Faeravaag) learn that their first child needs an expensive operation to live, Bobbie (Petronella Barker) embraces suicide as an option for escaping her past. Meanwhile, Leon (Jan Gunnar Roise) looks forward to celebrating his birthday with a date he made 10 years earlier.", "ShortSynopsis": "On the hottest day of the year in Oslo, the lives of several disparate people collide -- literally -- in this spellbinding drama.", "AverageRating": 3.3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Hawaii_Oslo/70046342", "Runtime": 7500, "Rating": "NR", "DateModified": "\/Date(1295314496000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70046342", "TinyUrl": "http://movi.es/BVUow", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70046342.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70046342.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70046342.jpg", "HighDefinitionUrl": "http://cdn-2.nflximg.com/en_us/boxshots/ghd/70046342.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1143504000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7500
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1226880000000)\/", "AvailableTo": "\/Date(1344988800000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 7201
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUow')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVUp3')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70046349.jpg", "content_type": "image/jpeg", "media_etag": "\"1/13/2011 5:59:36 PM\""
+}, "Id": "BVUp3", "Name": "Buddy", "ShortName": "Buddy", "Synopsis": "Kristoffer Haukeland (Nicolai Cleve Broch), a 24-year-old billboard hanger, never expected his video diary to end up on Norwegian national television. But when his innermost thoughts air on the popular talk show \"Karsten Tonight\" -- along with footage of him pulling outrageous stunts with his best friend, Geir (Aksel Hennie) -- it turns Kristoffer's already rocky love life with Elisabeth (Janne Formoe) on its head.", "ShortSynopsis": "A 24-year-old billboard hanger finds his life take a surprising turn after his video diary unexpectedly ends up on Norwegian national television.", "AverageRating": 3.6, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Buddy/70046349", "Runtime": 6000, "Rating": "NR", "DateModified": "\/Date(1294941576000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70046349", "TinyUrl": "http://movi.es/BVUp3", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70046349.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70046349.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70046349.jpg", "HighDefinitionUrl": "http://cdn-9.nflximg.com/en_us/boxshots/ghd/70046349.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1143504000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1167523200000)\/", "AvailableTo": "\/Date(1356912000000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 6051
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUp3')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVwlc')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70153768.jpg", "content_type": "image/jpeg", "media_etag": "\"6/14/2011 5:10:22 PM\""
+}, "Id": "BVwlc", "Name": "Chasing the Kidneystone", "ShortName": "Chasing the Kidneystone", "Synopsis": "When his grandfather comes down with a mysterious ailment, young Simon (Torbj\u00f6rn T. Jensen) shrinks himself to miniscule size and embarks on an odyssey through the old man's body to seek and destroy the culprit: a nasty kidney stone. On his unusual expedition, Simon meets all sorts of curious characters, including a cute little blood cell and an irate bile duct. Vibeke Ids\u00f8e directs this inventive children's adventure.", "ShortSynopsis": "When his grandfather comes down with a mysterious ailment, a boy shrinks himself and embarks on an odyssey through the old man's body.", "AverageRating": 2.3, "ReleaseYear": 1996, "Url": "http://www.netflix.com/Movie/Chasing_the_Kidneystone/70153768", "Runtime": 5487, "Rating": "NR", "DateModified": "\/Date(1308071422000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70153768", "TinyUrl": "http://movi.es/BVwlc", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70153768.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70153768.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70153768.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70153768.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1285891200000)\/", "AvailableTo": "\/Date(1370044800000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 5487
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwlc')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVwrd')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70154141.jpg", "content_type": "image/jpeg", "media_etag": "\"11/29/2010 9:33:48 PM\""
+}, "Id": "BVwrd", "Name": "Home for Christmas", "ShortName": "Home for Christmas", "Synopsis": "On Christmas Eve in the Norwegian burg of Skogli, a motley set of townsfolk roam the snowy streets, each shouldering a personal preoccupation but all driven by a desire to be home for the holiday in this quirky adaptation of Levi Henriksen's stories. From a homeless man who bumps into an old flame to a father on a shopping run to a young couple stranded as the wife goes into labor, tales absurd and melancholy unfold as the strangers cross paths.", "ShortSynopsis": "On Christmas Eve in the Norwegian burg of Skogli, a motley set of townsfolk roam the snowy streets, each shouldering a personal preoccupation but all driven by a desire to be home for the holiday in this quirky adaptation of Levi Henriksen's stories.", "AverageRating": 3.5, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/Home_for_Christmas/70154141", "Runtime": null, "Rating": "NR", "DateModified": "\/Date(1291066428000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70154141", "TinyUrl": "http://movi.es/BVwrd", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70154141.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70154141.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70154141.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwrd')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVwzY')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70154632.jpg", "content_type": "image/jpeg", "media_etag": "\"12/19/2010 4:17:33 AM\""
+}, "Id": "BVwzY", "Name": "Private Investigator Varg Veum: Series 1", "ShortName": "Private Investigator Varg Veum: Series 1", "Synopsis": "PI Varg Veum (Trond Espen Seim) may be rough around the edges, but his intelligence and kindly ways help him gain justice for the crimes he investigates. In Series 1, Varg looks into the disappearance of a politician's daughter and a missing oil company employee. Varg is also hired to find out if a friend's wife is philandering but not before he's pulled into a confrontation with dangerous dope dealers.", "ShortSynopsis": "PI Varg Veum may be rough around the edges, but his intelligence and kindly ways help him gain justice for the crimes he investigates. In Series 1, Varg looks into the disappearance of a politician's daughter and a missing oil company employee.", "AverageRating": 4.1, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Private_Investigator_Varg_Veum_Series_1/70154632", "Runtime": null, "Rating": "NR", "DateModified": "\/Date(1292732253000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70154632", "TinyUrl": "http://movi.es/BVwzY", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70154632.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70154632.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70154632.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVwzY')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVXbw')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70057068.jpg", "content_type": "image/jpeg", "media_etag": "\"5/20/2011 5:18:44 AM\""
+}, "Id": "BVXbw", "Name": "Chlorox, Ammonia and Coffee", "ShortName": "Chlorox, Ammonia and Coffee", "Synopsis": "In this Norwegian comedy, a suddenly single mom (who also happens to be pregnant) arms herself with a toy gun and robs a convenience store after her husband drains their savings and runs off with another woman. Not the smartest move, but who can blame her? Subplots abound as urban eccentrics collide in this wickedly funny melodrama co-starring Benedikte Lindbeck, Fares Fares, Kjersti Holmen and Denis Storhoi.", "ShortSynopsis": "In this Norwegian comedy, a suddenly single mom (who also happens to be pregnant) arms herself with a toy gun and robs a convenience store after her husband drains their savings and runs off with another woman.", "AverageRating": 2.9, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Chlorox_Ammonia_and_Coffee/70057068", "Runtime": 6300, "Rating": "NR", "DateModified": "\/Date(1305868724000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70057068", "TinyUrl": "http://movi.es/BVXbw", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70057068.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70057068.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70057068.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1165276800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6300
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVXbw')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BW10T')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70170065.jpg", "content_type": "image/jpeg", "media_etag": "\"1/21/2012 10:38:18 PM\""
+}, "Id": "BW10T", "Name": "Trollhunter", "ShortName": "Trollhunter", "Synopsis": "Three students enter the Norwegian woods to film a documentary on a bear poacher named Hans. When they find him, he claims that bear hunting is just a ruse, and that he actually tracks trolls for the Norwegian government! This footage captures the trio as they follow Hans deep into the forest. If the hunter's story is true, they'll have the makings of the best student film in history. Otto Jespersen, Glenn Erland Tosterud, Johanna M&#248;rck and Tomas Alf Larsen star.", "ShortSynopsis": "Three students enter the Norwegian wood to film a documentary on a bear poacher named Hans. When they find him, he claims that bear hunting is just a ruse, and that he actually tracks trolls for the Norwegian government!", "AverageRating": 3.7, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/Trollhunter/70170065", "Runtime": 5400, "Rating": "PG-13", "DateModified": "\/Date(1327185498000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70170065", "TinyUrl": "http://movi.es/BW10T", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1314057600000)\/", "AvailableTo": null, "Rating": "PG-13", "Runtime": 5400
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70170065.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70170065.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70170065.jpg", "HighDefinitionUrl": "http://cdn-5.nflximg.com/en_us/boxshots/ghd/70170065.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1314057600000)\/", "AvailableTo": null, "Rating": "PG-13", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1316736000000)\/", "AvailableTo": "\/Date(1411430400000)\/", "HighDefinitionAvailable": false, "Rating": "PG-13", "Runtime": 6206
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW10T')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BW2ii')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70176652.jpg", "content_type": "image/jpeg", "media_etag": "\"3/4/2011 6:07:16 PM\""
+}, "Id": "BW2ii", "Name": "The Mountain", "ShortName": "The Mountain", "Synopsis": "Two years after losing their young son in a hiking accident, still-grieving lesbian partners Nora and Solveig trudge back to the snowy site of the tragedy in an attempt to heal their emotional wounds and untangle their feelings.", "ShortSynopsis": "Two years after losing their young son in a hiking accident, still-grieving lesbian partners Nora and Solveig trudge back to the snowy site of the tragedy in an attempt to heal their emotional wounds and untangle their feelings.", "AverageRating": 3, "ReleaseYear": 2011, "Url": "http://www.netflix.com/Movie/The_Mountain/70176652", "Runtime": 4380, "Rating": "NR", "DateModified": "\/Date(1299262036000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70176652", "TinyUrl": "http://movi.es/BW2ii", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70176652.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70176652.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70176652.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4380
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2ii')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BW63s')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70189496.jpg", "content_type": "image/jpeg", "media_etag": "\"6/13/2011 6:02:44 PM\""
+}, "Id": "BW63s", "Name": "Oslo, August 31st", "ShortName": "Oslo, August 31st", "Synopsis": "This psychological drama follows a day in the life of Anders, a recovering drug addict who travels to his old stomping grounds of Oslo for a job interview. While there, he must confront his past as well as his plans for a new life.", "ShortSynopsis": "This psychological drama follows a day in the life of Anders, a recovering drug addict who travels to his old stomping grounds of Oslo for a job interview. While there, he must confront his past as well as his plans for a new life.", "AverageRating": 3.4, "ReleaseYear": 2011, "Url": "http://www.netflix.com/Movie/Oslo_August_31st/70189496", "Runtime": 5760, "Rating": "NR", "DateModified": "\/Date(1307988164000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70189496", "TinyUrl": "http://movi.es/BW63s", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70189496.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70189496.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70189496.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5760
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW63s')/Seasons"
+}
+}
+}
+]
+}
+}
