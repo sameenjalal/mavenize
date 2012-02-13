@@ -24,3 +24,7 @@ class ReviewForm(ModelForm):
 		attrs={'id': 'review-text'}))
 	class Meta:
 		model = Review
+
+class Thanks(models.Model):
+	giver = models.IntegerField()
+	review = models.ForeignKey(Review)
