@@ -24,7 +24,7 @@
 								<img src="{{ movie.image.url }}" />
 							</div>
 							<div class="review-content">
-								<a href="#">{{ review.user.get_full_name }}</a> reviewed <a href="#">{{ movie.title }}</a>.
+								<a href="/users/{{ review.user.id }}">{{ review.user.get_full_name }}</a> raved about <a href="/movies/{{ movie.url }}">{{ movie.title }}</a>.
 								<blockquote>
 									{{ review.text }}
 								</blockquote>
@@ -47,7 +47,7 @@
 								<img src="{{ movie.image.url }}" />
 							</div>
 							<div class="review-content">
-								<a href="#">{{ review.user.get_full_name }}</a> reviewed <a href="#">{{ movie.title }}</a>.
+								<a href="/users/{{ review.user.id }}">{{ review.user.get_full_name }}</a> raved about <a href="/movies/{{ movie.url }}">{{ movie.title }}</a>.
 								<blockquote>
 									{{ review.text }}
 								</blockquote>
