@@ -29,11 +29,24 @@
 	<script type="text/javascript" src="/media/js/bootstrap.min.js"></script>
 	<script type="text/javascript">
 		$(window).load(function() {
+			// Dropdown for navigation bar
 			$('.dropdown-toggle').dropdown()
 
+			// Active state for navigation bar
 			$('.nav a').each(function() {
 				if (this.href == window.location)
 					$(this).parent('li').addClass('active');
+			})
+
+			// Thank button for reviews
+			$('a.thank').click(function() {
+				var current_element = $(this);
+				$.get($(this).attr('href'), function(data) {
+					var to_update = $(current_element).parent().parent().find('span');
+					to_update.text(to_update.text()*1+1);
+					$(current_element).parent().remove();
+				});
+				return false;
 			})
 		})
 	</script>

@@ -5,13 +5,14 @@
 {% endblock %}
 
 {% block body %}
+	{% load review_checks %}
 	<div class="container">
 		<div class="row">
 			<div class="span9">
 				<section id="title">
 					<h1>{{ movie.title }} ({{ movie.release_date|date:"Y" }})</h1>
 				</section>
-				{% if not has_reviewed %}
+				{% if not user|has_reviewed:movie.movie_id %}
 				<section id="review-form">
 					<h3>Watched it?  Rave about it to your friends.</h3>
 					<form class="form-horizontal" action="review/" method="POST">{% csrf_token %}
@@ -40,8 +41,11 @@
 									{{ review.text }}
 								</blockquote>
 								<ul>
+									{% if not user.id|has_thanked:review %}
+									<li><a class="thank" href="/thank/{{ review.review_id}}">thank {{ review.user.first_name|lower }}</a> |</li>
+									{% endif %}
+									<li><span>{{ review.up_votes }}</span> thanks |</li>
 									<li>{{ review.created_at|timesince }} ago</li>
-									<li>4 thanks</li>
 								</ul>
 							</div>
 						</li>

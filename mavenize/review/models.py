@@ -28,3 +28,6 @@ class ReviewForm(ModelForm):
 class Thanks(models.Model):
 	giver = models.IntegerField()
 	review = models.ForeignKey(Review)
+
+	def __unicode__(self):
+		return "User #%s thanked Review #%s" % (self.giver, self.review.pk)
