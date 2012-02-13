@@ -9,6 +9,7 @@ from mavenize.movie.models import Movie
 from mavenize.movie.models import Genre
 from mavenize.review.models import Review
 from mavenize.review.models import ReviewForm
+from django.db.models import Avg
 
 from django.contrib.auth.decorators import login_required
 # from actstream import action
@@ -32,6 +33,8 @@ def genre(request, genre):
 def profile(request, title):
 	has_reviewed = False
 	movie = get_object_or_404(Movie, url=title)
+	reviews = Review.objects.filter(table_number=1, table_id_in_table=movie.movie_id)
+	rating = int(reviews.aggregate(Avg('rating'))['rating__avg']*50)
 	user = request.user
 	form = ReviewForm()
 
@@ -39,6 +42,7 @@ def profile(request, title):
 		has_reviewed=True
 	return render_to_response('movie_profile.html', {
 		'movie': movie,
+		'rating': rating,
 		'reviews': Review.objects.filter(table_number=1,table_id_in_table=movie.movie_id),
 
 		'form': form,
