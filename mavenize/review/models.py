@@ -13,7 +13,7 @@ class Review(models.Model):
 	up_votes = models.IntegerField()
 	down_votes = models.IntegerField()
 
-	RATING_CHOICES = [(i,i) for i in range(1,4)]
+	RATING_CHOICES = [(i,i) for i in range(0,3)]
 	rating = models.SmallIntegerField(choices=RATING_CHOICES)
 
 	class Meta:

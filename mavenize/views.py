@@ -19,7 +19,7 @@ import requests
 import sys
 
 def index(request):
-	if request.session['social_auth_last_login_backend'] == 'facebook':
+	if request.session.get('social_auth_last_login_backend') == 'facebook':
 		return feed(request)
 	return render_to_response('index.html', {},
 		context_instance=RequestContext(request))

@@ -59,11 +59,11 @@ def review(request, title):
 		}
 		# Convert rating to numerical value for review
 		if request.POST['submit'] == "Loved It":
-			review['rating'] = 3
-		elif request.POST['submit'] == "So-So":
 			review['rating'] = 2
-		else:
+		elif request.POST['submit'] == "So-So":
 			review['rating'] = 1
+		else:
+			review['rating'] = 0
 		form = ReviewForm(review)
 		if form.is_valid():
 			form.save()
