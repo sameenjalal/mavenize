@@ -8,4 +8,4 @@ admin.site.register(Genre)
 admin.site.register(MoviePopularity)
 
 class MovieAdmin(admin.ModelAdmin):
-	prepopulated_fields = {"url": ("title",)}
+    prepopulated_fields = {"url": ("title",)}

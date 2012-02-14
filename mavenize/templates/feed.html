@@ -1,84 +1,84 @@
 {% extends "base.html" %}
 
 {% block title %}
-	Mavenize | Welcome {{ name }}
+  Mavenize | Welcome {{ name }}
 {% endblock %}
 
 {% block body %}
-	{% load review_checks %}
-	<div class="container">
-		<div class="row">
-			<div class="span9">
-				<ul id="stream-options">
-					<li><a href="#">Recent</a></li>
-					<li>|</li>
-					<li><a href="#">Popular</a></li>
-				</ul>
-				<div class="stream-header gradient">Raves from Your Friends</div>
-				<ul>
-					{% for review, movie in friend_reviews.items %}
-					<li class="review">
-							<div class="pull-left">
-								<img src="/media/img/users/profile.jpg" />
-							</div>
-							<div class="span1 pull-right">
-								<img src="{{ movie.image.url }}" />
-							</div>
-							<div class="review-content">
-								<a href="/users/{{ review.user.id }}">{{ review.user.get_full_name }}</a> raved about <a href="/movies/{{ movie.url }}">{{ movie.title }}</a>.
-								<blockquote>
-									{{ review.text }}
-								</blockquote>
-								<ul>
-									{% if not user.id|has_thanked:review %}
-									<li><a class="thank" href="/thank/{{ review.review_id}}">thank {{ review.user.first_name|lower }}</a> |</li>
-									{% endif %}
-									<li><span>{{ review.up_votes }}</span> thanks |</li>
-									<li>{{ review.created_at|timesince }} ago</li>
-								</ul>
-							</div>
-					</li>
-					{% endfor %}
-				</ul>
-				<div class="stream-header gradient">Raves from Everyone</div>
-				<ul>
-					{% for review, movie in global_reviews.items %}
-					<li class="review">
-							<div class="pull-left">
-								<img src="/media/img/users/profile.jpg" />
-							</div>
-							<div class="span1 pull-right">
-								<img src="{{ movie.image.url }}" />
-							</div>
-							<div class="review-content">
-								<a href="/users/{{ review.user.id }}">{{ review.user.get_full_name }}</a> raved about <a href="/movies/{{ movie.url }}">{{ movie.title }}</a>.
-								<blockquote>
-									{{ review.text }}
-								</blockquote>
-								<ul>
-									{% if not user.id|has_thanked:review %}
-									<li><a class="thank" href="/thank/{{ review.review_id}}">thank {{ review.user.first_name|lower }}</a> |</li>
-									{% endif %}
-									<li> <span>{{ review.up_votes }}</span> thanks |</li>
-									<li>{{ review.created_at|timesince }} ago</li>
-								</ul>
-							</div>
-						</li>
-						{% endfor %}
-					</ul>
-			</div>
-			<div class="span3">
-				<h2>Hot This Week</h2>
-				<ul class="thumbnails">
-					{% for movie in movies %}
-					<li>
-						<div class="thumbnail">
-							<img src="{{ movie.image.url }}" />
-						</div>
-					</li>
-					{% endfor %}
-				</ul>
-			</div>
-		</div>
-	</div>
+  {% load review_checks %}
+  <div class="container">
+    <div class="row">
+      <div class="span9">
+        <ul id="stream-options">
+          <li><a href="#">Recent</a></li>
+          <li>|</li>
+          <li><a href="#">Popular</a></li>
+        </ul>
+        <div class="stream-header gradient">Raves from Your Friends</div>
+        <ul>
+          {% for review, movie in friend_reviews.items %}
+          <li class="review">
+              <div class="pull-left">
+                <img src="/media/img/users/profile.jpg" />
+              </div>
+              <div class="span1 pull-right">
+                <img src="{{ movie.image.url }}" />
+              </div>
+              <div class="review-content">
+                <a href="/users/{{ review.user.id }}">{{ review.user.get_full_name }}</a> raved about <a href="/movies/{{ movie.url }}">{{ movie.title }}</a>.
+                <blockquote>
+                  {{ review.text }}
+                </blockquote>
+                <ul>
+                  {% if not user.id|has_thanked:review %}
+                  <li><a class="thank" href="/thank/{{ review.review_id}}">thank {{ review.user.first_name|lower }}</a> |</li>
+                  {% endif %}
+                  <li><span>{{ review.up_votes }}</span> thanks |</li>
+                  <li>{{ review.created_at|timesince }} ago</li>
+                </ul>
+              </div>
+          </li>
+          {% endfor %}
+        </ul>
+        <div class="stream-header gradient">Raves from Everyone</div>
+        <ul>
+          {% for review, movie in global_reviews.items %}
+          <li class="review">
+              <div class="pull-left">
+                <img src="/media/img/users/profile.jpg" />
+              </div>
+              <div class="span1 pull-right">
+                <img src="{{ movie.image.url }}" />
+              </div>
+              <div class="review-content">
+                <a href="/users/{{ review.user.id }}">{{ review.user.get_full_name }}</a> raved about <a href="/movies/{{ movie.url }}">{{ movie.title }}</a>.
+                <blockquote>
+                  {{ review.text }}
+                </blockquote>
+                <ul>
+                  {% if not user.id|has_thanked:review %}
+                  <li><a class="thank" href="/thank/{{ review.review_id}}">thank {{ review.user.first_name|lower }}</a> |</li>
+                  {% endif %}
+                  <li> <span>{{ review.up_votes }}</span> thanks |</li>
+                  <li>{{ review.created_at|timesince }} ago</li>
+                </ul>
+              </div>
+            </li>
+            {% endfor %}
+          </ul>
+      </div>
+      <div class="span3">
+        <h2>Hot This Week</h2>
+        <ul class="thumbnails">
+          {% for movie in movies %}
+          <li>
+            <div class="thumbnail">
+              <img src="{{ movie.image.url }}" />
+            </div>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
 {% endblock %}

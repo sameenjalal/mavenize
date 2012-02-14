@@ -1,80 +1,80 @@
 {% extends "base.html" %}
 
 {% block title %}
-	Mavenize | {{ movie.title }} 
+  Mavenize | {{ movie.title }} 
 {% endblock %}
 
 {% block body %}
-	{% load review_checks %}
-	<div class="container">
-		<div class="row">
-			<div class="span9">
-				<section id="title">
-					<h1>{{ movie.title }} ({{ movie.release_date|date:"Y" }})</h1>
-				</section>
-				{% if not user|has_reviewed:movie.movie_id %}
-				<section id="review-form">
-					<h3>Watched it?  Rave about it to your friends.</h3>
-					<form class="form-horizontal" action="review/" method="POST">{% csrf_token %}
-						{{ form.text }}
-						<div class="btn-toolbar" id="rave-submit">
-							<div class="btn-group">
-								<input class="btn btn-large btn-success" type="submit" name="submit" value="Loved It" />
-								<input class="btn btn-large btn-warning" type="submit" name="submit" value="So-So" />
-								<input class="btn btn-large btn-danger" type="submit" name="submit" value="Hated It" />
-							</div>
-						</div>
-					</form>
-				</section>
-				{% endif %}
-				<section id="top-reviews">
-					<h2>Top Raves</h2>
-					<ul>
-						{% for review in reviews %}
-						<li class="review">
-							<div class="pull-left">
-								<img src="/media/img/users/profile.jpg" />
-							</div>
-							<div class="review-content">
-								<a href="/users/{{ review.user.id }}">{{ review.user.get_full_name }}</a>
-								<blockquote>
-									{{ review.text }}
-								</blockquote>
-								<ul>
-									{% if not user.id|has_thanked:review %}
-									<li><a class="thank" href="/thank/{{ review.review_id}}">thank {{ review.user.first_name|lower }}</a> |</li>
-									{% endif %}
-									<li><span>{{ review.up_votes }}</span> thanks |</li>
-									<li>{{ review.created_at|timesince }} ago</li>
-								</ul>
-							</div>
-						</li>
-						{% endfor %}
-					</ul>
-				</section>
-			</div>
-			<div class="span3">
-				<div class="thumbnail">
-					<img src="{{ movie.image.url }}" />
-				</div>
-				<div class="profile" id="rating-box">
-					<div id="rating">{{ rating }}%</div>
-					<div id="votes">({{ reviews.count }} votes)</div>
-				</div>
-				<div class="profile">
-					<h3>Synopsis</h3>
-					<p>
-						{{ movie.synopsis }}
-					</p>
-				</div>
-				<div class="profile">
-					<h3>Cast & Directors</h3>
-						<h4>Actors</h4>
-							{{ movie.cast }}
-						<h4>Directors</h4>
-							{{ movie.directors }}
-				</div>
-			</div>
-		</div>
-	</div>
+  {% load review_checks %}
+  <div class="container">
+    <div class="row">
+      <div class="span9">
+        <section id="title">
+          <h1>{{ movie.title }} ({{ movie.release_date|date:"Y" }})</h1>
+        </section>
+        {% if not user|has_reviewed:movie.movie_id %}
+        <section id="review-form">
+          <h3>Watched it?  Rave about it to your friends.</h3>
+          <form class="form-horizontal" action="review/" method="POST">{% csrf_token %}
+            {{ form.text }}
+            <div class="btn-toolbar" id="rave-submit">
+              <div class="btn-group">
+                <input class="btn btn-large btn-success" type="submit" name="submit" value="Loved It" />
+                <input class="btn btn-large btn-warning" type="submit" name="submit" value="So-So" />
+                <input class="btn btn-large btn-danger" type="submit" name="submit" value="Hated It" />
+              </div>
+            </div>
+          </form>
+        </section>
+        {% endif %}
+        <section id="top-reviews">
+          <h2>Top Raves</h2>
+          <ul>
+            {% for review in reviews %}
+            <li class="review">
+              <div class="pull-left">
+                <img src="/media/img/users/profile.jpg" />
+              </div>
+              <div class="review-content">
+                <a href="/users/{{ review.user.id }}">{{ review.user.get_full_name }}</a>
+                <blockquote>
+                  {{ review.text }}
+                </blockquote>
+                <ul>
+                  {% if not user.id|has_thanked:review %}
+                  <li><a class="thank" href="/thank/{{ review.review_id}}">thank {{ review.user.first_name|lower }}</a> |</li>
+                  {% endif %}
+                  <li><span>{{ review.up_votes }}</span> thanks |</li>
+                  <li>{{ review.created_at|timesince }} ago</li>
+                </ul>
+              </div>
+            </li>
+            {% endfor %}
+          </ul>
+        </section>
+      </div>
+      <div class="span3">
+        <div class="thumbnail">
+          <img src="{{ movie.image.url }}" />
+        </div>
+        <div class="profile" id="rating-box">
+          <div id="rating">{{ rating }}%</div>
+          <div id="votes">({{ reviews.count }} votes)</div>
+        </div>
+        <div class="profile">
+          <h3>Synopsis</h3>
+          <p>
+            {{ movie.synopsis }}
+          </p>
+        </div>
+        <div class="profile">
+          <h3>Cast & Directors</h3>
+            <h4>Actors</h4>
+              {{ movie.cast }}
+            <h4>Directors</h4>
+              {{ movie.directors }}
+        </div>
+      </div>
+    </div>
+  </div>
 {% endblock %}

@@ -1,36 +1,36 @@
 <div class="navbar navbar-fixed-top">
-	<div class="navbar-inner">
-		<div class="container">
-			<a class="brand" href="/">Mavenize</a>
-			<ul class="nav">
-				<li><a href="/movies/genre/action/">Action & Adventure</a></li>
-				<li><a href="/movies/genre/animation/">Animation</a></li>
-				<li><a href="/movies/genre/comedy/">Comedy</a></li>
-				<li><a href="/movies/genre/horror/">Horror</a></li>
-				<li><a href="/movies/genre/foreign/">Foreign</a></li>
-				<li><a href="/movies/genre/romance/">Romance</a></li>
-				<li class="dropdown">
-					<a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
-					<ul class="dropdown-menu">
-						<li><a href="/movies/genre/children/">Children & Family</a></li>
-						<li><a href="/movies/genre/classics/">Classics</a></li>
-						<li><a href="/movies/genre/documentary/">Documentary</a></li>
-						<li><a href="/movies/genre/drama/">Drama</a></li>
-						<li><a href="/movies/genre/spirituality/">Faith & Spirituality</a></li>
-						<li><a href="/movies/genre/gay/">Gay & Lesbian</a></li>
-						<li><a href="/movies/genre/independent/">Independent</a></li>
-						<li><a href="/movies/genre/musical/">Music & Musicals</a></li>
-						<li><a href="/movies/genre/fantasy/">Sci-Fi & Fantasy</a></li>
-						<li><a href="/movies/genre/sports/">Sports & Fitness</a></li>
-						<li><a href="/movies/genre/thrillers/">Thrillers</a></li>
-					</ul>
-				</li>
-				<li><a href="/logout/">Logout</a></li>
-			</ul>
-			<form class="navbar-search pull-left">
-				{% csrf_token %}
-				<input type="text" class="search-query" placeholder="Search">
-			</form>	
-		</div>
-	</div>
+  <div class="navbar-inner">
+    <div class="container">
+      <a class="brand" href="/">Mavenize</a>
+      <ul class="nav">
+        <li><a href="/movies/genre/action/">Action & Adventure</a></li>
+        <li><a href="/movies/genre/animation/">Animation</a></li>
+        <li><a href="/movies/genre/comedy/">Comedy</a></li>
+        <li><a href="/movies/genre/horror/">Horror</a></li>
+        <li><a href="/movies/genre/foreign/">Foreign</a></li>
+        <li><a href="/movies/genre/romance/">Romance</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">More<b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href="/movies/genre/children/">Children & Family</a></li>
+            <li><a href="/movies/genre/classics/">Classics</a></li>
+            <li><a href="/movies/genre/documentary/">Documentary</a></li>
+            <li><a href="/movies/genre/drama/">Drama</a></li>
+            <li><a href="/movies/genre/spirituality/">Faith & Spirituality</a></li>
+            <li><a href="/movies/genre/gay/">Gay & Lesbian</a></li>
+            <li><a href="/movies/genre/independent/">Independent</a></li>
+            <li><a href="/movies/genre/musical/">Music & Musicals</a></li>
+            <li><a href="/movies/genre/fantasy/">Sci-Fi & Fantasy</a></li>
+            <li><a href="/movies/genre/sports/">Sports & Fitness</a></li>
+            <li><a href="/movies/genre/thrillers/">Thrillers</a></li>
+          </ul>
+        </li>
+        <li><a href="/logout/">Logout</a></li>
+      </ul>
+      <form class="navbar-search pull-left">
+        {% csrf_token %}
+        <input type="text" class="search-query" placeholder="Search">
+      </form> 
+    </div>
+  </div>
 </div>

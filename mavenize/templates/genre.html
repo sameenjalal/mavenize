@@ -1,60 +1,60 @@
 {% extends "base.html" %}
 
 {% block title %}
-	Mavenize | {{ genre }} 
+  Mavenize | {{ genre }} 
 {% endblock %}
 
 {% block body %}
-	<div class="container">
-		<div class="row">
-			<div class="span12">
-				<h2>{{ genre }}</h2>
-				<ul id="stream-options">
-					<li><a href="#">Recently Reviewed (Friends)</a></li>
-					<li>|</li>
-					<li><a href="#">Popular (Friends)</a></li>
-					<li>|</li>
-					<li><a href="#">Recently Reviewed (Overall)</a></li>
-					<li>|</li>
-					<li><a href="#">Popular (Overall)</a></li>
-				</ul>
-				<ul id="search-results">
-					{% for movie, review in movie_reviews.items %}
-					<li class="row">
-						<div class="span2">
-							<a class="thumbnail" href="#">
-								<img src="{{ movie.image.url }}" />
-							</a>
-						</div>
-						<div class="span9">
-							<a href="/movies/{{ movie.url }}"><h3>{{ movie.title }} ({{ movie.release_date|date:"Y" }})</h3></a>
-							<div class="synopsis">
-									<blockquote>
-										{{ movie.synopsis }}
-									</blockquote>
-							</div>
+  <div class="container">
+    <div class="row">
+      <div class="span12">
+        <h2>{{ genre }}</h2>
+        <ul id="stream-options">
+          <li><a href="#">Recently Reviewed (Friends)</a></li>
+          <li>|</li>
+          <li><a href="#">Popular (Friends)</a></li>
+          <li>|</li>
+          <li><a href="#">Recently Reviewed (Overall)</a></li>
+          <li>|</li>
+          <li><a href="#">Popular (Overall)</a></li>
+        </ul>
+        <ul id="search-results">
+          {% for movie, review in movie_reviews.items %}
+          <li class="row">
+            <div class="span2">
+              <a class="thumbnail" href="#">
+                <img src="{{ movie.image.url }}" />
+              </a>
+            </div>
+            <div class="span9">
+              <a href="/movies/{{ movie.url }}"><h3>{{ movie.title }} ({{ movie.release_date|date:"Y" }})</h3></a>
+              <div class="synopsis">
+                  <blockquote>
+                    {{ movie.synopsis }}
+                  </blockquote>
+              </div>
 
-							<div class="review">
-								<div class="pull-left">
-									<img src="/media/img/users/profile.jpg" />
-								</div>
-								<div class="review-content">
-									<a href="/users/{{ review.user.id }}">{{ review.user.get_full_name }}</a>
-									<blockquote>
-										{{ review.text }}
-									</blockquote>
-									<ul>
-										<li>{{ review.created_at|timesince }}</li>
-										<li>1 thanks</li>
-									</ul>
-								</div>
-							</div>
-						</div>
-					</li>
-					{% endfor %}
-				</ul>
-			</div>
-		</div>
-	</div>
+              <div class="review">
+                <div class="pull-left">
+                  <img src="/media/img/users/profile.jpg" />
+                </div>
+                <div class="review-content">
+                  <a href="/users/{{ review.user.id }}">{{ review.user.get_full_name }}</a>
+                  <blockquote>
+                    {{ review.text }}
+                  </blockquote>
+                  <ul>
+                    <li>{{ review.created_at|timesince }}</li>
+                    <li>1 thanks</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
 {% endblock %}
 

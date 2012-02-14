@@ -29,11 +29,11 @@ class Movie(models.Model):
         super(Movie, self).save(*args, **kwargs)
 
 class MoviePopularity(models.Model):
-	movie = models.OneToOneField(Movie)
-	popularity = models.BigIntegerField()
+    movie = models.OneToOneField(Movie)
+    popularity = models.BigIntegerField()
 
-	def __unicode__(self):
-		return "%s: %s" % (self.movie.title, self.popularity)
+    def __unicode__(self):
+        return "%s: %s" % (self.movie.title, self.popularity)
 
-	class Meta:
-		ordering = ('-popularity',)
+    class Meta:
+        ordering = ('-popularity',)

@@ -6,7 +6,7 @@ class Following(models.Model):
     follow = models.BigIntegerField(default=0)
 
     def __unicode__(self):
-		return "User #%s following User #%s" %(self.fb_user, self.follow)
+        return "User #%s following User #%s" %(self.fb_user, self.follow)
 
 class Follower(models.Model):
     id = models.AutoField(primary_key=True)
@@ -14,4 +14,4 @@ class Follower(models.Model):
     follow = models.BigIntegerField(default=0)
 
     def __unicode__(self):
-		return "User #%s following User #%s" %(self.fb_user, self.follow)
+        return "User #%s following User #%s" %(self.fb_user, self.follow)
