@@ -36,11 +36,11 @@ def logout(request):
 
 @login_required
 def feed(request):
-	reviews = Review.objects.all()[:20]
-	following = Following.objects.filter(fb_user=request.user.id)
+	reviews = Review.objects.exclude(user=request.user)[:20]
 	global_reviews = {}
 	friend_reviews = {}
 	following_ids = []
+	following = Following.objects.filter(fb_user=request.user.id)
 	for f in following:
 		following_ids.append(f.follow)
 
