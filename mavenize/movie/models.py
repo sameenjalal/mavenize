@@ -34,3 +34,6 @@ class MoviePopularity(models.Model):
 
 	def __unicode__(self):
 		return "%s: %s" % (self.movie.title, self.popularity)
+
+	class Meta:
+		ordering = ('-popularity',)

@@ -70,21 +70,13 @@
 			<div class="span3">
 				<h2>Hot This Week</h2>
 				<ul class="thumbnails">
+					{% for movie in movies %}
 					<li>
 						<div class="thumbnail">
-							<img src="/media/img/landing/hunger-games.jpg" />
+							<img src="{{ movie.image.url }}" />
 						</div>
 					</li>
-					<li>
-						<div class="thumbnail">
-							<img src="/media/img/landing/drive.jpg" />
-						</div>
-					</li>
-					<li>
-						<div class="thumbnail">
-							<img src="/media/img/landing/in-time.jpg" />
-						</div>
-					</li>
+					{% endfor %}
 				</ul>
 			</div>
 		</div>

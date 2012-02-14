@@ -8,6 +8,7 @@ from django.contrib.auth.models import User
 from social_auth.models import UserSocialAuth
 from mavenize.movie.models import Movie
 from mavenize.review.models import Review
+from mavenize.movie.models import MoviePopularity
 
 from mavenize.social_graph.models import Following
 from mavenize.social_graph.models import Follower
@@ -17,7 +18,6 @@ from social_auth.signals import socialauth_registered
 
 import facebook
 import requests
-import sys
 
 def index(request):
 	if request.session.get('social_auth_last_login_backend') == 'facebook':
@@ -39,10 +39,16 @@ def feed(request):
 	reviews = Review.objects.exclude(user=request.user)[:20]
 	global_reviews = {}
 	friend_reviews = {}
+	movies = []
 	following_ids = []
+
 	following = Following.objects.filter(fb_user=request.user.id)
 	for f in following:
 		following_ids.append(f.follow)
+
+	movie_popularites = MoviePopularity.objects.all()[:5]
+	for popularity in movie_popularites:
+		movies.append(popularity.movie)
 
 	for review in reviews:
 		if review.user.id in following_ids:
@@ -51,6 +57,7 @@ def feed(request):
 			global_reviews[review] = Movie.objects.get(movie_id=review.table_id_in_table)
 
 	return render_to_response('feed.html', {
+		'movies': movies,
 		'friend_reviews': friend_reviews,
 		'global_reviews': global_reviews
 		},
