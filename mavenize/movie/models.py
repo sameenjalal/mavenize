@@ -27,3 +27,10 @@ class Movie(models.Model):
         if not self.movie_id:
             self.url = slugify(self.title)
         super(Movie, self).save(*args, **kwargs)
+
+class MoviePopularity(models.Model):
+	movie = models.OneToOneField(Movie)
+	popularity = models.BigIntegerField()
+
+	def __unicode__(self):
+		return "%s: %s" % (self.movie.title, self.popularity)
