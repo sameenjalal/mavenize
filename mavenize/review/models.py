@@ -16,6 +16,9 @@ class Review(models.Model):
 	RATING_CHOICES = [(i,i) for i in range(0,3)]
 	rating = models.SmallIntegerField(choices=RATING_CHOICES)
 
+	def __unicode__(self):
+		return "User #%s reviewing Movie #%s" %(self.user.id, self.table_id_in_table)
+
 	class Meta:
 		ordering = ('-created_at',)
 

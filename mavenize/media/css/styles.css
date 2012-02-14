@@ -56,8 +56,12 @@ body form #review-text {
 
 body form #rave-submit {
 	position: relative;
-	left: 445px;
+	left: 320px;
 } 
+
+body form #rave-submit input {
+	width: 120px;
+}
 
 body #top-reviews {
 	margin-top: 10px;
