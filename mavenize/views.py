@@ -2,6 +2,7 @@ from django.shortcuts import render_to_response
 from django.shortcuts import redirect
 from django.template import RequestContext
 from django.contrib.auth.decorators import login_required
+from django.contrib.auth import logout as social_logout
 
 from django.contrib.auth.models import User
 from social_auth.models import UserSocialAuth
@@ -26,6 +27,11 @@ def index(request):
 
 @login_required
 def login(request):
+	return redirect('/')
+
+@login_required
+def logout(request):
+	social_logout(request)
 	return redirect('/')
 
 @login_required

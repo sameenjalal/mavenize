@@ -10,6 +10,7 @@ admin.autodiscover()
 urlpatterns = patterns('',
 	url(r'^$', 'mavenize.views.index', name='index'),
 	url(r'^logged-in/$', 'mavenize.views.login'),
+	url(r'^logout/$', 'mavenize.views.logout'),
 	url(r'^users/dqai$', direct_to_template, {'template': 'friend_profile.html'}),
 	url(r'^search/$', direct_to_template, {'template': 'search.html'}),
 
