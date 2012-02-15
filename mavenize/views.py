@@ -85,8 +85,8 @@ def feed(request):
     # Get the top 10 most popular movies
     popular_movie_ids = MoviePopularity.objects.all().values_list(
         'movie',flat=True)[:10]
-    popular_movies = Movie.objects.filter(pk__in=popular_movie_ids).values_list(
-        'image',flat=True)
+    popular_movies = Movie.objects.filter(pk__in=popular_movie_ids).values(
+        'image', 'url')
     return render_to_response('feed.html', {
         'popular_movies': popular_movies,
         'friend_reviews': friend_reviews,
