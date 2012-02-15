@@ -12,10 +12,11 @@ class Migration(SchemaMigration):
         db.create_table('user_profile_userprofile', (
             ('id', self.gf('django.db.models.fields.AutoField')(primary_key=True)),
             ('user', self.gf('django.db.models.fields.related.OneToOneField')(to=orm['auth.User'], unique=True)),
-            ('picture', self.gf('django.db.models.fields.files.ImageField')(max_length=100)),
-            ('reviews', self.gf('django.db.models.fields.IntegerField')()),
-            ('thanks_received', self.gf('django.db.models.fields.BigIntegerField')()),
-            ('thanks_given', self.gf('django.db.models.fields.BigIntegerField')()),
+            ('picture_small', self.gf('django.db.models.fields.files.ImageField')(default='img/users/default_small.jpg', max_length=100)),
+            ('picture_large', self.gf('django.db.models.fields.files.ImageField')(default='img/users/default_large.jpg', max_length=100)),
+            ('reviews', self.gf('django.db.models.fields.IntegerField')(default=0)),
+            ('thanks_received', self.gf('django.db.models.fields.BigIntegerField')(default=0)),
+            ('thanks_given', self.gf('django.db.models.fields.BigIntegerField')(default=0)),
         ))
         db.send_create_signal('user_profile', ['UserProfile'])
 
@@ -66,10 +67,11 @@ class Migration(SchemaMigration):
         'user_profile.userprofile': {
             'Meta': {'object_name': 'UserProfile'},
             'id': ('django.db.models.fields.AutoField', [], {'primary_key': 'True'}),
-            'picture': ('django.db.models.fields.files.ImageField', [], {'max_length': '100'}),
-            'reviews': ('django.db.models.fields.IntegerField', [], {}),
-            'thanks_given': ('django.db.models.fields.BigIntegerField', [], {}),
-            'thanks_received': ('django.db.models.fields.BigIntegerField', [], {}),
+            'picture_large': ('django.db.models.fields.files.ImageField', [], {'default': "'img/users/default_large.jpg'", 'max_length': '100'}),
+            'picture_small': ('django.db.models.fields.files.ImageField', [], {'default': "'img/users/default_small.jpg'", 'max_length': '100'}),
+            'reviews': ('django.db.models.fields.IntegerField', [], {'default': '0'}),
+            'thanks_given': ('django.db.models.fields.BigIntegerField', [], {'default': '0'}),
+            'thanks_received': ('django.db.models.fields.BigIntegerField', [], {'default': '0'}),
             'user': ('django.db.models.fields.related.OneToOneField', [], {'to': "orm['auth.User']", 'unique': 'True'})
         }
     }

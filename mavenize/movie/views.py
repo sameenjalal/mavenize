@@ -21,9 +21,12 @@ def genre(request, genre):
     movies = Movie.objects.filter(genre=genre)
     movie_reviews = {}
     for movie in movies:
-        movie_reviews[movie] = Review.objects.filter(
-            table_number=1,
-            table_id_in_table=movie.movie_id)[0]
+        try:
+            movie_reviews[movie] = Review.objects.filter(
+                table_number=1,
+                table_id_in_table=movie.movie_id)[0]
+        except:
+            movie_reviews[movie] = None 
     return render_to_response('genre.html', {
             'genre': genre.name,
             'movie_reviews': movie_reviews,
