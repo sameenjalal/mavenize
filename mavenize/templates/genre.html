@@ -5,6 +5,7 @@
 {% endblock %}
 
 {% block body %}
+  {% load review_checks %}
   <div class="container">
     <div class="row">
       <div class="span12">
@@ -44,8 +45,11 @@
                     {{ review.text }}
                   </blockquote>
                   <ul>
-                    <li>{{ review.created_at|timesince }}</li>
-                    <li>1 thanks</li>
+                    {% if not user.id|has_thanked:review %}
+                    <li><a class="thank" href="/thank/{{ review.review_id}}">thank {{ review.user.first_name|lower }}</a> |</li>
+                    {% endif %}
+                    <li><span>{{ review.up_votes }}</span> thanks |</li>
+                    <li>{{ review.created_at|timesince }} ago</li>
                   </ul>
                 </div>
               </div>
