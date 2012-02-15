@@ -110,6 +110,7 @@ INSTALLED_APPS = (
     'social_auth',
     'debug_toolbar',
     'table_number',
+    'user_profile',
     'social_graph',
     'review',
     'movie',
@@ -195,3 +196,6 @@ DEBUG_TOOLBAR_PANELS = (
 # ACTSTREAM_ACTION_MODELS = ['auth.User']
 # ACTSREAM_ACTION_TEMPLATE = 'activity/single_action.txt'
 # ACTSTREAM_MANAGER = 'actstream.managers.ActionManager'
+
+# Settings for user profiles
+AUTH_PROFILE_MODULE = 'user_profile.UserProfile'

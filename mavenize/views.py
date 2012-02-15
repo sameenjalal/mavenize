@@ -14,12 +14,7 @@ from mavenize.social_graph.models import Following
 from mavenize.social_graph.models import Follower
 # from actstream.actions import follow
 
-from social_auth.signals import socialauth_registered
-
 from collections import OrderedDict
-
-import facebook
-import requests
 
 def index(request):
     if request.session.get('social_auth_last_login_backend') == 'facebook':
@@ -74,33 +69,3 @@ def feed(request):
         },
         context_instance=RequestContext(request))
 
-# Signal handler when a social user signs up
-def new_user_handler(sender, user, response, details, **kwargs):
-    user_id = user.id
-    social_user = user.social_auth.get(provider='facebook')
-    graph = facebook.GraphAPI(social_user.extra_data['access_token'])
-    friends = graph.get_connections("me", "friends")['data']
-    friend_ids = [friend['id'] for friend in friends]
-
-    # Save the profile picture of the user
-    
-   
-    # Create following and follower relationships
-    signed_up = UserSocialAuth.objects.filter(uid__in=friend_ids).values_list(
-        'user_id',flat=True)
-    for friend in signed_up:
-        Following.objects.get_or_create(fb_user=user_id, follow=friend)
-        Following.objects.get_or_create(fb_user=friend, follow=user_id)
-        Follower.objects.get_or_create(fb_user=user_id, follow=friend)
-        Follower.objects.get_or_create(fb_user=friend, follow=user_id)
-
-socialauth_registered.connect(new_user_handler, sender=None)
-
-# Helper to fetch the user's picture
-def picture(url):
-    req = requests.get(url)
-    img_temp = NamedTemporaryFile()
-    img_temp.write(req.content)
-    img_temp.flush()
-
-    return File(img_temp)
