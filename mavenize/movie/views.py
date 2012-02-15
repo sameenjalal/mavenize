@@ -37,7 +37,9 @@ def genre(request, genre):
 def profile(request, title):
     movie = get_object_or_404(Movie, url=title)
     reviews = Review.objects.filter(table_number=1, table_id_in_table=movie.movie_id)
-    rating = int(reviews.aggregate(Avg('rating'))['rating__avg']*50)
+    rating = 0
+    if reviews:
+        rating = int(reviews.aggregate(Avg('rating'))['rating__avg']*50)
     user = request.user
     form = ReviewForm()
 
