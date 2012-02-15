@@ -20,7 +20,7 @@ urlpatterns = patterns('',
     url(r'^thank/(\d+)/$', 'mavenize.review.views.thank'),
     url(r'^activity/', include('actstream.urls')),
     url(r'', include('social_auth.urls')),
-    (r'^media/(?P<path>.*)$', 'django.views.static.serve',
+    url(r'^media/(?P<path>.*)$', 'django.views.static.serve',
         {'document_root': settings.MEDIA_ROOT}),
 
     # Uncomment the admin/doc line below to enable admin documentation:

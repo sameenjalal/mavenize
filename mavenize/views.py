@@ -38,6 +38,7 @@ def logout(request):
 def feed(request):
     user_id = request.user.id
 
+    # Note: Not sure whether or not the movies are gathered in the correct order
     # Get the 20 most recent friend reviews
     following = Following.objects.filter(
         fb_user=user_id).values_list('follow',flat=True)
