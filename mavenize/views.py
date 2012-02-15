@@ -3,9 +3,12 @@ from django.shortcuts import redirect
 from django.template import RequestContext
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth import logout as social_logout
+from django.core.files.base import ContentFile
+from django.template.defaultfilters import slugify
 
 from django.contrib.auth.models import User
 from social_auth.models import UserSocialAuth
+from mavenize.user_profile.models import UserProfile
 from mavenize.movie.models import Movie
 from mavenize.review.models import Review
 from mavenize.movie.models import MoviePopularity
@@ -15,6 +18,8 @@ from mavenize.social_graph.models import Follower
 # from actstream.actions import follow
 
 from collections import OrderedDict
+from urllib2 import urlopen, HTTPError
+import facebook
 
 def index(request):
     if request.session.get('social_auth_last_login_backend') == 'facebook':
@@ -24,6 +29,26 @@ def index(request):
 
 @login_required
 def login(request):
+    user_id = request.user.id
+    social_user = request.user.social_auth.get(provider='facebook')
+    graph = facebook.GraphAPI(social_user.extra_data['access_token'])
+
+    profile, created = UserProfile.objects.get_or_create(
+        user=request.user)
+
+    if created:
+        url = "http://graph.facebook.com/%s/picture" % social_user.uid 
+        small_picture = urlopen(url, timeout=5)
+        large_picture = urlopen(url+'?type=large', timeout=5)
+        profile.picture_small.save(
+            slugify(user_id)+u'.jpg',
+            ContentFile(small_picture.read())
+        )
+        profile.picture_large.save(
+            slugify(user_id)+u'_large.jpg',
+            ContentFile(large_picture.read()),
+        )
+
     return redirect('/')
 
 @login_required

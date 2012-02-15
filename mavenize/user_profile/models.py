@@ -23,21 +23,6 @@ class UserProfile(models.Model):
     thanks_received = models.BigIntegerField(default=0)
     thanks_given = models.BigIntegerField(default=0)
 
-## Signal handler when a user is created
-#def create_user_profile(send, instance, created, **kwargs):
-#    if created:
-#        profile = UserProfile.objects.create(user=instance)
-#        profile.picture_small.save(
-#            unicode(user_id)+u'.jpg',
-#            picture(graph.request("me/picture")['url']),
-#            save=True
-#        )
-#        profile.picture_large.save(
-#            unicode(user_id)+u'_large.jpg',
-#            picture(graph.request("me/picture", args={'type': 'large'})['url']),
-#            save=True
-#        )
-
 # Signal handler when a social user signs up
 def new_user_handler(sender, user, response, details, **kwargs):
     user.is_new = True
@@ -48,26 +33,26 @@ def new_user_handler(sender, user, response, details, **kwargs):
     friend_ids = [friend['id'] for friend in friends]
 
     # Create the user profile and save users' pictures
-    if "id" in response:
-        try:
-            url = None
-            if sender == FacebookBackend:
-                url = "http://graph.facebook.com/%s/picture" % response["id"]
-            
-            if url:
-                small_picture = urlopen(url, timeout=5)
-                large_picture = urlopen(url+'?type=large', timeout=5)
-                profile = UserProfile.objects.create(user=user)
-                profile.picture_small.save(
-                    slugify(user_id)+u'.jpg',
-                    ContentFile(small_picture.read()),
-                )
-                #profile.picture_large.save(
-                #    slugify(user_id)+u'_large.jpg',
-                #    ContentFile(large_picture.read()),
-                #)
-        except HttpError:
-            pass
+    #if "id" in response:
+    #    try:
+    #        url = None
+    #        if sender == FacebookBackend:
+    #            url = "http://graph.facebook.com/%s/picture" % response["id"]
+    #        
+    #        if url:
+    #            small_picture = urlopen(url, timeout=5)
+    #            large_picture = urlopen(url+'?type=large', timeout=5)
+    #            profile = UserProfile.objects.create(user=user)
+    #            profile.picture_small.save(
+    #                slugify(user_id)+u'.jpg',
+    #                ContentFile(small_picture.read())
+    #            )
+    #            profile.picture_large.save(
+    #                slugify(user_id)+u'_large.jpg',
+    #                ContentFile(large_picture.read()),
+    #            )
+    #    except HttpError:
+    #        pass
 
     # Create following and follower relationships
     signed_up = UserSocialAuth.objects.filter(uid__in=friend_ids).values_list(
