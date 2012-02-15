@@ -1,18 +1,11 @@
 from django.shortcuts import render_to_response
-from django.shortcuts import get_object_or_404
-from django.shortcuts import redirect
-from django.http import Http404
 from django.template import RequestContext
 
 from django.contrib.auth.models import User
 from mavenize.movie.models import Movie
-from mavenize.movie.models import Genre
 from mavenize.review.models import Review
-from mavenize.review.models import ReviewForm
-from mavenize.review.models import Thanks
 from mavenize.social_graph.models import Following
 from mavenize.social_graph.models import Follower
-from django.db.models import Avg
 
 from django.contrib.auth.decorators import login_required
 
