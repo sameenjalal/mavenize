@@ -16,6 +16,8 @@ from mavenize.social_graph.models import Follower
 
 from social_auth.signals import socialauth_registered
 
+from collections import OrderedDict
+
 import facebook
 import requests
 
@@ -38,28 +40,33 @@ def logout(request):
 def feed(request):
     user_id = request.user.id
 
-    # Note: Not sure whether or not the movies are gathered in the correct order
-    # Get the 20 most recent friend reviews
+    # Get the 10 most recent friend reviews
     following = Following.objects.filter(
         fb_user=user_id).values_list('follow',flat=True)
-    reviews = Review.objects.filter(user__in=following)
+    reviews = Review.objects.filter(user__in=following)[:10]
     movies = Movie.objects.filter(
         pk__in=reviews.values_list('table_id_in_table',flat=True)).values(
-            'title', 'image', 'url')
-    friend_reviews = dict(zip(reviews,movies))
+            'movie_id', 'title', 'image', 'url')
+    id_movies = dict([(m['movie_id'], m) for m in movies])
+    ordered_movies = [id_movies[i] for i in reviews.values_list(
+        'table_id_in_table', flat=True)]
+    friend_reviews = OrderedDict(zip(reviews,ordered_movies))
     
-    # Get the 20 most recent global reviews
+    # Get the 10 most recent global reviews
     reviews = Review.objects.exclude(user__in=following).exclude(user=user_id)
     movies = Movie.objects.filter(
         pk__in=reviews.values_list('table_id_in_table',flat=True)).values(
-            'title', 'image', 'url')
-    global_reviews = dict(zip(reviews,movies))
+            'movie_id', 'title', 'image', 'url')
+    id_movies = dict([(m['movie_id'], m) for m in movies])
+    ordered_movies = [id_movies[i] for i in reviews.values_list(
+        'table_id_in_table', flat=True)]
+    global_reviews = OrderedDict(zip(reviews,ordered_movies))
 
     # Get the top 10 most popular movies
     popular_movie_ids = MoviePopularity.objects.all().values_list(
         'movie',flat=True)[:10]
-    popular_movies = Movie.objects.filter(pk__in=popular_movie_ids).values_list('image',flat=True)
-    
+    popular_movies = Movie.objects.filter(pk__in=popular_movie_ids).values_list(
+        'image',flat=True)
     return render_to_response('feed.html', {
         'popular_movies': popular_movies,
         'friend_reviews': friend_reviews,
@@ -67,23 +74,33 @@ def feed(request):
         },
         context_instance=RequestContext(request))
 
-# Create following relationships the first time a user signs up
+# Signal handler when a social user signs up
 def new_user_handler(sender, user, response, details, **kwargs):
+    user_id = user.id
     social_user = user.social_auth.get(provider='facebook')
     graph = facebook.GraphAPI(social_user.extra_data['access_token'])
     friends = graph.get_connections("me", "friends")['data']
-    friend_ids = []
+    friend_ids = [friend['id'] for friend in friends]
+
+    # Save the profile picture of the user
     
-    for friend in friends:
-        friend_ids.append(friend['id'])
-    
-    signed_up = UserSocialAuth.objects.filter(uid__in=friend_ids)
+   
+    # Create following and follower relationships
+    signed_up = UserSocialAuth.objects.filter(uid__in=friend_ids).values_list(
+        'user_id',flat=True)
     for friend in signed_up:
-        Following.objects.get_or_create(fb_user=user.id, follow=friend.user.id)
-        Following.objects.get_or_create(fb_user=friend.user.id, follow=user.id)
-        Follower.objects.get_or_create(fb_user=user.id, follow=friend.user.id)
-        Follower.objects.get_or_create(fb_user=friend.user.id, follow=user.id)
-        # follow(user, friend.user)
-        # follow(friend.user, user)
+        Following.objects.get_or_create(fb_user=user_id, follow=friend)
+        Following.objects.get_or_create(fb_user=friend, follow=user_id)
+        Follower.objects.get_or_create(fb_user=user_id, follow=friend)
+        Follower.objects.get_or_create(fb_user=friend, follow=user_id)
 
 socialauth_registered.connect(new_user_handler, sender=None)
+
+# Helper to fetch the user's picture
+def picture(url):
+    req = requests.get(url)
+    img_temp = NamedTemporaryFile()
+    img_temp.write(req.content)
+    img_temp.flush()
+
+    return File(img_temp)
