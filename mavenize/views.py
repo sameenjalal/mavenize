@@ -36,28 +36,31 @@ def logout(request):
 
 @login_required
 def feed(request):
-    reviews = Review.objects.exclude(user=request.user)[:20]
-    global_reviews = {}
-    friend_reviews = {}
-    movies = []
-    following_ids = []
+    user_id = request.user.id
 
-    following = Following.objects.filter(fb_user=request.user.id)
-    for f in following:
-        following_ids.append(f.follow)
+    # Get the 20 most recent friend reviews
+    following = Following.objects.filter(
+        fb_user=user_id).values_list('follow',flat=True)
+    reviews = Review.objects.filter(user__in=following)
+    movies = Movie.objects.filter(
+        pk__in=reviews.values_list('table_id_in_table',flat=True)).values(
+            'title', 'image', 'url')
+    friend_reviews = dict(zip(reviews,movies))
+    
+    # Get the 20 most recent global reviews
+    reviews = Review.objects.exclude(user__in=following).exclude(user=user_id)
+    movies = Movie.objects.filter(
+        pk__in=reviews.values_list('table_id_in_table',flat=True)).values(
+            'title', 'image', 'url')
+    global_reviews = dict(zip(reviews,movies))
 
-    movie_popularites = MoviePopularity.objects.all()[:5]
-    for popularity in movie_popularites:
-        movies.append(popularity.movie)
-
-    for review in reviews:
-        if review.user.id in following_ids:
-            friend_reviews[review] = Movie.objects.get(movie_id=review.table_id_in_table)
-        else:
-            global_reviews[review] = Movie.objects.get(movie_id=review.table_id_in_table)
-
+    # Get the top 10 most popular movies
+    popular_movie_ids = MoviePopularity.objects.all().values_list(
+        'movie',flat=True)[:10]
+    popular_movies = Movie.objects.filter(pk__in=popular_movie_ids).values_list('image',flat=True)
+    
     return render_to_response('feed.html', {
-        'movies': movies,
+        'popular_movies': popular_movies,
         'friend_reviews': friend_reviews,
         'global_reviews': global_reviews
         },
