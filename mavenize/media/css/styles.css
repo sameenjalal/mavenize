@@ -145,6 +145,45 @@ body #search-results > li {
   margin-top: 20px;
 }
 
+/* Footer */
+footer {
+  background: #252525;
+  border-top: 1px solid #1b1b1b;
+}
+
+footer .container {
+  padding: 10px 0;
+}
+
+footer h3 {
+  color: #999;
+}
+
+footer a {
+  color: white; 
+}
+
+footer a:hover, footer a:active {
+  color: white;
+} 
+
+footer #social-links a {
+  background: url('/media/img/footer-icons-sprite.png') 0 0 no-repeat;
+  float: left;
+  height: 35px;
+  width: 120px;
+  overflow: hidden;
+  text-indent: -900px;
+}
+
+footer #footer-floor {
+  background: #1b1b1b;
+}
+
+footer #footer-floor p {
+  color: #8f8f8f;
+}
+
 /* Miscellaneous */
 body h2 {
   background: #eeeeee;
