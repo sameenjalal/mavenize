@@ -4,18 +4,18 @@
     $apiKey = 'acga93y7k6vfv4czcer6csrp';
     $sharedSecret = 'HkVMWTQECf';
 
-	/*
+
 	$arguments = Array(
         term=>'comedy',
         expand=>'formats,synopsis,cast,directors,seasons,episodes,discs,similars,filmography,awards,person',
         max_results=> 100,
         output=>'json'
 	);
-	 */
+
 
     // this is the URL path (note the lack of arguments.)
     $path = "http://api.netflix.com/catalog/titles";
-    //$$path = "http://api.netflix.com/catalog/titles/index";
+    //$path = "http://api.netflix.com/catalog/titles/index";
 
     // Create the Signature object.
     $oauth = new OAuthSimple();

@@ -1,0 +1,7 @@
+Fault Name: OutboundFailure
+Error Type: Default
+Description: Target Response Error
+Service: CatalogService
+Endpoint: Mashery_Catalog_target
+Operation (Target):Titles
+

@@ -11,16 +11,16 @@ urlpatterns = patterns('',
     url(r'^$', 'mavenize.views.index', name='index'),
     url(r'^logged-in/$', 'mavenize.views.login'),
     url(r'^logout/$', 'mavenize.views.logout'),
-    url(r'^users/dqai$', direct_to_template, {'template': 'friend_profile.html'}),
     url(r'^search/$', direct_to_template, {'template': 'search.html'}),
 
     url(r'^movies/genre/(?P<genre>[-\w]+)/$', 'mavenize.movie.views.genre'),
     url(r'^movies/(?P<title>[-\w]+)/$', 'mavenize.movie.views.profile'),
     url(r'^movies/(?P<title>[-\w]+)/review/$', 'mavenize.movie.views.review'),
+    url(r'^users/(\d+)/$', 'mavenize.user_profile.views.profile'),
     url(r'^thank/(\d+)/$', 'mavenize.review.views.thank'),
     url(r'^activity/', include('actstream.urls')),
     url(r'', include('social_auth.urls')),
-    (r'^media/(?P<path>.*)$', 'django.views.static.serve',
+    url(r'^media/(?P<path>.*)$', 'django.views.static.serve',
         {'document_root': settings.MEDIA_ROOT}),
 
     # Uncomment the admin/doc line below to enable admin documentation:

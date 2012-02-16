@@ -1,0 +1,91 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Mavenize | {{ target_user.get_full_name }}
+{% endblock %}
+
+{% block body %}
+  {% load following_checks %}
+  <div class="container">
+    <div class="row">
+      <div class="span9">
+        <h1>{{ target_user.get_full_name }}</h1>
+        <h2>The Best</h2>
+        {% if not positive_movies %}
+          <h4>{{ target_user.first_name }} doesn't think any movies are good.</h4>
+        {% endif %}
+        <ul class="thumbnails">
+          {% for movie in positive_movies %}
+          <li class="span3">
+            <a class="thumbnail" href="/movies/{{ movie.url }}">
+              <img src="{{ MEDIA_URL }}{{ movie.image }}" />
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+        <h2>The Average</h2>
+        {% if not neutral_movies %}
+          <h4>{{ target_user.first_name }} doesn't think any movies are average.</h4>
+        {% endif %}
+        <ul class="thumbnails">
+          {% for movie in neutral_movies %}
+          <li class="span3">
+            <a class="thumbnail" href="/movies/{{ movie.url }}">
+              <img src="{{ MEDIA_URL }}{{ movie.image }}" />
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+        <h2>The Worst</h2>
+        {% if not negative_movies %}
+          <h4>{{ target_user.first_name }} doesn't think any movies are terrible.</h4>
+        {% endif %}
+        <ul class="thumbnails">
+          {% for movie in negative_movies %}
+          <li class="span3">
+            <a class="thumbnail" href="/movies/{{ movie.url }}">
+              <img src="{{ MEDIA_URL }}{{ movie.image }}" />
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="span3">
+        <div class="thumbnail">
+          <img src="{{ MEDIA_URL }}img/users/{{ target_user.id }}_large.jpg" />
+        </div>
+        {% if not user|is_following:target_user.id %}
+        <div class="btn-success btn-large" id="follow">
+          Follow
+        </div>
+        {% endif %}
+        <div class="profile mini-thumbnails">
+          <h3>Following</h3>
+          <ul class="thumbnails">
+            {% for f in following %}
+            <li class="span1">
+              <a class="thumbnail" href="/users/{{ f }}">
+                <img src="{{ MEDIA_URL}}img/users/{{ f }}.jpg" />
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+          <a href="#">See More</a>
+        </div>
+        <div class="profile mini-thumbnails">
+          <h3>Followers</h3>
+          <ul class="thumbnails">
+            {% for f in followers %}
+            <li class="span1">
+              <a class="thumbnail" href="/users/{{ f }}">
+                <img src="{{ MEDIA_URL}}img/users/{{ f }}.jpg" />
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+          <a href="#">See More</a>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}

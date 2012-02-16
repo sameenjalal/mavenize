@@ -21,9 +21,12 @@ def genre(request, genre):
     movies = Movie.objects.filter(genre=genre)
     movie_reviews = {}
     for movie in movies:
-        movie_reviews[movie] = Review.objects.filter(
-            table_number=1,
-            table_id_in_table=movie.movie_id)[0]
+        try:
+            movie_reviews[movie] = Review.objects.filter(
+                table_number=1,
+                table_id_in_table=movie.movie_id)[0]
+        except:
+            movie_reviews[movie] = None 
     return render_to_response('genre.html', {
             'genre': genre.name,
             'movie_reviews': movie_reviews,
@@ -34,7 +37,9 @@ def genre(request, genre):
 def profile(request, title):
     movie = get_object_or_404(Movie, url=title)
     reviews = Review.objects.filter(table_number=1, table_id_in_table=movie.movie_id)
-    rating = int(reviews.aggregate(Avg('rating'))['rating__avg']*50)
+    rating = 0
+    if reviews:
+        rating = int(reviews.aggregate(Avg('rating'))['rating__avg']*50)
     user = request.user
     form = ReviewForm()
 

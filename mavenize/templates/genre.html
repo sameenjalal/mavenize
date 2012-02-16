@@ -5,6 +5,7 @@
 {% endblock %}
 
 {% block body %}
+  {% load review_checks %}
   <div class="container">
     <div class="row">
       <div class="span12">
@@ -22,7 +23,7 @@
           {% for movie, review in movie_reviews.items %}
           <li class="row">
             <div class="span2">
-              <a class="thumbnail" href="#">
+              <a class="thumbnail" href="/movies/{{ movie.url }}">
                 <img src="{{ movie.image.url }}" />
               </a>
             </div>
@@ -36,16 +37,19 @@
 
               <div class="review">
                 <div class="pull-left">
-                  <img src="/media/img/users/profile.jpg" />
+                  <img src="{{ MEDIA_URL }}img/users/{{ review.user_id }}.jpg" />
                 </div>
                 <div class="review-content">
-                  <a href="/users/{{ review.user.id }}">{{ review.user.get_full_name }}</a>
+                  <a href="/users/{{ review.user_id }}">{{ review.user.get_full_name }}</a>
                   <blockquote>
                     {{ review.text }}
                   </blockquote>
                   <ul>
-                    <li>{{ review.created_at|timesince }}</li>
-                    <li>1 thanks</li>
+                    {% if not user.id|has_thanked:review %}
+                    <li><a class="thank" href="/thank/{{ review.review_id}}">thank {{ review.user.first_name|lower }}</a> |</li>
+                    {% endif %}
+                    <li><span>{{ review.up_votes }}</span> thanks |</li>
+                    <li>{{ review.created_at|timesince }} ago</li>
                   </ul>
                 </div>
               </div>
