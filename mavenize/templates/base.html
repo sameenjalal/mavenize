@@ -48,6 +48,15 @@
         });
         return false;
       })
+
+      // Follow button for users
+      $('a#follow').click(function() {
+        var current_element = $(this);
+        $.get($(this).attr('href'), function(data) {
+          $(current_element).remove();
+        });
+        return false;
+      })
     })
   </script>
 

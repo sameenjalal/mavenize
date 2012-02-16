@@ -55,9 +55,9 @@
           <img src="{{ MEDIA_URL }}img/users/{{ target_user.id }}_large.jpg" />
         </div>
         {% if not user.id|is_following:target_user.id %}
-        <div class="btn-success btn-large" id="follow">
+        <a class="btn-success btn-large" id="follow" href="/follow/{{ target_user.id }}">
           Follow
-        </div>
+        </a>
         {% endif %}
         <div class="profile mini-thumbnails">
           <h3>Following</h3>
