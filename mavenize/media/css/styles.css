@@ -1,4 +1,15 @@
+/* Body Background */
+body #body {
+  background: url('/media/img/body-background.jpg') 0 0 repeat-x; 
+}
+
 /* Stream */
+
+body .title {
+  color: white;
+  height: 100px;
+  padding-top: 20px;
+}
 
 body #stream-options {
   list-style-type: none;
