@@ -1,5 +1,5 @@
 import json
-json_data=open('titles/57_titles.json')
+json_data=open('titles/00_titles.json')
 data = json.load(json_data)
 
 print data['catalog_titles']['catalog_title'][0].keys()
@@ -41,13 +41,11 @@ try:
                     print "Awards:"
                     print val
                     print
-                """
                 if key == "catalog_titles":
                     print "Similars"
                     for a in val['link']:
                         print a
                     print
-                """
 except:
     print "fucked up"
     print item
