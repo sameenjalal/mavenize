@@ -1,9 +1,8 @@
 <?php
-    include ('./OAuthSimple.php');
+    include ('../OAuthSimple.php');
 
     $apiKey = 'acga93y7k6vfv4czcer6csrp';
     $sharedSecret = 'HkVMWTQECf';
-
 
 	$arguments = Array(
         term=>'comedy',
@@ -11,7 +10,6 @@
         max_results=> 100,
         output=>'json'
 	);
-
 
     // this is the URL path (note the lack of arguments.)
     $path = "http://api.netflix.com/catalog/titles";
@@ -43,15 +41,6 @@
     {
         die ("An error occurred:".curl_error());
     }
-    $result = json_decode($buffer);
+    //$result = json_decode($buffer);
+	print_r($buffer);
 ?>
-<p>
-<b>Your signed URL:</b></br>
-<?php print $signed['signed_url'] ?>;
-</p>
-<p>
-And the output is:</br>
-<pre>
-<?php print_r($result); ?>
-</pre>
-</p>
