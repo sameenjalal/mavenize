@@ -1,5 +1,5 @@
 import json
-json_data=open('titles.json')
+json_data=open('57_titles.json')
 data = json.load(json_data)
 
 print data['catalog_titles']['catalog_title'][0].keys()
