@@ -10,7 +10,7 @@ body .title {
   height: 100px;
   padding-top: 20px;
 }
-
+/*
 body #stream-options {
   list-style-type: none;
   margin: 0;
@@ -20,6 +20,7 @@ body #stream-options li {
   color: #d6d6d6;
   display: inline;
 }
+*/
 
 body .stream-header {
   background: #eeeeee;
