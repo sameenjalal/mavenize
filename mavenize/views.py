@@ -38,8 +38,8 @@ def login(request):
 
     if created:
         url = "http://graph.facebook.com/%s/picture" % social_user.uid 
-        small_picture = urlopen(url, timeout=5)
-        large_picture = urlopen(url+'?type=large', timeout=5)
+        small_picture = urlopen(url, timeout=30)
+        large_picture = urlopen(url+'?type=large', timeout=30)
         profile.picture_small.save(
             slugify(user_id)+u'.jpg',
             ContentFile(small_picture.read())
