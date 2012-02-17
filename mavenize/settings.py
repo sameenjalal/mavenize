@@ -110,7 +110,6 @@ INSTALLED_APPS = (
     'south',
     'social_auth',
     'debug_toolbar',
-    'crispy_forms',
     'table_number',
     'user_profile',
     'social_graph',
