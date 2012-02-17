@@ -28,7 +28,7 @@
         </li>
         <li><a href="/logout/">Logout</a></li>
       </ul>
-      <form class="navbar-search pull-left" action="search/" method="GET">
+      <form class="navbar-search pull-left" action="/search/" method="GET">
         {% csrf_token %}
         {{ search.q|add_class:'search-query' }}
       </form> 
