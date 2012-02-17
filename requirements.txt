@@ -3,10 +3,12 @@ Pillow==1.7.6
 South==0.7.3
 django-activity-stream==0.4.0beta3
 django-debug-toolbar==0.9.4
+-e git+https://github.com/toastdriven/django-haystack.git@4fb267623b58c5581be96a9a9504ca10a72eb0d8#egg=django_haystack-dev
 django-social-auth==0.6.1
 facebook-sdk==0.2.0
 httplib2==0.7.2
 oauth2==1.5.211
 psycopg2==2.4.4
+pysolr==2.1.0-beta
 python-openid==2.2.5
 wsgiref==0.1.2

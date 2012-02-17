@@ -106,9 +106,11 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.admin',
+    'haystack',
     'south',
     'social_auth',
     'debug_toolbar',
+    'crispy_forms',
     'table_number',
     'user_profile',
     'social_graph',
@@ -199,3 +201,12 @@ DEBUG_TOOLBAR_PANELS = (
 
 # Settings for user profiles
 AUTH_PROFILE_MODULE = 'user_profile.UserProfile'
+
+# Settings for django-haystack
+# Solr search engine settings
+HAYSTACK_CONNECTIONS = {
+    'default': {
+        'ENGINE': 'haystack.backends.solr_backend.SolrEngine',
+        'URL': 'http://127.0.0.1:8983/solr',
+    },
+}
