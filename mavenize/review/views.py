@@ -2,10 +2,40 @@ from django.shortcuts import get_object_or_404
 from django.shortcuts import redirect
 from django.http import Http404
 
+from mavenize.movie.models import Movie
 from mavenize.review.models import Review
 from mavenize.review.models import Thanks
+from mavenize.review.models import ReviewForm
 
 from django.contrib.auth.decorators import login_required
+
+@login_required
+def review(request, title):
+    if request.method == 'POST':
+        movie = Movie.objects.get(url=title)
+        review = {
+            'user': request.session['_auth_user_id'],
+            'table_number': 1,
+            'table_id_in_table': movie.movie_id,
+            'text': request.POST['text'],
+            'up_votes': 0,
+            'down_votes': 0,
+        }
+        # Convert rating to numerical value for review
+        if request.POST['submit'] == "Loved It":
+            review['rating'] = 2
+        elif request.POST['submit'] == "So-So":
+            review['rating'] = 1
+        else:
+            review['rating'] = 0
+        form = ReviewForm(review)
+        if form.is_valid():
+            form.save()
+            movie.moviepopularity.popularity += review['rating']
+            movie.moviepopularity.save()
+            # action.send(request.user, verb="raved about", action_object=form, target=movie)
+
+    return redirect(request.META.get('HTTP_REFERER', None))
 
 @login_required
 def thank(request, review_id):
@@ -30,3 +60,4 @@ def thank(request, review_id):
     
     else:
         raise Http404
+

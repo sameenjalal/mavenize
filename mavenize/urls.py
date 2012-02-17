@@ -14,7 +14,7 @@ urlpatterns = patterns('',
 
     url(r'^movies/genre/(?P<genre>[-\w]+)/$', 'mavenize.movie.views.genre'),
     url(r'^movies/(?P<title>[-\w]+)/$', 'mavenize.movie.views.profile'),
-    url(r'^movies/(?P<title>[-\w]+)/review/$', 'mavenize.movie.views.review'),
+    url(r'^movies/(?P<title>[-\w]+)/review/$', 'mavenize.review.views.review'),
     url(r'^users/(\d+)/$', 'mavenize.user_profile.views.profile'),
     url(r'^thank/(\d+)/$', 'mavenize.review.views.thank'),
     url(r'^follow/(\d+)/$', 'mavenize.social_graph.views.follow'),
