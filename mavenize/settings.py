@@ -110,6 +110,7 @@ INSTALLED_APPS = (
     'south',
     'social_auth',
     'debug_toolbar',
+    'general_utilities',
     'table_number',
     'user_profile',
     'social_graph',
@@ -174,6 +175,7 @@ TEMPLATE_CONTEXT_PROCESSORS = (
     'django.core.context_processors.static',
     'django.contrib.messages.context_processors.messages',
     'social_auth.context_processors.social_auth_by_type_backends',
+    'general_utilities.context_processors.search',
 )
 
 # Application settings for django-debug-toolbar

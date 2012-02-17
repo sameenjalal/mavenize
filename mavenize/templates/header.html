@@ -1,3 +1,4 @@
+{% load utils %}
 <div class="navbar navbar-fixed-top">
   <div class="navbar-inner">
     <div class="container">
@@ -27,9 +28,9 @@
         </li>
         <li><a href="/logout/">Logout</a></li>
       </ul>
-      <form class="navbar-search pull-left">
+      <form class="navbar-search pull-left" action="search/" method="GET">
         {% csrf_token %}
-        <input type="text" class="search-query" placeholder="Search">
+        {{ search.q|add_class:'search-query' }}
       </form> 
     </div>
   </div>
