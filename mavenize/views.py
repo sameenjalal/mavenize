@@ -82,11 +82,14 @@ def feed(request):
         'table_id_in_table', flat=True)]
     global_reviews = OrderedDict(zip(reviews,ordered_movies))
 
-    # Get the top 10 most popular movies
+    # Get the top 8 most popular movies
     popular_movie_ids = MoviePopularity.objects.all().values_list(
-        'movie',flat=True)[:10]
-    popular_movies = Movie.objects.filter(pk__in=popular_movie_ids).values(
-        'image', 'url')
+        'movie',flat=True)[:8]
+    movies = Movie.objects.filter(pk__in=popular_movie_ids).values(
+        'movie_id', 'image', 'url')
+    id_movies = dict([(m['movie_id'], m) for m in movies])
+    popular_movies = [id_movies[i] for i in popular_movie_ids]
+
     return render_to_response('feed.html', {
         'popular_movies': popular_movies,
         'friend_reviews': friend_reviews,
