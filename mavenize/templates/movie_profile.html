@@ -14,8 +14,13 @@
         </h1>
         {% if not user|has_reviewed:movie.movie_id %}
         <section id="review-form">
-          <h3>Watched it?  Rave about it to your friends.</h3>
           <form class="form-horizontal" action="review/" method="POST">{% csrf_token %}
+            <label for="review-text">
+              <h3 class="form-label">Watched it?  Rave about it to your friends.</h3>
+              <div class="pull-right" id="counter">
+                <span id="count">240</span> characters remaining.
+              </div>
+            </label>
             {{ form.text }}
             <div class="btn-toolbar" id="rave-submit">
               <div class="btn-group">

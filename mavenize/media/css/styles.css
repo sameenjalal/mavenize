@@ -92,6 +92,15 @@ form #rave-submit input {
   display: inline;
 }
 
+.form-label {
+  display: inline;
+}
+
+#counter {
+  color: #8f8f8f;
+  padding-top: 8px; 
+}
+
 /* Movie Profiles */
 
 .profile {
