@@ -19,6 +19,7 @@ from mavenize.social_graph.models import Follower
 
 from collections import OrderedDict
 from urllib2 import urlopen, HTTPError
+from itertools import chain
 import facebook
 
 def index(request):
@@ -59,41 +60,38 @@ def logout(request):
 @login_required
 def feed(request):
     user_id = request.user.id
+    global_reviews = {}
+    gm_id = []
+    
+    # Get the top 8 most popular movies
+    pm_id = MoviePopularity.objects.all().values_list('movie',flat=True)[:8]
 
-    # Get the 10 most recent friend reviews
+    # Retrieve the 20 most recent friends reviews
     following = Following.objects.filter(
         fb_user=user_id).values_list('follow',flat=True)
-    reviews = Review.objects.filter(user__in=following)[:10]
-    movies = Movie.objects.filter(
-        pk__in=reviews.values_list('table_id_in_table',flat=True)).values(
-            'movie_id', 'title', 'image', 'url')
-    id_movies = dict([(m['movie_id'], m) for m in movies])
-    ordered_movies = [id_movies[i] for i in reviews.values_list(
-        'table_id_in_table', flat=True)]
-    friend_reviews = OrderedDict(zip(reviews,ordered_movies))
-    
-    # Get the 10 most recent global reviews
-    reviews = Review.objects.exclude(user__in=following).exclude(user=user_id)
-    movies = Movie.objects.filter(
-        pk__in=reviews.values_list('table_id_in_table',flat=True)).values(
-            'movie_id', 'title', 'image', 'url')
-    id_movies = dict([(m['movie_id'], m) for m in movies])
-    ordered_movies = [id_movies[i] for i in reviews.values_list(
-        'table_id_in_table', flat=True)]
-    global_reviews = OrderedDict(zip(reviews,ordered_movies))
 
-    # Get the top 8 most popular movies
-    popular_movie_ids = MoviePopularity.objects.all().values_list(
-        'movie',flat=True)[:8]
-    movies = Movie.objects.filter(pk__in=popular_movie_ids).values(
-        'movie_id', 'image', 'url')
+    friend_reviews = Review.objects.filter(user__in=following)[:20]
+    count = len(friend_reviews)
+    fm_id = friend_reviews.values_list('table_id_in_table', flat=True)
+    
+    # If there are less than 20, supplement them with global reviews
+    if count < 20:
+        global_reviews = Review.objects.exclude(
+            user__in=following).exclude(user=user_id)[:(20-count)]
+        gm_id = global_reviews.values_list('table_id_in_table', flat=True)
+    
+    # Get the corresponding movie for each review
+    movies = Movie.objects.filter(pk__in=list(chain(fm_id,gm_id,pm_id))).values(
+        'movie_id', 'title', 'image', 'url')
     id_movies = dict([(m['movie_id'], m) for m in movies])
-    popular_movies = [id_movies[i] for i in popular_movie_ids]
+    popular_movies = [id_movies[i] for i in pm_id]
+    friend_movies = [id_movies[i] for i in fm_id]
+    global_movies = [id_movies[i] for i in gm_id]
 
     return render_to_response('feed.html', {
         'popular_movies': popular_movies,
-        'friend_reviews': friend_reviews,
-        'global_reviews': global_reviews
+        'friend_reviews': OrderedDict(zip(friend_reviews, friend_movies)),
+        'global_reviews': OrderedDict(zip(global_reviews, global_movies))
         },
         context_instance=RequestContext(request))
 
