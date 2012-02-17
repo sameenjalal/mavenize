@@ -30,9 +30,13 @@ def review(request, title):
             review['rating'] = 0
         form = ReviewForm(review)
         if form.is_valid():
+            user_profile = request.user.get_profile()
+
             form.save()
             movie.moviepopularity.popularity += review['rating']
             movie.moviepopularity.save()
+            user_profile.reviews += 1
+            user_profile.save()
             # action.send(request.user, verb="raved about", action_object=form, target=movie)
 
     return redirect(request.META.get('HTTP_REFERER', None))
