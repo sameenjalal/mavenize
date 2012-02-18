@@ -1,0 +1,19 @@
+<li class="review">
+  <div class="pull-left">
+    <img src="{{ MEDIA_URL }}img/users/{{ review.id }}.jpg" />
+  </div>
+  {% block movie %} {% endblock %}
+  <div class="review-content">
+    <a href="/users/{{ review.id }}">{{ review.first_name }}</a> raved about <a href="/movies/{{ movie.url }}">{{ movie.title }}</a>.
+    <blockquote>
+      {{ review.text }}
+    </blockquote>
+    <ul>
+      {% if not review.thanked %}
+      <li><a class="thank" href="/thank/{{ review.review_id }}">thank {{ review.first_name|lower }}</a> |</li>
+      {% endif %}
+      <li> <span>{{ review.up_votes }}</span> thanks |</li>
+      <li>{{ review.created_at|timesince }} ago</li>
+    </ul>
+  </div>
+</li>
