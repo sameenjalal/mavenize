@@ -77,10 +77,12 @@
       $('#load-more').click(function() {
         $(this).text('Loading...');
         $.get('/load/friend/' + page + '/', function(data) {
-          $('#load-friend').append(data);
-        });
-        $.get('/load/global/' + page + '/', function(data) {
-          $('#load-global').append(data);
+          if (data)
+            $('#load-friend').append(data);
+          else
+            $.get('/load/global/' + page + '/', function(data) {
+              $('#load-global').append(data);
+          });
           $('#load-more').text('Load More');
         });
         page += 1;

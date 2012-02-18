@@ -6,20 +6,16 @@ from django.contrib.auth import logout as social_logout
 from django.core.files.base import ContentFile
 from django.template.defaultfilters import slugify
 
-from django.contrib.auth.models import User
-from social_auth.models import UserSocialAuth
 from mavenize.user_profile.models import UserProfile
 from mavenize.movie.models import Movie
 from mavenize.review.models import Review
+from mavenize.review.models import Thanks
 from mavenize.movie.models import MoviePopularity
-
 from mavenize.social_graph.models import Following
-from mavenize.social_graph.models import Follower
 # from actstream.actions import follow
 
-from collections import OrderedDict
+from mavenize.general_utilities.utils import retrieve_objects
 from urllib2 import urlopen, HTTPError
-from itertools import chain
 import facebook
 
 def index(request):
@@ -62,63 +58,87 @@ def feed(request):
     context = load_feed(request, None, 1) 
 
     # Get the top 8 most popular movies
-    pm_id = MoviePopularity.objects.all().values_list('movie',flat=True)[:8]
+    pm_id = MoviePopularity.objects.all().values_list('movie',flat=True)[:4]
     context['popular_movies'] = Movie.objects.filter(pk__in=pm_id).values(
         'image', 'url')
 
     return render_to_response('feed.html', context,
         context_instance=RequestContext(request))
-
+        
 def load_feed(request, review_type, page):
     user_id = request.user.id
-    global_reviews = {}
-    gm_id = []
+    context = {}
     
-    # Retrieve the 20 most recent friends reviews
+    # Retrieve the 10 most recent friends reviews
     following = Following.objects.filter(
         fb_user=user_id).values_list('follow',flat=True)
+    friend_reviews = Review.objects.filter(user__in=following).values(
+        'review_id',
+        'user',
+        'table_id_in_table',
+        'text',
+        'up_votes',
+        'created_at'
+    )[10*(int(page)-1):10*int(page)]
+    review_count = len(friend_reviews)
 
-    friend_reviews = Review.objects.filter(
-        user__in=following)[20*(int(page)-1):20*int(page)]
-    count = len(friend_reviews)
-    fm_id = friend_reviews.values_list('table_id_in_table', flat=True)
+    if review_count:
+        context['friend_reviews'] = aggregate(user_id, friend_reviews)
 
-    if review_type == 'friend':
+    if request.is_ajax() and review_type == 'friend':
         return render_to_response(
             'partials/friend_review.html',
-            {'friend_reviews': OrderedDict(zip(friend_reviews, 
-                                    corresponding_movies(fm_id)))}, 
+            context,
             context_instance=RequestContext(request)
         )
     
-    # If there are less than 20, supplement them with global reviews
-    if count < 20:
+    # If there are less than 10, supplement them with global reviews
+    if review_count < 10:
         global_reviews = Review.objects.exclude(
-            user__in=following).exclude(user=user_id)[:(20-count)]
-        gm_id = global_reviews.values_list('table_id_in_table', flat=True)
+            user__in=following).exclude(user=user_id).values(
+            'review_id',
+            'user',
+            'table_id_in_table',
+            'text',
+            'up_votes',
+            'created_at'
+        )[10*(int(page)-1):(10-review_count)*int(page)]
+        
+        context['global_reviews'] = aggregate(user_id, global_reviews)
 
-    if review_type == 'global':
-        return render_to_response(
-            'partials/global_review.html',
-            {'global_reviews': OrderedDict(zip(global_reviews, 
-                                    corresponding_movies(gm_id)))}, 
-            context_instance=RequestContext(request)
-        )
+        if request.is_ajax() and review_type == 'global':
+            return render_to_response(
+                'partials/global_review.html',
+                context,
+                context_instance=RequestContext(request)
+            )
     
-    # Get the corresponding movie for each review
-    movies = Movie.objects.filter(pk__in=list(chain(fm_id,gm_id))).values(
-        'movie_id', 'title', 'image', 'url')
-    id_movies = dict([(m['movie_id'], m) for m in movies])
-    friend_movies = [id_movies[i] for i in fm_id]
-    global_movies = [id_movies[i] for i in gm_id]
+    return context
 
-    return {'friend_reviews': OrderedDict(zip(
-                friend_reviews, friend_movies)),
-            'global_reviews': OrderedDict(zip(
-                global_reviews, global_movies))}
+# Creates a tuple of reviews and movies for a given user and set of reviews
+def aggregate(user, reviews):
+    uids = []
+    rids = []
+    mids = []
+    
+    for r in reviews:
+        uids.append(r['user'])
+        rids.append(r['review_id'])
+        mids.append(r['table_id_in_table'])
 
-def corresponding_movies(ids):
-    movies = Movie.objects.filter(pk__in=ids).values(
-        'movie_id', 'title', 'image', 'url')
-    id_movies = dict([(m['movie_id'], m) for m in movies])
-    return [id_movies[i] for i in ids]
+    users = retrieve_objects(
+        uids, 'auth', 'User', 'id', 'first_name')
+    thanked_reviews = Thanks.objects.filter(review__in=rids).filter(
+        giver=user).values_list('review', flat=True)
+
+    for review, user in zip(reviews, users):
+        review.update(user)
+        if review['review_id'] in thanked_reviews:
+            review['thanked'] = True
+        else:
+            review['thanked'] = False
+
+    movies = retrieve_objects(
+        mids, 'movie', 'Movie', 'movie_id', 'title', 'image', 'url')
+
+    return zip(reviews, movies)
