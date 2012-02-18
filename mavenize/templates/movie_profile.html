@@ -35,10 +35,12 @@
         <section id="top-reviews">
           <h2>Top Raves</h2>
           <ul>
-            {% for review in reviews %}
-              {% include "partials/review_base.html" %}
-            {% endfor %}
+            {% include "partials/movie_review.html" %}
+            <div id="load-movie"></div>
           </ul>
+          <div id="load-more">
+            Load More
+          </div>
         </section>
       </div>
       <div class="span3">
@@ -65,4 +67,26 @@
       </div>
     </div>
   </div>
+{% endblock %}
+
+{% block js %}
+  <script type="text/javascript">
+    $(window).load(function() {
+      var page = 2
+
+      // Load more button for feeds
+      $('#load-more').click(function() {
+        $(this).text('Loading...');
+        $.get('/load/movie/{{ movie.url }}/' + page + '/', function(data) {
+          if (data.length != 1)
+            $('#load-movie').append(data);
+          else
+            $('#load-more').remove();
+          $('#load-more').text('Load More');
+        });
+        page += 1;
+        return false;
+      });
+    })
+  </script> 
 {% endblock %}
