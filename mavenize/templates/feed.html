@@ -55,3 +55,28 @@
     </div>
   </div>
 {% endblock %}
+
+{% block js %}
+  <script type="text/javascript">
+    $(window).load(function() {
+      var page = 2
+
+      // Load more button for feeds
+      $('#load-more').click(function() {
+        $(this).text('Loading...');
+        $.get('/load/friend/' + page + '/', function(data) {
+          if (data.length != 1)
+            $('#load-friend').append(data);
+          else
+            $.get('/load/global/' + page + '/', function(data) {
+              if (data.length != 1)
+                $('#load-global').append(data);
+            });
+          $('#load-more').text('Load More');
+        });
+        page += 1;
+        return false;
+      });
+    })
+  </script>
+{% endblock %}
