@@ -1,0 +1,22 @@
+{% load review_checks %}
+<li class="review">
+  <div class="pull-left">
+    <img src="{{ MEDIA_URL }}img/users/{{ review.user_id }}.jpg" />
+  </div>
+  <div class="span1 pull-right">
+    <img src="{{ MEDIA_URL }}{{ movie.image }}" />
+  </div>
+  <div class="review-content">
+    <a href="/users/{{ review.user_id }}">{{ review.user.get_full_name }}</a> raved about <a href="/movies/{{ movie.url }}">{{ movie.title }}</a>.
+    <blockquote>
+      {{ review.text }}
+    </blockquote>
+    <ul>
+      {% if not user.id|has_thanked:review %}
+      <li><a class="thank" href="/thank/{{ review.review_id}}">thank {{ review.user.first_name|lower }}</a> |</li>
+      {% endif %}
+      <li> <span>{{ review.up_votes }}</span> thanks |</li>
+      <li>{{ review.created_at|timesince }} ago</li>
+    </ul>
+  </div>
+</li>

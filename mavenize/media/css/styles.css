@@ -31,6 +31,26 @@
   text-align: center;
 }
 
+#load-more {
+  background: #eee;
+
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+
+  color: #999;
+  cursor: pointer;
+  display: block;
+  font-weight: bold;
+  margin-bottom: 10px;
+  padding: 10px 0;
+  text-align: center;
+}
+
+#load-more:hover {
+  color: #666;
+}
+
 /* Review Form */
 
 #review-form {

@@ -18,6 +18,7 @@ urlpatterns = patterns('',
     url(r'^users/(\d+)/$', 'mavenize.user_profile.views.profile'),
     url(r'^thank/(\d+)/$', 'mavenize.review.views.thank'),
     url(r'^follow/(\d+)/$', 'mavenize.social_graph.views.follow'),
+    url(r'^load/(\w+)/(\d+)/$', 'mavenize.views.load_feed'),
 
     url('^search/', include('haystack.urls')),
     url(r'^activity/', include('actstream.urls')),

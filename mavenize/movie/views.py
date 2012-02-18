@@ -34,7 +34,7 @@ def genre(request, genre):
 @login_required
 def profile(request, title):
     movie = get_object_or_404(Movie, url=title)
-    reviews = Review.objects.filter(table_number=1, table_id_in_table=movie.movie_id)
+    reviews = Review.objects.filter(table_number=1, table_id_in_table=movie.movie_id)[:20]
     rating = 0
     if reviews:
         rating = int(reviews.aggregate(Avg('rating'))['rating__avg']*50)

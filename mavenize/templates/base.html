@@ -16,7 +16,7 @@
 <body>
 
   <header>
-      {% include "header.html" %}
+      {% include "partials/header.html" %}
   </header>
 
   <div id="body">
@@ -24,25 +24,28 @@
   </div>
 
   <footer>
-    {% include "footer.html" %}
+    {% include "partials/footer.html" %}
   </footer>
 
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   <script type="text/javascript" src="/media/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="/media/js/jquery.NobleCount.min.js"></script>
+  {% block js %} {% endblock %}
   <script type="text/javascript">
     $(window).load(function() {
+      var page = 2
+
       // Dropdown for navigation bar
-      $('.dropdown-toggle').dropdown()
+      $('.dropdown-toggle').dropdown();
 
       // Tabs for activity feed
-      $('.stream-options').tab('show')
+      $('.stream-options').tab('show');
 
       // Active state for navigation bar
       $('.nav a').each(function() {
         if (this.href == window.location)
           $(this).parent('li').addClass('active');
-      })
+      });
 
       // Thank button for reviews
       $('a.thank').click(function() {
@@ -53,7 +56,7 @@
           $(current_element).parent().remove();
         });
         return false;
-      })
+      });
 
       // Follow button for users
       $('a#follow').click(function() {
@@ -62,14 +65,27 @@
           $(current_element).remove();
         });
         return false;
-      })
-      
+      });
 
       // Character counter
       $('#review-text').NobleCount('#count', {
         max_chars: 240,
         block_negative: true
-      })
+      });
+
+      // Load more button for feeds
+      $('#load-more').click(function() {
+        $(this).text('Loading...');
+        $.get('/load/friend/' + page + '/', function(data) {
+          $('#load-friend').html(data);
+        });
+        $.get('/load/global/' + page + '/', function(data) {
+          $('#load-global').html(data);
+          $('#load-more').text('Load More');
+        });
+        page += 1;
+        return false;
+      });
     })
   </script>
 
