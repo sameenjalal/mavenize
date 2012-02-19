@@ -52,22 +52,27 @@ for file_num in range( 0, 58 ):
                         print
                     if key == "catalog_titles":
                         print "Similars"
+                        all_similars = []
                         try:
                             a = val['link']
                         except:
-                            print val
+                            #print val
                             continue
                         for b in range( 0 , len( a )):
                             try:
-                                print a[b]['title']
+                                all_similars.append( a[b]['title'] )
+                                #print a[b]['title']
                             except:
                                 try:
                                     for k,v in val['link'].iteritems():
                                         if k == "title":
-                                            print v
+                                            all_similars.append( v )
+                                            #print v
                                 except:
-                                    print val
+                                    #print val
+                                    all_similars.append( val )
                                     pass
+                        print all_similars
     except:
         print "fucked up"
         print item
