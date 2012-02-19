@@ -33,10 +33,23 @@
         </section>
         {% endif %}
         <section id="top-reviews">
-          <h2>Top Raves</h2>
+          <div class="stream-header gradient">
+            Raves from Your Friends
+          </div>
           <ul>
-            {% include "partials/movie_review.html" %}
-            <div id="load-movie"></div>
+            {% for review in friend_reviews %}
+              {% include "partials/review_base.html" %}
+            {% endfor %}
+            <div id="load-friend"></div>
+          </ul>
+          <div class="stream-header gradient">
+            Raves from Everyone
+          </div>
+          <ul>
+            {% for review in global_reviews %}
+              {% include "partials/review_base.html" %}
+            {% endfor %}
+            <div id="load-global"></div>
           </ul>
           <div id="load-more">
             Load More
@@ -49,7 +62,7 @@
         </div>
         <div class="profile" id="rating-box">
           <div id="rating">{{ rating }}%</div>
-          <div id="votes">({{ reviews.count }} votes)</div>
+          <div id="votes">({{ votes }} votes)</div>
         </div>
         <div class="profile">
           <h3>Synopsis</h3>
@@ -73,19 +86,39 @@
   <script type="text/javascript">
     $(window).load(function() {
       var page = 2
-
-      // Load more button for feeds
+      
+      // Load more button for movies
       $('#load-more').click(function() {
         $(this).text('Loading...');
-        $.get('/load/movie/{{ movie.url }}/' + page + '/', function(data) {
-          if (data.length != 1)
-            $('#load-movie').append(data);
-          else
-            $('#load-more').remove();
-          $('#load-more').text('Load More');
+        $.ajax({
+          url: '/load/friend/{{ movie.url }}' + '/' + page + '/',
+          type: 'GET',
+          dataType: 'HTML',
+          success: function(data, textStatus, jqXHR) {
+            $('#load-friend').append(data);
+            $('#load-more').text('Load More');
+          },
+          statusCode: {
+            200: function () { page += 1; },
+            204: function () {
+              $.ajax({
+                url: '/load/global/{{ movie.url }}' + '/' + page + '/',
+                type: 'GET',
+                dataType: 'HTML',
+                success: function(data, textStatus, jqXHR) {
+                  $('#load-global').append(data);
+                  $('#load-more').text('Load More');
+                },
+                statusCode: {
+                  200: function() { page += 1; },
+                  204: function () {
+                    $('#load-more').remove();
+                  }
+                }              
+              });
+            }
+          }
         });
-        page += 1;
-        return false;
       });
     })
   </script> 

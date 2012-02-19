@@ -64,18 +64,35 @@
       // Load more button for feeds
       $('#load-more').click(function() {
         $(this).text('Loading...');
-        $.get('/load/friend/' + page + '/', function(data) {
-          if (data.length != 1)
+        $.ajax({
+          url: '/load/friend/' + page + '/',
+          type: 'GET',
+          dataType: 'HTML',
+          success: function(data, textStatus, jqXHR) {
             $('#load-friend').append(data);
-          else
-            $.get('/load/global/' + page + '/', function(data) {
-              if (data.length != 1)
-                $('#load-global').append(data);
-            });
-          $('#load-more').text('Load More');
+            $('#load-more').text('Load More');
+          },
+          statusCode: {
+            200: function () { page += 1; },
+            204: function () {
+              $.ajax({
+                url: 'load/global/' + page + '/',
+                type: 'GET',
+                dataType: 'HTML',
+                success: function(data, textStatus, jqXHR) {
+                  $('#load-global').append(data);
+                  $('#load-more').text('Load More');
+                },
+                statusCode: {
+                  200: function() { page += 1; },
+                  204: function () {
+                    $('#load-more').remove();
+                  }
+                }              
+              });
+            }
+          }
         });
-        page += 1;
-        return false;
       });
     })
   </script>

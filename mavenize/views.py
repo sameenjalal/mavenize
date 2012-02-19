@@ -5,6 +5,7 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.auth import logout as social_logout
 from django.core.files.base import ContentFile
 from django.template.defaultfilters import slugify
+from django.http import HttpResponse
 
 from mavenize.user_profile.models import UserProfile
 from mavenize.movie.models import Movie
@@ -86,6 +87,9 @@ def load_feed(request, review_type, page):
         context['friend_reviews'] = aggregate(user_id, friend_reviews)
 
     if request.is_ajax() and review_type == 'friend':
+        if not review_count:
+            return HttpResponse(status=204)
+        
         return render_to_response(
             'partials/friend_review.html',
             context,
@@ -107,6 +111,9 @@ def load_feed(request, review_type, page):
         context['global_reviews'] = aggregate(user_id, global_reviews)
 
         if request.is_ajax() and review_type == 'global':
+            if not context['global_reviews']:
+                return HttpResponse(status=204)
+            
             return render_to_response(
                 'partials/global_review.html',
                 context,

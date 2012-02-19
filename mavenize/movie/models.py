@@ -3,9 +3,15 @@ from django.template.defaultfilters import slugify
 
 class Genre(models.Model):
     name = models.CharField(max_length=30)
+    url = models.SlugField()
 
     def __unicode__(self):
         return self.name
+    
+    def save(self, *args, **kwargs):
+        if not self.id:
+            self.url = slugify(self.name)
+        super(Genre, self).save(*args, **kwargs)
 
 class Movie(models.Model):
     movie_id = models.AutoField(primary_key=True)
