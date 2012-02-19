@@ -70,7 +70,7 @@ def load_reviews(request, title, review_type, page):
             return HttpResponse(status=204)
 
         return render_to_response(
-            'partials/movie_friend_review.html',
+            'partials/movie_friend.html',
             context,
             context_instance=RequestContext(request)
         )
@@ -94,7 +94,7 @@ def load_reviews(request, title, review_type, page):
                 return HttpResponse(status=204)
 
             return render_to_response(
-                'partials/movie_global_review.html',
+                'partials/movie_global.html',
                 context,
                 context_instance=RequestContext(request)
             )

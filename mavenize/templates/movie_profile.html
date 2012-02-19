@@ -5,6 +5,7 @@
 {% endblock %}
 
 {% block body %}
+  {% load review_checks %}
   <div class="container">
     <div class="row">
       <div class="span9">
@@ -36,18 +37,14 @@
             Raves from Your Friends
           </div>
           <ul>
-            {% for review in friend_reviews %}
-              {% include "partials/review_base.html" %}
-            {% endfor %}
+            {% include "partials/movie_friend.html" %}
             <div class="load-friend"></div>
           </ul>
           <div class="stream-header gradient">
             Raves from Everyone
           </div>
           <ul>
-            {% for review in global_reviews %}
-              {% include "partials/review_base.html" %}
-            {% endfor %}
+            {% include "partials/movie_global.html" %}
             <div class="load-global"></div>
           </ul>
           <div class="load-more">

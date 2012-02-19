@@ -135,17 +135,17 @@ def aggregate(user, reviews):
 
     users = retrieve_objects(
         uids, 'auth', 'User', 'id', 'first_name')
+    movies = retrieve_objects(
+        mids, 'movie', 'Movie', 'movie_id', 'title', 'image', 'url')
     thanked_reviews = Thanks.objects.filter(review__in=rids).filter(
         giver=user).values_list('review', flat=True)
 
-    for review, user in zip(reviews, users):
+    for review, user, movie in zip(reviews, users, movies):
         review.update(user)
+        review.update(movie)
         if review['review_id'] in thanked_reviews:
             review['thanked'] = True
         else:
             review['thanked'] = False
 
-    movies = retrieve_objects(
-        mids, 'movie', 'Movie', 'movie_id', 'title', 'image', 'url')
-
-    return zip(reviews, movies)
+    return reviews
