@@ -1,3 +1,23 @@
+/* Reset */
+
+body {
+  padding-top: 40px;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 8px;
+}
+
+.thumbnail {
+  border: none;
+}
+
+footer {
+  background: #d9edf7;
+  padding-top: 10px;
+}
+
 /* Body Background */
 #body {
   background: url('/media/img/body-background.jpg') 0 0 repeat-x; 
