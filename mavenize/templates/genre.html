@@ -18,7 +18,7 @@
           <div class="tab-pane active" id="recent">
             <ul id="search-results">
               {% include "partials/movie_results.html" %}
-            <div id="load-movies"></div>
+            <div id="load-movie"></div>
             </ul>
             <div id="load-more">
               Load More
@@ -38,19 +38,23 @@
   <script type="text/javascript">
     $(window).load(function() {
       var page = 2
-
-      // Load more button for feeds
+      
+      // Load more button for genres
       $('#load-more').click(function() {
         $(this).text('Loading...');
-        $.get('/load/genre/{{ genre.url }}/' + page + '/', function(data) {
-          if (data.length != 1)
+        $.ajax({
+          url: '/load/genre/{{ genre.url }}' + '/' + page + '/',
+          type: 'GET',
+          dataType: 'HTML',
+          success: function(data, textStatus, jqXHR) {
             $('#load-movie').append(data);
-          else
-            $('#load-more').remove();
-          $('#load-more').text('Load More');
-          page += 1;
+            $('#load-more').text('Load More');
+          },
+          statusCode: {
+            200: function () { page += 1; },
+            204: function () { $('#load-more').remove(); }
+          }
         });
-        return false;
       });
     })
   </script> 
