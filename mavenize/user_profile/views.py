@@ -47,8 +47,6 @@ def profile(request, id):
            'positive_movies': positive_movies,
            'neutral_movies': neutral_movies,
            'negative_movies': negative_movies,
-           'review_count': target_profile.reviews,
-           'thanks_received': target_profile.thanks_received,
-           'thanks_given': target_profile.thanks_given
+           'target_profile': target_profile
         },
         RequestContext(request)) 
