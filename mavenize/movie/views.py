@@ -111,7 +111,6 @@ def load_movies(request, genre, page):
     for movie in movies:
         try:
             review = Review.objects.filter(
-                table_number=1,
                 table_id_in_table=movie.movie_id
             ).values('review_id', 'user', 'text', 'up_votes', 'created_at')[0]
             review['first_name'] = User.objects.get(id=review['user']).first_name
