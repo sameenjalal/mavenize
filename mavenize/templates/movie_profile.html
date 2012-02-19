@@ -40,7 +40,7 @@
             {% for review in friend_reviews %}
               {% include "partials/review_base.html" %}
             {% endfor %}
-            <div id="load-friend"></div>
+            <div class="load-friend"></div>
           </ul>
           <div class="stream-header gradient">
             Raves from Everyone
@@ -49,9 +49,9 @@
             {% for review in global_reviews %}
               {% include "partials/review_base.html" %}
             {% endfor %}
-            <div id="load-global"></div>
+            <div class="load-global"></div>
           </ul>
-          <div id="load-more">
+          <div class="load-more">
             Load More
           </div>
         </section>
@@ -88,15 +88,15 @@
       var page = 2
       
       // Load more button for movies
-      $('#load-more').click(function() {
+      $('.load-more').click(function() {
         $(this).text('Loading...');
         $.ajax({
           url: '/load/friend/{{ movie.url }}' + '/' + page + '/',
           type: 'GET',
           dataType: 'HTML',
           success: function(data, textStatus, jqXHR) {
-            $('#load-friend').append(data);
-            $('#load-more').text('Load More');
+            $('.load-friend').append(data);
+            $('.load-more').text('Load More');
           },
           statusCode: {
             200: function () { page += 1; },
@@ -106,13 +106,13 @@
                 type: 'GET',
                 dataType: 'HTML',
                 success: function(data, textStatus, jqXHR) {
-                  $('#load-global').append(data);
-                  $('#load-more').text('Load More');
+                  $('.load-global').append(data);
+                  $('.load-more').text('Load More');
                 },
                 statusCode: {
                   200: function() { page += 1; },
                   204: function () {
-                    $('#load-more').remove();
+                    $('.load-more').remove();
                   }
                 }              
               });

@@ -9,25 +9,29 @@
     <div class="row">
       <div class="span12">
         <h1 class="title">{{ genre.name }}</h1>
+        <!--
         <ul class="nav nav-tabs stream-options">
           <li class="active"><a href="#recent" data-toggle="tab">Recent</a></li>
           <li><a href="#popular" data-toggle="tab">Popular</a></li>
           <li><a href="#latest" data-toggle="tab">Latest</a></li>
         </ul>
+        -->
         <div class="tab-content">
           <div class="tab-pane active" id="recent">
             <ul id="search-results">
               {% include "partials/movie_results.html" %}
-            <div id="load-movie"></div>
+            <div class="load-movie"></div>
             </ul>
-            <div id="load-more">
+            <div class="load-more">
               Load More
             </div>
           </div>
+          <!--
           <div class="tab-pane" id="popular">
           </div>
           <div class="tab-pane" id="latest">
           </div>
+          -->
         </div>
       </div>
     </div>
@@ -40,19 +44,19 @@
       var page = 2
       
       // Load more button for genres
-      $('#load-more').click(function() {
+      $('.load-more').click(function() {
         $(this).text('Loading...');
         $.ajax({
           url: '/load/genre/{{ genre.url }}' + '/' + page + '/',
           type: 'GET',
           dataType: 'HTML',
           success: function(data, textStatus, jqXHR) {
-            $('#load-movie').append(data);
-            $('#load-more').text('Load More');
+            $('.load-movie').append(data);
+            $('.load-more').text('Load More');
           },
           statusCode: {
             200: function () { page += 1; },
-            204: function () { $('#load-more').remove(); }
+            204: function () { $('.load-more').remove(); }
           }
         });
       });

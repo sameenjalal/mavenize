@@ -5,6 +5,7 @@ from django.http import HttpResponse
 from django.http import Http404
 from django.template import RequestContext
 
+from django.contrib.auth.models import User
 from mavenize.movie.models import Movie
 from mavenize.movie.models import Genre
 from mavenize.review.models import Review
@@ -109,9 +110,12 @@ def load_movies(request, genre, page):
     movie_reviews = {}
     for movie in movies:
         try:
-            movie_reviews[movie] = Review.objects.filter(
+            review = Review.objects.filter(
                 table_number=1,
-                table_id_in_table=movie.movie_id)[0]
+                table_id_in_table=movie.movie_id
+            ).values('review_id', 'user', 'text', 'up_votes', 'created_at')[0]
+            review['first_name'] = User.objects.get(id=review['user']).first_name
+            movie_reviews[movie] = review
         except:
             movie_reviews[movie] = None 
     

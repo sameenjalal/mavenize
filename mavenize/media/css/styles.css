@@ -31,7 +31,7 @@
   text-align: center;
 }
 
-#load-more {
+.load-more {
   background: #eee;
 
   -webkit-border-radius: 5px;
@@ -47,7 +47,7 @@
   text-align: center;
 }
 
-#load-more:hover {
+.load-more:hover {
   color: #666;
 }
 
