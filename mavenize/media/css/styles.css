@@ -18,9 +18,25 @@ footer {
   padding-top: 10px;
 }
 
+/* Menu */
+#notifications {
+  color: white;
+  font-weight: bold;
+}
+
+#notifications:hover {
+  color: #049cdb;
+}
+
 /* Body Background */
 #body {
   background: url('/media/img/body-background.jpg') 0 0 repeat-x; 
+}
+
+/* Feedback Form */
+#feedback-submit {
+  position: relative;
+  left: 545px;
 }
 
 /* Stream */
@@ -42,6 +58,10 @@ footer {
   background: linear-gradient(top, #eeeeee 0%,#ffffff 99%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#ffffff',GradientType=0 );
 
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  
   border-top: 1px solid #d6d6d6;
   color: #8f8f8f;
   font-size: 14px;

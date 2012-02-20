@@ -9,6 +9,16 @@
     <div class="row">
       <div class="span9">
         <h1 class="title">Welcome Back {{ user.first_name }}!</h1>
+        <section id="review-form">
+          <form class="form-horizontal" action="feedback/" method="POST">{% csrf_token %}
+            <label for="review-text">
+              <h3 class="form-label">Love the site? Hate it?  Give us feedback.</h3>
+            </label>
+            {{ form.message }}
+            <input class="btn btn-large btn-primary" id="feedback-submit" type="submit" name="submit" value="Send Feedback" />
+          </form>
+        </section>
+
         <!--
         <ul class="nav nav-tabs stream-options">
           <li class="active"><a href="#recent" data-toggle="tab">Recent</a></li>

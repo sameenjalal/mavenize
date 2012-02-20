@@ -13,6 +13,7 @@ from mavenize.review.models import Review
 from mavenize.review.models import Thanks
 from mavenize.movie.models import MoviePopularity
 from mavenize.social_graph.models import Following
+from mavenize.general_utilities.models import FeedbackForm
 # from actstream.actions import follow
 
 from mavenize.general_utilities.utils import retrieve_objects
@@ -57,6 +58,7 @@ def logout(request):
 @login_required
 def feed(request):
     context = load_feed(request, None, 1) 
+    context['form'] = FeedbackForm()
 
     # Get the top 8 most popular movies
     pm_id = MoviePopularity.objects.all().values_list('movie',flat=True)[:4]
