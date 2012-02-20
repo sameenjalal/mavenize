@@ -6,6 +6,7 @@
 
 {% block body %}
   {% load review_checks %}
+  {% load utils %}
   <div class="container">
     <div class="row">
       <div class="span9">
@@ -56,7 +57,7 @@
         <div class="thumbnail top-right">
           <img src="{{ movie.image.url }}" />
         </div>
-        <div class="profile" id="rating-box">
+        <div class="profile {{ rating|color }}" id="rating-box">
           <div id="rating">{{ rating }}%</div>
           <div id="votes">({{ votes }} votes)</div>
         </div>

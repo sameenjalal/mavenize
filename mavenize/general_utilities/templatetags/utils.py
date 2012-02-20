@@ -19,3 +19,12 @@ def add_class(value, css_class):
     else:
         return mark_safe(string.replace('>', ' class="%s">' % css_class))
     return value
+
+@register.filter
+def color(value):
+    if value >= 70:
+        return "green"
+    elif value >= 30:
+        return "yellow"
+    else:
+        return "red"
