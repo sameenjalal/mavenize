@@ -117,6 +117,8 @@ for file_num in range( 0, 58 ):
 
             print stmt
             #print values
+            break
+        break
     except:
         print "fucked up"
         print item
