@@ -26,9 +26,14 @@
             <li><a href="/movies/genre/thrillers/">Thrillers</a></li>
           </ul>
         </li>
-        <li class="active">
+        <li class="dropdown">
           <a id="notifications" class="dropdown-toggle" data-toggle="dropdown" href="#">
+            {{ user.first_name }} ({{ thanks }})
+            <b class="caret"></b>
           </a>
+          <ul class="dropdown-menu">
+            <li><a href="#">I'm awesome.</a></li>
+          </ul>
         </li>
         <li><a href="/logout/">Logout</a></li>
       </ul>
