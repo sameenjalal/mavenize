@@ -2,7 +2,7 @@ from django.db import models
 from django.template.defaultfilters import slugify
 
 class Genre(models.Model):
-    name = models.CharField(max_length=30)
+    name = models.CharField(max_length=60)
     url = models.SlugField()
 
     def __unicode__(self):
