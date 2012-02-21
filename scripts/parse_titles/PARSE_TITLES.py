@@ -1,4 +1,5 @@
 import json
+from django.utils.encoding import smart_str, smart_unicode
 
 for file_num in range( 0, 58 ):
     json_file_name = "titles/" + str(file_num) + "_titles.json"
@@ -24,6 +25,7 @@ for file_num in range( 0, 58 ):
             #print
 
             #print "Genres: format list"
+            """
             all_genres = []
             for x in data['catalog_titles']['catalog_title'][item]['category']:
                 try:
@@ -39,6 +41,7 @@ for file_num in range( 0, 58 ):
                 fields.append( "genre" )
                 values.append( all_genres )
             #print
+            """
 
             #print "Release Year: format text"
             release_date = data['catalog_titles']['catalog_title'][item]['release_year']
@@ -95,19 +98,33 @@ for file_num in range( 0, 58 ):
                         if all_similars:
                             fields.append( "similars" )
                             values.append( all_similars )
+            # First merge the two similar fields
+            similars = []
+            if fields and fields[-1] == "similars" and fields [-2] == "similars":
+                similars += values.pop()
+                similars += values.pop()
+                fields.pop()
+            values.append( similars )
+
             # Starting to generate insert statemetns for fields and values
-            table_name = "mavenize_development"
+            table_name = "movie_movie"
             values_stmt = "'"
             for fin in range( 0, len( fields ) ):
                 item = values[ fin ]
-                if isinstance( item , basestring ):
+                if not item:
+                    fields.pop( fin )
+                    continue
+                #elif fields[ fin ] == "release_date":
+                    #values_stmt = values_stmt[:-1] + str(item).replace( "'", "''") + ",\""
+                elif isinstance( item , basestring ):
                     values_stmt += item.replace( "'", "''" ) + "','"
                 else:
                     item = json.dumps( item ).replace( "'", "''")
-                    item = item.replace( "\"", "\\\"" )
+                    item = item.replace( "\"", "''" )
                     values_stmt += item + "','"
             values_stmt = values_stmt.rstrip( "'" )
             values_stmt = values_stmt.strip( "," )
+            values_stmt = values_stmt.replace( "." , "" )
 
             stmt = 'INSERT INTO %s (%s) VALUES (%s);' % (
                     table_name,
@@ -115,13 +132,17 @@ for file_num in range( 0, 58 ):
                     values_stmt
                     )
 
-            print stmt
+            print smart_str(stmt)
+            #f = open('1_netflix_sql.sql','w')
+            #f.write( stmt )
+            print
             #print values
-            break
-        break
+            #break
+        #break
     except:
-        print "fucked up"
+        print "=======================BEGIN fucked up====================="
         print item
+        print "=======================END fucked up======================="
         raise
 
     json_data.close()

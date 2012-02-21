@@ -94,6 +94,7 @@ class Movie(Core):
 
     def full_info(self,movie_id):
         self.movies_full = self.getJSON(config['urls']['movie.info'] % str(movie_id))
+        return self.movies_full
 
     def get_total_results(self):
         if self.limit:
@@ -245,6 +246,7 @@ class People(Core):
     def full_info(self,person_id):
         self.person = self.getJSON(config['urls']['person.info'] % str(person_id))
         self.images = self.getJSON(config['urls']['person.images'] % str(person_id))
+        return {"person": self.person,"images": self.images}
 
     def get_id(self,people_index=0):
         return self.people["results"][people_index]["id"]
@@ -321,6 +323,9 @@ class Credits(Core):
     def __init__(self,person_id):
         self.update_configuration()
         self.person = self.getJSON(config['urls']['person.credits'] % person_id)
+
+    def get_cast(self):
+        return self.person['casts']
 
     def get_cast_id(self,person_index=0):
         return self.person["casts"][person_index]["id"]
