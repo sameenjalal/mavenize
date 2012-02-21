@@ -1,68 +1,65 @@
 {% extends "base.html" %}
 
 {% block title %}
-  Mavenize | {{ genre }} 
+  Mavenize | {{ genre.name }} 
 {% endblock %}
 
 {% block body %}
-  {% load review_checks %}
   <div class="container">
     <div class="row">
       <div class="span12">
-        <h1 class="title">{{ genre }}</h1>
+        <h1 class="title">{{ genre.name }}</h1>
+        <!--
         <ul class="nav nav-tabs stream-options">
           <li class="active"><a href="#recent" data-toggle="tab">Recent</a></li>
           <li><a href="#popular" data-toggle="tab">Popular</a></li>
           <li><a href="#latest" data-toggle="tab">Latest</a></li>
         </ul>
+        -->
         <div class="tab-content">
           <div class="tab-pane active" id="recent">
             <ul id="search-results">
-              {% for movie, review in movie_reviews.items %}
-              <li class="row">
-                <div class="span2">
-                  <a class="thumbnail" href="/movies/{{ movie.url }}">
-                    <img src="{{ movie.image.url }}" />
-                  </a>
-                </div>
-                <div class="span9">
-                  <a href="/movies/{{ movie.url }}"><h3>{{ movie.title }} ({{ movie.release_date|date:"Y" }})</h3></a>
-                  <div class="synopsis">
-                      <blockquote>
-                        {{ movie.synopsis }}
-                      </blockquote>
-                  </div>
-
-                  <div class="review">
-                    <div class="pull-left">
-                      <img src="{{ MEDIA_URL }}img/users/{{ review.user_id }}.jpg" />
-                    </div>
-                    <div class="review-content">
-                      <a href="/users/{{ review.user_id }}">{{ review.user.get_full_name }}</a>
-                      <blockquote>
-                        {{ review.text }}
-                      </blockquote>
-                      <ul>
-                        {% if not user.id|has_thanked:review %}
-                        <li><a class="thank" href="/thank/{{ review.review_id}}">thank {{ review.user.first_name|lower }}</a> |</li>
-                        {% endif %}
-                        <li><span>{{ review.up_votes }}</span> thanks |</li>
-                        <li>{{ review.created_at|timesince }} ago</li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </li>
-              {% endfor %}
+              {% include "partials/movie_results.html" %}
+            <div class="load-movie"></div>
             </ul>
+            <div class="load-more">
+              Load More
+            </div>
           </div>
+          <!--
           <div class="tab-pane" id="popular">
           </div>
           <div class="tab-pane" id="latest">
           </div>
+          -->
         </div>
       </div>
     </div>
   </div>
 {% endblock %}
 
+{% block js %}
+  <script type="text/javascript">
+    $(window).load(function() {
+      var page = 2
+      
+      // Load more button for genres
+      $('.load-more').click(function() {
+        $(this).text('Loading...');
+        $.ajax({
+          url: '/load/genre/{{ genre.url }}' + '/' + page + '/',
+          type: 'GET',
+          dataType: 'HTML',
+          success: function(data, textStatus, jqXHR) {
+            $('.load-movie').append(data);
+            $('.load-more').text('Load More');
+          },
+          statusCode: {
+            200: function () { page += 1; },
+            204: function () { $('.load-more').remove(); }
+          }
+        });
+      });
+    })
+  </script> 
+{% endblock %}

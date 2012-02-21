@@ -176,6 +176,7 @@ TEMPLATE_CONTEXT_PROCESSORS = (
     'django.contrib.messages.context_processors.messages',
     'social_auth.context_processors.social_auth_by_type_backends',
     'general_utilities.context_processors.search',
+    'general_utilities.context_processors.thanks',
 )
 
 # Application settings for django-debug-toolbar

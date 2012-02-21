@@ -21,9 +21,9 @@ def profile(request, id):
     negative_movies = []
 
     following = Following.objects.filter(fb_user=id).values_list(
-        'follow', flat=True)[:3]
+        'follow', flat=True)
     followers = Follower.objects.filter(fb_user=id).values_list(
-        'follow', flat=True)[:3]
+        'follow', flat=True)
 
     positive_reviews = Review.objects.filter(
         user=id, rating=2).values_list('table_id_in_table', flat=True)
@@ -47,8 +47,6 @@ def profile(request, id):
            'positive_movies': positive_movies,
            'neutral_movies': neutral_movies,
            'negative_movies': negative_movies,
-           'review_count': target_profile.reviews,
-           'thanks_received': target_profile.thanks_received,
-           'thanks_given': target_profile.thanks_given
+           'target_profile': target_profile
         },
         RequestContext(request)) 

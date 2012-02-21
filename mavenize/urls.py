@@ -16,12 +16,17 @@ urlpatterns = patterns('',
     url(r'^movies/(?P<title>[-\w]+)/$', 'mavenize.movie.views.profile'),
     url(r'^movies/(?P<title>[-\w]+)/review/$', 'mavenize.review.views.review'),
     url(r'^users/(\d+)/$', 'mavenize.user_profile.views.profile'),
+
     url(r'^thank/(\d+)/$', 'mavenize.review.views.thank'),
     url(r'^follow/(\d+)/$', 'mavenize.social_graph.views.follow'),
+    url(r'^feedback/$', 'mavenize.general_utilities.views.feedback'),
+
+    url(r'^load/genre/(?P<genre>[-\w]+)/(?P<page>\d+)/$', 'mavenize.movie.views.load_movies'),
+    url(r'^load/(?P<review_type>\w+)/(?P<title>[-\w]+)/(?P<page>\d+)/$', 'mavenize.movie.views.load_reviews'), 
     url(r'^load/(\w+)/(\d+)/$', 'mavenize.views.load_feed'),
 
     url('^search/', include('haystack.urls')),
-    url(r'^activity/', include('actstream.urls')),
+    #url(r'^activity/', include('actstream.urls')),
     url(r'', include('social_auth.urls')),
     url(r'^media/(?P<path>.*)$', 'django.views.static.serve',
         {'document_root': settings.MEDIA_ROOT}),

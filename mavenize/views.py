@@ -5,6 +5,7 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.auth import logout as social_logout
 from django.core.files.base import ContentFile
 from django.template.defaultfilters import slugify
+from django.http import HttpResponse
 
 from mavenize.user_profile.models import UserProfile
 from mavenize.movie.models import Movie
@@ -12,6 +13,7 @@ from mavenize.review.models import Review
 from mavenize.review.models import Thanks
 from mavenize.movie.models import MoviePopularity
 from mavenize.social_graph.models import Following
+from mavenize.general_utilities.models import FeedbackForm
 # from actstream.actions import follow
 
 from mavenize.general_utilities.utils import retrieve_objects
@@ -56,6 +58,7 @@ def logout(request):
 @login_required
 def feed(request):
     context = load_feed(request, None, 1) 
+    context['form'] = FeedbackForm()
 
     # Get the top 8 most popular movies
     pm_id = MoviePopularity.objects.all().values_list('movie',flat=True)[:4]
@@ -86,6 +89,9 @@ def load_feed(request, review_type, page):
         context['friend_reviews'] = aggregate(user_id, friend_reviews)
 
     if request.is_ajax() and review_type == 'friend':
+        if not review_count:
+            return HttpResponse(status=204)
+        
         return render_to_response(
             'partials/friend_review.html',
             context,
@@ -107,6 +113,9 @@ def load_feed(request, review_type, page):
         context['global_reviews'] = aggregate(user_id, global_reviews)
 
         if request.is_ajax() and review_type == 'global':
+            if not context['global_reviews']:
+                return HttpResponse(status=204)
+            
             return render_to_response(
                 'partials/global_review.html',
                 context,
@@ -128,17 +137,17 @@ def aggregate(user, reviews):
 
     users = retrieve_objects(
         uids, 'auth', 'User', 'id', 'first_name')
+    movies = retrieve_objects(
+        mids, 'movie', 'Movie', 'movie_id', 'title', 'image', 'url')
     thanked_reviews = Thanks.objects.filter(review__in=rids).filter(
         giver=user).values_list('review', flat=True)
 
-    for review, user in zip(reviews, users):
+    for review, user, movie in zip(reviews, users, movies):
         review.update(user)
+        review.update(movie)
         if review['review_id'] in thanked_reviews:
             review['thanked'] = True
         else:
             review['thanked'] = False
 
-    movies = retrieve_objects(
-        mids, 'movie', 'Movie', 'movie_id', 'title', 'image', 'url')
-
-    return zip(reviews, movies)
+    return reviews

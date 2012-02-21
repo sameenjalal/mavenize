@@ -61,11 +61,11 @@
         {% endif %}
         <div class="profile">
           <h3>Raves</h3>
-          <p>{{ review_count }}</p>
+          <p>{{ target_profile.reviews }}</p>
           <h3>Thanks Received</h3>
-          <p>{{ thanks_received }}</p>
+          <p>{{ target_profile.thanks_received }}</p>
           <h3>Thanks Given</h3>
-          <p>{{ thanks_given }}</p>
+          <p>{{ target_profile.thanks_given }}</p>
         </div>
         <div class="profile mini-thumbnails">
           <h3>Following</h3>
@@ -78,7 +78,7 @@
             </li>
             {% endfor %}
           </ul>
-          <a href="#">See More</a>
+          <!--<a href="#">See More</a>-->
         </div>
         <div class="profile mini-thumbnails">
           <h3>Followers</h3>
@@ -91,7 +91,7 @@
             </li>
             {% endfor %}
           </ul>
-          <a href="#">See More</a>
+          <!--<a href="#">See More</a>-->
         </div>
       </div>
     </div>

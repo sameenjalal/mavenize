@@ -1,10 +1,10 @@
 <li class="review">
   <div class="pull-left">
-    <img src="{{ MEDIA_URL }}img/users/{{ review.id }}.jpg" />
+    <img src="{{ MEDIA_URL }}img/users/{{ review.user }}.jpg" />
   </div>
   {% block movie %} {% endblock %}
   <div class="review-content">
-    <a href="/users/{{ review.id }}">{{ review.first_name }}</a> raved about <a href="/movies/{{ movie.url }}">{{ movie.title }}</a>.
+    {% block meta %} {% endblock %}
     <blockquote>
       {{ review.text }}
     </blockquote>

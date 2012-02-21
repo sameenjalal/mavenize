@@ -8,7 +8,6 @@
   <meta name="google-site-verification" content="iG0vt0xhdbmirkDZCs8LXQZdmmxwxvvhllOpNAMBMAA" />
 
   <link rel="stylesheet" href="/media/css/bootstrap.css" type="text/css" media="screen" />
-  <link rel="stylesheet" href="/media/css/reset.css" type="text/css" media="screen" />
   <link rel="stylesheet" href="/media/css/styles.css" type="text/css" media="screen" />
   <script type="text/javascript" src="/media/js/google-analytics.js"></script>
 </head>
@@ -33,8 +32,6 @@
   {% block js %} {% endblock %}
   <script type="text/javascript">
     $(window).load(function() {
-      var page = 2
-
       // Dropdown for navigation bar
       $('.dropdown-toggle').dropdown();
 
@@ -73,22 +70,6 @@
         block_negative: true
       });
 
-      // Load more button for feeds
-      $('#load-more').click(function() {
-        $(this).text('Loading...');
-        $.get('/load/friend/' + page + '/', function(data) {
-          if (data.length != 1)
-            $('#load-friend').append(data);
-          else
-            $.get('/load/global/' + page + '/', function(data) {
-              if (data.length != 1)
-                $('#load-global').append(data);
-            });
-          $('#load-more').text('Load More');
-        });
-        page += 1;
-        return false;
-      });
     })
   </script>
 
