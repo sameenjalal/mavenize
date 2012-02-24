@@ -1,22 +1,20 @@
 import tmdb
 import pprint
 
-
 tmdb.configure( "c3648d284b99debdb865cf318248b209" )
-o = 0
-try:
-    for line in open('all_titles_from_psql.txt','r'):
-        line = line.strip()
-        movie = tmdb.Movie( line )
 
-        movie_id = movie.get_id()
-        title_poster = {"title": line, "poster": movie.get_poster()}
-        o += 1
-        if o > 5:
-            break
-except: pass
-print title_poster
+i = 0
+for line in open('all_titles_from_psql.txt','r'):
+	line = line.strip()
+	line = line.strip()
+	try:
+		movie = tmdb.Movie( line )
 
+		poster = movie.get_poster()
+		title_poster = line + ":" + poster
+		print title_poster
+	except:
+		pass
 
 """
 print movie.full_info( movie_id )
