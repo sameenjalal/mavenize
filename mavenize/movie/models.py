@@ -18,7 +18,7 @@ class Movie(models.Model):
     title = models.CharField(max_length=255)
     genre = models.ManyToManyField(Genre, null=True)
     synopsis = models.TextField(null=True)
-    release_date = models.TextField(null=True)
+    release_date = models.DateField(null=True,input_formats=('%Y',))
     image = models.ImageField(upload_to='img/movies', null=True)
     awards = models.TextField(null=True)
     cast = models.TextField(null=True)
