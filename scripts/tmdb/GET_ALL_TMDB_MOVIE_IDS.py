@@ -13,8 +13,13 @@ for infile in listing:
     json_data = json.loads( json_file )
     for line in json_data:
         try:
+            name = ""
+            tmdb_id = ""
             for key,val in line.iteritems():
+                if key == "name":
+                    name = str(val)
                 if key == "id":
-                    print infile.strip( ".json" ) + ":" + str( val )
+                    tmdb_id = str(val)
+            print infile.strip( ".json" ) + ":::" + name + ":::" + tmdb_id
         except:
             pass
