@@ -19,4 +19,3 @@ def fetchurl( title ):
 		if val[0] == title:
 			return val[1]
 	return "Nothing"
-		
