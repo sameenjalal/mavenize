@@ -29,13 +29,17 @@ try:
         cast = json_data['cast']
         crew = json_data['crew']
 
+        dir_str = ""
         for x in crew:
             x.pop( 'department' )
             x.pop( 'profile_path' )
             x.pop( 'id' )
             if x[ 'job' ] == "Director":
-                stmt = dir_sql % (x['name'], my_title, tmdb_title)
-                print smart_str( stmt )
+                dir_str += x['name'] + ","
+        dir_str = dir_str.strip( "," )
+        dir_str = dir_str.replace( "'" , "''" )
+        stmt = dir_sql % (dir_str, my_title, tmdb_title)
+        print smart_str( stmt )
 
         cast_str = ""
         for x in cast:
