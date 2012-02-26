@@ -1,0 +1,5 @@
+{% extends "partials/review_base.html" %}
+  
+{% block meta %}
+  <a href="/users/{{ review.user }}">{{ review.first_name }}</a> raved about <a href="/movies/{{ movie.url }}">{{ movie.title }}</a>.
+{% endblock %}

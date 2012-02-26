@@ -5,19 +5,18 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.auth import logout as social_logout
 from django.core.files.base import ContentFile
 from django.template.defaultfilters import slugify
+from django.http import HttpResponse
 
-from django.contrib.auth.models import User
-from social_auth.models import UserSocialAuth
 from mavenize.user_profile.models import UserProfile
 from mavenize.movie.models import Movie
 from mavenize.review.models import Review
+from mavenize.review.models import Thanks
 from mavenize.movie.models import MoviePopularity
-
 from mavenize.social_graph.models import Following
-from mavenize.social_graph.models import Follower
+from mavenize.general_utilities.models import FeedbackForm
 # from actstream.actions import follow
 
-from collections import OrderedDict
+from mavenize.general_utilities.utils import retrieve_objects
 from urllib2 import urlopen, HTTPError
 import facebook
 
@@ -38,8 +37,8 @@ def login(request):
 
     if created:
         url = "http://graph.facebook.com/%s/picture" % social_user.uid 
-        small_picture = urlopen(url, timeout=5)
-        large_picture = urlopen(url+'?type=large', timeout=5)
+        small_picture = urlopen(url, timeout=30)
+        large_picture = urlopen(url+'?type=large', timeout=30)
         profile.picture_small.save(
             slugify(user_id)+u'.jpg',
             ContentFile(small_picture.read())
@@ -58,39 +57,97 @@ def logout(request):
 
 @login_required
 def feed(request):
-    user_id = request.user.id
+    context = load_feed(request, None, 1) 
+    context['form'] = FeedbackForm()
 
-    # Get the 10 most recent friend reviews
+    # Get the top 8 most popular movies
+    pm_id = MoviePopularity.objects.all().values_list('movie',flat=True)[:4]
+    context['popular_movies'] = Movie.objects.filter(pk__in=pm_id).values(
+        'image', 'url')
+
+    return render_to_response('feed.html', context,
+        context_instance=RequestContext(request))
+        
+def load_feed(request, review_type, page):
+    user_id = request.user.id
+    context = {}
+    
+    # Retrieve the 10 most recent friends reviews
     following = Following.objects.filter(
         fb_user=user_id).values_list('follow',flat=True)
-    reviews = Review.objects.filter(user__in=following)[:10]
-    movies = Movie.objects.filter(
-        pk__in=reviews.values_list('table_id_in_table',flat=True)).values(
-            'movie_id', 'title', 'image', 'url')
-    id_movies = dict([(m['movie_id'], m) for m in movies])
-    ordered_movies = [id_movies[i] for i in reviews.values_list(
-        'table_id_in_table', flat=True)]
-    friend_reviews = OrderedDict(zip(reviews,ordered_movies))
+    friend_reviews = Review.objects.filter(user__in=following).values(
+        'review_id',
+        'user',
+        'table_id_in_table',
+        'text',
+        'up_votes',
+        'created_at'
+    )[10*(int(page)-1):10*int(page)]
+    review_count = len(friend_reviews)
+
+    if review_count:
+        context['friend_reviews'] = aggregate(user_id, friend_reviews)
+
+    if request.is_ajax() and review_type == 'friend':
+        if not review_count:
+            return HttpResponse(status=204)
+        
+        return render_to_response(
+            'partials/friend_review.html',
+            context,
+            context_instance=RequestContext(request)
+        )
     
-    # Get the 10 most recent global reviews
-    reviews = Review.objects.exclude(user__in=following).exclude(user=user_id)
-    movies = Movie.objects.filter(
-        pk__in=reviews.values_list('table_id_in_table',flat=True)).values(
-            'movie_id', 'title', 'image', 'url')
-    id_movies = dict([(m['movie_id'], m) for m in movies])
-    ordered_movies = [id_movies[i] for i in reviews.values_list(
-        'table_id_in_table', flat=True)]
-    global_reviews = OrderedDict(zip(reviews,ordered_movies))
+    # If there are less than 10, supplement them with global reviews
+    if review_count < 10:
+        global_reviews = Review.objects.exclude(
+            user__in=following).exclude(user=user_id).values(
+            'review_id',
+            'user',
+            'table_id_in_table',
+            'text',
+            'up_votes',
+            'created_at'
+        )[10*(int(page)-1):(10-review_count)*int(page)]
+        
+        context['global_reviews'] = aggregate(user_id, global_reviews)
 
-    # Get the top 10 most popular movies
-    popular_movie_ids = MoviePopularity.objects.all().values_list(
-        'movie',flat=True)[:10]
-    popular_movies = Movie.objects.filter(pk__in=popular_movie_ids).values(
-        'image', 'url')
-    return render_to_response('feed.html', {
-        'popular_movies': popular_movies,
-        'friend_reviews': friend_reviews,
-        'global_reviews': global_reviews
-        },
-        context_instance=RequestContext(request))
+        if request.is_ajax() and review_type == 'global':
+            if not context['global_reviews']:
+                return HttpResponse(status=204)
+            
+            return render_to_response(
+                'partials/global_review.html',
+                context,
+                context_instance=RequestContext(request)
+            )
+    
+    return context
 
+# Creates a tuple of reviews and movies for a given user and set of reviews
+def aggregate(user, reviews):
+    uids = []
+    rids = []
+    mids = []
+    
+    for r in reviews:
+        uids.append(r['user'])
+        rids.append(r['review_id'])
+        mids.append(r['table_id_in_table'])
+
+    users = retrieve_objects(
+        uids, 'auth', 'User', 'id', 'first_name')
+    movies = retrieve_objects(
+        mids, 'movie', 'Movie', 'movie_id', 'title', 'image', 'url')
+    thanked_reviews = Thanks.objects.filter(review__in=rids).filter(
+        giver=user).values_list('review', flat=True)
+
+    for review, user, movie in zip(reviews, users, movies):
+        review.update(user)
+        review.update(movie)
+        if review['review_id'] in thanked_reviews:
+            review['thanked'] = True
+        else:
+            review['thanked'] = False
+
+    return reviews

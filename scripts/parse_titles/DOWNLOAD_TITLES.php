@@ -4,12 +4,12 @@
     $apiKey = 'acga93y7k6vfv4czcer6csrp';
     $sharedSecret = 'HkVMWTQECf';
 
-	for( $i = 0 ; $i < 100 ; $i += 100 )
+	for( $i = 3000 ; $i < 10000 ; $i += 100 )
 	{
 		$arguments = Array(
 			term=>'comedy',
 			expand=>'formats,synopsis,cast,directors,seasons,episodes,discs,similars,filmography,awards,person',
-			start_index=>1000,
+			start_index=>$i,
 			max_results=> 100,
 			output=>'json'
 		);
@@ -47,7 +47,7 @@
 		//$result = json_decode($buffer);
 		$file_name = $i/100 . "_titles.json";
 		#$fp = fopen( $file_name , "w" );
-		$fp = fopen( "asdf" , "w" );
+		$fp = fopen( $file_name , "w" );
 
 		fwrite($fp, $buffer);
 		//print_r($buffer);

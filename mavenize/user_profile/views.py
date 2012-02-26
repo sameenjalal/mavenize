@@ -1,28 +1,30 @@
 from django.shortcuts import render_to_response
-from django.shortcuts import get_object_or_404
-from django.shortcuts import redirect
-from django.http import Http404
 from django.template import RequestContext
 
 from django.contrib.auth.models import User
 from mavenize.movie.models import Movie
-from mavenize.movie.models import Genre
 from mavenize.review.models import Review
-from mavenize.review.models import ReviewForm
 from mavenize.review.models import Thanks
 from mavenize.social_graph.models import Following
 from mavenize.social_graph.models import Follower
-from django.db.models import Avg
 
 from django.contrib.auth.decorators import login_required
+
+from itertools import chain
 
 @login_required
 def profile(request, id):
     target_user = User.objects.get(pk=id) 
+    target_profile = target_user.get_profile()
+    positive_movies = []
+    neutral_movies = []
+    negative_movies = []
+
     following = Following.objects.filter(fb_user=id).values_list(
-        'follow', flat=True)[:3]
+        'follow', flat=True)
     followers = Follower.objects.filter(fb_user=id).values_list(
-        'follow', flat=True)[:3]
+        'follow', flat=True)
+
     positive_reviews = Review.objects.filter(
         user=id, rating=2).values_list('table_id_in_table', flat=True)
     neutral_reviews = Review.objects.filter(
@@ -35,6 +37,8 @@ def profile(request, id):
         'image', 'url')
     negative_movies = Movie.objects.filter(pk__in=negative_reviews).values(
         'image', 'url')
+    
+    # Filter into positive, neutral, and negative reviews
 
     return render_to_response('user_profile.html', {
            'target_user': target_user,
@@ -42,6 +46,7 @@ def profile(request, id):
            'followers': followers,
            'positive_movies': positive_movies,
            'neutral_movies': neutral_movies,
-           'negative_movies': negative_movies
+           'negative_movies': negative_movies,
+           'target_profile': target_profile
         },
         RequestContext(request)) 
