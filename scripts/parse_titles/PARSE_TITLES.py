@@ -45,6 +45,7 @@ for file_num in range( 0, 58 ):
 
             #print "Release Year: format text"
             release_date = data['catalog_titles']['catalog_title'][item]['release_year']
+            release_date = "January 1, " + str(release_date)
             fields.append( "release_date" )
             values.append( release_date )
             #print
@@ -133,7 +134,7 @@ for file_num in range( 0, 58 ):
                     )
 
             print smart_str(stmt)
-            #f = open('1_netflix_sql.sql','w')
+            f = open('1_netflix_sql.sql','w')
             #f.write( stmt )
             print
             #print values
