@@ -24,7 +24,7 @@ All DvD links:
 {
 	"links":
 	{
-		"top_rentals":"http://api.rottentomatoes.com/api/public/v1.0/lists/dvds/top_rentals.json?apikey=mz7z7f9zm79tc3hcaw3xb85w",
+		"top_rentals":"http://api.rottentomatoes.com/api/public/v1.0/lists/dvds/top_rentals.json?apikey=mz7z7f9zm79tc3hcaw3xb85w&page=1",
 		"current_releases":"http://api.rottentomatoes.com/api/public/v1.0/lists/dvds/current_releases.json?apikey=mz7z7f9zm79tc3hcaw3xb85w",
 		"new_releases":"http://api.rottentomatoes.com/api/public/v1.0/lists/dvds/new_releases.json?apikey=mz7z7f9zm79tc3hcaw3xb85w",
 		"upcoming":"http://api.rottentomatoes.com/api/public/v1.0/lists/dvds/upcoming.json?apikey=mz7z7f9zm79tc3hcaw3xb85w"
