@@ -22,6 +22,9 @@ class UserProfile(models.Model):
     )
     gender = models.CharField(max_length=1)
 
+    class Meta:
+        verbose_name_plural = "User Profiles"
+
     def __unicode__(self):
         return self.user.get_full_name()
 
@@ -35,6 +38,9 @@ class UserStatistics(models.Model):
     agrees_in = models.IntegerField(default=0)
     thanks_out = models.IntegerField(default=0)
     thanks_in = models.IntegerField(default=0)
+
+    class Meta:
+        verbose_name_plural = "User Statistics"
 
     def __unicode__(self):
         return "%s: %s" % (self.user.get_full_name(), self.karma)

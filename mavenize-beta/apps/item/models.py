@@ -52,6 +52,9 @@ class Popularity(models.Model):
     month = models.IntegerField(default=0, db_index=True)
     alltime = models.IntegerField(default=0, db_index=True)
 
+    class Meta:
+        verbose_name_plural = "Popularities"
+
     def __unicode__(self):
         return str(self.alltime)
 
