@@ -39,9 +39,13 @@ def build_social_graph(sender, user, response, details, **kwargs):
         source_id=user.id).values_list('destination_id', flat=True)
     to_add = list(set(signed_up) - set(already_following))
 
-    forward_rel = [Forward(source_id=user.id, destination_id=fid) \
+    forward_rel = [Forward(source_id=user.id, destination_id=fid)
             for fid in to_add]
-    backward_rel = [Backward(destination_id=fid, source_id=user.id) \
+    forward_rel += ([Forward(source_id=fid, destination_id=user.id)
+            for fid in to_add])
+    backward_rel = [Backward(destination_id=fid, source_id=user.id)
             for fid in to_add]
+    backward_rel += ([Backward(destination_id=user.id, source_id=fid)
+            for fid in to_add])
     Forward.objects.bulk_create(forward_rel)
     Backward.objects.bulk_create(backward_rel)

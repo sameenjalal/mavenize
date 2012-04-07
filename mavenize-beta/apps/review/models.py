@@ -82,6 +82,7 @@ def create_agree(sender, instance, created, **kwargs):
             pk__exact=instance.review.user_id).update(
                 agrees_in=F('agrees_in')+1, karma=F('karma')+2)
         instance.review.agrees = F('agrees') + 1
+        instance.review.save()
 
 @receiver(post_delete, sender=Agree)
 def delete_agree(sender, instance, **kwargs):
@@ -95,6 +96,7 @@ def delete_agree(sender, instance, **kwargs):
         pk__exact=instance.review.user_id).update(
             agrees_in=F('agrees_in')-1, karma=F('karma')-2)
     instance.review.agrees = F('agrees') - 1
+    instance.review.save()
 
 @receiver(post_save, sender=Thank)
 def create_thank(sender, instance, created, **kwargs):
@@ -110,6 +112,7 @@ def create_thank(sender, instance, created, **kwargs):
             pk__exact=instance.review.user_id).update(
                 thanks_in=F('thanks_in')+1, karma=F('karma')+2)
         instance.review.thanks = F('thanks') + 1
+        instance.review.save()
 
 @receiver(post_delete, sender=Thank)
 def delete_thank(sender, instance, **kwargs):
@@ -123,3 +126,4 @@ def delete_thank(sender, instance, **kwargs):
         pk__exact=instance.review.user_id).update(
             thanks_in=F('thanks_in')-1, karma=F('karma')-2)
     instance.review.thanks = F('thanks') - 1
+    instance.review.save()

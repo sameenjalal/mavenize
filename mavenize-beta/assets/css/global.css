@@ -1,6 +1,22 @@
-/* Header */
-header .brand {
-  font-size: 22px;
+/* Profiles */
+
+.profile {
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+}
+
+.profile h3 {
+  background: #db5d00;
+  background: -moz-linear-gradient(top, #db5d00 0%, #ff7b19 50%, #ff6c00 51%, #ff872e 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#db5d00), color-stop(50%,#ff7b19), color-stop(51%,#ff6c00), color-stop(100%,#ff872e));
+  background: -webkit-linear-gradient(top, #db5d00 0%,#ff7b19 50%,#ff6c00 51%,#ff872e 100%);
+  background: -o-linear-gradient(top, #db5d00 0%,#ff7b19 50%,#ff6c00 51%,#ff872e 100%);
+  background: -ms-linear-gradient(top, #db5d00 0%,#ff7b19 50%,#ff6c00 51%,#ff872e 100%);
+  background: linear-gradient(top, #db5d00 0%,#ff7b19 50%,#ff6c00 51%,#ff872e 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#db5d00', endColorstr='#ff872e',GradientType=0 );
+  border-radius: 2px 2px 0 0;
+  -moz-border-radius: 2px 2px 0 0;
 }
 
 /* Footer */

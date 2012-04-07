@@ -232,7 +232,10 @@ logconfig.initialize_logging(SYSLOG_TAG, SYSLOG_FACILITY, LOGGERS, LOG_LEVEL,
 # Debug Toolbar
 
 DEBUG_TOOLBAR_CONFIG = {
-    'INTERCEPT_REDIRECTS': False
+    'INTERCEPT_REDIRECTS': False,
+    'EXTRA_SIGNALS': ['social_auth.signals.pre_update',
+                      'social_auth.signals.socialauth_registered',
+                      'bookmark.signals.state_changed']
 }
 
 # Application Settings
