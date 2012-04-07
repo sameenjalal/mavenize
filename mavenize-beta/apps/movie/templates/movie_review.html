@@ -1,0 +1,12 @@
+<li class="review">
+  <div class="pull-left">
+    <img src="{{ MEDIA_URL }}img/users/{{ review.user }}" />
+  </div>
+  <div class="review-content">
+      {{ review.user.get_full_name }}
+    raved about
+    <a href="{% url movie.views.profile movie.url %}">
+      {{ movie.title }}
+    </a>
+  </div>
+</li>

@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Mavenize | {{ movie.title }}
+{% endblock %}
+
+{% block body %}
+<div class="container">
+  <div class="row">
+    <div class="span9">
+      <h1 class="title">
+        {{ movie.title }} ({{ movie.theater_date|date:"Y" }})
+      </h1>
+      <section id="bookmarked">
+        {% for bookmark in bookmarked %}
+          <li>{{ bookmark }}</li>
+        {% endfor %}
+      </section>
+      <section id="reviews">
+        <div id="friend-reviews">
+          {% for review in friend_reviews %}
+            {% include "movie_review.html" %}
+          {% endfor %}
+        </div>
+        <div id="friend-raves">
+          {% for review in friend_raves %}
+            {% include "movie_review.html" %}
+          {% endfor %}
+        </div>
+        <div id="global-reviews">
+          {% for review in global_reviews %}
+            {% include "movie_review.html" %}
+          {% endfor %}
+        </div>
+      </section>
+    </div>
+    <div class="span3">
+      <div class="thumbnail">
+        <img src="{{ movie.image.url }}" />
+      </div>
+      <div class="profile">
+        <div>{{ rating }}</div>
+        <div>({{ votes }} votes)</div>
+      </div>
+      <div class="profile">
+        <div id="netflix">
+        </div>
+        <div id="redbox">
+        </div>
+        <div id="rottentomatoes">
+        </div>
+      </div>
+      <div class="profile">
+        <h3>Actors</h3>
+        <ul>
+          {% for actor in actors %}
+          <li>{{ actor }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="profile">
+        <h3>Directors</h3>
+        <ul>
+          {% for director in directors %}
+          <li>{{ director }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="profile">
+        <h3>Release Dates</h3>
+          {% if movie.theater_date %}
+            <p>In Theaters: {{ movie.theater_date }}</p>
+          {% endif %}
+          {% if movie.dvd_date %}
+            <p>On DVD: {{ movie.dvd_date }}</p>
+          {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
