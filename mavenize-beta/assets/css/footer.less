@@ -1,0 +1,59 @@
+/************
+  CONSTANTS
+************/
+@gray: #252525;
+@darkGray: #1b1b1b;
+@lightGray: #999;
+@nearWhite: #8f8f8f;
+@white: #fff;
+
+/*******************************
+  OPERATIONS & COLOR FUNCTIONS
+*******************************/
+
+@footerBackground: @gray;
+@footerBorder: @darkGray;
+@footerFloorBackground: @footerBorder;
+@footerHeader: @lightGray;
+@link: @white;
+@trademark: @nearWhite;
+@fontFace: 'Didact Gothic';
+
+/*********
+  STYLES
+*********/
+
+footer {
+  background: @footerBackground;
+  border-top: 1px solid @footerBorder;
+  font-family: @fontFace, arial;
+  padding-top: 10px;
+
+  a, a:hover, a:active {
+    color: @link;
+    font-size: 15px;
+  }
+
+  h3 {
+    color: @footerHeader; 
+    font-size: 24px;
+  }
+
+  .container {
+    padding: 10px 0;
+  }
+
+  #footer-floor {
+    background: @footerFloorBackground;
+
+    a {
+      font-size: 13px;
+    }
+    
+    p {
+      color: @trademark;
+      font-size: 13px;
+    }
+  }
+
+}

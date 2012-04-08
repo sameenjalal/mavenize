@@ -7,10 +7,10 @@
 
   <title>{% block title %}{% endblock %}</title>
 
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Didact+Gothic:regular" type="text/css" />
   <link rel="stylesheet" href="{{ STATIC_URL }}css/vendor/bootstrap.min.css" type="text/css" media="screen" />
-  <link  href="http://fonts.googleapis.com/css?family=Didact+Gothic:regular" rel="stylesheet" type="text/css" />
   <link rel="stylesheet" href="{{ STATIC_URL }}css/reset.css" type="text/css" media="all" />
-  <link rel="stylesheet" href="{{ STATIC_URL }}css/global.css" type="text/css" media="screen" />
+  <link rel="stylesheet/less" href="{{ STATIC_URL }}css/global.less" type="text/css" media="screen" />
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/google-analytics.js"></script>
   <body>
 
@@ -28,6 +28,7 @@
 
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/bootstrap.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/less.min.js"></script>
 
   {% block js %}{% endblock %}
   </body>
