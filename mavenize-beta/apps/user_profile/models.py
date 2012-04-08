@@ -106,20 +106,11 @@ def update_user_profile(sender, user, response, details, **kwargs):
     
     return True
 
-#@receiver(post_save, sender=User)
-#def create_user(sender, instance, created, **kwargs):
-#    """
-#    Create a user profile and user statistics for this user.
-#    """
-#    if created:
-#        UserProfile.objects.create(user=instance)
-#        UserStatistics.objects.create(user=instance)
-#
-#@receiver(post_save, sender=KarmaUser)
-#def create_karma_user(sender, instance, created, **kwargs):
-#    """
-#    Create a user profile and user statistics for this user.
-#    """
-#    if created:
-#        UserProfile.objects.create(user=instance)
-#        UserStatistics.objects.create(user=instance)
+@receiver(post_save, sender=KarmaUser)
+def create_karma_user(sender, instance, created, **kwargs):
+    """
+    Create a user profile and user statistics for this user.
+    """
+    if created:
+        UserProfile.objects.create(user=instance)
+        UserStatistics.objects.create(user=instance)
