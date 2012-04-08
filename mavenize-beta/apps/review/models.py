@@ -54,6 +54,7 @@ def create_review(sender, instance, created, **kwargs):
         ratings = ['one', 'two', 'three', 'four', 'five']
         field = ratings[instance.rating-1] + '_star'
         setattr(instance.item, field, F(field)+1)
+        instance.item.reviews = F('reviews') + 1
         instance.item.save()
 
 @receiver(post_delete, sender=Review)
@@ -66,6 +67,7 @@ def delete_review(sender, instance, **kwargs):
     ratings = ['one', 'two', 'three', 'four', 'five']
     field = ratings[instance.rating-1] + '_star'
     setattr(instance.item, field, F(field)-1)
+    instance.item.reviews = F('reviews') - 1
     instance.item.save()
 
 @receiver(post_save, sender=Agree)
@@ -73,6 +75,7 @@ def create_agree(sender, instance, created, **kwargs):
     """
     Increment the giver's agrees by one and karma by one.
     Increment the receiver's agrees by one and karma by two.
+    Increment the item's rating count by one.
     """
     if created:
         UserStatistics.objects.filter(
@@ -83,6 +86,12 @@ def create_agree(sender, instance, created, **kwargs):
                 agrees_in=F('agrees_in')+1, karma=F('karma')+2)
         instance.review.agrees = F('agrees') + 1
         instance.review.save()
+        if Agree.objects.filter(giver=instance.giver_id,
+                review__item=instance.review.item).count() == 1:
+            ratings = ['one', 'two', 'three', 'four', 'five']
+            field = ratings[instance.review.rating-1] + '_star'
+            setattr(instance.review.item, field, F(field)+1)
+            instance.review.item.save()
 
 @receiver(post_delete, sender=Agree)
 def delete_agree(sender, instance, **kwargs):
@@ -97,6 +106,12 @@ def delete_agree(sender, instance, **kwargs):
             agrees_in=F('agrees_in')-1, karma=F('karma')-2)
     instance.review.agrees = F('agrees') - 1
     instance.review.save()
+    if not Agree.objects.filter(giver=instance.giver_id,
+            review__item=instance.review.item):
+        ratings = ['one', 'two', 'three', 'four', 'five']
+        field = ratings[instance.review.rating-1] + '_star'
+        setattr(instance.review.item, field, F(field)-1)
+        instance.review.item.save()
 
 @receiver(post_save, sender=Thank)
 def create_thank(sender, instance, created, **kwargs):
