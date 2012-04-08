@@ -10,6 +10,7 @@ class Item(models.Model):
     three_star = models.IntegerField(default=0)
     two_star = models.IntegerField(default=0)
     one_star = models.IntegerField(default=0)
+    reviews = models.IntegerField(default=0)
     bookmarks = models.IntegerField(default=0)
     bookmarks_active = models.IntegerField(default=0)
 
