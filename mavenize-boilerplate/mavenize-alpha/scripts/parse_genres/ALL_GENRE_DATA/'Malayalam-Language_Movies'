@@ -1,0 +1,919 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVnMK')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70117604.jpg", "content_type": "image/jpeg", "media_etag": "\"2/23/2010 9:17:34 AM\""
+}, "Id": "BVnMK", "Name": "Annan Thampi", "ShortName": "Annan Thampi", "Synopsis": "Faced with two very different sons -- noisy, hotheaded Appu and mute, saintly Achchu -- Ravunni decides to raise his boys in two very different places. Appu grows up tough in Pollachi, while Achchu becomes a performer in his dad's troupe in Palakkad. A lifelong rivalry between the twins -- both played by superstar funnyman Mammootty -- soon comes to a head in this fast-paced Malayalam comedy, which also stars Gopika and Lakshmi Rai.", "ShortSynopsis": "Faced with two very different sons -- noisy, hotheaded Appu and mute, saintly Achchu -- Ravunni decides to raise his boys in two very different places. Appu grows up tough in Pollachi, while Achchu becomes a performer in his dad's troupe in Palakkad.", "AverageRating": 2.6, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Annan_Thampi/70117604", "Runtime": 8520, "Rating": "NR", "DateModified": "\/Date(1266916654000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70117604", "TinyUrl": "http://movi.es/BVnMK", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70117604.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70117604.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70117604.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8520
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMK')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVnMM')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70117606.jpg", "content_type": "image/jpeg", "media_etag": "\"1/13/2012 7:19:53 PM\""
+}, "Id": "BVnMM", "Name": "Detective", "ShortName": "Detective", "Synopsis": "Det. Shyama Prasad is assigned to investigate the mysterious death of his stepbrother's wife, but the stepbrother -- ambitious politician Mohan Kumar -- objects to Prasad's involvement, citing a deep rivalry that would compromise the case. Nevertheless, Prasad is determined to ignore his personal prejudices and bring the guilty party to justice in this Malayalam thriller starring Suresh Gopi in a double role as Prasad and Kumar.", "ShortSynopsis": "Det. Shyama Prasad is assigned to investigate the mysterious death of his stepbrother's wife, but the stepbrother -- ambitious politician Mohan Kumar -- objects to Prasad's involvement, citing a deep rivalry that would compromise the case.", "AverageRating": 2.5, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Detective/70117606", "Runtime": 7980, "Rating": "NR", "DateModified": "\/Date(1326482393000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70117606", "TinyUrl": "http://movi.es/BVnMM", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70117606.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70117606.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70117606.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1242086400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7980
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMM')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVnMO')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70117608.jpg", "content_type": "image/jpeg", "media_etag": "\"11/13/2010 1:22:28 AM\""
+}, "Id": "BVnMO", "Name": "Mantra", "ShortName": "Mantra", "Synopsis": "Eager to sell her ancestral estate, Nilayam, after numerous brave tenants develop a disconcerting habit of dying in the house, Mantra (Charmi) tirelessly seeks a subletter but finds a bloodbath instead in this Bollywood horror. After one man agrees to buy it -- only if somebody can live there for three months without kicking the bucket -- Mantra moves in with her pal and is quickly thrust into a dark world. Chitram Srinu co-stars.", "ShortSynopsis": "Eager to sell her ancestral estate, Nilayam, after numerous brave tenants develop a disconcerting habit of dying in the house, Mantra tirelessly seeks a subletter but finds a bloodbath instead in this Bollywood horror.", "AverageRating": 2, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Mantra/70117608", "Runtime": 8100, "Rating": "NR", "DateModified": "\/Date(1289611348000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70117608", "TinyUrl": "http://movi.es/BVnMO", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70117608.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70117608.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70117608.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1242086400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMO')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVnMP')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70117609.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 9:33:17 AM\""
+}, "Id": "BVnMP", "Name": "Notebook", "ShortName": "Notebook", "Synopsis": "Saira (Roma), Sridevi (Maria) and Pooja (Parvati Menon) are three girls from very different backgrounds who become unlikely friends at Lord's Academy in Ooty, India. But their loyalty is tested when Sridevi becomes unexpectedly pregnant and disastrous consequences ensue. This Malayalam drama is a gripping and detailed exploration of boarding school and teenage love. Lalu Alex, Salim Kumar and Sooraj co-stars.", "ShortSynopsis": "Saira, Sridevi and Pooja are three girls from very different backgrounds who become unlikely friends at Lord's Academy in Ooty, India. But their loyalty is tested when Sridevi becomes unexpectedly pregnant and disastrous consequences ensue.", "AverageRating": 3, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Notebook/70117609", "Runtime": 8580, "Rating": "NR", "DateModified": "\/Date(1328866397000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70117609", "TinyUrl": "http://movi.es/BVnMP", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70117609.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70117609.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70117609.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1239062400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8580
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMP')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVnMR')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70117611.jpg", "content_type": "image/jpeg", "media_etag": "\"11/10/2010 1:53:05 AM\""
+}, "Id": "BVnMR", "Name": "One Way Ticket", "ShortName": "One Way Ticket", "Synopsis": "The misunderstandings multiply when unmarried jeep driver Kunjapoo (Prithviraj) and fan club president for Indian superstar Mammootty (making a cameo appearance) becomes the biggest fan of all of the lovely -- and betrothed -- Sunanda (Bhama). All the while, Kunjapoo rejects any wife suggestions from marriage-broker Beeran (Salim Kumar) and mockingly pretends to love his nasty uncle's daughter in this fun Malayalam treat.", "ShortSynopsis": "The misunderstandings multiply when unmarried jeep driver Kunjapoo and fan club president for Indian superstar Mammootty (making a cameo appearance) becomes the biggest fan of all of the lovely -- and betrothed -- Sunanda.", "AverageRating": 2.9, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/One_Way_Ticket/70117611", "Runtime": 7440, "Rating": "NR", "DateModified": "\/Date(1289353985000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70117611", "TinyUrl": "http://movi.es/BVnMR", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70117611.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70117611.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70117611.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7440
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnMR')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVohC')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70122742.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:23:04 PM\""
+}, "Id": "BVohC", "Name": "Talappavu", "ShortName": "Talappavu", "Synopsis": "When he's ordered to shoot a tortured prisoner who's tied to a tree, head constable S. Raveendran Pillai (Lal) thinks back to the first time he met the dying man, Joseph (Prithviraj) -- aka Naxal Varghese, the leader of a Naxalite youth group. Some years later, he is unable to bear the weight of what he's done. But his fight to make his past wrongs right could cost him everything, including the love of his own wife and children.", "ShortSynopsis": "When he's ordered to shoot a tortured prisoner who's tied to a tree, head constable S. Raveendran Pillai thinks back to the first time he met the dying man, Joseph -- aka Naxal Varghese, the leader of a Naxalite youth group.", "AverageRating": 2.6, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Talappavu/70122742", "Runtime": 8460, "Rating": "NR", "DateModified": "\/Date(1328901784000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70122742", "TinyUrl": "http://movi.es/BVohC", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70122742.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70122742.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70122742.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1247529600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8460
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohC')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVohD')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70122743.jpg", "content_type": "image/jpeg", "media_etag": "\"11/13/2010 1:04:01 AM\""
+}, "Id": "BVohD", "Name": "Madambi", "ShortName": "Madambi", "Synopsis": "Ramakrishnan (Ajmal Ameer) can't get along with his older brother, Gopalakrishnan (Mohanlal), who's always kept a tight grip on the family purse strings. But when he drags the family feud into a court of law, he learns several startling truths about his brother's motives. For one thing, Gopalakrishnan did not kick their father (Saikumar) out of the house, as both Ramakrishnan and his bitter mother (K.P.A.C. Lalitha) once believed.", "ShortSynopsis": "Ramakrishnan can't get along with his older brother, Gopalakrishnan, who's always kept a tight grip on the family purse strings. But when he drags the family feud into a court of law, he learns several startling truths about his brother's motives.", "AverageRating": 2.8, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Madambi/70122743", "Runtime": 9000, "Rating": "NR", "DateModified": "\/Date(1289610241000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70122743", "TinyUrl": "http://movi.es/BVohD", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70122743.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70122743.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70122743.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohD')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVohF')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70122745.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:23:04 PM\""
+}, "Id": "BVohF", "Name": "Magic Lamp", "ShortName": "Magic Lamp", "Synopsis": "It's a comedy of errors when Anupama (Meena), a single girl who's desperate to stay far, far away from marriage, concocts a wild story about already having a \"lover.\" (But the truth is, he's just a guy whose face she saw once in a photo.) Now that her relatives have a face to go on, they're determined to find Anupama's man. But their misguided search leads them to three different suspects (all played by Jayaram)!", "ShortSynopsis": "It's a comedy of errors when Anupama, a single girl who's desperate to stay far, far away from marriage, concocts a wild story about already having a \"lover.\" (But the truth is, he's just a guy whose face she saw once in a photo.)", "AverageRating": 2.2, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Magic_Lamp/70122745", "Runtime": 8400, "Rating": "NR", "DateModified": "\/Date(1328901784000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70122745", "TinyUrl": "http://movi.es/BVohF", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70122745.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70122745.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70122745.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1247529600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVohF')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVokA')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70122926.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:23:04 PM\""
+}, "Id": "BVokA", "Name": "Innathe Chinthavishayam", "ShortName": "Innathe Chinthavishayam", "Synopsis": "A garment manufacturer (Mohanlal) takes on the reluctant role of marriage counselor when he sets out to help three different women --- Teresa (Sukanya), Premila (Mohini) and Rehna (Muthumani) -- reconcile with their husbands and save their fractured relationships. Aiding him on his seemingly impossible quest are two equally unlikely assistants: a young fashion designer (Meera Jasmine) and a land broker (Innocent).", "ShortSynopsis": "A garment manufacturer takes on the reluctant role of marriage counselor when he sets out to help three different women --- Teresa, Premila and Rehna -- reconcile with their husbands and save their fractured relationships.", "AverageRating": 2.9, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Innathe_Chinthavishayam/70122926", "Runtime": 9180, "Rating": "NR", "DateModified": "\/Date(1328901784000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70122926", "TinyUrl": "http://movi.es/BVokA", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70122926.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70122926.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70122926.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1247529600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9180
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokA')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVokB')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70122927.jpg", "content_type": "image/jpeg", "media_etag": "\"11/12/2010 9:17:42 PM\""
+}, "Id": "BVokB", "Name": "Beda Dosthe", "ShortName": "Beda Dosthe", "Synopsis": "Crime lords GV (Siddique) and Beda Dosthe (Suresh Gopi) are close pals, but when Beda Dosthe's Robin Hood-like generosity toward the poor propels him to the top of the Kochi mob world, the jealous GV turns against his friend. Meanwhile, persistent police commissioner Zakir Ali (Manoj K. Jayan) is eager to take down both criminals, even though he's increasingly impressed by Beda Dosthe's kindness. The crime drama features music by M. Jayachandran.", "ShortSynopsis": "Crime lords GV and Beda Dosthe are close pals, but when Beda Dosthe's Robin Hood-like generosity toward the poor propels him to the top of the Kochi mob world, the jealous GV turns against his friend.", "AverageRating": 2.2, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Beda_Dosthe/70122927", "Runtime": 7320, "Rating": "NR", "DateModified": "\/Date(1289596662000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70122927", "TinyUrl": "http://movi.es/BVokB", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70122927.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70122927.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70122927.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1251763200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7320
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokB')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVokV')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70122947.jpg", "content_type": "image/jpeg", "media_etag": "\"11/10/2010 8:40:43 AM\""
+}, "Id": "BVokV", "Name": "Romeoo", "ShortName": "Romeoo", "Synopsis": "In this slapstick comedy directed by Rajasenan, the film's hero, Manu, changes names and faiths like other people change their clothes, claiming no less than three monikers and two religions in his pursuit of love and money. Going from Manu to Manuel (when he converts to Christianity) to Subramani (when he's posing as a Brahmin), the harried hero eventually finds himself at a resort pursued by three women -- all of whom think they're marrying him.", "ShortSynopsis": "In this slapstick comedy directed by Rajasenan, the film's hero, Manu, changes names and faiths like other people change their clothes, claiming no less than three monikers and two religions in his pursuit of love and money.", "AverageRating": 2.7, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Romeoo/70122947", "Runtime": 8100, "Rating": "NR", "DateModified": "\/Date(1289378443000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70122947", "TinyUrl": "http://movi.es/BVokV", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70122947.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70122947.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70122947.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVokV')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70128220.jpg", "content_type": "image/jpeg", "media_etag": "\"11/13/2010 12:52:15 AM\""
+}, "Id": "BVq7Y", "Name": "Kutty Srank", "ShortName": "Kutty Srank", "Synopsis": "When a body washes ashore on the backwaters of Kerala, India, three women identify the corpse as Kutty Srank, a taciturn boatman who, despite his misanthropic reputation, managed to win their hearts and keep them all secret from each other. As the story unfolds, we learn that the enigmatic sailor had enough roguish charm to win three wives and more than enough guile to lead at least three lives at once.", "ShortSynopsis": "When a body washes ashore on the backwaters of Kerala, India, three women identify the corpse as Kutty Srank, a taciturn boatman who, despite his misanthropic reputation, managed to win their hearts and keep them all secret from each other.", "AverageRating": 3.4, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Kutty_Srank/70128220", "Runtime": 8040, "Rating": "NR", "DateModified": "\/Date(1289609535000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70128220", "TinyUrl": "http://movi.es/BVq7Y", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70128220.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70128220.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70128220.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 8040
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVq7Y')/Seasons"
+}
+}
+}
+]
+}
+}

@@ -1,0 +1,2971 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApLfh')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/60001397.jpg", "content_type": "image/jpeg", "media_etag": "\"8/12/2011 7:13:46 AM\""
+}, "Id": "ApLfh", "Name": "Mad About Mambo", "ShortName": "Mad About Mambo", "Synopsis": "Teenage Danny wishes he could be a professional soccer player, but he doesn't have the right moves. When he hears his soccer idol cite samba as his reason for success, Danny decides to take up dancing -- and meets the girl of his dreams.", "ShortSynopsis": "Teenage Danny wishes he could be a professional soccer player, but he doesn't have the right moves. When he hears his soccer idol cite samba as his reason for success, Danny decides to take up dancing -- and meets the girl of his dreams.", "AverageRating": 2.8, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Mad_About_Mambo/60001397", "Runtime": 5547, "Rating": "PG-13", "DateModified": "\/Date(1313133226000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60001397", "TinyUrl": "http://movi.es/ApLfh", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/60001397.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/60001397.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/60001397.jpg", "HighDefinitionUrl": "http://cdn-7.nflximg.com/en_us/boxshots/ghd/60001397.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1313107200000)\/", "AvailableTo": "\/Date(1388534400000)\/", "HighDefinitionAvailable": false, "Rating": "PG-13", "Runtime": 5547
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApLfh')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApM0l')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/60002703.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2012 2:20:13 PM\""
+}, "Id": "ApM0l", "Name": "Air Bud: World Pup", "ShortName": "Air Bud: World Pup", "Synopsis": "This third in the series of Air Bud films stars Buddy, the golden retriever who previously has been a football and basketball star. His owner, Josh (Kevin Zegers), falls in love with soccer teammate Emma (Brittany Paige Bouck), and Buddy has similar feelings for Emma's dog. Soon Buddy takes on two new roles: soccer player and father. But while Josh, Emma and Buddy head for the playoffs, an evil gang of puppy-nappers take aim at Bud's little ones.", "ShortSynopsis": "Buddy, an athletic golden retriever who previously had been a football and basketball star, takes on two new roles: soccer player and father.", "AverageRating": 3.3, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Air_Bud_World_Pup/60002703", "Runtime": 4980, "Rating": "G", "DateModified": "\/Date(1328797213000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60002703", "TinyUrl": "http://movi.es/ApM0l", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/60002703.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/60002703.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/60002703.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1277164800000)\/", "AvailableTo": null, "Rating": "G", "Runtime": 4980
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApM0l')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApR7l')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/60022357.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "ApR7l", "Name": "Soccer Dog", "ShortName": "Soccer Dog", "Synopsis": "A former soccer player adopts an orphaned boy, looking forward to teaching him the game. But when the kid doesn't take to soccer, Dad soon finds someone else who does: a stray dog who shows up out of nowhere. Soon, the talented mutt is helping the local team win, and other families decide to test their pets' sporting abilities. Olivia d'Abo, James Marshall, Jeremy Foley and Billy Drago star in this fun family flick.", "ShortSynopsis": "When his son doesn't take to soccer, a former athlete soon finds someone else who does: a stray dog who shows up out of nowhere.", "AverageRating": 3.1, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/Soccer_Dog/60022357", "Runtime": 5880, "Rating": "PG", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60022357", "TinyUrl": "http://movi.es/ApR7l", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/60022357.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/60022357.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/60022357.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1015286400000)\/", "AvailableTo": null, "Rating": "PG", "Runtime": 5880
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApR7l')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApRA7')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/60022503.jpg", "content_type": "image/jpeg", "media_etag": "\"9/15/2011 7:07:31 AM\""
+}, "Id": "ApRA7", "Name": "Switching Goals", "ShortName": "Switching Goals", "Synopsis": "When the identical Stanton twins -- star athlete Sam (Mary-Kate Olsen) and fashion-conscious Emma (Ashley Olsen) -- wind up on two different soccer teams, the mischievous tweens conspire to swap identities to level the playing field in this made-for-television movie. But the plan brings double trouble off the grass when the twins have to carry the ruse to fool their soccer coach dad (Eric Lutes) and workaholic mom (Kathryn Greenwood).", "ShortSynopsis": "Identical twins conspire to swap identities on the soccer field, but their plan brings double trouble when they wind up having to fool their parents.", "AverageRating": 3.3, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/Switching_Goals/60022503", "Runtime": 5100, "Rating": "G", "DateModified": "\/Date(1316070451000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60022503", "TinyUrl": "http://movi.es/ApRA7", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/60022503.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/60022503.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/60022503.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1023753600000)\/", "AvailableTo": null, "Rating": "G", "Runtime": 5100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRA7')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApRQF')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/60023503.jpg", "content_type": "image/jpeg", "media_etag": "\"6/17/2011 8:22:59 AM\""
+}, "Id": "ApRQF", "Name": "Mean Machine", "ShortName": "Mean Machine", "Synopsis": "Legendary soccer star Danny Mehan (Vinnie Jones) has seen his life go down the tubes, so much so that he's sent to prison for assault. He's recruited to coach a team of guards, but instead puts together a competing team of inmates for a showdown. The stakes are unusually high, though, because Danny's threatened by an incarcerated bookie to win...or else. Barry Skolnick directs this British adaptation of the 1974 American football film The Longest Yard.", "ShortSynopsis": "Legendary soccer star Danny Mehan has seen his life go down the tubes, so much so that he's sent to prison for assault. He's recruited to coach a team of guards, but instead puts together a competing team of inmates for a showdown.", "AverageRating": 3.4, "ReleaseYear": 2001, "Url": "http://www.netflix.com/Movie/Mean_Machine/60023503", "Runtime": 5940, "Rating": "R", "DateModified": "\/Date(1308298979000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60023503", "TinyUrl": "http://movi.es/ApRQF", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/60023503.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/60023503.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/60023503.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "R", "Runtime": 5940
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRQF')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApS6r')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/60026145.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:11 PM\""
+}, "Id": "ApS6r", "Name": "Bend It Like Beckham", "ShortName": "Bend It Like Beckham", "Synopsis": "An ardent fan of British soccer sensation David Beckham, Jess (Parminder K. Nagra) wants nothing more than to be on the field. But a proper Indian girl shouldn't be spending her time playing soccer -- or at least that's what her family thinks. Jess has the talent to play on a local all-girl team, but her parents want her to be like her older sister, who cooks chapati like a pro and wants a traditional Indian wedding. Keira Knightley co-stars.", "ShortSynopsis": "Teenage Jess wants nothing more than to play soccer, but her family thinks that a proper Indian girl shouldn't be spending her time on the field.", "AverageRating": 3.6, "ReleaseYear": 2002, "Url": "http://www.netflix.com/Movie/Bend_It_Like_Beckham/60026145", "Runtime": 6720, "Rating": "PG-13", "DateModified": "\/Date(1301582111000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60026145", "TinyUrl": "http://movi.es/ApS6r", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/60026145.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/60026145.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/60026145.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1064880000000)\/", "AvailableTo": null, "Rating": "PG-13", "Runtime": 6720
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApS6r')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApSCx')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/60026523.jpg", "content_type": "image/jpeg", "media_etag": "\"5/26/2011 7:10:22 AM\""
+}, "Id": "ApSCx", "Name": "Cup Final", "ShortName": "Cup Final", "Synopsis": "Israeli soldier Cohen (Moshe Ivgi), who has been captured by the Palestinian Liberation Organization in Lebanon, bonds with its leader, Ziad (Mohammed Bakri), over a love of soccer. Even though they're on opposing sides of the political, ideological and religious fence, they both revel in the televised World Cup action and learn lessons about tolerance and understanding. Salim Dau, Yussuf Abu-Warda and Bassam Zo'amat co-star.", "ShortSynopsis": "An Israeli soldier who has been captured by the Palestinian Liberation Organization in Lebanon bonds with its leader over a love of soccer.", "AverageRating": 2.8, "ReleaseYear": 1991, "Url": "http://www.netflix.com/Movie/Cup_Final/60026523", "Runtime": 6420, "Rating": "NR", "DateModified": "\/Date(1306393822000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60026523", "TinyUrl": "http://movi.es/ApSCx", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/60026523.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/60026523.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/60026523.jpg", "HighDefinitionUrl": "http://cdn-3.nflximg.com/en_us/boxshots/ghd/60026523.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1046131200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6420
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1182988800000)\/", "AvailableTo": "\/Date(1369526400000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 6481
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApSCx')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApUAs')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/60034082.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:12 PM\""
+}, "Id": "ApUAs", "Name": "The Big Green", "ShortName": "The Big Green", "Synopsis": "In a depressed Texas town, British foreign exchange teacher Anna (Olivia d'Abo) attempts to inject some life into her hopeless kids by introducing them to soccer. They're terrible at first, but Anna and her football-hero assistant (Steve Guttenberg) whip them into shape. As they work overtime, the pair help kids build their self-esteem and also get involved in solving family squabbles. Holly Goldberg Sloan directs this underdog sports story.", "ShortSynopsis": "In a depressed Texas town, British foreign exchange teacher Anna attempts to inject some life into her hopeless kids by introducing them to soccer. They're terrible at first, but Anna and her football-hero assistant whip them into shape.", "AverageRating": 3.4, "ReleaseYear": 1995, "Url": "http://www.netflix.com/Movie/The_Big_Green/60034082", "Runtime": 6000, "Rating": "PG", "DateModified": "\/Date(1301582112000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60034082", "TinyUrl": "http://movi.es/ApUAs", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/60034082.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/60034082.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/60034082.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1083628800000)\/", "AvailableTo": null, "Rating": "PG", "Runtime": 6000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUAs')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVaEf')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70067157.jpg", "content_type": "image/jpeg", "media_etag": "\"11/1/2011 7:22:11 AM\""
+}, "Id": "BVaEf", "Name": "Shaolin Family Soccer", "ShortName": "Shaolin Family Soccer", "Synopsis": "When a successful couple (Chan Kai Tai and Loretta Lee) separates, they realize they need a nanny for their young son (Sui Ming Kei). There's only one problem: Nobody wants to be around the kid because he's a complete brat! Deciding it's time to step in and impose some discipline, Grandpa (Wong Yat Fai) disguises himself as a nanny and gets the job. But is he ready to take on anything the boy can dish out?", "ShortSynopsis": "The grandfather of an unruly brat disguises himself as a nanny and, in an effort to teach the boy some discipline, takes him to the soccer field.", "AverageRating": 2.8, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Shaolin_Family_Soccer/70067157", "Runtime": 5520, "Rating": "NR", "DateModified": "\/Date(1320132131000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70067157", "TinyUrl": "http://movi.es/BVaEf", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70067157.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70067157.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70067157.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1179187200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5520
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVaEf')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVb6a')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70070500.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:12 PM\""
+}, "Id": "BVb6a", "Name": "The Power of the Game", "ShortName": "The Power of the Game", "Synopsis": "Renowned filmmaker Michael Apted -- best known for his entries in the epic documentary series Seven Up! -- examines the social impact of soccer in the shadow of the 2006 World Cup by blending six separate story lines from all over the world. Following teams and individuals in South Africa, the United States, Iran, Argentina, England and Senegal, Apted crafts a thought-provoking portrait of one of the world's most popular sports.", "ShortSynopsis": null, "AverageRating": 2.2, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/The_Power_of_the_Game/70070500", "Runtime": 6000, "Rating": "NR", "DateModified": "\/Date(1301582112000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70070500", "TinyUrl": "http://movi.es/BVb6a", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70070500.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70070500.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70070500.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVb6a')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVcIU')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70075082.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:12 PM\""
+}, "Id": "BVcIU", "Name": "Dare to Dream", "ShortName": "Dare to Dream", "Synopsis": "In the late 1980s, women's soccer was barely a blip on the radar of American sports. Then came five players, young women of exceptional skill and charisma. This documentary follows the careers of U.S. Women's National Team members Mia Hamm, Brandi Chastain, Julie Foudy, Kristine Lilly and Joy Fawcett as they parlayed a talent for the game into unprecedented fame and brought national attention to the sport.", "ShortSynopsis": "In the late 1980s, women's soccer was barely a blip on the radar of American sports. Then came five players, young women of exceptional skill and charisma.", "AverageRating": 3.7, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Dare_to_Dream/70075082", "Runtime": 4800, "Rating": "PG", "DateModified": "\/Date(1301582112000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70075082", "TinyUrl": "http://movi.es/BVcIU", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70075082.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70075082.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70075082.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1190073600000)\/", "AvailableTo": null, "Rating": "PG", "Runtime": 4800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVcIU')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVdiA')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70080518.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVdiA", "Name": "David Beckham: Life of an Icon", "ShortName": "David Beckham: Life of an Icon", "Synopsis": "One of the most recognizable athletes on the globe and a permanent fixture in the world of pop culture, David Beckham is a bona fide phenomenon who transcended the world of professional sports to become a household name. This in-depth portrait of the international star features candid interviews, career highlights and commentary from peers and pundits to chronicle the ascension of this one-of-a-kind celebrity.", "ShortSynopsis": "One of the most recognizable athletes on the globe and a permanent fixture in the world of pop culture, David Beckham is a bona fide phenomenon who transcended the world of professional sports to become a household name.", "AverageRating": 2.8, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/David_Beckham_Life_of_an_Icon/70080518", "Runtime": 4560, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70080518", "TinyUrl": "http://movi.es/BVdiA", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70080518.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70080518.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70080518.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1210032000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4560
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVdiA')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVeDI')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70082448.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVeDI", "Name": "Futbaal: The Price of Dreams", "ShortName": "Futbaal: The Price of Dreams", "Synopsis": "After leaving his homeland to play professional soccer for the L.A. Vipers, a talented member of the Iranian national team (Sasha Maxime) finds himself living in glamorous new surroundings with far too many temptations. Complicating matters is the fact that he's attracted the attention of a gang of Persian thugs who want to punish him for disloyalty to his native country. It's a steep price to pay for the chance to live out a dream.", "ShortSynopsis": "After leaving his homeland to play professional soccer for the L.A. Vipers, a talented member of the Iranian national team finds himself living in glamorous new surroundings with far too many temptations.", "AverageRating": 2.6, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Futbaal_The_Price_of_Dreams/70082448", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70082448", "TinyUrl": "http://movi.es/BVeDI", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70082448.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70082448.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70082448.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeDI')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVeop')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70084775.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:15:38 AM\""
+}, "Id": "BVeop", "Name": "Dhan Dhana Dhan Goal", "ShortName": "Dhan Dhana Dhan Goal", "Synopsis": "Facing eviction, Southhall United Football Club has no star players, sponsors, fans or owner. In a last-ditch effort, a jaded coach assembles a ragtag team led by ambitious rising talent Sunny, who was rejected by his dream club because of his race.", "ShortSynopsis": "In a last-ditch effort, the jaded coach of the Southhall United Football Club assembles a ragtag team and helps lead the team to a comeback season.", "AverageRating": 3.3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Dhan_Dhana_Dhan_Goal/70084775", "Runtime": 9480, "Rating": "NR", "DateModified": "\/Date(1328858138000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70084775", "TinyUrl": "http://movi.es/BVeop", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70084775.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70084775.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70084775.jpg", "HighDefinitionUrl": "http://cdn-5.nflximg.com/en_us/boxshots/ghd/70084775.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1199232000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9480
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1250208000000)\/", "AvailableTo": "\/Date(1344902400000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 9851
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVeop')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVew6')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70085226.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVew6", "Name": "Studs", "ShortName": "Studs", "Synopsis": "After suffering a humiliating defeat on the field, the members of a working-class soccer team believe all hope is lost. But when the mysterious Walter Keegan (Brendan Gleeson) offers to coach them, things start to look up. The new coach is a fierce disciplinarian who drills the out-of-shape players mercilessly, pushing them toward sharpening their skills &#8230; and maybe even winning a game. David Wilmot co-stars in this winning Irish comedy.", "ShortSynopsis": "After suffering a humiliating defeat on the field, the members of a working-class soccer team believe all hope is lost. But when the mysterious Walter Keegan offers to coach them, things start to look up.", "AverageRating": 2.5, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Studs/70085226", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70085226", "TinyUrl": "http://movi.es/BVew6", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70085226.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70085226.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70085226.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1201564800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVew6')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVgaO')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70091568.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 2:49:03 PM\""
+}, "Id": "BVgaO", "Name": "Amando a Maradona", "ShortName": "Amando a Maradona", "Synopsis": "This documentary chronicles the life and remarkable career of Diego Armando Maradona, who rose from the Buenos Aires slums to become an Argentine soccer megastar famed for his on-field antics as well his versatility and prowess on the pitch.", "ShortSynopsis": "This documentary chronicles the life and career of Diego Armando Maradona, who rose from life in the slums to become an Argentine soccer megastar.", "AverageRating": 3.1, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Amando_a_Maradona/70091568", "Runtime": 3840, "Rating": "NR", "DateModified": "\/Date(1328885343000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70091568", "TinyUrl": "http://movi.es/BVgaO", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70091568.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70091568.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70091568.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3840
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVgaO')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVisu')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70100404.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2012 5:05:06 AM\""
+}, "Id": "BVisu", "Name": "Maradona by Kusturica", "ShortName": "Maradona by Kusturica", "Synopsis": "Director Emir Kusturica follows the story of Diego Maradona, a man whom many consider to be the god of football and who has played idol to millions of fans in his native Argentina and throughout the world. With a backdrop of original music from Manu Chau, the film consists of fascinating and enlightening footage of Maradona and traces the athlete's trajectory from his hardscrabble youth all the way to his canonization as a superstar.", "ShortSynopsis": "The story of Diego Maradona, an idol considered to be the god of football to millions of fans throughout the world.", "AverageRating": 3.3, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Maradona_by_Kusturica/70100404", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1328763906000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70100404", "TinyUrl": "http://movi.es/BVisu", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70100404.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70100404.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70100404.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVisu')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVjV8')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70102774.jpg", "content_type": "image/jpeg", "media_etag": "\"12/1/2010 8:15:28 AM\""
+}, "Id": "BVjV8", "Name": "Sixty Six", "ShortName": "Sixty Six", "Synopsis": "During the summer of 1966, 12-year-old Londoner Bernie (Gregg Sulkin) eagerly prepares for his upcoming bar mitzvah, but disaster looms when England snags a spot in the World Cup finals, scheduled for the same day as Bernie's big celebration. With his father (Eddie Marsan) and mother (Helena Bonham Carter) facing financial difficulties, Bernie struggles to readjust his expectations for the biggest event of his life.", "ShortSynopsis": "A 12-year-old Londoner struggles to adjust his expectations when England is scheduled to play in the World Cup finals the same day as his bar mitzvah.", "AverageRating": 3.6, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Sixty_Six/70102774", "Runtime": 5580, "Rating": "PG-13", "DateModified": "\/Date(1291191328000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70102774", "TinyUrl": "http://movi.es/BVjV8", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70102774.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70102774.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70102774.jpg", "HighDefinitionUrl": "http://cdn-4.nflximg.com/en_us/boxshots/ghd/70102774.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "PG-13", "Runtime": 5580
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1291161600000)\/", "AvailableTo": "\/Date(1385856000000)\/", "HighDefinitionAvailable": false, "Rating": "PG-13", "Runtime": 5615
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVjV8')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVkQX')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70106333.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVkQX", "Name": "The Other Half", "ShortName": "The Other Half", "Synopsis": "Mark (Danny Dyer) and Holly (Gillian Kearney) have finally tied the knot, and Mark's made sure the honeymoon in Lisbon will be one to remember. But the trip turns Gillian into a soccer widow when Mark learns that England's team is in town for a big match. Although Mark tries to hide his enthusiasm, a series of coincidences leads Holly to believe that he married her just for this honeymoon -- and the soccer games that accompany it.", "ShortSynopsis": "Mark and Holly have finally tied the knot, and Mark's made sure the honeymoon in Lisbon will be one to remember. But the trip turns Gillian into a soccer widow when Mark learns that England's team is in town for a big match.", "AverageRating": 2.2, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/The_Other_Half/70106333", "Runtime": 5640, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70106333", "TinyUrl": "http://movi.es/BVkQX", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70106333.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70106333.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70106333.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1225152000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5640
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVkQX')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVl8T')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70109057.jpg", "content_type": "image/jpeg", "media_etag": "\"7/28/2011 3:11:02 AM\""
+}, "Id": "BVl8T", "Name": "Rise of the Footsoldier", "ShortName": "Rise of the Footsoldier", "Synopsis": "Football hooligan Carlton Leach's (Ricci Harnett) reputation for violence wins him a position as a foot soldier in the feared Inter City Firm gang, where he eventually rises to become one of the most powerful crime lords in England. This gangland biopic follows Leach's career as he becomes a nightclub bouncer and moves into the dark side of the early British rave scene, culminating in the infamous 1995 Rettendon triple murders.", "ShortSynopsis": "This gangland biopic follows the career of English football thug Carlton Leach and his violent rise from nightclub bouncer to powerful crime lord.", "AverageRating": 3.5, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Rise_of_the_Footsoldier/70109057", "Runtime": 7140, "Rating": "R", "DateModified": "\/Date(1311822662000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70109057", "TinyUrl": "http://movi.es/BVl8T", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70109057.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70109057.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70109057.jpg", "HighDefinitionUrl": "http://cdn-7.nflximg.com/en_us/boxshots/ghd/70109057.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1228176000000)\/", "AvailableTo": null, "Rating": "R", "Runtime": 7140
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1271116800000)\/", "AvailableTo": "\/Date(1334275200000)\/", "HighDefinitionAvailable": false, "Rating": "R", "Runtime": 7143
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVl8T')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVm1x')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70112497.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2012 2:20:49 PM\""
+}, "Id": "BVm1x", "Name": "Rudo y Cursi", "ShortName": "Rudo y Cursi", "Synopsis": "Stuck working on a banana ranch, two super competitive soccer-playing brothers dream of getting off the farm and finding stardom: Beto (Diego Luna) as a pro goalie and Toto (Gael Garc&#237;a Bernal) as a singer -- but it might break them. When a professional soccer team ignores Beto's goalie skills in favor of Toto's fancy footwork, Beto signs on to a rival team, and the battle between brothers is on. Carlos Cuar&#243;n directs this drama.", "ShortSynopsis": "Stuck working on a banana ranch, two super competitive soccer-playing brothers dream of getting off the farm and finding stardom in their future.", "AverageRating": 3.6, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Rudo_y_Cursi/70112497", "Runtime": 6180, "Rating": "R", "DateModified": "\/Date(1328797249000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70112497", "TinyUrl": "http://movi.es/BVm1x", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1251158400000)\/", "AvailableTo": null, "Rating": "R", "Runtime": 6180
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70112497.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70112497.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70112497.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1251158400000)\/", "AvailableTo": null, "Rating": "R", "Runtime": 6180
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVm1x')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVoNr')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70121543.jpg", "content_type": "image/jpeg", "media_etag": "\"8/9/2011 3:13:17 PM\""
+}, "Id": "BVoNr", "Name": "Green Street Hooligans 2", "ShortName": "Green Street Hooligans 2", "Synopsis": "In this sequel to the 2005 film about British football hooligans, the Green Street Elite's top players are in the slammer following an altercation with their archrivals -- and they're finding life behind bars even tougher than life on the field. Targeted by guards and fellow inmates, the Green Street mates soon find themselves in the most high-stakes football match of their careers in this drama helmed by Jesse V. Johnson.", "ShortSynopsis": "The Green Street Elite's top players land in the slammer -- and soon find themselves in the most high-stakes football match of their careers.", "AverageRating": 3, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Green_Street_Hooligans_2/70121543", "Runtime": 5640, "Rating": "UR", "DateModified": "\/Date(1312902797000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70121543", "TinyUrl": "http://movi.es/BVoNr", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70121543.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70121543.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70121543.jpg", "HighDefinitionUrl": "http://cdn-3.nflximg.com/en_us/boxshots/ghd/70121543.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1251158400000)\/", "AvailableTo": null, "Rating": "UR", "Runtime": 5640
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1251158400000)\/", "AvailableTo": "\/Date(1345852800000)\/", "HighDefinitionAvailable": false, "Rating": "UR", "Runtime": 5655
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoNr')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVqL6')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70129060.jpg", "content_type": "image/jpeg", "media_etag": "\"10/20/2011 7:09:43 AM\""
+}, "Id": "BVqL6", "Name": "In the Hands of the Gods", "ShortName": "In the Hands of the Gods", "Synopsis": "Five English soccer teammates pursue a dream to meet their hero, Argentine soccer star Diego Maradona, as they travel from London through New York to Buenos Aires. Along the way, they face cramped quarters, insufficient funds and personal conflicts. But their shared desire to experience something larger than themselves keeps them going. Sami Hall Bassam, Mikey Fisher, Jeremy Lynch, Danny Robinson and Paul Wood star in this compelling documentary.", "ShortSynopsis": "Five English soccer teammates pursue a dream to meet their hero, Argentine soccer star Diego Maradona, as they travel from London through New York to Buenos Aires. Along the way, they face cramped quarters, insufficient funds and personal conflicts.", "AverageRating": 2.6, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/In_the_Hands_of_the_Gods/70129060", "Runtime": 6360, "Rating": "NR", "DateModified": "\/Date(1319094583000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70129060", "TinyUrl": "http://movi.es/BVqL6", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70129060.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70129060.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70129060.jpg", "HighDefinitionUrl": "http://cdn-0.nflximg.com/en_us/boxshots/ghd/70129060.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6360
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1319068800000)\/", "AvailableTo": "\/Date(1350691200000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 6345
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVqL6')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVsPU')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70137020.jpg", "content_type": "image/jpeg", "media_etag": "\"6/15/2011 7:11:30 AM\""
+}, "Id": "BVsPU", "Name": "World Cup Soccer in Africa: Who Really Wins?", "ShortName": "World Cup in Africa: Who Really Wins?", "Synopsis": "Bringing the 2010 World Cup soccer tournament to South Africa raised a host of questions about the nation's priorities and the impact of the global event on the host community. This thoughtful documentary takes a hard look at those issues. In the process, it shines a light on national pride and possible corruption, as well as the home team's prospects. Interview subjects include Archbishop Desmond Tutu and former New York Cosmos star Jomo Sono.", "ShortSynopsis": "Examine issues raised by South Africa's hosting of the 2010 World Cup soccer tournament, including the impact of the global event on the nation.", "AverageRating": 2.8, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/World_Cup_Soccer_in_Africa_Who_Really_Wins/70137020", "Runtime": 4440, "Rating": "NR", "DateModified": "\/Date(1308121890000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70137020", "TinyUrl": "http://movi.es/BVsPU", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70137020.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70137020.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70137020.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4440
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVsPU')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVStf')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70038947.jpg", "content_type": "image/jpeg", "media_etag": "\"9/13/2010 9:21:29 PM\""
+}, "Id": "BVStf", "Name": "Guys and Balls", "ShortName": "Guys and Balls", "Synopsis": "German bakery worker Ecki (Maximilian Br&#252;ckner) hasn't been playing the best soccer lately, and the guys on his local team have already put him on notice. But when they find out Ecki's big secret -- that he's gay -- they kick him off the squad for good. Determined to form his own team of gay players to kick the pants off his old teammates (figuratively, of course), Ecki rounds up a ragtag group that's going to need a lot of work to win the big game.", "ShortSynopsis": "German bakery worker Ecki hasn't been playing the best soccer lately, and the guys on his local team have already put him on notice. But when they find out Ecki's big secret -- that he's gay -- they kick him off the squad for good.", "AverageRating": 3.5, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Guys_and_Balls/70038947", "Runtime": 6120, "Rating": "R", "DateModified": "\/Date(1284412889000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70038947", "TinyUrl": "http://movi.es/BVStf", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70038947.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70038947.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70038947.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1157414400000)\/", "AvailableTo": null, "Rating": "R", "Runtime": 6120
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVStf')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVT7H')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70039791.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 6:59:02 PM\""
+}, "Id": "BVT7H", "Name": "Liberated Zone", "ShortName": "Liberated Zone", "Synopsis": "An economically depressed town in eastern Germany finds its collective fortune and libido rejuvenated upon the arrival of a superstar soccer player. With the championship game at hand, local beauty Sylvia (Johanna Klante) finds herself drawn to the celebrity athlete, while her boyfriend, Micha (Florian Lukas), indulges in a little infidelity himself. Tensions mount as the fickle lovers play the field, each hoping to score in this winning comedy.", "ShortSynopsis": "An economically depressed town in eastern Germany finds its collective fortune and libido rejuvenated upon the arrival of a superstar soccer player.", "AverageRating": 2.5, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Liberated_Zone/70039791", "Runtime": 5460, "Rating": "NR", "DateModified": "\/Date(1306263542000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70039791", "TinyUrl": "http://movi.es/BVT7H", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70039791.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70039791.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70039791.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1130198400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5460
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVT7H')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVTT5')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70041143.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:11 PM\""
+}, "Id": "BVTT5", "Name": "Goal! The Dream Begins", "ShortName": "Goal! The Dream Begins", "Synopsis": "For as long as Santiago (Kuno Becker) can remember, he's had a passion for playing soccer, a pastime his father wishes he'd give up. But the world takes notice when a British scout (Stephen Dillane) spies Santiago playing in an amateur match and persuades him to come to England. Some of the hottest stars from the world of football -- including David Beckham and Zin&#233;dine Zidane -- make cameos in this action-packed romp.", "ShortSynopsis": "Santiago's passion for soccer is something his father wishes he'd give up. But the world takes notice when a pro scout spies him in an amateur match.", "AverageRating": 3.8, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Goal_The_Dream_Begins/70041143", "Runtime": 7080, "Rating": "PG-13", "DateModified": "\/Date(1301582111000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70041143", "TinyUrl": "http://movi.es/BVTT5", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1164067200000)\/", "AvailableTo": null, "Rating": "PG-13", "Runtime": 7080
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70041143.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70041143.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70041143.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1158019200000)\/", "AvailableTo": null, "Rating": "PG-13", "Runtime": 7080
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTT5')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVTxK')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70043018.jpg", "content_type": "image/jpeg", "media_etag": "\"1/21/2012 9:44:59 PM\""
+}, "Id": "BVTxK", "Name": "The Football Factory", "ShortName": "The Football Factory", "Synopsis": "Following the exploits of young Tommy Johnson -- who fills his days with an unchallenging job and his nights and weekends with drugs, sex and soccer -- writer-director Nick Love offers an unflinching look at England's blue-collar male culture.", "ShortSynopsis": "In this look at England's blue-collar male culture, Tommy Johnson fills his days with an unchallenging job and his nights with drugs, sex and soccer.", "AverageRating": 3.5, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/The_Football_Factory/70043018", "Runtime": 5280, "Rating": "R", "DateModified": "\/Date(1327182299000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70043018", "TinyUrl": "http://movi.es/BVTxK", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70043018.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70043018.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70043018.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70043018.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1135641600000)\/", "AvailableTo": null, "Rating": "R", "Runtime": 5280
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1133395200000)\/", "AvailableTo": "\/Date(1384473600000)\/", "HighDefinitionAvailable": false, "Rating": "R", "Runtime": 5235
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVTxK')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVUwd')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70046819.jpg", "content_type": "image/jpeg", "media_etag": "\"10/7/2009 5:06:22 AM\""
+}, "Id": "BVUwd", "Name": "Chivas del Guadalajara", "ShortName": "Chivas del Guadalajara", "Synopsis": "As one of Mexico's most beloved professional soccer clubs, Las Chivas del Guadalajara earned a reputation as \"the people's team,\" in part because of its exclusive use of Mexican-born players. Featuring memorable game highlight footage, this Spanish-language documentary chronicles the team's steady rise to the top of the pack, from its formation as a fledgling &NFi;f&#250;tbol&NFi_; club in 1906 to its string of league championships in the 1950s and '60s.", "ShortSynopsis": null, "AverageRating": 2.8, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Chivas_del_Guadalajara/70046819", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1254891982000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70046819", "TinyUrl": "http://movi.es/BVUwd", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70046819.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70046819.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70046819.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1143504000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVUwd')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70048214.jpg", "content_type": "image/jpeg", "media_etag": "\"12/17/2010 8:08:10 AM\""
+}, "Id": "BVVJ8", "Name": "Garrincha, Estrella Solitaria", "ShortName": "Garrincha, Estrella Solitaria", "Synopsis": "Though he is often credited as the greatest dribbler in soccer history, Brazilian footballer Manuel Francisco dos Santos (Andre Goncalves) -- known to his fans as Garrincha, or \"songbird\" -- led an equally fascinating life off the field. Chronicling the highs and lows of his tumultuous story, this biopic addresses his problems with alcohol and his notorious infidelity, which included a 15-year affair with singer Elza Soares (Tais Araujo).", "ShortSynopsis": "Though he is often credited as the greatest dribbler in soccer history, Brazilian footballer Manuel Francisco dos Santos -- known to his fans as Garrincha, or \"songbird\" -- led an equally fascinating life off the field.", "AverageRating": 2.6, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/Garrincha_Estrella_Solitaria/70048214", "Runtime": 6600, "Rating": "NR", "DateModified": "\/Date(1292573290000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70048214", "TinyUrl": "http://movi.es/BVVJ8", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70048214.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70048214.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70048214.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1248739200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVJ8')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVVtW')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70050470.jpg", "content_type": "image/jpeg", "media_etag": "\"12/17/2010 8:08:10 AM\""
+}, "Id": "BVVtW", "Name": "El Penalti Mas Largo Del Mundo", "ShortName": "El Penalti Mas Largo Del Mundo", "Synopsis": "An injury sidelines a star goalie in a key minor league soccer match, and the town loser Fernando (Fernando Tejero) must fill in. Luckily, a penalty delays the game's conclusion for one week, giving our hero some extra time to train. The town waits in agony, hoping against hope that Fernando will somehow block the titular \"Longest Penalty Kick in the World.\" This underdog comedy earned a Best Screenplay nomination at Spain's Goya Awards in 2006.", "ShortSynopsis": "An injury sidelines a star goalie in a key minor league soccer match, and the town loser Fernando must fill in. Luckily, a penalty delays the game's conclusion for one week, giving our hero some extra time to train.", "AverageRating": 3, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/El_Penalti_Mas_Largo_Del_Mundo/70050470", "Runtime": 6000, "Rating": "NR", "DateModified": "\/Date(1292573290000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70050470", "TinyUrl": "http://movi.es/BVVtW", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70050470.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70050470.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70050470.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1248739200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVtW')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVWDx')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70051737.jpg", "content_type": "image/jpeg", "media_etag": "\"6/14/2011 5:10:22 PM\""
+}, "Id": "BVWDx", "Name": "Real: The Movie", "ShortName": "Real: The Movie", "Synopsis": "Real game footage is interwoven into a collection of five connected tales that pay homage to Real Madrid, Spain's unparalleled soccer club. Set in various countries, the stories include those of a quiet schoolteacher (Javier Albala) who tries to understand Real's most ardent fans, and a jealous boyfriend (Keiichirou Sakaki) whose lover is obsessed with David Beckham. The action-packed footage features Beckham, Zinedine Zidane, Ronaldo and others.", "ShortSynopsis": "Real game footage is interwoven into a collection of five connected tales that pay homage to Real Madrid, Spain's unparalleled soccer club.", "AverageRating": 3.2, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Real_The_Movie/70051737", "Runtime": 5400, "Rating": "NR", "DateModified": "\/Date(1308071422000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70051737", "TinyUrl": "http://movi.es/BVWDx", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70051737.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70051737.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70051737.jpg", "HighDefinitionUrl": "http://cdn-7.nflximg.com/en_us/boxshots/ghd/70051737.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1156204800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1303430400000)\/", "AvailableTo": "\/Date(1393632000000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 5476
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWDx')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVWhM')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70053560.jpg", "content_type": "image/jpeg", "media_etag": "\"1/13/2011 8:09:00 PM\""
+}, "Id": "BVWhM", "Name": "Chivas USA: Si, Se Puede", "ShortName": "Chivas USA: Si, Se Puede", "Synopsis": "From the makers of the mockumentary A Day Without a Mexican comes this brisk documentary chronicling the efforts of Mexico's Chivas USA soccer franchise to create an expansion team in the United States. The Chivas squad quickly discovers that joining the ranks of Major League Soccer is no easy task: Along with the hassle of obtaining visas and learning another tongue, the team also has to overcome internal strife and culture shock.", "ShortSynopsis": null, "AverageRating": 2.3, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Chivas_USA_Si_Se_Puede/70053560", "Runtime": 5100, "Rating": "NR", "DateModified": "\/Date(1294949340000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70053560", "TinyUrl": "http://movi.es/BVWhM", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70053560.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70053560.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70053560.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1158019200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWhM')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVWOu')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70052416.jpg", "content_type": "image/jpeg", "media_etag": "\"7/28/2011 7:10:46 PM\""
+}, "Id": "BVWOu", "Name": "Once in a Lifetime", "ShortName": "Once in a Lifetime", "Synopsis": "Capturing the true story of the team that almost changed how America defined its national pastime, this documentary chronicles the rise of sports sensations the New York Cosmos, the crown jewel of the North American Soccer League in the 1970s. Backed by TV mogul Steve Ross, the phenomenal Cosmos boasted star players such as Pele and Franz Beckenbauer, whipping U.S. fans into a frenzy with their exploits on and off the field.", "ShortSynopsis": "This documentary chronicles the rise of sports sensations the New York Cosmos, the crown jewel of the North American Soccer League in the 1970s.", "AverageRating": 3.6, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Once_in_a_Lifetime/70052416", "Runtime": 5820, "Rating": "PG-13", "DateModified": "\/Date(1311880246000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70052416", "TinyUrl": "http://movi.es/BVWOu", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70052416.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70052416.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70052416.jpg", "HighDefinitionUrl": "http://cdn-6.nflximg.com/en_us/boxshots/ghd/70052416.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1159833600000)\/", "AvailableTo": null, "Rating": "PG-13", "Runtime": 5820
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1306886400000)\/", "AvailableTo": "\/Date(1464739200000)\/", "HighDefinitionAvailable": false, "Rating": "PG-13", "Runtime": 5855
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWOu')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVWYO')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70053004.jpg", "content_type": "image/jpeg", "media_etag": "\"11/12/2010 6:14:48 PM\""
+}, "Id": "BVWYO", "Name": "Jan Svankmajer: The Ossuary and Other Tales", "ShortName": "Jan Svankmajer: The Ossuary & Other Tales", "Synopsis": "This collection of nine short films created by innovative Czech animator Jan Svankmajer reveals a wonderfully quirky sense of humor that undeniably influenced the work of modern artists such as Terry Gilliam and Tim Burton. Among the selections are \"The Ossuary,\" a documentary of the underground mausoleum in the Czech Republic holding the bones of 40,000 people, and \"The Last Trick,\" which pits two magicians against each other.", "ShortSynopsis": "This collection of nine short films created by innovative Czech animator Jan Svankmajer reveals a wonderfully quirky sense of humor.", "AverageRating": 3.4, "ReleaseYear": 1964, "Url": "http://www.netflix.com/Movie/Jan_Svankmajer_The_Ossuary_and_Other_Tales/70053004", "Runtime": 7620, "Rating": "NR", "DateModified": "\/Date(1289585688000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70053004", "TinyUrl": "http://movi.es/BVWYO", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70053004.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70053004.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70053004.jpg", "HighDefinitionUrl": "http://cdn-4.nflximg.com/en_us/boxshots/ghd/70053004.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1158019200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7620
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1264032000000)\/", "AvailableTo": "\/Date(1341100800000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": 7535
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVWYO')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVYMx')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70059983.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:13 PM\""
+}, "Id": "BVYMx", "Name": "Gracie", "ShortName": "Gracie", "Synopsis": "After a tragedy, 15-year-old Gracie (Carly Schroeder) channels her grief by fighting to get girls into varsity soccer in this inspiring drama. Despite her passion and resolve, she's blocked on all sides as she argues for the right of women to play competitive soccer. The film -- set in 1978 -- is based on the real-life story of actress Elisabeth Shue (playing Gracie's mom), who championed the cause of women's sports as a teen.", "ShortSynopsis": "After a tragedy, 15-year-old Gracie channels her grief by fighting to get girls into varsity soccer. Despite her resolve, she's blocked on all sides.", "AverageRating": 3.5, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Gracie/70059983", "Runtime": 5700, "Rating": "PG-13", "DateModified": "\/Date(1301582113000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70059983", "TinyUrl": "http://movi.es/BVYMx", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70059983.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70059983.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70059983.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1190073600000)\/", "AvailableTo": null, "Rating": "PG-13", "Runtime": 5700
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVYMx')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BW2vL')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70177435.jpg", "content_type": "image/jpeg", "media_etag": "\"5/24/2011 7:36:07 PM\""
+}, "Id": "BW2vL", "Name": "Streetball", "ShortName": "Streetball", "Synopsis": "Telling an uncommon tale of inspiration and athleticism, this sports-oriented documentary shadows the members of South Africa's 2008 Homeless World Cup soccer team -- once-rootless men who find a new home on the field.", "ShortSynopsis": "Telling an uncommon tale of inspiration and athleticism, this sports-oriented documentary shadows the members of South Africa's 2008 Homeless World Cup soccer team -- once-rootless men who find a new home on the field.", "AverageRating": 3.1, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/Streetball/70177435", "Runtime": 4440, "Rating": "NR", "DateModified": "\/Date(1306265767000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70177435", "TinyUrl": "http://movi.es/BW2vL", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70177435.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70177435.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70177435.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 4440
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW2vL')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BW40C')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70181580.jpg", "content_type": "image/jpeg", "media_etag": "\"10/18/2011 12:03:27 AM\""
+}, "Id": "BW40C", "Name": "One Night in Turin", "ShortName": "One Night in Turin", "Synopsis": "Gary Oldman narrates this gripping sports documentary that chronicles how the spirited play of England's 1990 World Cup team transformed English footballing from a hooligan-rife national embarrassment to a source of British pride.", "ShortSynopsis": "Gary Oldman narrates this gripping sports documentary that chronicles how the spirited play of England's 1990 World Cup team transformed English footballing from a hooligan-rife national embarrassment to a source of British pride.", "AverageRating": 3.1, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/One_Night_in_Turin/70181580", "Runtime": 5580, "Rating": "NR", "DateModified": "\/Date(1318896207000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70181580", "TinyUrl": "http://movi.es/BW40C", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70181580.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70181580.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70181580.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 5580
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW40C')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BW44B')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70181827.jpg", "content_type": "image/jpeg", "media_etag": "\"5/3/2011 6:49:29 PM\""
+}, "Id": "BW44B", "Name": "The Match", "ShortName": "The Match", "Synopsis": "To settle a bet that goes back 100 years, two local bars gear up for a high-stakes soccer match that's been a century in the making. But the winning team gets more than bragging rights; it gets ownership of the losing team's pub.", "ShortSynopsis": "To settle a 100-year-old bet, two local bars gear up for a high-stakes soccer match where the winning team gets ownership of the losing team's pub.", "AverageRating": 3.2, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/The_Match/70181827", "Runtime": 5799, "Rating": "PG-13", "DateModified": "\/Date(1304448569000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70181827", "TinyUrl": "http://movi.es/BW44B", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70181827.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70181827.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70181827.jpg", "HighDefinitionUrl": "http://cdn-7.nflximg.com/en_us/boxshots/ghd/70181827.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1304208000000)\/", "AvailableTo": "\/Date(1391212800000)\/", "HighDefinitionAvailable": false, "Rating": "PG-13", "Runtime": 5799
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BW44B')/Seasons"
+}
+}
+}
+]
+}
+}

@@ -1,0 +1,4 @@
+I downloaded all the genre information from:
+http://odata.netflix.com/Catalog/Titles?$format=json
+
+Just copy and paste that page in the browser and then separate the file into urls and names and download all titles from each genre.

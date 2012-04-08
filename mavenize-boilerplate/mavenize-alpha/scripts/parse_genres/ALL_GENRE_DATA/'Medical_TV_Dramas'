@@ -1,0 +1,3579 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('btpoE')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70180052.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "btpoE", "Name": "Dr. Quinn, Medicine Woman: Season 2", "ShortName": "Dr. Quinn: Season 2", "Synopsis": "The pioneering Dr. Mike Quinn (Jane Seymour) adjusts to life as a single mother raising three children and as a physician attempting to serve patients in a small Western town -- even as its citizens eye her with suspicion for being a relative newcomer. Mike also finds herself grappling with her burgeoning feelings for Sully the cowboy (Joe Lando) in this season of the much-loved, critically acclaimed dramatic television series.", "ShortSynopsis": "The pioneering Dr. Mike Quinn adjusts to life as a single mother raising three children and as a physician attempting to serve patients in a small Western town -- even as its citizens eye her with suspicion for being a relative newcomer.", "AverageRating": 3.8, "ReleaseYear": 1993, "Url": "http://www.netflix.com/Movie/Dr._Quinn_Medicine_Woman_Season_2/60031630", "Runtime": 76140, "Rating": "TV-G", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70180052/seasons/60031630", "TinyUrl": "http://movi.es/btpoE", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70180052.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70180052.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70180052.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1064880000000)\/", "AvailableTo": null, "Rating": "TV-G", "Runtime": 76140
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpoE')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVnIS')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70117364.jpg", "content_type": "image/jpeg", "media_etag": "\"3/10/2010 6:33:56 PM\""
+}, "Id": "BVnIS", "Name": "The Listener: Season 1", "ShortName": "The Listener: Season 1", "Synopsis": "A young paramedic uses his uncommon ability to read people's minds as an on-the-job tool to help others in this NBC one-season drama series centered on gifted 25-year-old Toby Logan (Craig Olejnik) and his enthusiastic partner, Oz (Ennis Esmer). Colm Feore also stars as Toby's longtime mentor, Dr. Ray Mercer, with Mylene Robic appearing as Toby's ex-girlfriend, Olivia Fawcett, an emergency room doctor.", "ShortSynopsis": "A young paramedic uses his uncommon ability to read people's minds as an on-the-job tool to help others in this NBC one-season drama series centered on gifted 25-year-old Toby Logan and his enthusiastic partner, Oz.", "AverageRating": 4.1, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/The_Listener_Season_1/70117364", "Runtime": null, "Rating": "NR", "DateModified": "\/Date(1268246036000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70117364", "TinyUrl": "http://movi.es/BVnIS", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70117364.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70117364.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70117364.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVnIS')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVNxX')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70019967.jpg", "content_type": "image/jpeg", "media_etag": "\"9/17/2010 3:40:49 PM\""
+}, "Id": "BVNxX", "Name": "China Beach: Season 1", "ShortName": "China Beach: Season 1", "Synopsis": "This Emmy Award-winning drama series views the horrors of the Vietnam War as it unfolds in the late 1960s through the eyes of the medics and nurses who tend to the sick, wounded and dying. At the show's center is nurse Colleen McMurphy (Dana Delany). She's trying desperately to cling to her humanity even as she faces brutality and the less-obvious casualties of war every single day. Co-stars Nan Woods, Marg Helgenberger and Michael Boatman.", "ShortSynopsis": "This Emmy Award-winning drama series views the horrors of the Vietnam War as it unfolds in the late 1960s through the eyes of the medics and nurses.", "AverageRating": 4.2, "ReleaseYear": 1988, "Url": "http://www.netflix.com/Movie/China_Beach_Season_1/70019967", "Runtime": null, "Rating": "NR", "DateModified": "\/Date(1284738049000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70019967", "TinyUrl": "http://movi.es/BVNxX", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70019967.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70019967.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70019967.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVNxX')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVoKT')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70121333.jpg", "content_type": "image/jpeg", "media_etag": "\"9/17/2010 3:40:48 PM\""
+}, "Id": "BVoKT", "Name": "Miami Trauma: Season 1", "ShortName": "Miami Trauma: Season 1", "Synopsis": "This hard-hitting hospital drama from the mind of executive producer Jerry Bruckheimer shadows a driven team of Miami surgeons who specialize in performing well during the 60-minute \"golden hour\" just after a patient is critically injured. Jeremy Northam stars as Dr. Matthew Proctor, a former Gulf War surgeon who's new to the team, with Omar Gooding (the younger brother of Cuba Gooding Jr.) co-starring as head nurse Tuck Brody.", "ShortSynopsis": "This hard-hitting hospital drama from the mind of executive producer Jerry Bruckheimer shadows a driven team of Miami surgeons who specialize in performing well during the 60-minute \"golden hour\" just after a patient is critically injured.", "AverageRating": 4.1, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/Miami_Trauma_Season_1/70121333", "Runtime": null, "Rating": "NR", "DateModified": "\/Date(1284738048000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70121333", "TinyUrl": "http://movi.es/BVoKT", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70121333.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70121333.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70121333.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVoKT')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVuJB')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70144317.jpg", "content_type": "image/jpeg", "media_etag": "\"12/2/2010 1:30:27 AM\""
+}, "Id": "BVuJB", "Name": "Miami Medical", "ShortName": "Miami Medical", "Synopsis": "In this passionate, cutting-edge medical drama, there's plenty of laughter to go with the tension when Dr. Matthew Proctor (Jeremy Northam) is named to head the Alpha Team, an elite group of trauma surgeons and staff operating at a major Miami hospital. Assuming new leadership means rubbing elbows with some other sharp-edged personalities in the group, including fellow MDs Eva Zambrano (Lana Parrilla) and Chris DeLeo (Mike Vogel).", "ShortSynopsis": "In this passionate, cutting-edge medical drama, there's plenty of laughter to go with the tension when Dr. Matthew Proctor is named to head the Alpha Team, an elite group of trauma surgeons and staff operating at a major Miami hospital.", "AverageRating": 4.3, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/Miami_Medical/70144317", "Runtime": null, "Rating": "TV-14", "DateModified": "\/Date(1291253427000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70144317", "TinyUrl": "http://movi.es/BVuJB", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70144317.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70144317.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70144317.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "TV-14", "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVuJB')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca1AI')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70157486.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "ca1AI", "Name": "Bramwell: Season 3", "ShortName": "Bramwell: Season 3", "Synopsis": "Pioneering Dr. Eleanor Bramwell (Jemma Redgrave) continues her quest to move medicine into modern times while struggling against the constraints of her male-dominated field in this dramatic series set in late 19th-century London. This season, Bramwell deals with industrial accidents at the local brewery, treats a woman who's been concealing her breast cancer, and formalizes her engagement to a physician doing groundbreaking immunization work.", "ShortSynopsis": "Bramwell deals with industrial accidents at the local brewery, treats a woman who's been concealing her breast cancer, and formalizes her engagement.", "AverageRating": 3, "ReleaseYear": 1997, "Url": "http://www.netflix.com/Movie/Bramwell_Season_3/70085058", "Runtime": 36000, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157486/seasons/70085058", "TinyUrl": "http://movi.es/ca1AI", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70157486.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70157486.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70157486.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70157486.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1199750400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 36000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1301616000000)\/", "AvailableTo": "\/Date(1344988800000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1AI')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca3lq')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70157435.jpg", "content_type": "image/jpeg", "media_etag": "\"6/20/2011 7:13:08 PM\""
+}, "Id": "ca3lq", "Name": "ER: Season 15", "ShortName": "ER: Season 15", "Synopsis": "The doctors and other ER personnel of Chicago's County General Hospital continue their diligent and often heroic efforts to help heal the various patients who come through the doors in this 15th and final season of the smash-hit medical drama. Goran Visnjic, Maura Tierney, Mekhi Phifer, Parminder Nagra, John Stamos, Linda Cardellini and Scott Grimes star in the series, which has received numerous awards, including multiple Emmys.", "ShortSynopsis": "The ER staff at Chicago's County General Hospital continues their efforts to heal the patients who come through the doors in the show's final season.", "AverageRating": 3, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/ER_Season_15/70095074", "Runtime": 57000, "Rating": "NR", "DateModified": "\/Date(1308597188000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157435/seasons/70095074", "TinyUrl": "http://movi.es/ca3lq", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70157435.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70157435.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70157435.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1310428800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 57000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lq')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca3nd')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70157294.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 8:01:32 PM\""
+}, "Id": "ca3nd", "Name": "Private Practice: Season 2", "ShortName": "Private Practice: Season 2", "Synopsis": "Gifted surgeon Addison Montgomery (Kate Walsh) and her colleagues -- divorced couple Naomi (Audra McDonald) and Sam (Taye Diggs) -- must solve a new batch of complex medical cases while contemplating romantic entanglements in this hit spinoff's second season. The talented ensemble cast also includes Amy Brenneman as psychiatrist Violet Turner and Tim Daly as Pete Wilder, an alternative-medicine specialist who makes Addison's heart flutter.", "ShortSynopsis": "Gifted surgeon Addison Montgomery and her colleagues -- divorced couple Naomi and Sam -- must solve a new batch of complex medical cases while contemplating romantic entanglements in this hit spinoff's second season.", "AverageRating": 3, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Private_Practice_Season_2/70095185", "Runtime": 60000, "Rating": "TV-PG", "DateModified": "\/Date(1328904092000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157294/seasons/70095185", "TinyUrl": "http://movi.es/ca3nd", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70157294.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70157294.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70157294.jpg", "HighDefinitionUrl": "http://cdn-5.nflximg.com/en_us/boxshots/ghd/70157294.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1252972800000)\/", "AvailableTo": null, "Rating": "TV-PG", "Runtime": 60000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1318464000000)\/", "AvailableTo": "\/Date(1444694400000)\/", "HighDefinitionAvailable": true, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3nd')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca4GR')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70142399.jpg", "content_type": "image/jpeg", "media_etag": "\"7/29/2011 4:39:28 PM\""
+}, "Id": "ca4GR", "Name": "Nip/Tuck: Season 6", "ShortName": "Nip/Tuck: Season 6", "Synopsis": "Return to Los Angeles' premier plastic surgery center for a sixth season of this controversial Emmy and Golden Globe-winning series. Sean McNamara (Dylan Walsh) and Christian Troy (Julian McMahon) spend their second year in their new location catering to the rich and famous. Each case brings its own complications, whether they're on or off the operating table. John Hensley, Roma Maffia, Kelly Carlson and Joely Richardson co-star.", "ShortSynopsis": "In the sixth season of this controversial series, Sean and Christian spend their second year in their new location catering to the rich and famous.", "AverageRating": 3.1, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Nip_Tuck_Season_6/70096971", "Runtime": 58140, "Rating": "TV-MA", "DateModified": "\/Date(1311957568000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70142399/seasons/70096971", "TinyUrl": "http://movi.es/ca4GR", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70142399.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70142399.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70142399.jpg", "HighDefinitionUrl": "http://cdn-1.nflximg.com/en_us/boxshots/ghd/70142399.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1275955200000)\/", "AvailableTo": null, "Rating": "TV-MA", "Runtime": 58140
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1277942400000)\/", "AvailableTo": "\/Date(1404172800000)\/", "HighDefinitionAvailable": true, "Rating": "TV-MA", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4GR')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca763')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70136117.jpg", "content_type": "image/jpeg", "media_etag": "\"8/15/2011 8:14:04 PM\""
+}, "Id": "ca763", "Name": "House, M.D.: Season 5", "ShortName": "House, M.D.: Season 5", "Synopsis": "Maverick physician Dr. Gregory House (Hugh Laurie) returns for the fifth season of this procedural show about a doctor who, despite his brusque demeanor and chronic physical ailments, remains the ultimate authority in the field of infectious diseases. This season, House and his team try to save dying patients who have been infected by the organs of a single donor. Then, the doctor holds auditions to find himself some new friends.", "ShortSynopsis": "Dr. Gregory House returns for Season 5 of this series about a maverick physician who is the ultimate authority in the field of infectious diseases.", "AverageRating": 3, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/House_M.D._Season_5/70107859", "Runtime": 63600, "Rating": "NR", "DateModified": "\/Date(1313439244000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70136117/seasons/70107859", "TinyUrl": "http://movi.es/ca763", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70136117.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70136117.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70136117.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1251158400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 63600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca763')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca883')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70153370.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "ca883", "Name": "In Treatment: Season 2", "ShortName": "In Treatment: Season 2", "Synopsis": "After getting divorced and relocating to Brooklyn, persistent psychotherapist Paul (Gabriel Byrne) juggles a new roster of clients including a CEO (John Mahoney) in crisis, a woman unwilling to battle her cancer (Alison Pill) and a boy (Aaron Grady Shaw) caught between his divorcing parents. Once a week Paul heads back home to Maryland, where he visits his kids and struggles through demanding sessions with his own therapist (Dianne Wiest).", "ShortSynopsis": "Psychotherapist Paul juggles a roster of clients including a woman unwilling to battle her cancer and a boy coping with his divorcing parents.", "AverageRating": 3, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/In_Treatment_Season_2/70111827", "Runtime": 52380, "Rating": "TV-MA", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70153370/seasons/70111827", "TinyUrl": "http://movi.es/ca883", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70153370.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70153370.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70153370.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1289260800000)\/", "AvailableTo": null, "Rating": "TV-MA", "Runtime": 52380
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca883')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca8k4')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70142362.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:30:28 PM\""
+}, "Id": "ca8k4", "Name": "Nurse Jackie: Season 1", "ShortName": "Nurse Jackie: Season 1", "Synopsis": "Edie Falco stars as feisty emergency room nurse Jackie Peyton, who boldly navigates the storm of patients, doctors, fellow nurses and her own demons at a New York hospital -- occasionally with the aid of unprescribed prescription drugs.", "ShortSynopsis": "Edie Falco stars as a feisty ER nurse who boldly navigates the storm of patients, doctors and her own personal demons at a New York hospital.", "AverageRating": 3, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Nurse_Jackie_Season_1/70114184", "Runtime": 19980, "Rating": "TV-MA", "DateModified": "\/Date(1328902228000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70142362/seasons/70114184", "TinyUrl": "http://movi.es/ca8k4", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1266883200000)\/", "AvailableTo": null, "Rating": "TV-MA", "Runtime": 19980
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70142362.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70142362.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70142362.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1266883200000)\/", "AvailableTo": null, "Rating": "TV-MA", "Runtime": 19980
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca8k4')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caA7T')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70157148.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "caA7T", "Name": "Third Watch: Season 2", "ShortName": "Third Watch: Season 2", "Synopsis": "Paramedic Alex Taylor (Amy Carlson) joins the 55 Squad, while detective Faith Yokas (Molly Price) lies about her miscarriage. Plus, officer Tyrone Davis (Coby Bell) discovers a shocking family secret in the second season of this series about cops, firefighters and EMTs in New York. The emergency workers working the 3 to 11 p.m. shift face everything from escaped prisoners and cop killers to a kidnapping victim who's been buried alive.", "ShortSynopsis": "Paramedic Alex Taylor joins the 55 Squad, while detective Faith Yokas lies about her miscarriage. Plus, officer Tyrone Davis discovers a shocking family secret in the second season of this series about cops, firefighters and EMTs in New York.", "AverageRating": 3, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Third_Watch_Season_2/70119479", "Runtime": 59340, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157148/seasons/70119479", "TinyUrl": "http://movi.es/caA7T", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70157148.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70157148.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70157148.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1246924800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 59340
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caA7T')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caAK3')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70140391.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:58:12 PM\""
+}, "Id": "caAK3", "Name": "Grey's Anatomy: Season 6", "ShortName": "Grey's Anatomy: Season 6", "Synopsis": "With the fates of Izzie and George hanging in the balance, the new season brings more drama to the doctors at Seattle Grace Hospital. And when budget cuts threaten their jobs, the residents and interns become even more competitive.", "ShortSynopsis": "With the fates of Izzie and George hanging in the balance, the new season brings more drama to the doctors at Seattle Grace Hospital.", "AverageRating": 3, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Grey_s_Anatomy_Season_6/70120259", "Runtime": 61920, "Rating": "TV-14", "DateModified": "\/Date(1328903892000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140391/seasons/70120259", "TinyUrl": "http://movi.es/caAK3", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "TV-14", "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70140391.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70140391.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70140391.jpg", "HighDefinitionUrl": "http://cdn-9.nflximg.com/en_us/boxshots/ghd/70140391.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1284422400000)\/", "AvailableTo": null, "Rating": "TV-14", "Runtime": 61920
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1284422400000)\/", "AvailableTo": "\/Date(1420329600000)\/", "HighDefinitionAvailable": true, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAK3')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caAmr')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70171946.jpg", "content_type": "image/jpeg", "media_etag": "\"5/26/2011 2:51:31 PM\""
+}, "Id": "caAmr", "Name": "Heartland: Season 1: Part 1", "ShortName": "Heartland: Season 1: Part 1", "Synopsis": "After her mother dies in a tragic accident, teenage Amy (Amber Marshall) is determined to follow in her mom's footsteps by healing abused horses at Heartland, the bucolic family ranch nestled in the foothills of the Canadian Rockies. When the ranch falls into debt, city girl Lou (Michelle Morgan) joins younger sis Amy to help their grandfather (Shaun Johnston) keep the family's legacy alive. Graham Wardle co-stars as Ty, a handsome stable hand.", "ShortSynopsis": "After her mother dies in a tragic accident, teenage Amy is determined to follow in her mom's footsteps by healing abused horses at Heartland, the bucolic family ranch nestled in the foothills of the Canadian Rockies.", "AverageRating": 3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Heartland_Season_1_Part_1/70122045", "Runtime": 18900, "Rating": "NR", "DateModified": "\/Date(1306421491000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70171946/seasons/70122045", "TinyUrl": "http://movi.es/caAmr", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70171946.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70171946.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70171946.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1252972800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 18900
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAmr')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caAUI')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70171940.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 2:27:39 PM\""
+}, "Id": "caAUI", "Name": "Trauma: Season 1", "ShortName": "Trauma: Season 1", "Synopsis": "This fast-paced drama series follows the brave men and women of San Francisco General Hospital's first-responder paramedic unit, a team that races to the save victims of trauma and tragedy wherever they are, whatever the danger.", "ShortSynopsis": "Medics put their skills and endurance to the test as they race through a large urban area to save victims of trauma and tragedy, wherever they are.", "AverageRating": 3, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Trauma_Season_1/70120894", "Runtime": 46020, "Rating": "NR", "DateModified": "\/Date(1328884059000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70171940/seasons/70120894", "TinyUrl": "http://movi.es/caAUI", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70171940.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70171940.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70171940.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 46020
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAUI')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caCkK')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70142362.jpg", "content_type": "image/jpeg", "media_etag": "\"12/24/2011 2:03:02 AM\""
+}, "Id": "caCkK", "Name": "Nurse Jackie: Season 2", "ShortName": "Nurse Jackie: Season 2", "Synopsis": "Showtime's series returns for a second season as abrasive, assertive Jackie Peyton (Edie Falco) continues to juggle her high-pressure job as an ER nurse, her volatile relationships with the hospital staff and her addiction to painkillers.", "ShortSynopsis": "Showtime's series returns for a second season as abrasive, assertive Jackie Peyton continues to juggle her high-pressure job as an ER nurse, her volatile relationships with the hospital staff and her addiction to painkillers.", "AverageRating": 3, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/Nurse_Jackie_Season_2/70129576", "Runtime": 20100, "Rating": "NR", "DateModified": "\/Date(1324692182000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70142362/seasons/70129576", "TinyUrl": "http://movi.es/caCkK", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1298332800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 20100
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70142362.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70142362.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70142362.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1298332800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 20100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCkK')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caEQA')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70143863.jpg", "content_type": "image/jpeg", "media_etag": "\"8/12/2011 9:20:22 PM\""
+}, "Id": "caEQA", "Name": "HawthoRNe: Season 2", "ShortName": "HawthoRNe: Season 2", "Synopsis": "Jada Pinkett Smith returns in the role of chief nurse Christina Hawthorne in the second season of this TNT drama about the lives of caregivers and patients inside a fictional Richmond, Va., hospital. In the season premiere, Christina starts with a clean slate under new management at James River Hospital, while sexual tension continues to build between her and surgery chief Dr. Tom Wakefield (Michael Vartan).", "ShortSynopsis": "Jada Pinkett Smith returns in the role of chief nurse Christina Hawthorne in the second season of this TNT drama about the lives of caregivers and patients inside a fictional Richmond, Va., hospital.", "AverageRating": 3, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/HawthoRNe_Season_2/70136014", "Runtime": 25500, "Rating": "NR", "DateModified": "\/Date(1313184022000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143863/seasons/70136014", "TinyUrl": "http://movi.es/caEQA", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70143863.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70143863.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70143863.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1307404800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 25500
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEQA')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caF7m')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140378.jpg", "content_type": "image/jpeg", "media_etag": "\"7/21/2011 9:11:18 PM\""
+}, "Id": "caF7m", "Name": "Doc Martin: Series 4", "ShortName": "Doc Martin: Series 4", "Synopsis": "Harried and uncouth as ever, Dr. Martin Ellingham (Martin Clunes) continues to practice his personal brand of medicine on the eccentric residents of Portwenn, England, in Season 4 of the popular BBC comedy-drama series. After breaking his engagement to the village headmistress (Caroline Catz), the doctor hopes to trade the countryside for London, but multiple obstacles stand in his way -- including some dire news from his ex-fianc\u00e9e.", "ShortSynopsis": "Martin's fear of blood may be over, but his contemplated move back to the city may be premature as Louisa gives him news that may alter their future.", "AverageRating": 3, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Doc_Martin_Series_4/70138718", "Runtime": 22020, "Rating": "NR", "DateModified": "\/Date(1311282678000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140378/seasons/70138718", "TinyUrl": "http://movi.es/caF7m", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70140378.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70140378.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140378.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70140378.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1278374400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 22020
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1278374400000)\/", "AvailableTo": "\/Date(1342915200000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caF7m')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caFbR')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70195796.jpg", "content_type": "image/jpeg", "media_etag": "\"1/24/2012 8:59:24 PM\""
+}, "Id": "caFbR", "Name": "Off the Map: The Complete Series", "ShortName": "Off the Map: The Complete Series", "Synopsis": "Eager for a fresh start, young doctors Lily, Mina and Manny relocate to a remote South American town, where they work in an underfunded medical clinic as they try to conquer their fears and unlock their potential in this uplifting medical drama.", "ShortSynopsis": "Eager for a fresh start, three young doctors relocate to a remote South American town, where they work in an underfunded medical clinic.", "AverageRating": 4.2, "ReleaseYear": 2011, "Url": "http://www.netflix.com/Movie/Off_the_Map_The_Complete_Series/70140557", "Runtime": 33540, "Rating": "NR", "DateModified": "\/Date(1327438764000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70195796/seasons/70140557", "TinyUrl": "http://movi.es/caFbR", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70195796.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70195796.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70195796.jpg", "HighDefinitionUrl": "http://cdn-7.nflximg.com/en_us/boxshots/ghd/70195796.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1314057600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 33540
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1320105600000)\/", "AvailableTo": "\/Date(1351728000000)\/", "HighDefinitionAvailable": true, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFbR')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caGdn')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70136117.jpg", "content_type": "image/jpeg", "media_etag": "\"8/18/2011 3:58:13 PM\""
+}, "Id": "caGdn", "Name": "House, M.D.: Season 7", "ShortName": "House, M.D.: Season 7", "Synopsis": "In the seventh season of this passionately acted hospital drama,  irascible Dr. Gregory House (Hugh Laurie) comes to terms with the authenticity of his friendship with Dr. James Wilson (Robert Sean Leonard), solving medical mysteries with counter-intuitive methods while he's at it. The story  picks up after last season with House, struggling with Hanna's death and in pain, tempted to give in to his Vicodin addiction.", "ShortSynopsis": "Irascible Dr. House comes to terms with the authenticity of his friendship with Dr. Wilson and is tempted to give in to his Vicodin addiction.", "AverageRating": 3, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/House_M.D._Season_7/70144547", "Runtime": 60000, "Rating": "NR", "DateModified": "\/Date(1313683093000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70136117/seasons/70144547", "TinyUrl": "http://movi.es/caGdn", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1314662400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 60000
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70136117.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70136117.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70136117.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1314662400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 60540
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGdn')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caHyd')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70140391.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:58:12 PM\""
+}, "Id": "caHyd", "Name": "Grey's Anatomy: Season 7", "ShortName": "Grey's Anatomy: Season 7", "Synopsis": "As a trauma counselor helps determine which doctors are ready to go back to work, Cristina and Owen move forward with their wedding plans. Meanwhile, Derek resigns as chief of surgery and Meredith mourns her miscarriage.", "ShortSynopsis": "As a trauma counselor helps determine which doctors are ready to go back to work, Cristina and Owen move forward with their wedding plans.", "AverageRating": 3.1, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/Grey_s_Anatomy_Season_7/70149683", "Runtime": 56760, "Rating": "TV-14", "DateModified": "\/Date(1328903892000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140391/seasons/70149683", "TinyUrl": "http://movi.es/caHyd", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70140391.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70140391.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70140391.jpg", "HighDefinitionUrl": "http://cdn-3.nflximg.com/en_us/boxshots/ghd/70140391.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1315872000000)\/", "AvailableTo": null, "Rating": "TV-14", "Runtime": 56760
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1315872000000)\/", "AvailableTo": "\/Date(1420329600000)\/", "HighDefinitionAvailable": true, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHyd')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caIhk')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70153370.jpg", "content_type": "image/jpeg", "media_etag": "\"10/10/2011 7:28:50 PM\""
+}, "Id": "caIhk", "Name": "In Treatment: Season 3", "ShortName": "In Treatment: Season 3", "Synopsis": "Golden Globe winner Gabriel Byrne returns for a third season of this penetrating HBO drama as the poker-faced Dr. Paul Weston, a psychoanalyst who meets regularly with his former therapist, Dr. Gina Toll (Dianne Wiest), to deal with his own issues. Dr. Weston's challenging new roster of clients this season includes Adele (Debra Winger), Frances (Amy Ryan), Sunil (Irrfan Khan) and Jesse (Dane DeHaan).", "ShortSynopsis": "In Season 3, psychoanalyst Dr. Weston meets with his former therapist about his own issues while handling a challenging new roster of clients.", "AverageRating": 3, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/In_Treatment_Season_3/70152480", "Runtime": 41340, "Rating": "TV-MA", "DateModified": "\/Date(1318274930000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70153370/seasons/70152480", "TinyUrl": "http://movi.es/caIhk", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70153370.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70153370.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70153370.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1320105600000)\/", "AvailableTo": null, "Rating": "TV-MA", "Runtime": 41340
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caIhk')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caINy')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70142362.jpg", "content_type": "image/jpeg", "media_etag": "\"12/6/2011 1:46:13 AM\""
+}, "Id": "caINy", "Name": "Nurse Jackie: Season 3", "ShortName": "Nurse Jackie: Season 3", "Synopsis": "Although she claims she isn't funny, Edie Falco won a comedy Emmy for her role as Jackie Peyton, a harassed ER nurse struggling to overcome an increasing addiction to prescription drugs while juggling love affairs and a chaotic family life. After the fiery second season finale, Jackie tries to repair her relationships with her wounded husband, Kevin (Dominic Fumusa), her pharmacist lover, Eddie (Paul Schulze), and the drug dealer she ripped off.", "ShortSynopsis": "ER nurse Jackie Peyton tries to repair her relationships with her wounded husband, her pharmacist lover and the drug dealer she ripped off.", "AverageRating": 3.1, "ReleaseYear": 2011, "Url": "http://www.netflix.com/Movie/Nurse_Jackie_Season_3/70151254", "Runtime": 20040, "Rating": "NR", "DateModified": "\/Date(1323135973000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70142362/seasons/70151254", "TinyUrl": "http://movi.es/caINy", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(1329782400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 20040
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70142362.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70142362.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70142362.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(1329782400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 20040
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caINy')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caNJN')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70171946.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:51:25 PM\""
+}, "Id": "caNJN", "Name": "Heartland: Season 1", "ShortName": "Heartland: Season 1", "Synopsis": "Attempting to pick up the pieces after the tragic death of their mother, sisters Amy and Lou work on their grandfather's horse ranch in Alberta's Rocky Mountains, seeing the operation through good times and bad and learning to thrive on the land.", "ShortSynopsis": "After the death of their mother, sisters Amy and Lou work on their grandfather's horse ranch, seeing the operation through good times and bad.", "AverageRating": 3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Heartland_Season_1/70170189", "Runtime": null, "Rating": "NR", "DateModified": "\/Date(1328903485000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70171946/seasons/70170189", "TinyUrl": "http://movi.es/caNJN", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70171946.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70171946.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70171946.jpg", "HighDefinitionUrl": "http://cdn-9.nflximg.com/en_us/boxshots/ghd/70171946.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1306886400000)\/", "AvailableTo": "\/Date(1370044800000)\/", "HighDefinitionAvailable": true, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caNJN')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZiDh')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70157486.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZiDh", "Name": "Bramwell: Season 4", "ShortName": "Bramwell: Season 4", "Synopsis": "Set in Victorian London, this final installment in the popular British television series follows the adventures of Dr. Eleanor Bramwell (Jemma Redgrave). Women doctors were marginalized in the late 19th century, so when Eleanor attempts to climb the career ladder, she encounters strong resistance. Bucking traditions, Eleanor defies her father's wish that she join him in his private practice, and instead focuses on her own dreams.", "ShortSynopsis": "Bucking tradition, 19th century doctor Eleanor Bramwell defies her father's wishes and climbs the career ladder in pursuit of her own dreams.", "AverageRating": 3, "ReleaseYear": 1998, "Url": "http://www.netflix.com/Movie/Bramwell_Season_4/70012233", "Runtime": 14400, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157486/seasons/70012233", "TinyUrl": "http://movi.es/cZiDh", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70157486.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70157486.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70157486.jpg", "HighDefinitionUrl": "http://cdn-3.nflximg.com/en_us/boxshots/ghd/70157486.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1096934400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 14400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1301616000000)\/", "AvailableTo": "\/Date(1344988800000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiDh')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZiOe')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70180052.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZiOe", "Name": "Dr. Quinn, Medicine Woman: Season 4", "ShortName": "Dr. Quinn, Medicine Woman: Season 4", "Synopsis": "In the fourth season of this popular series, Michaela \"Mike\" Quinn (Jane Seymour) settles into married life with her new husband, Sully (Joe Lando), as they and their family also try to adjust to the winds of change blowing through their developing town. The series focuses on the courageous doctor who left her gracious existence in mid-19th-century Boston and headed for the American frontier, setting up her own practice in rough-hewn Colorado.", "ShortSynopsis": "In the fourth season of this popular series, Michaela \"Mike\" Quinn settles into married life with her new husband, Sully, as they and their family also try to adjust to the winds of change blowing through their developing town.", "AverageRating": 3.8, "ReleaseYear": 1995, "Url": "http://www.netflix.com/Movie/Dr._Quinn_Medicine_Woman_Season_4/70012912", "Runtime": 78960, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70180052/seasons/70012912", "TinyUrl": "http://movi.es/cZiOe", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70180052.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70180052.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70180052.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1098748800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 78960
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiOe')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZk7r')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70180052.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZk7r", "Name": "Dr. Quinn, Medicine Woman: Season 5", "ShortName": "Dr. Quinn, Medicine Woman: Season 5", "Synopsis": "Back to her practice after having her baby, Dr. Michaela \"Mike\" Quinn (Jane Seymour) deals with the ever-increasing pressures of being a working mother and battles a malpractice suit in Season 5 of the Emmy Award-winning series. Her Boston society days well behind her, Dr. Mike braves life on Colorado's open range with mountaineer husband Byron (Joe Lando) and three adopted children. Guest stars include Johnny Cash and June Carter Cash.", "ShortSynopsis": "Back to her practice after having her baby, Dr. Michaela \"Mike\" Quinn deals with the ever-increasing pressures of being a working mother and battles a malpractice suit in Season 5 of the Emmy Award-winning series.", "AverageRating": 3.8, "ReleaseYear": 1996, "Url": "http://www.netflix.com/Movie/Dr._Quinn_Medicine_Woman_Season_5/70019559", "Runtime": 73320, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70180052/seasons/70019559", "TinyUrl": "http://movi.es/cZk7r", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70180052.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70180052.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70180052.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1106611200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 73320
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZk7r')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZkEi')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70142399.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZkEi", "Name": "Nip/Tuck: Season 2", "ShortName": "Nip/Tuck: Season 2", "Synopsis": "The business of making people look good can be ugly -- at least for two Miami plastic surgeons, Sean McNamara (Dylan Walsh) and Christian Troy (Julian McMahon), whose professional successes belie their personal struggles and dysfunctional relationships. This season, as both men turn 40, an age that usually sends their patients into panic, Sean attempts to repair his fractured marriage, while Christian continues to blaze a trail of sexual excess.", "ShortSynopsis": "Miami plastic surgeon Sean attempts to repair his fractured marriage, while his partner Christian continues to blaze a trail of sexual excess.", "AverageRating": 3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Nip_Tuck_Season_2/70019984", "Runtime": 38280, "Rating": "TV-MA", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70142399/seasons/70019984", "TinyUrl": "http://movi.es/cZkEi", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70142399.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70142399.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70142399.jpg", "HighDefinitionUrl": "http://cdn-4.nflximg.com/en_us/boxshots/ghd/70142399.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1125360000000)\/", "AvailableTo": null, "Rating": "TV-MA", "Runtime": 38280
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1277942400000)\/", "AvailableTo": "\/Date(1404172800000)\/", "HighDefinitionAvailable": true, "Rating": "TV-MA", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkEi')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZkFA')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70157148.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZkFA", "Name": "Third Watch: Season 1", "ShortName": "Third Watch: Season 1", "Synopsis": "Get to know the men and women of the 55 Squad's police, fire and paramedics units in this debut season of the NBC drama, in which veterans and rookies alike are tested every day on the streets of New York City. As danger and stress threaten to engulf them from one moment to the next, some recruits may buckle under pressure, but an even greater number are able to protect and serve, proving they belong among New York's bravest and finest.", "ShortSynopsis": "Get to know the men and women of the 55 Squad's police, fire and paramedics units in this debut season of the NBC drama, in which veterans and rookies alike are tested every day on the streets of New York City.", "AverageRating": 3, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/Third_Watch_Season_1/70020012", "Runtime": 79200, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157148/seasons/70020012", "TinyUrl": "http://movi.es/cZkFA", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70157148.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70157148.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70157148.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1202169600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 79200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkFA')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZkYj')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70157446.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZkYj", "Name": "Doogie Howser, M.D.: Season 1", "ShortName": "Doogie Howser, M.D.: Season 1", "Synopsis": "Teen genius Doogie juggles his responsibilities as a doctor with natural teenage urges in this dramedy. In Season 1, he works grueling shifts in the pediatric ward but still finds time to earn his driver's license and throw a party with pal Vinnie.", "ShortSynopsis": "Teen genius Doogie juggles his responsibilities as a doctor with natural teenage urges in this dramedy. In Season 1, he works grueling shifts in the pediatric ward but still finds time to earn his driver's license and throw a party with pal Vinnie.", "AverageRating": 3, "ReleaseYear": 1989, "Url": "http://www.netflix.com/Movie/Doogie_Howser_M.D._Season_1/70021225", "Runtime": 39000, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157446/seasons/70021225", "TinyUrl": "http://movi.es/cZkYj", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70157446.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70157446.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70157446.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 39000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkYj')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZnt7')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70180052.jpg", "content_type": "image/jpeg", "media_etag": "\"4/26/2011 8:47:19 AM\""
+}, "Id": "cZnt7", "Name": "Dr. Quinn, Medicine Woman: Season 6", "ShortName": "Dr. Quinn, Medicine Woman: Season 6", "Synopsis": "Although the sixth year proved the last for this Emmy-winning television Western, the show remained replete with intriguing characters and memorable stories about gallantry, romance and family values. When Colorado Springs falls on financial hard times, Dr. Michaela Quinn (Jane Seymour), her husband (Joe Lando) and the rest of the town's denizens try to make the best of it. John Schneider joins the regular cast as new sheriff Daniel Simon.", "ShortSynopsis": "Although the sixth year proved the last for this Emmy-winning television Western, the show remained replete with intriguing characters and memorable stories about gallantry, romance and family values.", "AverageRating": 3.8, "ReleaseYear": 1997, "Url": "http://www.netflix.com/Movie/Dr._Quinn_Medicine_Woman_Season_6/70034021", "Runtime": 62040, "Rating": "NR", "DateModified": "\/Date(1303807639000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70180052/seasons/70034021", "TinyUrl": "http://movi.es/cZnt7", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70180052.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70180052.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70180052.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1122336000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 62040
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZnt7')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZoip')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70157446.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZoip", "Name": "Doogie Howser, M.D.: Season 2", "ShortName": "Doogie Howser, M.D.: Season 2", "Synopsis": "He might be a doctor, but 15-year-old kid genius Doogie Howser (Neil Patrick Harris) still has to deal with the hassles and hang-ups of teenage life in this Emmy-winning dramedy created by Steven Bochco and David E. Kelley. After breezing through high school, graduating from an Ivy League college and passing his medical boards, there's just one more credential Doogie needs -- his driver's license.", "ShortSynopsis": "He might be a doctor, but 15-year-old kid genius Doogie Howser still has to deal with the hassles and hang-ups of teenage life in this Emmy-winning dramedy created by Steven Bochco and David E. Kelley.", "AverageRating": 3, "ReleaseYear": 1990, "Url": "http://www.netflix.com/Movie/Doogie_Howser_M.D._Season_2/70037227", "Runtime": 37440, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157446/seasons/70037227", "TinyUrl": "http://movi.es/cZoip", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70157446.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70157446.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70157446.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1125964800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 37440
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoip')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZoZN')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70157486.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZoZN", "Name": "Bramwell: Season 1", "ShortName": "Bramwell: Season 1", "Synopsis": "Despite resistance from her male colleagues, London doctor Eleanor Bramwell (Jemma Redgrave) pursues her dream of being a leading surgeon in this Victorian-era drama. Goodhearted Eleanor often gets caught up in her patients' troubled lives, and she stands her ground against the negative comments of head surgeon Sir Herbert Hamilton (Robert Hardy). Season 1 ends with Eleanor's matchmaker father finding the perfect mate for his daughter.", "ShortSynopsis": "Despite resistance from her male colleagues, physician Eleanor Bramwell pursues her dream of being a leading surgeon in Victorian-era London.", "AverageRating": 3, "ReleaseYear": 1995, "Url": "http://www.netflix.com/Movie/Bramwell_Season_1/70036641", "Runtime": 25200, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157486/seasons/70036641", "TinyUrl": "http://movi.es/cZoZN", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70157486.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70157486.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70157486.jpg", "HighDefinitionUrl": "http://cdn-1.nflximg.com/en_us/boxshots/ghd/70157486.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1123545600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 25200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1301616000000)\/", "AvailableTo": "\/Date(1344988800000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoZN')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZs6O')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70157435.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZs6O", "Name": "ER: Season 5", "ShortName": "ER: Season 5", "Synopsis": "&NFb;&NFb_;His presence as attending physician somehow making the emergency room a more pleasant place to be, George Clooney finally takes his leave of the ER in Season 5 of the popular medical drama. These episodes also find a plucky med student (Kellie Martin) joining the staff and befriending Dr. Carter (Noah Wyle); Dr. Green (Anthony Edwards) struggling to keep his family together; and Dr. Corday (Alex Kingston) starting over as an intern.", "ShortSynopsis": "His presence as attending physician somehow making the emergency room a more pleasant place to be, George Clooney finally takes his leave of the ER in Season 5 of the popular medical drama.", "AverageRating": 3, "ReleaseYear": 1998, "Url": "http://www.netflix.com/Movie/ER_Season_5/70050220", "Runtime": 61620, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157435/seasons/70050220", "TinyUrl": "http://movi.es/cZs6O", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70157435.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70157435.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70157435.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1152576000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 61620
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs6O')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZs7o')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140391.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:58:12 PM\""
+}, "Id": "cZs7o", "Name": "Grey's Anatomy: Season 2", "ShortName": "Grey's Anatomy: Season 2", "Synopsis": "The interns of Seattle Grace are back for another season of saving lives while dealing with the continuing dramas in their own. Meredith is caught in a love triangle with Dr. \"McDreamy\" and his wife, while Cristina tests the waters with Dr. Burke.", "ShortSynopsis": "Meredith is caught in a love triangle with Dr. \"McDreamy\" and his wife, while Cristina tests the waters with Dr. Burke in Season 2.", "AverageRating": 3.1, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Grey_s_Anatomy_Season_2/70050308", "Runtime": 70800, "Rating": "NR", "DateModified": "\/Date(1328903892000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140391/seasons/70050308", "TinyUrl": "http://movi.es/cZs7o", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70140391.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70140391.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140391.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70140391.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1158019200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 70800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1294099200000)\/", "AvailableTo": "\/Date(1420329600000)\/", "HighDefinitionAvailable": true, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZs7o')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZtJO')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70157435.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZtJO", "Name": "ER: Season 7", "ShortName": "ER: Season 7", "Synopsis": "As the seventh season opens, Dr. Carter (Noah Wyle) returns from rehab after completing treatment for the narcotics addiction that plagued him since he was stabbed in the ER. Later, a love triangle develops between Carter, Nurse Lockhart (Maura Tierney) and Dr. Kovac (Goran Visnjic). Guest stars include James Belushi, James Cromwell and Sally Field, who earned an Emmy for her appearance as Lockhart's bipolar mother.", "ShortSynopsis": "As the seventh season opens, Dr. Carter returns from rehab after completing treatment for the narcotics addiction that plagued him since he was stabbed in the ER. Later, a love triangle develops between Carter, Nurse Lockhart and Dr. Kovac.", "AverageRating": 3, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/ER_Season_7/70054870", "Runtime": 58680, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157435/seasons/70054870", "TinyUrl": "http://movi.es/cZtJO", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70157435.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70157435.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70157435.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1179187200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 58680
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJO')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70157435.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZtJQ", "Name": "ER: Season 9", "ShortName": "ER: Season 9", "Synopsis": "Having survived the smallpox scare that caused the hospital lockdown in the previous season's finale, Dr. Carter (Noah Wyle) and Nurse Lockhart (Maura Tierney) are now lovers in the ninth season of this popular medical drama. As usual, the psychodrama threatens to overshadow the professional drama as Dr. Chen (Ming-Na) reveals she once gave up a child for adoption; two African-American staffers (Sharif Atkins, Mekhi Phifer) become murder suspects; and more.", "ShortSynopsis": "Having survived the smallpox scare that caused the hospital lockdown in the previous season's finale, Dr. Carter and Nurse Lockhart are now lovers in the ninth season of this popular medical drama.", "AverageRating": 3, "ReleaseYear": 2002, "Url": "http://www.netflix.com/Movie/ER_Season_9/70054872", "Runtime": 79200, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157435/seasons/70054872", "TinyUrl": "http://movi.es/cZtJQ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70157435.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70157435.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70157435.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1213660800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 79200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJQ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZtJS')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70157435.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZtJS", "Name": "ER: Season 11", "ShortName": "ER: Season 11", "Synopsis": "Angst and injuries abound as the new season of this award-winning medical drama opens with Drs. Pratt (Mekhi Phifer) and Chen (Ming-Na) fighting for their lives after a road-rage incident ends with their car in the river. Meanwhile, Dr. Carter (Noah Wyle) falls off the wagon; Nurse Taggart (Linda Cardellini) and Dr. Kovac (Goran Visnjic) move in together; and Dr. Lewis (Sherry Stringfield) becomes chief of emergency medicine.", "ShortSynopsis": "Angst and injuries abound as the new season of this award-winning medical drama opens with Drs. Pratt and Chen fighting for their lives after a road-rage incident ends with their car in the river. Meanwhile, Dr. Carter falls off the wagon.", "AverageRating": 3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/ER_Season_11/70054874", "Runtime": 60720, "Rating": "TV-14", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157435/seasons/70054874", "TinyUrl": "http://movi.es/cZtJS", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70157435.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70157435.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70157435.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1247529600000)\/", "AvailableTo": null, "Rating": "TV-14", "Runtime": 60720
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJS')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZtJU')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70157435.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZtJU", "Name": "ER: Season 13", "ShortName": "ER: Season 13", "Synopsis": "As the 13th season of this award-winning medical drama opens, the ER at Chicago's County Hospital is struggling to get back to normal after the shooting spree that came at the end of the previous season. Forest Whitaker begins a recurring role as a stroke victim who's suing Dr. Kovac (Goran Visnjic); Dr. Pratt (Mekhi Phifer) gets a new lady friend; and Busy Philipps joins the cast as an intern whose on-the-job training isn't going so well.", "ShortSynopsis": "As the 13th season of this award-winning medical drama opens, the ER at Chicago's County Hospital is struggling to get back to normal after the shooting spree that came at the end of the previous season.", "AverageRating": 3, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/ER_Season_13/70054876", "Runtime": 60720, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157435/seasons/70054876", "TinyUrl": "http://movi.es/cZtJU", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70157435.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70157435.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70157435.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1278374400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 60720
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJU')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZtKn')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70142399.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZtKn", "Name": "Nip/Tuck: Season 4", "ShortName": "Nip/Tuck: Season 4", "Synopsis": "The fourth season of this sexy series about the glamorous world of cosmetic surgery finds Sean (Dylan Walsh) and Julia (Joely Richardson) preparing for the birth of their child, while Christian (Julian McMahon) realizes his most intimate relationship is with Sean. Meanwhile, a couple (Larry Hagman and Sanaa Lathan) buys the practice, and Christian's new therapist (Brooke Shields) has an obsessive crush on him.", "ShortSynopsis": "Sean and Julia prepare for a new child, while Christian realizes his most intimate relationship is with Sean. Meanwhile, a couple buys the practice.", "AverageRating": 3, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Nip_Tuck_Season_4/70054957", "Runtime": 42900, "Rating": "TV-MA", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70142399/seasons/70054957", "TinyUrl": "http://movi.es/cZtKn", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1188864000000)\/", "AvailableTo": null, "Rating": "TV-MA", "Runtime": 42900
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70142399.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70142399.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70142399.jpg", "HighDefinitionUrl": "http://cdn-7.nflximg.com/en_us/boxshots/ghd/70142399.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1188864000000)\/", "AvailableTo": null, "Rating": "TV-MA", "Runtime": 42900
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1277942400000)\/", "AvailableTo": "\/Date(1404172800000)\/", "HighDefinitionAvailable": true, "Rating": "TV-MA", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtKn')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZwiB')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70157454.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZwiB", "Name": "Diagnosis Murder: Season 3", "ShortName": "Diagnosis Murder: Season 3", "Synopsis": "Murder mysteries continue to puzzle Dr. Mark Sloan (Dick Van Dyke), part-time sleuth and chief of internal medicine at Community General Hospital in Los Angeles. In this 18-episode collection, Sloan investigates the harvesting of human organs, the murder of a friend, the death of a female escort and more. Victoria Rowell, Barry Van Dyke and Charlie Schlatter also star in the third season of the long-running series.", "ShortSynopsis": null, "AverageRating": 3, "ReleaseYear": 1995, "Url": "http://www.netflix.com/Movie/Diagnosis_Murder_Season_3/70067939", "Runtime": 50400, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157454/seasons/70067939", "TinyUrl": "http://movi.es/cZwiB", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70157454.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70157454.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70157454.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1196726400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 50400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwiB')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZwuY')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70140378.jpg", "content_type": "image/jpeg", "media_etag": "\"11/10/2011 8:15:14 AM\""
+}, "Id": "cZwuY", "Name": "Doc Martin: Series 1", "ShortName": "Doc Martin: Series 1", "Synopsis": "Frozen by a newfound fear of blood, once-brilliant London surgeon Dr. Martin Ellingham (Martin Clunes) is forced to abandon his city practice and start anew as a small-town country doctor in the Cornish hamlet of Portwenn. As the first season of this English sitcom unfolds, Doc Martin opens his office, only to find his waiting room impossibly full. But nobody in town is really sick &#8230; they just want to meet their new neighbor.", "ShortSynopsis": "Frozen by a newfound fear of blood, a once-brilliant London surgeon abandons his city practice and starts anew as a small-town country doctor.", "AverageRating": 3, "ReleaseYear": 2004, "Url": "http://www.netflix.com/Movie/Doc_Martin_Series_1/70068706", "Runtime": 16560, "Rating": "NR", "DateModified": "\/Date(1320912914000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140378/seasons/70068706", "TinyUrl": "http://movi.es/cZwuY", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70140378.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70140378.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70140378.jpg", "HighDefinitionUrl": "http://cdn-6.nflximg.com/en_us/boxshots/ghd/70140378.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1181606400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 16560
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1191196800000)\/", "AvailableTo": "\/Date(1385683200000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZwuY')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZyKp')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70142399.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZyKp", "Name": "Nip/Tuck: Season 5: Part 1", "ShortName": "Nip/Tuck: Season 5: Part 1", "Synopsis": "In the fifth season of this groundbreaking FX series, Florida-based doctors Christian Troy (Julian McMahon) and Sean McNamara (Dylan Walsh) uproot their successful practice and move to the plastic surgery-laden shores of Los Angeles. But the change of scenery will do nothing to ease the drama that constantly surrounds Christian and Sean as they wrestle with love and family, betrayal and guilt. Guest stars include Portia de Rossi and Oliver Platt.", "ShortSynopsis": "In the fifth season of this trailblazing series, Florida-based doctors Christian Troy and Sean McNamara uproot their practice and move to Los Angeles.", "AverageRating": 3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Nip_Tuck_Season_5_Part_1/70074179", "Runtime": 37560, "Rating": "TV-MA", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70142399/seasons/70074179", "TinyUrl": "http://movi.es/cZyKp", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70142399.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70142399.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70142399.jpg", "HighDefinitionUrl": "http://cdn-9.nflximg.com/en_us/boxshots/ghd/70142399.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1230595200000)\/", "AvailableTo": null, "Rating": "TV-MA", "Runtime": 37560
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1277942400000)\/", "AvailableTo": "\/Date(1404172800000)\/", "HighDefinitionAvailable": true, "Rating": "TV-MA", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyKp')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZySI')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70157486.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZySI", "Name": "Bramwell: Season 2", "ShortName": "Bramwell: Season 2", "Synopsis": "In 1895 London, Dr. Eleanor Bramwell (Jemma Redgrave) runs a free hospital in one of the city's poorest neighborhoods, all the while struggling against the male-dominated medical establishment while she cares for the sick and injured. Fortunately, she has the wise counsel of her father, widower Robert (David Calder), who's also a doctor. Robert Hardy and Ruth Sheen co-star in this popular ITV series.", "ShortSynopsis": "In 1895 London, Dr. Bramwell runs a free hospital in a poor neighborhood while struggling against the male-dominated medical establishment.", "AverageRating": 3, "ReleaseYear": 1996, "Url": "http://www.netflix.com/Movie/Bramwell_Season_2/70074642", "Runtime": 28800, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157486/seasons/70074642", "TinyUrl": "http://movi.es/cZySI", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70157486.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70157486.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70157486.jpg", "HighDefinitionUrl": "http://cdn-2.nflximg.com/en_us/boxshots/ghd/70157486.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1187049600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 28800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1301616000000)\/", "AvailableTo": "\/Date(1344988800000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZySI')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZyYU')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70157294.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 8:01:32 PM\""
+}, "Id": "cZyYU", "Name": "Private Practice: Season 1", "ShortName": "Private Practice: Season 1", "Synopsis": "In this \"Grey's Anatomy\" spinoff, neonatal surgeon Addison Forbes Montgomery (Kate Walsh) leaves the drama of Seattle Grace Hospital for a new life in Santa Monica, Calif., at the Oceanside Wellness Group. Though her new co-workers have no shortage of emotional baggage, they're standout physicians -- and Addison goes along for the ride. The series also stars Tim Daly, Taye Diggs, Amy Brenneman, Paul Adelstein and Audra McDonald.", "ShortSynopsis": "In this \"Grey's Anatomy\" spinoff, physician Addison Montgomery leaves Seattle Grace Hospital for a new life at California's Oceanside Wellness Group.", "AverageRating": 3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Private_Practice_Season_1/70075026", "Runtime": 23700, "Rating": "TV-14", "DateModified": "\/Date(1328904092000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157294/seasons/70075026", "TinyUrl": "http://movi.es/cZyYU", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70157294.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70157294.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70157294.jpg", "HighDefinitionUrl": "http://cdn-6.nflximg.com/en_us/boxshots/ghd/70157294.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1221523200000)\/", "AvailableTo": null, "Rating": "TV-14", "Runtime": 23700
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1318464000000)\/", "AvailableTo": "\/Date(1444694400000)\/", "HighDefinitionAvailable": true, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZyYU')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZzq1')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70157435.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZzq1", "Name": "ER: Season 14", "ShortName": "ER: Season 14", "Synopsis": "The drama at County General runs higher than ever with new cases to treat as well as new faces joining the cast. This season sees Neela (Parminder Nagra) and Gates's (John Stamos) relationship up in the air, Dr. Skye Wexler (Kari Matchett) joins the team to raise money for her world traveling obsession, some ghosts from the past resurface, and intern Paul Grady (Gil McKinney) signs on to the staff roster.", "ShortSynopsis": "The drama at County General runs higher than ever with new cases to treat as well as new faces joining the cast.", "AverageRating": 3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/ER_Season_14/70079957", "Runtime": 49500, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157435/seasons/70079957", "TinyUrl": "http://movi.es/cZzq1", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70157435.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70157435.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70157435.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1294704000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 49500
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZzq1')/Seasons"
+}
+}
+}
+]
+}
+}

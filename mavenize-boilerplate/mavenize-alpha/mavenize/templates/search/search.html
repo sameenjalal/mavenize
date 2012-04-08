@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Mavenize | Search Results
+{% endblock %}
+
+{% block body %}
+  <div class="container">
+    <div class="row">
+      <div class="span12">
+        <h1 class="title">Search Results</h1>
+        {% if query %}
+        <ul id="search-results">
+          {% for result in page.object_list %}
+          <li class="row">
+            <div class="span2">
+              <a class="thumbnail" href="#">
+                <img src="{{ result.object.image.url }}" />
+              </a>
+            </div>
+            <div class="span9">
+              <a href="#"><h3>{{ result.object.title }} ({{ result.object.release_date|date:"Y" }})</h3></a>
+              <div class="synopsis">
+                <blockquote>
+                  {{  result.object.synopsis }}
+                </blockquote>
+              </div>
+            </div>
+          </li>
+          {% endfor %}
+        </ul>
+        {% else %}
+        <p>No search results found.</p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% endblock %}
+

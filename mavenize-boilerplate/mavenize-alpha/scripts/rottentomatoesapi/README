@@ -1,0 +1,57 @@
+APIKEY:
+mz7z7f9zm79tc3hcaw3xb85w
+
+Types of links:
+http://api.rottentomatoes.com/api/public/v1.0/lists/movies.json?apikey=mz7z7f9zm79tc3hcaw3xb85w
+http://api.rottentomatoes.com/api/public/v1.0/lists/dvds.json?apikey=mz7z7f9zm79tc3hcaw3xb85w
+
+All movie links:
+{
+	"links":
+	{
+		"box_office":"http://api.rottentomatoes.com/api/public/v1.0/lists/movies/box_office.json?page=1&apikey=mz7z7f9zm79tc3hcaw3xb85w",
+		"box_office":"http://api.rottentomatoes.com/api/public/v1.0/lists/movies/box_office.json?page=2&apikey=mz7z7f9zm79tc3hcaw3xb85w",
+		"in_theaters":"http://api.rottentomatoes.com/api/public/v1.0/lists/movies/in_theaters.json?page=1&apikey=mz7z7f9zm79tc3hcaw3xb85w",
+		"in_theaters":"http://api.rottentomatoes.com/api/public/v1.0/lists/movies/in_theaters.json?page=2&apikey=mz7z7f9zm79tc3hcaw3xb85w",
+		"opening":"http://api.rottentomatoes.com/api/public/v1.0/lists/movies/opening.json?page=1&apikey=mz7z7f9zm79tc3hcaw3xb85w",
+		"opening":"http://api.rottentomatoes.com/api/public/v1.0/lists/movies/opening.json?page=2&apikey=mz7z7f9zm79tc3hcaw3xb85w",
+		"upcoming":"http://api.rottentomatoes.com/api/public/v1.0/lists/movies/upcoming.json?page=1&apikey=mz7z7f9zm79tc3hcaw3xb85w",
+		"upcoming":"http://api.rottentomatoes.com/api/public/v1.0/lists/movies/upcoming.json?page=2&apikey=mz7z7f9zm79tc3hcaw3xb85w"
+	}
+}
+
+All DvD links:
+{
+	"links":
+	{
+		"top_rentals":"http://api.rottentomatoes.com/api/public/v1.0/lists/dvds/top_rentals.json?apikey=mz7z7f9zm79tc3hcaw3xb85w&page=1",
+		"current_releases":"http://api.rottentomatoes.com/api/public/v1.0/lists/dvds/current_releases.json?apikey=mz7z7f9zm79tc3hcaw3xb85w",
+		"new_releases":"http://api.rottentomatoes.com/api/public/v1.0/lists/dvds/new_releases.json?apikey=mz7z7f9zm79tc3hcaw3xb85w",
+		"upcoming":"http://api.rottentomatoes.com/api/public/v1.0/lists/dvds/upcoming.json?apikey=mz7z7f9zm79tc3hcaw3xb85w"
+	}
+}
+
+{
+	"link_template": "http://api.rottentomatoes.com/api/public/v1.0/movies.json?q={search-term}&page_limit={results-per-page}&page={page-number}"
+}
+
+Searches:
+http://api.rottentomatoes.com/api/public/v1.0/movies.json?q={search-term}&apikey=mz7z7f9zm79tc3hcaw3xb85w&page={page_number}
+limit = 50 per page
+pages = 25
+
+Popular Searches:
+star
+harry
+potter
+wars
+twilight
+titanic
+list
+hotel
+love
+heart
+lawyer
+lord
+ring
+matrix

@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Mavenize | Where Mavens are Made
+{% endblock %}
+
+{% block body %}
+  <div class="container">
+    <div class="row">
+      <div class="span12">
+        <h1>Discover. Watch. Rave.</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="span10 offset2">
+        <h3>Don't know what to watch?  Then get recommendations from your friends.</h3>
+      </div>
+    </div>
+    <div class="row">
+      <div class="span4 offset8">
+        <a href="{% url socialauth_begin 'facebook' %}">
+          <img src="/media/img/facebook-connect.jpg" alt="Facebook Connect" />
+        </a>
+      </div>
+    </div>
+    <div class="row">
+      <ul class="thumbnails">
+        <li class="span4">
+          <div class="thumbnail">
+            <img src="/media/img/landing/hunger-games.jpg" alt="Avengers" />
+          </div>
+        </li>
+        <li class="span4">
+          <div class="thumbnail">
+            <img src="/media/img/landing/drive.jpg" alt="Hunger Games" />
+          </div>
+        </li>
+        <li class="span4">
+          <div class="thumbnail">
+            <img src="/media/img/landing/in-time.jpg" alt="The Expendables" />
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+{% endblock %}

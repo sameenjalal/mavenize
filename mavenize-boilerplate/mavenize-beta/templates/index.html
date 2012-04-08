@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Mavenize | Welcome Home
+{% endblock %}
+
+{% block body %}
+  <a href="{% url socialauth_begin 'facebook' %}">Enter using Facebook</a>
+{% endblock %}
+

@@ -1,0 +1,3123 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('btpgI')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70136121.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:28:22 PM\""
+}, "Id": "btpgI", "Name": "Law & Order: Criminal Intent: The First Year", "ShortName": "Law & Order: CI: The First Year", "Synopsis": "Law & Order franchise creator Dick Wolf tweaks the formula by giving viewers a Sherlock Holmes-type character to get to know (and root for) in this riveting series that examines a violent crime from the time it's committed to the apprehension of the culprit. Detective Robert Goran (Vincent D'Onofrio) is the brilliant-if-strange genius of the NYPD's Major Case Squad, assisted by his Watsonian partner, Detective Alexandra Eames (Kathryn Erbe).", "ShortSynopsis": "A brilliant-if-strange genius detective and his partner examine violent crimes from the time they are committed to the apprehension of the culprit.", "AverageRating": 3, "ReleaseYear": 2001, "Url": "http://www.netflix.com/Movie/Law_Order_Criminal_Intent_The_First_Year/60031138", "Runtime": null, "Rating": "NR", "DateModified": "\/Date(1328902102000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70136121/seasons/60031138", "TinyUrl": "http://movi.es/btpgI", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70136121.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70136121.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70136121.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70136121.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1066694400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1186617600000)\/", "AvailableTo": "\/Date(1376006400000)\/", "HighDefinitionAvailable": true, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpgI')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVtKa')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70140560.jpg", "content_type": "image/jpeg", "media_etag": "\"12/8/2010 12:00:59 AM\""
+}, "Id": "BVtKa", "Name": "The Whole Truth: Season 1", "ShortName": "The Whole Truth: Season 1", "Synopsis": "Former law school classmates turned bitter rivals, New York prosecutor Kathryn Peale (Maura Tierney) and hotshot defense attorney Jimmy Brogan (Rob Morrow) square off in high-profile court cases, cunningly devising brilliant legal strategies to sway the jury in their favor. Offering equal insight into both sides of the justice system, this law drama keeps the result of each case in question until the verdict is read.", "ShortSynopsis": "Former law school classmates turned bitter rivals, New York prosecutor Kathryn Peale and hotshot defense attorney Jimmy Brogan square off in high-profile court cases, cunningly devising brilliant legal strategies to sway the jury in their favor.", "AverageRating": 4, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/The_Whole_Truth_Season_1/70140560", "Runtime": null, "Rating": "NR", "DateModified": "\/Date(1291766459000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70140560", "TinyUrl": "http://movi.es/BVtKa", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70140560.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70140560.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70140560.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVtKa')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVVO9')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70048525.jpg", "content_type": "image/jpeg", "media_etag": "\"1/10/2012 12:10:20 AM\""
+}, "Id": "BVVO9", "Name": "Studio One: The Defender", "ShortName": "Studio One: The Defender", "Synopsis": "Featuring live dramas with both well-known actors and future stars such as Gene Hackman, Dustin Hoffman and Robert Redford, \"Studio One\" stands out as a classic series from the early days of television.  In this two-hour pilot starring Ralph Bellamy, Steve McQueen and William Shatner, a father-and-son attorney team defends a 19-year-old murder suspect, and the trial brings out their own family conflicts.", "ShortSynopsis": null, "AverageRating": 3, "ReleaseYear": 1957, "Url": "http://www.netflix.com/Movie/Studio_One_The_Defender/70048525", "Runtime": 7800, "Rating": "NR", "DateModified": "\/Date(1326154220000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70048525", "TinyUrl": "http://movi.es/BVVO9", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70048525.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70048525.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70048525.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1149552000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVW1v')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70050991.jpg", "content_type": "image/jpeg", "media_etag": "\"1/21/2011 5:56:44 PM\""
+}, "Id": "BVW1v", "Name": "The Court of Last Resort", "ShortName": "The Court of Last Resort", "Synopsis": "Staffed by the era's top law and criminology experts, \"The Court of Last Resort\" attempted to expose the wrongly accused and unjustly convicted criminals of the 1940s and '50s. Intervening where the justice system was perceived to have failed, the series uncovered actual cases for dramatic reenactment. This four-episode collection from the crusading show features the trials of Clarence Redding, Conrad Murray, George Zaccho and Jacob Loveless.", "ShortSynopsis": "Staffed by the era's top law and criminology experts, \"The Court of Last Resort\" attempted to expose the wrongly accused and unjustly convicted criminals of the 1940s and '50s. The series uncovered actual cases for dramatic reenactment.", "AverageRating": 1.9, "ReleaseYear": 1957, "Url": "http://www.netflix.com/Movie/The_Court_of_Last_Resort/70050991", "Runtime": 6120, "Rating": "NR", "DateModified": "\/Date(1295632604000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70050991", "TinyUrl": "http://movi.es/BVW1v", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70050991.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70050991.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70050991.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1151366400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6120
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca3lo')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70157449.jpg", "content_type": "image/jpeg", "media_etag": "\"8/9/2011 3:13:17 PM\""
+}, "Id": "ca3lo", "Name": "Dirty Sexy Money: Season 2", "ShortName": "Dirty Sexy Money: Season 2", "Synopsis": "Attorney Nick George (Peter Krause) continues to pick up after the wealthy New York Darling family, cleaning up their messes and sweeping their scandals under the carpet in the second season of this larger-than-life drama. Between patriarch Tripp (Donald Sutherland), his wife Letitia (Jill Clayburgh) and the five Darling kids (William Baldwin, Glenn Fitzgerald, Natalie Zea, Samaire Armstrong and Seth Gabel), Nick more than has his hands full.", "ShortSynopsis": "Attorney Nick George continues to pick up after the Darling family, sweeping their scandals under the rug in this larger-than-life TV drama.", "AverageRating": 3, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Dirty_Sexy_Money_Season_2/70095072", "Runtime": 33120, "Rating": "TV-PG", "DateModified": "\/Date(1312902797000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157449/seasons/70095072", "TinyUrl": "http://movi.es/ca3lo", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70157449.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70157449.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70157449.jpg", "HighDefinitionUrl": "http://cdn-2.nflximg.com/en_us/boxshots/ghd/70157449.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1250553600000)\/", "AvailableTo": null, "Rating": "TV-PG", "Runtime": 33120
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1297728000000)\/", "AvailableTo": "\/Date(1360886400000)\/", "HighDefinitionAvailable": true, "Rating": "TV-PG", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lo')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca3lu')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70136121.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:53:14 PM\""
+}, "Id": "ca3lu", "Name": "Law & Order: Criminal Intent: The Seventh Year", "ShortName": "Law & Order: Criminal Intent: The 7th Year", "Synopsis": "In the seventh season of the \"Law & Order\" spinoff, Alicia Witt joins the cast as Detective Nola Felacci, who helps her partner, Mike Logan (Chris Noth), solve crime in New York City's Major Case Squad. The series alternates between the cases of Logan and Felacci and those of quirky ace profiler Robert Goren (Vincent D'Onofrio) and his pragmatic partner, Alexandra Eames (Kathryn Erbe).", "ShortSynopsis": "Detective Nola Felacci joins Mike Logan, profiler Robert Goran and pragmatic Alexandra Eames as a crime solver on New York City's Major Case Squad.", "AverageRating": 3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Law_Order_Criminal_Intent_The_Seventh_Year/70095078", "Runtime": 62880, "Rating": "NR", "DateModified": "\/Date(1328903594000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70136121/seasons/70095078", "TinyUrl": "http://movi.es/ca3lu", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70136121.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70136121.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70136121.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70136121.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 62880
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1317427200000)\/", "AvailableTo": "\/Date(1412121600000)\/", "HighDefinitionAvailable": true, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca3lu')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca4FU')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70157378.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "ca4FU", "Name": "Jake and the Fatman: Season 1: Vol. 1", "ShortName": "Jake and the Fatman: Season 1: Vol. 1", "Synopsis": "Jason \"Fatman\" McCabe (William Conrad) -- a tough Hawaii cop turned Los Angeles district attorney -- teams with dashing, carefree special investigator Jake Styles (Joe Penny) to fight crime in the City of Angels in the debut season of the CBS crime drama. Alan Campbell co-stars as Assistant District Attorney Derek Mitchell, who helps the titular duo investigate murder, theft, prostitution, drugs and more.", "ShortSynopsis": "Jason \"Fatman\" McCabe -- a tough Hawaii cop turned Los Angeles district attorney -- teams with dashing, carefree special investigator Jake Styles to fight crime in the City of Angels in the debut season of the CBS crime drama.", "AverageRating": 3, "ReleaseYear": 1987, "Url": "http://www.netflix.com/Movie/Jake_and_the_Fatman_Season_1_Vol._1/70096912", "Runtime": 34020, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157378/seasons/70096912", "TinyUrl": "http://movi.es/ca4FU", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70157378.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70157378.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70157378.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1215475200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 34020
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca4FU')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca6AX')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70157289.jpg", "content_type": "image/jpeg", "media_etag": "\"8/9/2011 3:13:17 PM\""
+}, "Id": "ca6AX", "Name": "Raising the Bar: Season 1", "ShortName": "Raising the Bar: Season 1", "Synopsis": "Emmy-winning producer Steven Bochco delivers another gripping legal drama about a crop of newly minted law school graduates who are longtime friends but find themselves working on opposite sides of the system. As a lawyer in the district attorney's office, Michelle Emhardt (Melissa Sagemiller) focuses on bringing the guilty to justice. But as a public defender, Jerry Kellerman (Mark-Paul Gosselaar) uses his skills to protect the innocent.", "ShortSynopsis": "A group of longtime friends -- newly minted law school graduates -- find themselves working on opposite sides of the system.", "AverageRating": 3, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Raising_the_Bar_Season_1/70104293", "Runtime": 25800, "Rating": "NR", "DateModified": "\/Date(1312902797000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157289/seasons/70104293", "TinyUrl": "http://movi.es/ca6AX", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70157289.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70157289.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70157289.jpg", "HighDefinitionUrl": "http://cdn-3.nflximg.com/en_us/boxshots/ghd/70157289.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1243900800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 25800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1297728000000)\/", "AvailableTo": "\/Date(1360886400000)\/", "HighDefinitionAvailable": true, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6AX')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca6iX')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70157378.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "ca6iX", "Name": "Jake and the Fatman: Season 1: Vol. 2", "ShortName": "Jake and the Fatman: Season 1: Vol. 2", "Synopsis": "Hawaiian cop turned district attorney Jason \"Fatman\" McCabe (William Conrad) and his partner, Jake Styles (Joe Penny), clean up Los Angeles's streets in the second half of the first season of this Emmy-nominated hit. Though they don't always see eye to eye, their differing styles (McCabe is uptight, Jake more laid-back) come in handy when dealing with the city's stalkers, murderers, kidnappers and other sundry evildoers.", "ShortSynopsis": "Hawaiian cop turned district attorney Jason \"Fatman\" McCabe and his partner, Jake Styles, clean up Los Angeles's streets in the second half of the first season of this Emmy-nominated hit.", "AverageRating": 3, "ReleaseYear": 1987, "Url": "http://www.netflix.com/Movie/Jake_and_the_Fatman_Season_1_Vol._2/70106401", "Runtime": 31260, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157378/seasons/70106401", "TinyUrl": "http://movi.es/ca6iX", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70157378.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70157378.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70157378.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1228176000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 31260
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6iX')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca6sf')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70143839.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "ca6sf", "Name": "Trial & Retribution: Set 1", "ShortName": "Trial & Retribution: Set 1", "Synopsis": "David Hayman and Kate Buffery star as police detectives in the first season of this critically acclaimed British crime drama, in which each episode centers on a single case, from the investigation all the way through to the courtroom verdict. This program comprises the first four feature-length episodes of this suspenseful, emotionally charged series, which takes an unflinching look at the flawed processes behind society's pursuit of justice.", "ShortSynopsis": "David Hayman and Kate Buffery star as police detectives in the first season of this critically acclaimed British crime drama, in which each episode centers on a single case, from the investigation all the way through to the courtroom verdict.", "AverageRating": 3, "ReleaseYear": 1997, "Url": "http://www.netflix.com/Movie/Trial_Retribution_Set_1/70107029", "Runtime": 48240, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143839/seasons/70107029", "TinyUrl": "http://movi.es/ca6sf", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70143839.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70143839.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70143839.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1222732800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 48240
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6sf')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca7bD')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70143835.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "ca7bD", "Name": "Matlock: Season 2", "ShortName": "Matlock: Season 2", "Synopsis": "The product of a Harvard education and Southern common sense, Ben Matlock (Andy Griffith) returns to wow the courtroom with a second season of masterly defense tactics. This year, he tries to prove that a blind man committed the perfect murder, finds that a dead umpire had plenty of enemies, and solves a murder at his law school reunion. Linda Purl, Kene Holliday and Alice Hirson co-star in this award-winning series.", "ShortSynopsis": "The product of a Harvard education and Southern common sense, Ben Matlock returns to wow the courtroom with a second season of masterly defense tactics.", "AverageRating": 3, "ReleaseYear": 1987, "Url": "http://www.netflix.com/Movie/Matlock_Season_2/70109791", "Runtime": 68400, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143835/seasons/70109791", "TinyUrl": "http://movi.es/ca7bD", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70143835.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70143835.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70143835.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1231804800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 68400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca7bD')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca92B')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70157378.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "ca92B", "Name": "Jake and the Fatman: Season 2", "ShortName": "Jake and the Fatman: Season 2", "Synopsis": "In the second season of this hit law-and-order show, crusty District Attorney Jason \"Fatman\" McCabe (William Conrad) and easygoing private eye Jake Styles (Joe Penny) move to Hawaii in order to battle bad guys in paradise. It doesn't take long for the pair to start tangling with a vigilante who kills would-be muggers, a pimp who slays one of his working girls, a bomber who targets the Fatman, a counterfeiter who works for cocaine and more.", "ShortSynopsis": "In the second season of this hit law-and-order show, crusty District Attorney Jason \"Fatman\" McCabe and easygoing private eye Jake Styles move to Hawaii in order to battle bad guys in paradise.", "AverageRating": 3, "ReleaseYear": 1989, "Url": "http://www.netflix.com/Movie/Jake_and_the_Fatman_Season_2/70115307", "Runtime": 30420, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157378/seasons/70115307", "TinyUrl": "http://movi.es/ca92B", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70157378.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70157378.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70157378.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1241481600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 30420
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca92B')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca9s3')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70157513.jpg", "content_type": "image/jpeg", "media_etag": "\"2/4/2012 4:09:23 AM\""
+}, "Id": "ca9s3", "Name": "Ally McBeal: Season 5", "ShortName": "Ally McBeal: Season 5", "Synopsis": "The fifth and final season of this Emmy-winning series finds charmingly goofy lawyer Ally McBeal (Calista Flockhart) discovering that 10-year-old Maddie Harrington (Hayden Panettiere) may be her biological daughter, thanks to a mistake at the egg bank where Ally once made a deposit. Meanwhile, Ally makes partner at the firm, and Ling (Lucy Liu) scores a promotion to judge. Kyra Sedgwick, Heather Locklear, Matthew Perry and Elton John guest star.", "ShortSynopsis": "Charmingly goofy Ally McBeal balances career and possible motherhood in the fifth and final season of this Emmy-winning series.", "AverageRating": 3, "ReleaseYear": 2001, "Url": "http://www.netflix.com/Movie/Ally_McBeal_Season_5/70118523", "Runtime": 59400, "Rating": "NR", "DateModified": "\/Date(1328328563000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157513/seasons/70118523", "TinyUrl": "http://movi.es/ca9s3", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70157513.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70157513.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70157513.jpg", "HighDefinitionUrl": "http://cdn-3.nflximg.com/en_us/boxshots/ghd/70157513.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1254787200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 59400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1301616000000)\/", "AvailableTo": "\/Date(1364774400000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s3')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca9s5')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70157513.jpg", "content_type": "image/jpeg", "media_etag": "\"2/4/2012 4:09:23 AM\""
+}, "Id": "ca9s5", "Name": "Ally McBeal: Season 3", "ShortName": "Ally McBeal: Season 3", "Synopsis": "Bright but flighty attorney Ally McBeal (Calista Flockhart) and her irrepressibly eccentric colleagues at the Boston firm of Cage & Fish mix law and romance in the third season of this award-winning dramedy series. Billy (Gil Bellows) and Georgia (Courtney Thorne-Smith) find their relationship on the rocks, but love may be in the air for Ally and John Cage (Peter MacNicol).Guest stars Al Green and Tina Turner provide a little mood music.", "ShortSynopsis": "Married Billy is headed for a divorce, but Ally now finds herself drawn to Cage as the quirky characters fuse music and fantasy to express themselves.", "AverageRating": 3, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/Ally_McBeal_Season_3/70118525", "Runtime": 56700, "Rating": "NR", "DateModified": "\/Date(1328328563000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157513/seasons/70118525", "TinyUrl": "http://movi.es/ca9s5", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70157513.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70157513.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70157513.jpg", "HighDefinitionUrl": "http://cdn-5.nflximg.com/en_us/boxshots/ghd/70157513.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1254787200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 56700
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1301616000000)\/", "AvailableTo": "\/Date(1364774400000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s5')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca9s7')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70157513.jpg", "content_type": "image/jpeg", "media_etag": "\"2/4/2012 4:09:23 AM\""
+}, "Id": "ca9s7", "Name": "Ally McBeal: Season 1", "ShortName": "Ally McBeal: Season 1", "Synopsis": "In the debut season of this Emmy-winning comedy-drama, law school grad Ally McBeal (Calista Flockhart) lands a job at an eccentric Boston law firm where her former lover, Billy (Gil Bellows), and his new wife, Georgia (Courtney Thorne-Smith), also practice. While juggling a variety of peculiar cases, Ally contends with a stalled love life, lingering feelings for Billy and her hallucinatory flights of fancy, including an imaginary dancing baby.", "ShortSynopsis": "A law-school grad lands a job at a Boston law firm, where she must juggle peculiar cases while working alongside her former lover and his new wife.", "AverageRating": 3, "ReleaseYear": 1997, "Url": "http://www.netflix.com/Movie/Ally_McBeal_Season_1/70118527", "Runtime": 62100, "Rating": "NR", "DateModified": "\/Date(1328328563000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157513/seasons/70118527", "TinyUrl": "http://movi.es/ca9s7", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70157513.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70157513.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70157513.jpg", "HighDefinitionUrl": "http://cdn-7.nflximg.com/en_us/boxshots/ghd/70157513.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1254787200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 62100
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1301616000000)\/", "AvailableTo": "\/Date(1364774400000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9s7')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140403.jpg", "content_type": "image/jpeg", "media_etag": "\"10/2/2011 7:10:28 AM\""
+}, "Id": "ca9ZG", "Name": "Law & Order: Special Victims Unit: The Tenth Year", "ShortName": "Law & Order: SVU: The Tenth Year", "Synopsis": "The 10th season of this Emmy Award-winning police drama opens with Detective Benson (Mariska Hargitay) investigating the connection between a 7-year-old boy (Jae Head) who claims he's being abused by his foster parents (Luke Perry and Julie Bowen) and a traumatized young woman (Sara Gilbert) whose rapist was never found. Later, Detective Stabler (Christopher Meloni) is forced to confront his own demons when his daughter gets caught with drugs.", "ShortSynopsis": "Stabler confronts his own demons when his daughter is caught with drugs, while Benson follows connections between an abused child and a woman's rape.", "AverageRating": 3, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Law_Order_Special_Victims_Unit_The_Tenth_Year/70117358", "Runtime": 63000, "Rating": "TV-14", "DateModified": "\/Date(1317539428000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140403/seasons/70117358", "TinyUrl": "http://movi.es/ca9ZG", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70140403.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70140403.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140403.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70140403.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1253577600000)\/", "AvailableTo": null, "Rating": "TV-14", "Runtime": 63000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1254355200000)\/", "AvailableTo": "\/Date(1412121600000)\/", "HighDefinitionAvailable": true, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9ZG')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caAbM')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70143857.jpg", "content_type": "image/jpeg", "media_etag": "\"6/7/2011 9:01:51 PM\""
+}, "Id": "caAbM", "Name": "The Good Wife: Season 1", "ShortName": "The Good Wife: Season 1", "Synopsis": "Art imitates life in this television drama starring Golden Globe winner Julianna Margulies as Alicia, a politician's wife who's forced to return to the workforce after a sex and corruption scandal lands her husband in jail. Resuming her career as a defense attorney after more than a decade away from the legal profession, Alicia slowly recaptures her identity in this series co-starring Chris Noth, Christine Baranski and Emmy winner Archie Panjabi.", "ShortSynopsis": "Art imitates life in this drama about a politician's wife who's forced to return to the workforce after a scandal lands her husband in jail.", "AverageRating": 3, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/The_Good_Wife_Season_1/70121332", "Runtime": 59880, "Rating": "NR", "DateModified": "\/Date(1307480511000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143857/seasons/70121332", "TinyUrl": "http://movi.es/caAbM", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70143857.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70143857.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70143857.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1284422400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 59880
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAbM')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caadZ')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70143839.jpg", "content_type": "image/jpeg", "media_etag": "\"12/16/2011 4:23:59 PM\""
+}, "Id": "caadZ", "Name": "Trial & Retribution: Series 3", "ShortName": "Trial & Retribution: Series 3", "Synopsis": "The grueling work of Det. Chief Supt. Michael Walker and his squad continues as they investigate a variety of baffling crimes in this collection of feature-length episodes from the British police procedural series.", "ShortSynopsis": "The grueling work of Det. Chief Supt. Michael Walker and his squad continues as they investigate a variety of baffling crimes.", "AverageRating": 3, "ReleaseYear": 1999, "Url": "http://www.netflix.com/Movie/Trial_Retribution_Series_3/70221413", "Runtime": null, "Rating": "NR", "DateModified": "\/Date(1324052639000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143839/seasons/70221413", "TinyUrl": "http://movi.es/caadZ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70143839.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70143839.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70143839.jpg", "HighDefinitionUrl": "http://cdn-3.nflximg.com/en_us/boxshots/ghd/70143839.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1322697600000)\/", "AvailableTo": "\/Date(1354320000000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caadZ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caAid')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70155596.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 2:39:59 PM\""
+}, "Id": "caAid", "Name": "Drop Dead Diva: Season 1", "ShortName": "Drop Dead Diva: Season 1", "Synopsis": "Thanks to a heavenly mix-up, a rail-thin, super-shallow model finds herself reincarnated as a whip-smart, large-size lawyer in this Lifetime dramedy. At first distraught by her new physique, Jane soon realizes something else is new -- her brain!", "ShortSynopsis": "Thanks to a heavenly mix-up, a rail-thin, superficial model finds herself reincarnated as a brainy, large-size lawyer in this offbeat Lifetime series.", "AverageRating": 3, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Drop_Dead_Diva_Season_1/70121783", "Runtime": 33960, "Rating": "NR", "DateModified": "\/Date(1328884799000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70155596/seasons/70121783", "TinyUrl": "http://movi.es/caAid", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70155596.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70155596.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70155596.jpg", "HighDefinitionUrl": "http://cdn-3.nflximg.com/en_us/boxshots/ghd/70155596.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1275350400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 33960
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1251763200000)\/", "AvailableTo": "\/Date(1422748800000)\/", "HighDefinitionAvailable": false, "Rating": "TV-PG", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caAid')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caBWx')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70143839.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "caBWx", "Name": "Trial & Retribution: Set 3", "ShortName": "Trial & Retribution: Set 3", "Synopsis": "The grueling work of Det. Chief Supt. Michael Walker (David Hayman) and his squad continues as they investigate a variety of baffling crimes in this collection of feature-length episodes from the British police procedural series. In these installments, Walker's department attempts to find a newlywed who vanishes on his honeymoon, probes the suspicious death of a young girl and tries to solve a disturbing rape-and-murder case.", "ShortSynopsis": "The grueling work of Det. Chief Supt. Michael Walker and his squad continues as they investigate a variety of baffling crimes in this collection of feature-length episodes from the British police procedural series.", "AverageRating": 3, "ReleaseYear": 2005, "Url": "http://www.netflix.com/Movie/Trial_Retribution_Set_3/70124903", "Runtime": 24120, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143839/seasons/70124903", "TinyUrl": "http://movi.es/caBWx", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70143839.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70143839.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70143839.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1256601600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 24120
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caBWx')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caED3')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70143857.jpg", "content_type": "image/jpeg", "media_etag": "\"9/9/2011 11:22:10 PM\""
+}, "Id": "caED3", "Name": "The Good Wife: Season 2", "ShortName": "The Good Wife: Season 2", "Synopsis": "Golden Globe winner Julianna Margulies stars as Alicia Florrick, the titular woman scorned, in the second season of this critically acclaimed drama that tracks the comeback of a politician's wife in the wake of his very public sex scandal. Instead of burying her head in the sand, Florrick returns to her former job as a defense attorney and sets out to save others from injustice. Chris Noth and Christine Baranski co-star.", "ShortSynopsis": "Golden Globe winner Julianna Margulies stars as Alicia Florrick, the titular woman scorned, in the second season of this critically acclaimed drama.", "AverageRating": 3, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/The_Good_Wife_Season_2/70135201", "Runtime": 59880, "Rating": "NR", "DateModified": "\/Date(1315610530000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143857/seasons/70135201", "TinyUrl": "http://movi.es/caED3", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70143857.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70143857.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70143857.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1315267200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 59880
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caED3')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caEe0')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70143839.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "caEe0", "Name": "Trial & Retribution: Set 4", "ShortName": "Trial & Retribution: Set 4", "Synopsis": "Det. Chief Supt. Michael Walker (David Hayman) and Det. Chief Insp. Roisin Connor (Victoria Smurfit) lay it all on the line to track down rapists, kidnappers and killers in this set of feature-length episodes from the hit British crime series. These installments find Walker feeling the heat when he drags out an investigation to prove that a slain fellow cop was the target of an elaborate conspiracy rather than a victim of a bungled burglary.", "ShortSynopsis": "Det. Chief Supt. Michael Walker and Det. Chief Insp. Roisin Connor lay it all on the line to track down rapists, kidnappers and killers in this set of feature-length episodes from the hit British crime series.", "AverageRating": 3, "ReleaseYear": 2007, "Url": "http://www.netflix.com/Movie/Trial_Retribution_Set_4/70136872", "Runtime": 24480, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143839/seasons/70136872", "TinyUrl": "http://movi.es/caEe0", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70143839.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70143839.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70143839.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1276560000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 24480
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caEe0')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caFA4')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70143835.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "caFA4", "Name": "Matlock: Season 5", "ShortName": "Matlock: Season 5", "Synopsis": "Utilizing his keen observation skills and well-honed intuition, brilliant defense attorney Matlock (Andy Griffith) continues to successfully protect all sorts of desperate clients including a gambler, plastic surgeon, a judge's son and even himself. This television drama's fifth season finds Matlock's private investigator and right-hand man, Conrad (Clarence Gilyard Jr.), collecting key evidence in Chicago and landing a new girlfriend.", "ShortSynopsis": "Utilizing his keen observation skills and well-honed intuition, brilliant defense attorney Matlock continues to successfully protect all sorts of desperate clients including a gambler, plastic surgeon, a judge's son and even himself.", "AverageRating": 3, "ReleaseYear": 1990, "Url": "http://www.netflix.com/Movie/Matlock_Season_5/70138860", "Runtime": 61380, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143835/seasons/70138860", "TinyUrl": "http://movi.es/caFA4", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70143835.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70143835.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70143835.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1279584000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 61380
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFA4')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caGaA')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70197375.jpg", "content_type": "image/jpeg", "media_etag": "\"8/26/2011 1:44:14 AM\""
+}, "Id": "caGaA", "Name": "Law & Order: Los Angeles: The Complete Series", "ShortName": "Law & Order: LA: The Complete Series", "Synopsis": "Skeet Ulrich stars as hard-nosed LAPD Det. Rex Winters and Alfred Molina plays his courtroom counterpart, DA Ricardo Morales, in this \"Law & Order\" spinoff that takes place in the seedy cracks of Southern California's sunny veneer. Following the franchise's hit format, cops investigate then lawyers prosecute crimes \"ripped from the headlines\" -- including a group of tech whiz-kids who prey on SoCal's wealthy elite.", "ShortSynopsis": "Skeet Ulrich stars as hard-nosed LAPD Det. Rex Winters and Alfred Molina plays his courtroom counterpart, DA Ricardo Morales, in this \"Law & Order\" spinoff that takes place in the seedy cracks of Southern California's sunny veneer.", "AverageRating": 3.7, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/Law_Order_Los_Angeles_The_Complete_Series/70144322", "Runtime": 56340, "Rating": "NR", "DateModified": "\/Date(1314323054000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70197375/seasons/70144322", "TinyUrl": "http://movi.es/caGaA", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70197375.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70197375.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70197375.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1316476800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 56340
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caGaA')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caHya')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70177058.jpg", "content_type": "image/jpeg", "media_etag": "\"8/17/2011 8:27:42 AM\""
+}, "Id": "caHya", "Name": "The Defenders: Season 1", "ShortName": "The Defenders: Season 1", "Synopsis": "In Sin City, it takes a little flash to stand out from the crowd. Though defense attorneys Pete Kaczmarek and Nick Morelli couldn't be more different, they aren't above a little razzle-dazzle in the courtroom if it will help a client.", "ShortSynopsis": "In Sin City, it takes a little flash to stand out from the crowd. Though defense attorneys Pete Kaczmarek and Nick Morelli couldn't be more different, they aren't above a little razzle-dazzle in the courtroom if it will help a client.", "AverageRating": 3, "ReleaseYear": 2010, "Url": "http://www.netflix.com/Movie/The_Defenders_Season_1/70149680", "Runtime": null, "Rating": "NR", "DateModified": "\/Date(1313569662000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70177058/seasons/70149680", "TinyUrl": "http://movi.es/caHya", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70177058.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70177058.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70177058.jpg", "HighDefinitionUrl": "http://cdn-0.nflximg.com/en_us/boxshots/ghd/70177058.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1313971200000)\/", "AvailableTo": "\/Date(1377129600000)\/", "HighDefinitionAvailable": true, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caHya')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caJtw')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70143835.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "caJtw", "Name": "Matlock: Season 6", "ShortName": "Matlock: Season 6", "Synopsis": "High-priced defense attorney Ben Matlock (Andy Griffith) uses his Southern accent to charm juries while his keen mind uncovers the subtle clues that will acquit his clients. In the sixth season, he returns home for a family reunion, only to be faced with a murder. In other cases, Matlock squares off with a serial killer, defends a teen accused of murdering his abusive father, represents an obnoxious cousin and even retires ... temporarily.", "ShortSynopsis": "High-priced defense attorney Ben Matlock uses his Southern accent to charm juries while his keen mind uncovers the subtle clues that will acquit his clients. In the sixth season, he returns home for a family reunion, only to be faced with a murder.", "AverageRating": 3, "ReleaseYear": 1990, "Url": "http://www.netflix.com/Movie/Matlock_Season_6/70157080", "Runtime": 61740, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143835/seasons/70157080", "TinyUrl": "http://movi.es/caJtw", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70143835.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70143835.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70143835.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 61740
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJtw')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caKc2')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70136121.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:30:29 PM\""
+}, "Id": "caKc2", "Name": "Law & Order: Criminal Intent: The Eighth Year", "ShortName": "Law & Order: Criminal Intent: The 8th Year", "Synopsis": "Jeff Goldblum joins the cast of the long-running procedural drama as Det. Zack Nichols, who partners with Det. Megan Wheeler (Julianne Nicholson) in the eighth season of high-profile investigations conducted by the NYPD's Major Case Squad. Goldblum and Nicholson are featured in half of the season's episodes, while the other half star original castmembers Vincent D'Onofrio and Kathryn Erbe as ace sleuths Goren and Eames.", "ShortSynopsis": "Zack Nichols joins the squad as partner to Megan Wheeler, while ace sleuths Robert Goren and Alexandra Eames team up on the city's toughest cases.", "AverageRating": 3, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Law_Order_Criminal_Intent_The_Eighth_Year/70159814", "Runtime": null, "Rating": "NR", "DateModified": "\/Date(1328902229000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70136121/seasons/70159814", "TinyUrl": "http://movi.es/caKc2", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70136121.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70136121.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70136121.jpg", "HighDefinitionUrl": "http://cdn-4.nflximg.com/en_us/boxshots/ghd/70136121.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1317427200000)\/", "AvailableTo": "\/Date(1412121600000)\/", "HighDefinitionAvailable": true, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKc2')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caKDZ')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70190835.jpg", "content_type": "image/jpeg", "media_etag": "\"6/10/2011 8:22:30 AM\""
+}, "Id": "caKDZ", "Name": "Garrow's Law: Series 1", "ShortName": "Garrow's Law: Series 1", "Synopsis": "In Series 1 of this award-winning legal drama set in 18th-century England, attorney William Garrow (Andrew Buchan) rails against social injustices and blatant corruption in trials at the Old Bailey in Georgian London. Garrow's mentor, John Southouse (Alun Armstrong), helps him hone his cross-examination style. Meanwhile, Garrow attempts to win the affections of the married Lady Sarah Hill (Lyndsey Marshal).", "ShortSynopsis": "In Series 1 of this award-winning legal drama set in 18th-century England, attorney William Garrow rails against social injustices and blatant corruption in trials at the Old Bailey in Georgian London.", "AverageRating": 3.7, "ReleaseYear": 2009, "Url": "http://www.netflix.com/Movie/Garrow_s_Law_Series_1/70158297", "Runtime": 14400, "Rating": "NR", "DateModified": "\/Date(1307694150000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70190835/seasons/70158297", "TinyUrl": "http://movi.es/caKDZ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70190835.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70190835.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70190835.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1298332800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 14400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKDZ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caKED')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70177066.jpg", "content_type": "image/jpeg", "media_etag": "\"7/21/2011 3:27:38 AM\""
+}, "Id": "caKED", "Name": "Harry's Law: Season 1", "ShortName": "Harry's Law: Season 1", "Synopsis": "In Season 1 of this dramedy series created by David E. Kelley, attorney Harriet \"Harry\" Korn starts an unconventional firm in a ramshackle shoe store with the help of fellow lawyer Adam and criminal-turned-paralegal Malcolm.", "ShortSynopsis": "In Season 1 of this dramedy series created by David E. Kelley, attorney Harriet \"Harry\" Korn starts an unconventional firm in a ramshackle shoe store.", "AverageRating": 3, "ReleaseYear": 2011, "Url": "http://www.netflix.com/Movie/Harry_s_Law_Season_1/70158337", "Runtime": null, "Rating": "NR", "DateModified": "\/Date(1311218858000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70177066/seasons/70158337", "TinyUrl": "http://movi.es/caKED", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70177066.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70177066.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70177066.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKED')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caKY4')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70143866.jpg", "content_type": "image/jpeg", "media_etag": "\"10/28/2011 4:09:59 AM\""
+}, "Id": "caKY4", "Name": "The Guardian: Season 3", "ShortName": "The Guardian: Season 3", "Synopsis": "High-powered attorney Nick Fallin (Simon Baker) continues his court-ordered stint at Legal Services of Pittsburgh in the final season of this drama series, taking up the cases of a patient who can't pay for cancer treatment and two children who may have AIDS. Fallin must balance business and pleasure when Lulu (Wendy Moniz) moves into his apartment, and faces a heavy workload when his father (Dabney Coleman) is scheduled for heart surgery.", "ShortSynopsis": "High-powered attorney Nick Fallin continues his court-ordered stint at Legal Services of Pittsburgh in the final season of this drama series.", "AverageRating": 3, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/The_Guardian_Season_3/70159568", "Runtime": 58200, "Rating": "NR", "DateModified": "\/Date(1319774999000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143866/seasons/70159568", "TinyUrl": "http://movi.es/caKY4", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70143866.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70143866.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70143866.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70143866.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1297123200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 58200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1314835200000)\/", "AvailableTo": "\/Date(1448928000000)\/", "HighDefinitionAvailable": true, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caKY4')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caZRQ')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70218668.jpg", "content_type": "image/jpeg", "media_etag": "\"11/21/2011 10:10:00 PM\""
+}, "Id": "caZRQ", "Name": "Justice: Season 1", "ShortName": "Justice: Season 1", "Synopsis": "When Judge Patrick Coburn returns to his hometown of Dovefield, Liverpool, after four decades away, he shakes things up as the head of the Public Justice Centre, meting out unconventional punishments for tough criminals.", "ShortSynopsis": "When Judge Patrick Coburn returns to his hometown in Liverpool he shakes things up, meting out unconventional punishments for tough criminals.", "AverageRating": 3, "ReleaseYear": 2011, "Url": "http://www.netflix.com/Movie/Justice_Season_1/70216816", "Runtime": 6900, "Rating": "NR", "DateModified": "\/Date(1321913400000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70218668/seasons/70216816", "TinyUrl": "http://movi.es/caZRQ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70218668.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70218668.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70218668.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6900
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caZRQ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZhyX')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70157328.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZhyX", "Name": "Murder One: Season 1", "ShortName": "Murder One: Season 1", "Synopsis": "Prominent Los Angeles attorney Ted Hoffman (Daniel Benzali) takes on the most challenging case of his illustrious career when he agrees to defend bad-boy star Neil Avedon (Jason Gedrick), who's been accused of murdering a 15-year-old girl. As Hoffman digs deeper into the case, he uncovers a twisted trail of evidence that leads straight to the top of the Los Angeles elite. Patricia Clarkson, Stanley Tucci and Vanessa Williams also star.", "ShortSynopsis": "Prominent Los Angeles attorney Ted Hoffman takes on the most challenging case of his illustrious career when he agrees to defend bad-boy star Neil Avedon, who's been accused of murdering a 15-year-old girl.", "AverageRating": 3, "ReleaseYear": 1995, "Url": "http://www.netflix.com/Movie/Murder_One_Season_1/70011293", "Runtime": 60720, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157328/seasons/70011293", "TinyUrl": "http://movi.es/cZhyX", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70157328.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70157328.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70157328.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1107820800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 60720
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZhyX')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZiGB')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70157328.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZiGB", "Name": "Murder One: Season 2", "ShortName": "Murder One: Season 2", "Synopsis": "The second season of this Emmy Award-winning drama series starts with a political assassination that has a major effect on the personal and professional life of high-powered Los Angeles attorney James Wyler (Anthony LaPaglia). As the case progresses throughout the season, Wyler finds himself engaged in a strategic battle against tenacious prosecuting attorney Miriam Grasso (Barbara Bosson) and must increasingly rely on his firm's new recruit.", "ShortSynopsis": null, "AverageRating": 3, "ReleaseYear": 1996, "Url": "http://www.netflix.com/Movie/Murder_One_Season_2/70012387", "Runtime": 48600, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157328/seasons/70012387", "TinyUrl": "http://movi.es/cZiGB", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70157328.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70157328.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70157328.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1132012800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 48600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZiGB')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZovu')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140403.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZovu", "Name": "Law & Order: Special Victims Unit: The Second Year", "ShortName": "Law & Order: SVU: The Second Year", "Synopsis": "Detective Elliot Stabler (Christopher Meloni), his partner, Olivia Benson (Mariska Hargitay), and the rest of the New York City Police SVU team up with ambitious new D.A. Alexandra Cabot (Stephanie March) and ex-narcotics detective Tutuola (Ice-T) in Season 2 of the popular crime series. This season, the unit unravels crimes involving sensitive topics such as religious beliefs, the rights of the mentally ill, date rape and parental neglect.", "ShortSynopsis": "A new D.A. and an ex-narcotics cop help to unravel sensitive crimes involving religious beliefs, the rights of the mentally ill and parental neglect.", "AverageRating": 3, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/Law_Order_Special_Victims_Unit_The_Second_Year/70038038", "Runtime": 55440, "Rating": "TV-14", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140403/seasons/70038038", "TinyUrl": "http://movi.es/cZovu", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70140403.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70140403.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140403.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70140403.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1127174400000)\/", "AvailableTo": null, "Rating": "TV-14", "Runtime": 55440
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1182988800000)\/", "AvailableTo": "\/Date(1372377600000)\/", "HighDefinitionAvailable": false, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZovu')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZsfy')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70140403.jpg", "content_type": "image/jpeg", "media_etag": "\"4/18/2011 7:15:49 PM\""
+}, "Id": "cZsfy", "Name": "Law & Order: Special Victims Unit: The Third Year", "ShortName": "Law & Order: SVU: The Third Year", "Synopsis": "Christopher Meloni and Mariska Hargitay co-star as New York City detectives Elliot Stabler and Olivia Benson in this well-received spin-off of NBC's \"Law & Order\" franchise. In the show's third season, a male stripper claims that a dead woman raped him; an animal rights activist is found headless in Central Park; and a shooting outside a gay bar stirs up tensions among two families.", "ShortSynopsis": "Provocative new cases involve a male stripper's claim that a dead woman raped him, a headless body in Central park and a shooting outside a gay bar.", "AverageRating": 3, "ReleaseYear": 2001, "Url": "http://www.netflix.com/Movie/Law_Order_Special_Victims_Unit_The_Third_Year/70052426", "Runtime": 59760, "Rating": "NR", "DateModified": "\/Date(1303154149000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140403/seasons/70052426", "TinyUrl": "http://movi.es/cZsfy", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70140403.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70140403.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70140403.jpg", "HighDefinitionUrl": "http://cdn-6.nflximg.com/en_us/boxshots/ghd/70140403.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1170115200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 59760
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1182988800000)\/", "AvailableTo": "\/Date(1372377600000)\/", "HighDefinitionAvailable": false, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZsfy')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZtJg')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70136121.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 7:28:22 PM\""
+}, "Id": "cZtJg", "Name": "Law & Order: Criminal Intent: The Sixth Year", "ShortName": "Law & Order: CI: The Sixth Year", "Synopsis": "Julianne Nicholson joins NYPD's Major Case Squad as Detective Meghan Wheeler, joining Goren (Vincent D'Onofrio), Eames (Kathryn Erbe) and Logan (Chris Noth) as they continue their journey into the dark minds of New York's criminal underworld. The sixth season of this gritty drama from the popular franchise kicks off as the team investigates the murder of an ambassador's daughter, which seems to be the first in a string of serial killings.", "ShortSynopsis": "Detective Meghan Wheeler joins Goren, Eames and Logan on the journey into New York's dark side, starting with the murder of an ambassador's daughter.", "AverageRating": 3, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Law_Order_Criminal_Intent_The_Sixth_Year/70054888", "Runtime": 56940, "Rating": "NR", "DateModified": "\/Date(1328902102000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70136121/seasons/70054888", "TinyUrl": "http://movi.es/cZtJg", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70136121.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70136121.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70136121.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70136121.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1309219200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 56940
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1254355200000)\/", "AvailableTo": "\/Date(1412121600000)\/", "HighDefinitionAvailable": true, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJg')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZtJK')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70140403.jpg", "content_type": "image/jpeg", "media_etag": "\"10/2/2011 8:25:48 AM\""
+}, "Id": "cZtJK", "Name": "Law & Order: Special Victims Unit: The Eighth Year", "ShortName": "Law & Order: SVU: The Eighth Year", "Synopsis": "The critically acclaimed series continues to reveal the dirty underworld of New York's sexually oriented crimes. Special Victims Unit detectives Elliot Stabler (Christopher Meloni) and Olivia Benson (Emmy winner Mariska Hargitay) use their knowledge of psychology to bring criminals to justice while trying to manage the impact the disturbing work has on their personal lives. Richard Belzer and Ice-T round out the cast with humor and cynicism.", "ShortSynopsis": "Psychology, grit and heart help Benson and Stabler bring heinous criminals to justice, but the impact of their personal lives takes its toll.", "AverageRating": 3, "ReleaseYear": 2006, "Url": "http://www.netflix.com/Movie/Law_Order_Special_Victims_Unit_The_Eighth_Year/70054866", "Runtime": 56220, "Rating": "TV-14", "DateModified": "\/Date(1317543948000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140403/seasons/70054866", "TinyUrl": "http://movi.es/cZtJK", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70140403.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70140403.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70140403.jpg", "HighDefinitionUrl": "http://cdn-6.nflximg.com/en_us/boxshots/ghd/70140403.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1234828800000)\/", "AvailableTo": null, "Rating": "TV-14", "Runtime": 56220
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1254355200000)\/", "AvailableTo": "\/Date(1412121600000)\/", "HighDefinitionAvailable": true, "Rating": "TV-14", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtJK')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZuWP')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70157379.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZuWP", "Name": "JAG: Season 3", "ShortName": "JAG: Season 3", "Synopsis": "The third season of this popular show brings fighter-pilot-turned-lawyer Harmon \"Harm\" Rabb (David James Elliott) and Marine Lt. Col. Sarah \"Mac\" MacKenzie (Catherine Bell) together as representatives of the Judge Advocate General's (JAG) office. Together, they investigate and litigate a variety of crimes in the military ranging from espionage to terrorism. This intense and provocative series also stars Patrick Labyorteaux and John M. Jackson.", "ShortSynopsis": "The third season of this popular show brings fighter-pilot-turned-lawyer Harmon \"Harm\" Rabb and Marine Lt. Col. Sarah \"Mac\" MacKenzie together as representatives of the Judge Advocate General's (JAG) office.", "AverageRating": 3, "ReleaseYear": 1997, "Url": "http://www.netflix.com/Movie/JAG_Season_3/70059521", "Runtime": 64800, "Rating": "TV-PG", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157379/seasons/70059521", "TinyUrl": "http://movi.es/cZuWP", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70157379.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70157379.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70157379.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1174348800000)\/", "AvailableTo": null, "Rating": "TV-PG", "Runtime": 64800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZuWP')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZy1M')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70157379.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZy1M", "Name": "JAG: Season 6", "ShortName": "JAG: Season 6", "Synopsis": "In the sixth season of the long-running hit series, Navy Cmdr. Harmon \"Harm\" Rabb (David James Elliott) and Marine Lt. Col. Sarah \"Mac\" MacKenzie (Catherine Bell) continue their adventures in the world of military crime. Harm discovers he has a Russian half brother, the Navy's rescue of a young girl in Cuban waters becomes an international incident, and Mac goes up against her intimidating law school professor in a high-profile court-martial.", "ShortSynopsis": "In the sixth season of the long-running hit series, Navy Cmdr. Harmon \"Harm\" Rabb and Marine Lt. Col. Sarah \"Mac\" MacKenzie continue their adventures in the world of military crime.", "AverageRating": 3, "ReleaseYear": 2000, "Url": "http://www.netflix.com/Movie/JAG_Season_6/70072972", "Runtime": 63180, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157379/seasons/70072972", "TinyUrl": "http://movi.es/cZy1M", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70157379.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70157379.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70157379.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1211241600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 63180
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1M')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZy1P')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70157379.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZy1P", "Name": "JAG: Season 9", "ShortName": "JAG: Season 9", "Synopsis": "Navy Cmdr. Harmon \"Harm\" Rabb (David James Elliott) and Marine Lt. Col. Sarah \"Mac\" MacKenzie (Catherine Bell) continue their adventures investigating military crime. In the ninth season of the long-running hit series, Harm flies missions for the CIA in the Philippines, North Korea and Libya during a break in his employment at JAG. Later, Mac and Harm are once again pitted against each other in the courtroom in a case involving a sailor's death.", "ShortSynopsis": "Navy Cmdr. Harmon \"Harm\" Rabb and Marine Lt. Col. Sarah \"Mac\" MacKenzie continue their adventures investigating military crime.", "AverageRating": 3, "ReleaseYear": 2003, "Url": "http://www.netflix.com/Movie/JAG_Season_9/70072975", "Runtime": 60780, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157379/seasons/70072975", "TinyUrl": "http://movi.es/cZy1P", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70157379.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70157379.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70157379.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1257811200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 60780
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZy1P')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZz7E')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70157438.jpg", "content_type": "image/jpeg", "media_etag": "\"8/9/2011 3:13:17 PM\""
+}, "Id": "cZz7E", "Name": "Eli Stone: Season 1", "ShortName": "Eli Stone: Season 1", "Synopsis": "Cutthroat attorney Eli Stone (Jonny Lee Miller) has a problem: He's starting to care about the people he's supposed to be exploiting. And adding insult to injury, he's having prophetic hallucinations and prescient visions. Could it be that he has a higher calling? From the creators of the popular drama \"Brothers and Sisters,\" this quirky series follows the quasi-spiritual exploits of Eli, the people's prophetic attorney.", "ShortSynopsis": "After prescient visions invade his head, Eli finds himself caring about his clients and starting to believe he may have a calling higher than the law.", "AverageRating": 3, "ReleaseYear": 2008, "Url": "http://www.netflix.com/Movie/Eli_Stone_Season_1/70077180", "Runtime": 33540, "Rating": "NR", "DateModified": "\/Date(1312902797000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157438/seasons/70077180", "TinyUrl": "http://movi.es/cZz7E", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70157438.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70157438.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70157438.jpg", "HighDefinitionUrl": "http://cdn-0.nflximg.com/en_us/boxshots/ghd/70157438.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1220313600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 33540
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1297728000000)\/", "AvailableTo": "\/Date(1360886400000)\/", "HighDefinitionAvailable": true, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZz7E')/Seasons"
+}
+}
+}
+]
+}
+}

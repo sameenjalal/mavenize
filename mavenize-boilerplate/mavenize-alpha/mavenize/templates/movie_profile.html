@@ -1,0 +1,122 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Mavenize | {{ movie.title }} 
+{% endblock %}
+
+{% block body %}
+  {% load review_checks %}
+  {% load utils %}
+  <div class="container">
+    <div class="row">
+      <div class="span9">
+        <h1 class="title">
+          {{ movie.title }} ({{ movie.release_date|date:"Y" }})
+        </h1>
+        {% if not user|has_reviewed:movie.movie_id %}
+        <section id="review-form">
+          <form class="form-horizontal" action="review/" method="POST">{% csrf_token %}
+            <label for="review-text">
+              <h3 class="form-label">Watched it?  Rave about it to your friends.</h3>
+              <div class="pull-right" id="counter">
+                <span id="count">240</span> characters remaining.
+              </div>
+            </label>
+            {{ form.text }}
+            <div class="btn-toolbar" id="rave-submit">
+              <div class="btn-group">
+                <input class="btn btn-large btn-success" type="submit" name="submit" value="Loved It" />
+                <input class="btn btn-large btn-warning" type="submit" name="submit" value="So-So" />
+                <input class="btn btn-large btn-danger" type="submit" name="submit" value="Hated It" />
+              </div>
+            </div>
+          </form>
+        </section>
+        {% endif %}
+        <section id="top-reviews">
+          <div class="stream-header gradient">
+            Raves from Your Friends
+          </div>
+          <ul>
+            {% include "partials/movie_friend.html" %}
+            <div class="load-friend"></div>
+          </ul>
+          <div class="stream-header gradient">
+            Raves from Everyone
+          </div>
+          <ul>
+            {% include "partials/movie_global.html" %}
+            <div class="load-global"></div>
+          </ul>
+          <div class="load-more">
+            Load More
+          </div>
+        </section>
+      </div>
+      <div class="span3">
+        <div class="thumbnail top-right">
+          <img src="{{ movie.image.url }}" />
+        </div>
+        <div class="profile {{ rating|color }}" id="rating-box">
+          <div id="rating">{{ rating }}%</div>
+          <div id="votes">({{ votes }} votes)</div>
+        </div>
+        <div class="profile">
+          <h3>Synopsis</h3>
+          <p>
+            {{ movie.synopsis }}
+          </p>
+        </div>
+        <div class="profile">
+          <h3>Cast & Directors</h3>
+            <h4>Actors</h4>
+              {{ movie.cast }}
+            <h4>Directors</h4>
+              {{ movie.directors }}
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
+
+{% block js %}
+  <script type="text/javascript">
+    $(window).load(function() {
+      var page = 2
+      
+      // Load more button for movies
+      $('.load-more').click(function() {
+        $(this).text('Loading...');
+        $.ajax({
+          url: '/load/friend/{{ movie.url }}' + '/' + page + '/',
+          type: 'GET',
+          dataType: 'HTML',
+          success: function(data, textStatus, jqXHR) {
+            $('.load-friend').append(data);
+            $('.load-more').text('Load More');
+          },
+          statusCode: {
+            200: function () { page += 1; },
+            204: function () {
+              $.ajax({
+                url: '/load/global/{{ movie.url }}' + '/' + page + '/',
+                type: 'GET',
+                dataType: 'HTML',
+                success: function(data, textStatus, jqXHR) {
+                  $('.load-global').append(data);
+                  $('.load-more').text('Load More');
+                },
+                statusCode: {
+                  200: function() { page += 1; },
+                  204: function () {
+                    $('.load-more').remove();
+                  }
+                }              
+              });
+            }
+          }
+        });
+      });
+    })
+  </script> 
+{% endblock %}

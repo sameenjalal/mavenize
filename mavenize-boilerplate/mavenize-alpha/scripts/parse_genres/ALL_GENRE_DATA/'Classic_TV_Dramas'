@@ -1,0 +1,3959 @@
+{
+"d" : {
+"results": [
+{
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApRrP')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/60025187.jpg", "content_type": "image/jpeg", "media_etag": "\"2/10/2012 9:33:17 AM\""
+}, "Id": "ApRrP", "Name": "The Best of Baretta", "ShortName": "The Best of Baretta", "Synopsis": "Robert Blake stars in this gritty, hip 1970s TV crime drama as Tony Baretta, a maverick NYPD detective who flouted the department's rules when he thought they might prevent him from taking down a criminal. Striking out on his own, he handled the NYPD's toughest cases from his office inside a fleabag hotel. This collection contains three memorable episodes: \"Secret of Terry Lake,\" \"Keep Your Eye on the Sparrow\" and \"He'll Never See Daylight.\"", "ShortSynopsis": null, "AverageRating": 2.9, "ReleaseYear": 1975, "Url": "http://www.netflix.com/Movie/The_Best_of_Baretta/60025187", "Runtime": 9180, "Rating": "NR", "DateModified": "\/Date(1328866397000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60025187", "TinyUrl": "http://movi.es/ApRrP", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/60025187.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/60025187.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/60025187.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1035849600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 9180
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApRrP')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApTh7')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/60032237.jpg", "content_type": "image/jpeg", "media_etag": "\"9/17/2010 3:40:48 PM\""
+}, "Id": "ApTh7", "Name": "Naked City: New York to L.A.", "ShortName": "Naked City: New York to L.A.", "Synopsis": "Cities are teeming with tales that need to be told. This collection from the film-noir TV series that mines the urban landscape for inspiration features a talented roster of guest stars, including Robert Blake, Martin Sheen, Peter Fonda, Rip Torn and Tuesday Weld. This video includes the following episodes: \"New York to L.A,\" \"The Hot Minerva,\" \"The Night the Saints Lost Their Halos\" and \"A Case Study of Two Savages.\"", "ShortSynopsis": "Cities are teeming with tales that need to be told.", "AverageRating": 3, "ReleaseYear": 1961, "Url": "http://www.netflix.com/Movie/Naked_City_New_York_to_L.A./60032237", "Runtime": 12240, "Rating": "NR", "DateModified": "\/Date(1284738048000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60032237", "TinyUrl": "http://movi.es/ApTh7", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/60032237.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/60032237.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/60032237.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 12240
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApTh7')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApUub')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/60036917.jpg", "content_type": "image/jpeg", "media_etag": "\"9/17/2010 3:40:47 PM\""
+}, "Id": "ApUub", "Name": "Naked City: Portrait of a Painter", "ShortName": "Naked City: Portrait of a Painter", "Synopsis": "Four episodes of the popular TV series \"Naked City\" are included on this disc. In the titular episode, William Shatner plays a struggling artist who awakens to find his wife murdered. But did he do it? Other episodes include \"Alive and Second Lieutenant\" (starring Jon Voight), \"Don't Knock It Till You've Tried It\" (starring Walter Matthau) and \"The Tragic Success of Alfred Tiloff\" (starring Jack Klugman).", "ShortSynopsis": null, "AverageRating": 2.9, "ReleaseYear": 1961, "Url": "http://www.netflix.com/Movie/Naked_City_Portrait_of_a_Painter/60036917", "Runtime": 12240, "Rating": "NR", "DateModified": "\/Date(1284738047000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60036917", "TinyUrl": "http://movi.es/ApUub", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/60036917.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/60036917.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/60036917.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1084233600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 12240
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUub')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ApUuc')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/60036918.jpg", "content_type": "image/jpeg", "media_etag": "\"9/17/2010 3:40:48 PM\""
+}, "Id": "ApUuc", "Name": "Naked City: Spectre of the Roses Street Gang", "ShortName": "Naked City: Spectre of Roses Street Gang", "Synopsis": "Four episodes of the popular TV series \"Naked City\" are included on this disc. In the titular episode, Carroll O'Connor is one of three businessmen who killed a boy years earlier and covered up the crime (or so he thinks!). Other episodes include \"Goodbye Mama, Hello Auntie Maud\" (starring James Coburn), \"Torment Him and Hold Him Long\" (starring Robert Duvall) and \"Five Cranks for Winter, Ten Cranks for Spring\" (starring Herschel Bernardi).", "ShortSynopsis": null, "AverageRating": 2.9, "ReleaseYear": 1962, "Url": "http://www.netflix.com/Movie/Naked_City_Spectre_of_the_Roses_Street_Gang/60036918", "Runtime": 12240, "Rating": "NR", "DateModified": "\/Date(1284738048000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/60036918", "TinyUrl": "http://movi.es/ApUuc", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/60036918.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/60036918.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/60036918.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1084233600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 12240
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ApUuc')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('btpa0')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "btpa0", "Name": "Dark Shadows: Collection 5", "ShortName": "Dark Shadows: Collection 5", "Synopsis": "Filled with Gothic mystery and supernatural intrigue, this daytime series became wildly popular after its 1966 premiere on ABC and earned a reputation as one of the most unusual and enduring programs in television history. The show revolves around Barnabas Collins (Jonathan Frid), a guilt-ridden 175-year-old vampire who longs to be human again and returns to his estate after being chained inside a coffin for nearly 200 years.", "ShortSynopsis": "Filled with Gothic mystery and supernatural intrigue, this daytime series became wildly popular after its 1966 premiere on ABC and earned a reputation as one of the most unusual and enduring programs in television history.", "AverageRating": 3, "ReleaseYear": 1967, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_5/60030748", "Runtime": 50400, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/60030748", "TinyUrl": "http://movi.es/btpa0", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1051920000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 50400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa0')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('btpa1')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "btpa1", "Name": "Dark Shadows: Collection 6", "ShortName": "Dark Shadows: Collection 6", "Synopsis": "Filled with Gothic mystery and supernatural intrigue, the daytime series \"Dark Shadows\" became wildly popular after its 1966 premiere on ABC and has earned a reputation as one of the most unusual and enduring programs in television history. This collection kicks off where Barnabas Collins (Jonathan Frid), a guilt-ridden 175-year-old vampire who longs to be human again, finds that those he loves start to die off.", "ShortSynopsis": "Filled with Gothic mystery and supernatural intrigue, the daytime series \"Dark Shadows\" became wildly popular after its 1966 premiere on ABC and has earned a reputation as one of the most unusual and enduring programs in television history.", "AverageRating": 3, "ReleaseYear": 1968, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_6/60030749", "Runtime": 50400, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/60030749", "TinyUrl": "http://movi.es/btpa1", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1056412800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 50400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpa1')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('btpZw')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"11/12/2011 12:10:55 AM\""
+}, "Id": "btpZw", "Name": "Dark Shadows: Collection 1", "ShortName": "Dark Shadows: Collection 1", "Synopsis": "Filled with Gothic mystery and supernatural intrigue, the daytime series \"Dark Shadows\" became wildly popular after its 1966 premiere on ABC and has earned a reputation as one of the most unusual and enduring programs in TV history. The show revolves around Barnabas Collins (Jonathan Frid), a guilt-ridden 175-year-old vampire who longs to be human again and returns to his estate after being chained inside a coffin for nearly 200 years.", "ShortSynopsis": "A guilt-ridden 175-year-old vampire longs to be human again and returns to his estate after being chained inside a coffin for nearly 200 years.", "AverageRating": 3.1, "ReleaseYear": 1967, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_1/60030744", "Runtime": 50400, "Rating": "NR", "DateModified": "\/Date(1321056655000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/60030744", "TinyUrl": "http://movi.es/btpZw", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": "http://cdn-4.nflximg.com/en_us/boxshots/ghd/70140374.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1051920000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 50400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1272672000000)\/", "AvailableTo": "\/Date(1356998400000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZw')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('btpZx')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"11/12/2011 12:10:55 AM\""
+}, "Id": "btpZx", "Name": "Dark Shadows: Collection 2", "ShortName": "Dark Shadows: Collection 2", "Synopsis": "Filled with Gothic mystery and supernatural intrigue, the daytime series \"Dark Shadows\" became wildly popular after its 1966 premiere on ABC and has earned a reputation as one of the most unusual and enduring programs in TV history. The show revolves around Barnabas Collins (Jonathan Frid), a guilt-ridden 175-year-old vampire who longs to be human again and returns to his estate after being chained inside a coffin for nearly 200 years.", "ShortSynopsis": "In an old mansion off the coast of Maine, a family cross paths with ghosts, werewolves, and witches over the course of several centuries.", "AverageRating": 3, "ReleaseYear": 1967, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_2/60030745", "Runtime": 50400, "Rating": "NR", "DateModified": "\/Date(1321056655000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/60030745", "TinyUrl": "http://movi.es/btpZx", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": "http://cdn-5.nflximg.com/en_us/boxshots/ghd/70140374.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1051920000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 50400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1272672000000)\/", "AvailableTo": "\/Date(1356998400000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZx')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('btpZz')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"6/2/2011 11:09:25 PM\""
+}, "Id": "btpZz", "Name": "Dark Shadows: Collection 4", "ShortName": "Dark Shadows: Collection 4", "Synopsis": "Filled with Gothic mystery and supernatural intrigue, this daytime series became wildly popular after its 1966 premiere on ABC and has earned a reputation as one of the most unusual and enduring programs in television history. The show revolves around Barnabas Collins (Jonathan Frid), a guilt-ridden 175-year-old vampire who longs to be human again and returns to his estate after being chained inside a coffin for nearly 200 years.", "ShortSynopsis": "A guilt-ridden 175-year-old vampire longs to be human again and returns to his estate after being chained inside a coffin for nearly 200 years.", "AverageRating": 3, "ReleaseYear": 1967, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_4/60030747", "Runtime": 50400, "Rating": "NR", "DateModified": "\/Date(1307056165000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/60030747", "TinyUrl": "http://movi.es/btpZz", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": "http://cdn-7.nflximg.com/en_us/boxshots/ghd/70140374.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1051920000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 50400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1306886400000)\/", "AvailableTo": "\/Date(1356998400000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btpZz')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('btqAo')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "btqAo", "Name": "Dark Shadows: Collection 9", "ShortName": "Dark Shadows: Collection 9", "Synopsis": "Featuring episodes of the hit television series that ran from 1966 to 1971, this collection includes the usual helping of vampires, warlocks and ghouls. Included are Adam's abduction of Victoria, Angelique's nightmare, Nicholas's obsession and more.", "ShortSynopsis": "Featuring episodes of the hit television series that ran from 1966 to 1971, this collection includes the usual helping of vampires, warlocks and ghouls. Included are Adam's abduction of Victoria, Angelique's nightmare, Nicholas's obsession and more.", "AverageRating": 3, "ReleaseYear": 1968, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_9/60033030", "Runtime": 50400, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/60033030", "TinyUrl": "http://movi.es/btqAo", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1069718400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 50400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btqAo')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('btr6a')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "btr6a", "Name": "Dark Shadows: Collection 10", "ShortName": "Dark Shadows: Collection 10", "Synopsis": "Filled with Gothic mystery and supernatural intrigue, the daytime series \"Dark Shadows\" became wildly popular after its 1966 premiere on ABC and has earned a reputation as one of the most unusual and enduring programs in TV history. The show revolves around Barnabas Collins (Jonathan Frid), a guilt-ridden 175-year-old vampire who longs to be human again and returns to his estate after being chained inside a coffin for nearly 200 years.", "ShortSynopsis": "Filled with Gothic mystery and supernatural intrigue, the daytime series \"Dark Shadows\" became wildly popular after its 1966 premiere on ABC and has earned a reputation as one of the most unusual and enduring programs in TV history.", "AverageRating": 3, "ReleaseYear": 1968, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_10/60036612", "Runtime": 50400, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/60036612", "TinyUrl": "http://movi.es/btr6a", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1080604800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 50400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btr6a')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('btrGk')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "btrGk", "Name": "Dark Shadows: Collection 12", "ShortName": "Dark Shadows: Collection 12", "Synopsis": "Cursed 175-year-old vampire Barnabas Collins (Jonathan Frid) continues to haunt Collinswood, an eerie estate in Maine, in this hugely popular Gothic daytime series that ruled the television airwaves from 1966 to '71. This volume includes the first colorized installments and five classic episodes in which Julia (Grayson Hall) finds marks on Barbara's neck, and Roger (Louis Edmonds) tries to stop the wedding of Victoria and Jeff.", "ShortSynopsis": "Cursed 175-year-old vampire Barnabas Collins continues to haunt Collinswood, an eerie estate in Maine, in this hugely popular Gothic daytime series that ruled the television airwaves from 1966 to '71.", "AverageRating": 3, "ReleaseYear": 1969, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_12/60037242", "Runtime": 20160, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/60037242", "TinyUrl": "http://movi.es/btrGk", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1263859200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 20160
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('btrGk')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVOEt')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70021043.jpg", "content_type": "image/jpeg", "media_etag": "\"8/18/2011 5:59:52 PM\""
+}, "Id": "BVOEt", "Name": "Gangbusters: Vol. 1", "ShortName": "Gangbusters: Vol. 1", "Synopsis": "\"Gangbusters\" (an early predecessor to TV's \"America's Most Wanted\") features taut, gripping dramatizations of local, state or federal law-enforcement incidents culled from case files from across the country. Starring Richard Crane, Myron Healey and Tudor Owen, this first volume of four episodes includes \"Van Meter,\" \"The Unholy Three,\" \"The Phantom\" and \"The Quirley Gang.\" Directed by Bill Karn.", "ShortSynopsis": null, "AverageRating": 2.2, "ReleaseYear": 1955, "Url": "http://www.netflix.com/Movie/Gangbusters_Vol._1/70021043", "Runtime": 6000, "Rating": "NR", "DateModified": "\/Date(1313690392000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70021043", "TinyUrl": "http://movi.es/BVOEt", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70021043.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70021043.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70021043.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110844800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVOEt')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVVO9')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70048525.jpg", "content_type": "image/jpeg", "media_etag": "\"1/10/2012 12:10:20 AM\""
+}, "Id": "BVVO9", "Name": "Studio One: The Defender", "ShortName": "Studio One: The Defender", "Synopsis": "Featuring live dramas with both well-known actors and future stars such as Gene Hackman, Dustin Hoffman and Robert Redford, \"Studio One\" stands out as a classic series from the early days of television.  In this two-hour pilot starring Ralph Bellamy, Steve McQueen and William Shatner, a father-and-son attorney team defends a 19-year-old murder suspect, and the trial brings out their own family conflicts.", "ShortSynopsis": null, "AverageRating": 3, "ReleaseYear": 1957, "Url": "http://www.netflix.com/Movie/Studio_One_The_Defender/70048525", "Runtime": 7800, "Rating": "NR", "DateModified": "\/Date(1326154220000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70048525", "TinyUrl": "http://movi.es/BVVO9", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70048525.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70048525.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70048525.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1149552000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 7800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVVO9')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVW1v')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70050991.jpg", "content_type": "image/jpeg", "media_etag": "\"1/21/2011 5:56:44 PM\""
+}, "Id": "BVW1v", "Name": "The Court of Last Resort", "ShortName": "The Court of Last Resort", "Synopsis": "Staffed by the era's top law and criminology experts, \"The Court of Last Resort\" attempted to expose the wrongly accused and unjustly convicted criminals of the 1940s and '50s. Intervening where the justice system was perceived to have failed, the series uncovered actual cases for dramatic reenactment. This four-episode collection from the crusading show features the trials of Clarence Redding, Conrad Murray, George Zaccho and Jacob Loveless.", "ShortSynopsis": "Staffed by the era's top law and criminology experts, \"The Court of Last Resort\" attempted to expose the wrongly accused and unjustly convicted criminals of the 1940s and '50s. The series uncovered actual cases for dramatic reenactment.", "AverageRating": 1.9, "ReleaseYear": 1957, "Url": "http://www.netflix.com/Movie/The_Court_of_Last_Resort/70050991", "Runtime": 6120, "Rating": "NR", "DateModified": "\/Date(1295632604000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70050991", "TinyUrl": "http://movi.es/BVW1v", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70050991.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70050991.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70050991.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1151366400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 6120
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVW1v')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('BVZkL')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70065277.jpg", "content_type": "image/jpeg", "media_etag": "\"12/16/2010 10:19:15 PM\""
+}, "Id": "BVZkL", "Name": "When the West Was Fun", "ShortName": "When the West Was Fun", "Synopsis": "Featuring live appearances of more than 50 actors as well as numerous clips from \"Rawhide,\" \"The Rifleman\" and many other classic shows, this amazing program celebrates an important era in television  history. John Wayne, Clint Eastwood, Chuck Connors and Roy Rogers salute television's golden age of Westerns. Also featured are Glenn Ford, Iron Eyes Cody, Clayton Moore, Richard Boone, Dale Evans, Larry Storch and Lee Van Cleef.", "ShortSynopsis": "Featuring live appearances of more than 50 actors as well as numerous clips from \"Rawhide,\" \"The Rifleman\" and many other classic shows, this amazing program celebrates an important era in television history.", "AverageRating": 3, "ReleaseYear": 1979, "Url": "http://www.netflix.com/Movie/When_the_West_Was_Fun/70065277", "Runtime": 3600, "Rating": "NR", "DateModified": "\/Date(1292537955000)\/", "Type": "Movie", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/movies/70065277", "TinyUrl": "http://movi.es/BVZkL", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70065277.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70065277.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70065277.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1175558400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 3600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('BVZkL')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca0c4')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70143826.jpg", "content_type": "image/jpeg", "media_etag": "\"5/9/2011 3:42:32 AM\""
+}, "Id": "ca0c4", "Name": "Hawaii Five-O: Season 3", "ShortName": "Hawaii Five-O: Season 3", "Synopsis": "With the help of his capable team, law enforcer Steve McGarrett (Jack Lord) continues to maintain order in paradise by rescuing kidnap victims, investigating murders, retrieving stolen property, ending disputes and helping drug addicts.  Martin Sheen, Anne Archer, Joan Van Ark, Vera Miles, Hume Cronyn and Gary Collins guest star in episodes of the third season of this classic island police drama.", "ShortSynopsis": "Law enforcer Steve McGarrett continues to maintain order in paradise by rescuing kidnap victims, investigating murders and helping drug addicts.", "AverageRating": 3, "ReleaseYear": 1970, "Url": "http://www.netflix.com/Movie/Hawaii_Five-O_Season_3/70082936", "Runtime": 72960, "Rating": "NR", "DateModified": "\/Date(1304912552000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143826/seasons/70082936", "TinyUrl": "http://movi.es/ca0c4", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70143826.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70143826.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70143826.jpg", "HighDefinitionUrl": "http://cdn-6.nflximg.com/en_us/boxshots/ghd/70143826.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1200960000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 72960
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1301616000000)\/", "AvailableTo": "\/Date(1372636800000)\/", "HighDefinitionAvailable": true, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca0c4')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca1FH')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "ca1FH", "Name": "Dark Shadows: The Beginning: Collection 2", "ShortName": "Dark Shadows: The Beginning: Collection 2", "Synopsis": "This collection features rare pre-vampire episodes of the pioneering Gothic drama revolving around hauntings, spirits and other things supernatural. See new governess Victoria Winters settle in at Collinwood and learn of Burke Devlin's wrongful conviction, how he amassed his fortune and his plans to take over the Collins estate. Romantic intrigue also abounds in these episodes that set the stage for one of TV's iconic vampires, Barnabas Collins.", "ShortSynopsis": "This collection features rare pre-vampire episodes of the pioneering Gothic drama revolving around hauntings, spirits and other things supernatural.", "AverageRating": 3, "ReleaseYear": 1966, "Url": "http://www.netflix.com/Movie/Dark_Shadows_The_Beginning_Collection_2/70085367", "Runtime": 48600, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/70085367", "TinyUrl": "http://movi.es/ca1FH", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1201564800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 48600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca1FH')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca48R')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70143826.jpg", "content_type": "image/jpeg", "media_etag": "\"5/9/2011 3:42:32 AM\""
+}, "Id": "ca48R", "Name": "Hawaii Five-O: Season 4", "ShortName": "Hawaii Five-O: Season 4", "Synopsis": "Though their beat is a tropical paradise and the destination of vacationers from around the world, detectives Steve McGarrett (Jack Lord) and Danny \"Danno\" Williams (James MacArthur) are all business. In the show's fourth season, McGarrett and his team search for a serial killer who puts makeup on his victims; track a well-organized gang cashing fraudulent traveler's checks; and hunt down a disgruntled ex-cop plotting to assassinate the governor.", "ShortSynopsis": "Though their beat is a tropical paradise, detectives Steve McGarrett and Danny \"Danno\" Williams are all business in their zeal to catch the bad guys.", "AverageRating": 3.1, "ReleaseYear": 1971, "Url": "http://www.netflix.com/Movie/Hawaii_Five-O_Season_4/70096475", "Runtime": 72660, "Rating": "NR", "DateModified": "\/Date(1304912552000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143826/seasons/70096475", "TinyUrl": "http://movi.es/ca48R", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70143826.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70143826.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70143826.jpg", "HighDefinitionUrl": "http://cdn-5.nflximg.com/en_us/boxshots/ghd/70143826.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1213056000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 72660
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1301616000000)\/", "AvailableTo": "\/Date(1372636800000)\/", "HighDefinitionAvailable": true, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca48R')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca6zh')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"6/1/2011 6:26:26 PM\""
+}, "Id": "ca6zh", "Name": "Dark Shadows: The Beginning: Collection 6", "ShortName": "Dark Shadows: The Beginning: Collection 6", "Synopsis": "Strange and bizarre secrets emerge in this collection of early \"Dark Shadows\" episodes filmed before the introduction of Barnabas Collins, the pining vampire who became one of the supernatural soap opera's most popular characters. When Jason McGuire arrives at Collinwood unannounced, he reminds Elizabeth of a long-forgotten bond they share. But Jason's traveling companion, Willie Loomis, can't seem to keep his eyes off an old family portrait.", "ShortSynopsis": "Strange and bizarre secrets emerge in this collection of early \"Dark Shadows\" episodes filmed before the introduction of Barnabas Collins, the pining vampire who became one of the supernatural soap opera's most popular characters.", "AverageRating": 3, "ReleaseYear": 1967, "Url": "http://www.netflix.com/Movie/Dark_Shadows_The_Beginning_Collection_6/70107465", "Runtime": 46800, "Rating": "NR", "DateModified": "\/Date(1306952786000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/70107465", "TinyUrl": "http://movi.es/ca6zh", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1225152000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 46800
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca6zh')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('ca9g0')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70157299.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "ca9g0", "Name": "Peyton Place: Season 1: Part 1", "ShortName": "Peyton Place: Season 1: Part 1", "Synopsis": "Chronicling the often scandal-filled lives of the residents of a small New England town, this landmark series paved the way for prime-time sudsers to come, such as \"Dallas,\" \"Dynasty\" and the like. Loosely based on the popular novel by author Grace Metalious, \"Peyton Place\" was a high ratings earner during its run in the mid-1960s and helped launch the careers of series regulars Ryan O'Neal and Mia Farrow.", "ShortSynopsis": "Chronicling the often scandal-filled lives of the residents of a small New England town, this landmark series paved the way for prime-time sudsers to come, such as \"Dallas,\" \"Dynasty\" and the like.", "AverageRating": 3, "ReleaseYear": 1964, "Url": "http://www.netflix.com/Movie/Peyton_Place_Season_1_Part_1/70117776", "Runtime": 48000, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157299/seasons/70117776", "TinyUrl": "http://movi.es/ca9g0", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70157299.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70157299.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70157299.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1242691200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 48000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('ca9g0')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caB8V')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70143826.jpg", "content_type": "image/jpeg", "media_etag": "\"5/9/2011 3:42:34 AM\""
+}, "Id": "caB8V", "Name": "Hawaii Five-O: Season 7", "ShortName": "Hawaii Five-O: Season 7", "Synopsis": "Crime takes no holiday as Detectives Steve McGarrett (Jack Lord), Danny \"Danno\" Williams (James MacArthur) and the elite Hawaii Five-O force continue to take down gangsters, murderers and others who plague paradise in Season 7 of the long-running crime drama. McGarrett narrowly escapes being blown up in a bomb attack; a copycat killer reenacts the team's old cases; a foreign minister needs protection from a rogue assassin; and more.", "ShortSynopsis": "McGarrett narrowly escapes a bomb attack, a copycat killer reenacts the team's old cases, and a foreign minister needs protection from an assassin.", "AverageRating": 3, "ReleaseYear": 1974, "Url": "http://www.netflix.com/Movie/Hawaii_Five-O_Season_7/70123387", "Runtime": 72600, "Rating": "NR", "DateModified": "\/Date(1304912554000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143826/seasons/70123387", "TinyUrl": "http://movi.es/caB8V", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70143826.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70143826.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70143826.jpg", "HighDefinitionUrl": "http://cdn-7.nflximg.com/en_us/boxshots/ghd/70143826.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1255996800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 72600
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1301616000000)\/", "AvailableTo": "\/Date(1372636800000)\/", "HighDefinitionAvailable": true, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caB8V')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caCxu')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large_ste/70140392.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2012 12:09:57 AM\""
+}, "Id": "caCxu", "Name": "Have Gun Will Travel: Season 4: Vol. 2", "ShortName": "Have Gun Will Travel: Season 4: Vol. 2", "Synopsis": "The fourth season of this hit television Western finds erudite gunman Paladin (Richard Boone) leaving his digs in San Francisco's posh Hotel Carlton and riding to aid folks in need, including a lady sheriff whose town has been overrun by gunmen. Also this year, Paladin tracks down a woman kidnapped by Indians, helps a Russian Jewish immigrant, and umpires a rough-and-tumble baseball game. Robert Blake guest stars.", "ShortSynopsis": "Based out of a posh San Francisco hotel, a Wild West gunslinger reliably rides out to save the day in this collection of episodes", "AverageRating": 3, "ReleaseYear": 1961, "Url": "http://www.netflix.com/Movie/Have_Gun_Will_Travel_Season_4_Vol._2/70130418", "Runtime": 29460, "Rating": "TV-PG", "DateModified": "\/Date(1328746197000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140392/seasons/70130418", "TinyUrl": "http://movi.es/caCxu", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small_ste/70140392.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88_ste/70140392.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large_ste/70140392.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd_ste/70140392.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1278374400000)\/", "AvailableTo": null, "Rating": "TV-PG", "Runtime": 29460
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1262908800000)\/", "AvailableTo": "\/Date(1330473600000)\/", "HighDefinitionAvailable": false, "Rating": "TV-PG", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxu')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caCxv')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large_ste/70140392.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2012 12:09:57 AM\""
+}, "Id": "caCxv", "Name": "Have Gun Will Travel: Season 5", "ShortName": "Have Gun Will Travel: Season 5", "Synopsis": "In Season 5 of this television Western, Richard Boone returns as Paladin, a fearless latter-day champion of justice who uses his wits and weapons to thwart the bad guys and gals, including a gold-digging saloon girl after an old-timer's wealth. Paladin also prevents a war between Canada and the United States. This season marks the return of Kam Tong as Paladin's valet Hey Boy and features guest stars Charles Bronson and George Kennedy.", "ShortSynopsis": "Fearless champion of justice Paladin uses his wits and weapons to thwart the bad guys in this popular television Western.", "AverageRating": 3, "ReleaseYear": 1961, "Url": "http://www.netflix.com/Movie/Have_Gun_Will_Travel_Season_5/70130419", "Runtime": null, "Rating": "TV-PG", "DateModified": "\/Date(1328746197000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140392/seasons/70130419", "TinyUrl": "http://movi.es/caCxv", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small_ste/70140392.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88_ste/70140392.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large_ste/70140392.jpg", "HighDefinitionUrl": "http://cdn-9.nflximg.com/en_us/boxshots/ghd_ste/70140392.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1262908800000)\/", "AvailableTo": "\/Date(1330473600000)\/", "HighDefinitionAvailable": false, "Rating": "TV-PG", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCxv')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caCyy')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large_ste/70140392.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2012 12:09:57 AM\""
+}, "Id": "caCyy", "Name": "Have Gun Will Travel: Season 4: Vol. 1", "ShortName": "Have Gun Will Travel: Season 4: Vol. 1", "Synopsis": "When not meting out Wild West-style justice, Paladin (Richard Boone) lives it up at a posh San Francisco hotel. But if trouble arises, the hired gun dons his knight-embossed holster and trademark calling cards (\"Have gun, will travel\") and rides in to save the day. This collection includes episodes from the first half of the show's fourth season, and features guest appearances by Martin Balsam, Robert Blake and Ken Curtis of \"Gunsmoke.\"", "ShortSynopsis": "Based out of a posh San Francisco hotel, a Wild West gunslinger reliably rides out to save the day in this collection of episodes.", "AverageRating": 3, "ReleaseYear": 1960, "Url": "http://www.netflix.com/Movie/Have_Gun_Will_Travel_Season_4_Vol._1/70130484", "Runtime": 29460, "Rating": "TV-PG", "DateModified": "\/Date(1328746197000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140392/seasons/70130484", "TinyUrl": "http://movi.es/caCyy", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small_ste/70140392.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88_ste/70140392.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large_ste/70140392.jpg", "HighDefinitionUrl": "http://cdn-4.nflximg.com/en_us/boxshots/ghd_ste/70140392.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1267488000000)\/", "AvailableTo": null, "Rating": "TV-PG", "Runtime": 29460
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1262908800000)\/", "AvailableTo": "\/Date(1330473600000)\/", "HighDefinitionAvailable": false, "Rating": "TV-PG", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caCyy')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caDKZ')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large_ste/70140392.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2012 12:09:57 AM\""
+}, "Id": "caDKZ", "Name": "Have Gun Will Travel: Season 6", "ShortName": "Have Gun Will Travel: Season 6", "Synopsis": "Well-heeled Wild West gunslinger Paladin (Richard Boone) suits up for the sixth and final season of this classic television Western, which kicks off with a revelation about Paladin's origins but keeps his real name shrouded in mystery. Later, Paladin helps a Chinese woman escape an arranged marriage, and a man from Paladin's past hires him to track down a missing youth who's hell-bent on finding his father's murderer.", "ShortSynopsis": "Gunslinger Paladin helps a Chinese woman escape an arranged marriage. Later, he track down a youth who's hell-bent on finding his father's murderer.", "AverageRating": 3, "ReleaseYear": 1962, "Url": "http://www.netflix.com/Movie/Have_Gun_Will_Travel_Season_6/70131823", "Runtime": null, "Rating": "TV-PG", "DateModified": "\/Date(1328746197000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140392/seasons/70131823", "TinyUrl": "http://movi.es/caDKZ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small_ste/70140392.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88_ste/70140392.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large_ste/70140392.jpg", "HighDefinitionUrl": "http://cdn-3.nflximg.com/en_us/boxshots/ghd_ste/70140392.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1267142400000)\/", "AvailableTo": "\/Date(1330473600000)\/", "HighDefinitionAvailable": false, "Rating": "TV-PG", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDKZ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caDXA')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70143852.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "caDXA", "Name": "Survivors: Original Series 2", "ShortName": "Survivors: Original Series 2", "Synopsis": "The second season of this British sci-fi series points the plot in a different direction when a sinking hot-air balloon brings an unexpected guest to Whitecross. Just when the disruption proves indisputably pivotal, Alan (Stephen Tate) and Sally (June Page) up the ante. Meanwhile, Ruth (Celia Gregory) invites danger into the settlement's midst by recklessly welcoming a group of newcomers into the community.", "ShortSynopsis": "The second season of this British sci-fi series points the plot in a different direction when a sinking hot-air balloon brings an unexpected guest to Whitecross. Just when the disruption proves indisputably pivotal, Alan and Sally up the ante.", "AverageRating": 3, "ReleaseYear": 1976, "Url": "http://www.netflix.com/Movie/Survivors_Original_Series_2/70132604", "Runtime": 39000, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143852/seasons/70132604", "TinyUrl": "http://movi.es/caDXA", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70143852.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70143852.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70143852.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1272326400000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 39000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caDXA')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caFX1')/$value", "media_src": "http://cdn-3.nflximg.com/en_us/boxshots/large/70157146.jpg", "content_type": "image/jpeg", "media_etag": "\"3/17/2011 8:18:40 AM\""
+}, "Id": "caFX1", "Name": "Thriller: Season 1", "ShortName": "Thriller: Season 1", "Synopsis": "Hosted by famed fright master Boris Karloff, this anthology series showcases chilling tales of the macabre and suspenseful thrillers that expose everything from sinister secrets and terrible tragedies to grisly murders and paranormal activity. Season 1 highlights include a phony psychic having real insights into the future, a desperate man hiring a serial killer and an inventor creating glasses that see the truth.", "ShortSynopsis": "This season's highlights include a phony psychic having real insights into the future, an inventor creating glasses that see the truth, and more.", "AverageRating": 3, "ReleaseYear": 1960, "Url": "http://www.netflix.com/Movie/Thriller_Season_1/70140283", "Runtime": 111240, "Rating": "NR", "DateModified": "\/Date(1300349920000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157146/seasons/70140283", "TinyUrl": "http://movi.es/caFX1", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-3.nflximg.com/en_us/boxshots/small/70157146.jpg", "MediumUrl": "http://cdn-3.nflximg.com/en_us/boxshots/88/70157146.jpg", "LargeUrl": "http://cdn-3.nflximg.com/en_us/boxshots/large/70157146.jpg", "HighDefinitionUrl": "http://cdn-3.nflximg.com/en_us/boxshots/ghd/70157146.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1283212800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 111240
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1300752000000)\/", "AvailableTo": "\/Date(1332374400000)\/", "HighDefinitionAvailable": false, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX1')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caFX2')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70157146.jpg", "content_type": "image/jpeg", "media_etag": "\"3/17/2011 8:18:40 AM\""
+}, "Id": "caFX2", "Name": "Thriller: Season 2", "ShortName": "Thriller: Season 2", "Synopsis": "Enjoy spine-tingling stories of horror and suspense in Season 2 of this classic anthology TV series, which features tales about a millionaire's premature burial, a white-magic practitioner's suicide and the attempted murder of a suspected witch. Hosted by legendary actor Boris Karloff, the show's second season features notable guest stars such as John Carradine, Bruce Dern, Ursula Andress, Dick York and Mary Tyler Moore.", "ShortSynopsis": "Enjoy spine-tingling stories of horror and suspense in Season 2 of this classic anthology TV series, which features tales about a millionaire's premature burial, a white-magic practitioner's suicide and the attempted murder of a suspected witch.", "AverageRating": 3, "ReleaseYear": 1961, "Url": "http://www.netflix.com/Movie/Thriller_Season_2/70140284", "Runtime": 90000, "Rating": "NR", "DateModified": "\/Date(1300349920000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157146/seasons/70140284", "TinyUrl": "http://movi.es/caFX2", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70157146.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70157146.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70157146.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1283212800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 90000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caFX2')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caJ0t')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70140392.jpg", "content_type": "image/jpeg", "media_etag": "\"2/15/2011 9:18:01 AM\""
+}, "Id": "caJ0t", "Name": "Have Gun Will Travel: Season 5: Vol. 1", "ShortName": "Have Gun Will Travel: Season 5: Vol. 1", "Synopsis": "The fifth season of this TV Western kicks off with gentleman gunfighter Paladin (Richard Boone) making his way to a Nevada mining camp that's suffered a mining disaster. But on the way to the site, he meets a pair of prospectors with a suspicious-sounding sob story. Later in the season, he's hired by the scorned groom (Charles Bronson) of a runaway mail-order bride (Shirley O'Hara) to help the Mr. get his Mrs. back by force.", "ShortSynopsis": "The fifth season of this TV Western kicks off with gentleman gunfighter Paladin making his way to a Nevada mining camp that's suffered a mining disaster. But on the way to the site, he meets a pair of prospectors with a suspicious-sounding sob story.", "AverageRating": 3, "ReleaseYear": 1961, "Url": "http://www.netflix.com/Movie/Have_Gun_Will_Travel_Season_5_Vol._1/70153667", "Runtime": 29280, "Rating": "TV-PG", "DateModified": "\/Date(1297761481000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140392/seasons/70153667", "TinyUrl": "http://movi.es/caJ0t", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70140392.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70140392.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70140392.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1291075200000)\/", "AvailableTo": null, "Rating": "TV-PG", "Runtime": 29280
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJ0t')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caJFU')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large/70143826.jpg", "content_type": "image/jpeg", "media_etag": "\"5/9/2011 3:42:37 AM\""
+}, "Id": "caJFU", "Name": "Hawaii Five-O: Season 10", "ShortName": "Hawaii Five-O: Season 10", "Synopsis": "Irish terrorists, modern-day pirates and Soviet spies are just some of the corrupt characters crossing paths with detective and Five-O crime squad leader Steve McGarrett (Jack Lord) in the 10th season of the long-running, Emmy-winning police series. Aided by his longtime partner Danny \"Danno\" Williams (James MacArthur), McGarrett, as always, stops at nothing to get his man and to keep the streets of Honolulu safe from criminals.", "ShortSynopsis": "Irish terrorists, modern-day pirates and Soviet spies are just some of the corrupt characters crossing paths with detective Steve McGarrett.", "AverageRating": 3, "ReleaseYear": 1977, "Url": "http://www.netflix.com/Movie/Hawaii_Five-O_Season_10/70154572", "Runtime": 71280, "Rating": "NR", "DateModified": "\/Date(1304912557000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143826/seasons/70154572", "TinyUrl": "http://movi.es/caJFU", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small/70143826.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88/70143826.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large/70143826.jpg", "HighDefinitionUrl": "http://cdn-2.nflximg.com/en_us/boxshots/ghd/70143826.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1292284800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 71280
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1301616000000)\/", "AvailableTo": "\/Date(1372636800000)\/", "HighDefinitionAvailable": true, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJFU')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caJkA')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70143826.jpg", "content_type": "image/jpeg", "media_etag": "\"7/27/2011 6:47:37 PM\""
+}, "Id": "caJkA", "Name": "Hawaii Five-O: Season 11", "ShortName": "Hawaii Five-O: Season 11", "Synopsis": "For stalwart detective Steve McGarrett and his right-hand man, Danno, there's always trouble in paradise. This season, neo-Nazis, Chinese gangsters, a religious cult and Hawaii's own mob -- the <i>kumu</i> -- threaten the peace in the Aloha State.", "ShortSynopsis": "This season, neo-Nazis, Chinese gangsters, a religious cult and Hawaii's own mob -- the kumu -- threaten the peace in the Aloha State.", "AverageRating": 3, "ReleaseYear": 1978, "Url": "http://www.netflix.com/Movie/Hawaii_Five-O_Season_11/70156474", "Runtime": 64440, "Rating": "NR", "DateModified": "\/Date(1311792457000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143826/seasons/70156474", "TinyUrl": "http://movi.es/caJkA", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70143826.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70143826.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70143826.jpg", "HighDefinitionUrl": "http://cdn-4.nflximg.com/en_us/boxshots/ghd/70143826.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 64440
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1309478400000)\/", "AvailableTo": "\/Date(1380585600000)\/", "HighDefinitionAvailable": true, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caJkA')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caM5X')/$value", "media_src": "http://cdn-7.nflximg.com/en_us/boxshots/large/70140392.jpg", "content_type": "image/jpeg", "media_etag": "\"2/15/2011 9:18:01 AM\""
+}, "Id": "caM5X", "Name": "Have Gun Will Travel: Season 5: Vol. 2", "ShortName": "Have Gun Will Travel: Season 5: Vol. 2", "Synopsis": "Debonair gunslinger Paladin (Richard Boone) tackles some unusual tasks in the second half of the classic Western's fifth season, including tracking down a murderous cowboy at the behest of a doctor who wants to measure the man's skull. Later, Paladin becomes the prey of a twisted Russian prince, searches for a woman's wayward fianc\u00e9 and investigates the strange case of a well that spouts whiskey instead of water.", "ShortSynopsis": "Debonair gunslinger Paladin tackles some unusual tasks in the second half of the classic Western's fifth season, including tracking down a murderous cowboy at the behest of a doctor who wants to measure the man's skull.", "AverageRating": 3, "ReleaseYear": 1961, "Url": "http://www.netflix.com/Movie/Have_Gun_Will_Travel_Season_5_Vol._2/70165487", "Runtime": 29340, "Rating": "NR", "DateModified": "\/Date(1297761481000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140392/seasons/70165487", "TinyUrl": "http://movi.es/caM5X", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-7.nflximg.com/en_us/boxshots/small/70140392.jpg", "MediumUrl": "http://cdn-7.nflximg.com/en_us/boxshots/88/70140392.jpg", "LargeUrl": "http://cdn-7.nflximg.com/en_us/boxshots/large/70140392.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 29340
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caM5X')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caXLn')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70207300.jpg", "content_type": "image/jpeg", "media_etag": "\"11/11/2011 9:12:49 PM\""
+}, "Id": "caXLn", "Name": "It Takes a Thief: Season 2", "ShortName": "It Takes a Thief: Season 2", "Synopsis": "The debonair ex-thief Al Mundy continues solving spy cases for the government in the second season of this cloak-and-dagger series from the 1960s. Many of Al's assignments involve going undercover for sensitive and often dangerous jobs overseas.", "ShortSynopsis": "The debonair ex-thief Al Mundy continues solving spy cases for the government in the second season of this cloak-and-dagger series from the 1960s.", "AverageRating": 3, "ReleaseYear": 1968, "Url": "http://www.netflix.com/Movie/It_Takes_a_Thief_Season_2/70208779", "Runtime": 85680, "Rating": "NR", "DateModified": "\/Date(1321045969000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70207300/seasons/70208779", "TinyUrl": "http://movi.es/caXLn", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70207300.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70207300.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70207300.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 85680
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLn')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('caXLo')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70207300.jpg", "content_type": "image/jpeg", "media_etag": "\"11/14/2011 8:32:52 PM\""
+}, "Id": "caXLo", "Name": "It Takes a Thief: Season 3", "ShortName": "It Takes a Thief: Season 3", "Synopsis": "In the final season of this thief-turned-U.S.-agent series, Al Mundy faces some of his toughest foes, including expert and deadly foreign spies. In one especially exotic caper, Mundy has to prevent a rock band from triggering a sonic assassination.", "ShortSynopsis": "In the final season of this thief-turned-U.S.-agent series, Al Mundy faces some of his toughest foes, including expert and deadly foreign spies.", "AverageRating": 3, "ReleaseYear": 1970, "Url": "http://www.netflix.com/Movie/It_Takes_a_Thief_Season_3/70208780", "Runtime": 85680, "Rating": "NR", "DateModified": "\/Date(1321302772000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70207300/seasons/70208780", "TinyUrl": "http://movi.es/caXLo", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70207300.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70207300.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70207300.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 85680
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('caXLo')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZg28')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZg28", "Name": "Dark Shadows: Collection 14", "ShortName": "Dark Shadows: Collection 14", "Synopsis": "Life has grown more bizarre in Collinsport, as the vampire Barnabas (portrayed by Jonathan Frid) believes that the spirit of Sarah is making an appearance right before his very eyes, trying to send him an important message from beyond the grave. The \"Dark Shadows\" saga continues here in this comprehensive collection from the series, which aired from 1966 to 1971, leading up to the Barnabas Collins era.", "ShortSynopsis": "Life has grown more bizarre in Collinsport, as the vampire Barnabas (portrayed by Jonathan Frid) believes that the spirit of Sarah is making an appearance right before his very eyes, trying to send him an important message from beyond the grave.", "AverageRating": 3, "ReleaseYear": 1969, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_14/70003828", "Runtime": 50400, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/70003828", "TinyUrl": "http://movi.es/cZg28", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1096329600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 50400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZg28')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZjtW')/$value", "media_src": "http://cdn-0.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZjtW", "Name": "Dark Shadows: Collection 16", "ShortName": "Dark Shadows: Collection 16", "Synopsis": "In this volume of episodes chronicling the vampire Collins clan, Quentin Collins and servant Beth Chavez try to rescue Barnabas Collins from a chained coffin. In other action, King Johnny Romano arrives in Collinsport with a gang of gypsies, seeking revenge against Magda, and artist Charles Delaware Tate is stunned to recognize Amanda Harris as the fantasy woman he has painted. Extras include an interview with David Selby, who plays Quentin.", "ShortSynopsis": "In this volume of episodes chronicling the vampire Collins clan, Quentin Collins and servant Beth Chavez try to rescue Barnabas Collins from a chained coffin.", "AverageRating": 3, "ReleaseYear": 1969, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_16/70018670", "Runtime": 50400, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/70018670", "TinyUrl": "http://movi.es/cZjtW", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-0.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-0.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-0.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1106611200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 50400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZjtW')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZka1')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70140369.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:14 PM\""
+}, "Id": "cZka1", "Name": "Columbo: Season 2", "ShortName": "Columbo: Season 2", "Synopsis": "Catch the adventures of the perpetually unkempt Lt. Columbo (Peter Falk, who won four Emmys for his singular portrayal of the character) in this collection of episodes from the NBC show's second season. Watch as Columbo applies his subtle approach to crime-solving as he cracks the murder of a famous conductor's mistress; learns the tricks of Scotland Yard when he visits London; outwits an aging movie star; and more.", "ShortSynopsis": "Lt. Columbo applies his subtle approach to crime-solving as he cracks a murder case, learns Scotland Yard's tricks, and outwits an aging movie star.", "AverageRating": 3, "ReleaseYear": 1972, "Url": "http://www.netflix.com/Movie/Columbo_Season_2/70021305", "Runtime": 38460, "Rating": "TV-PG", "DateModified": "\/Date(1301582114000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140369/seasons/70021305", "TinyUrl": "http://movi.es/cZka1", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70140369.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70140369.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70140369.jpg", "HighDefinitionUrl": "http://cdn-5.nflximg.com/en_us/boxshots/ghd/70140369.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1110240000000)\/", "AvailableTo": null, "Rating": "TV-PG", "Runtime": 38460
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1193184000000)\/", "AvailableTo": "\/Date(1382572800000)\/", "HighDefinitionAvailable": false, "Rating": "TV-PG", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZka1')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/$value", "media_src": "http://cdn-2.nflximg.com/en_us/boxshots/large_ste/70140392.jpg", "content_type": "image/jpeg", "media_etag": "\"2/9/2012 12:09:57 AM\""
+}, "Id": "cZkRQ", "Name": "Have Gun Will Travel: Season 2", "ShortName": "Have Gun Will Travel: Season 2", "Synopsis": "Catch all the episodes from the action-packed second season of this popular Western TV series chronicling Paladin (Richard Boone), a mysterious Renaissance man who resides in San Francisco's Hotel Carlton. A detective with a penchant for seeking the toughest cases, he and his squire (Kam Tong) fear nothing and no one -- except perhaps failure. Sophomore season guest stars include Angie Dickinson, Jack Lord, June Lockhart and Charles Bronson.", "ShortSynopsis": "A Wild West detective with a penchant for seeking the toughest cases, Paladin and his squire fear nothing and no one -- except perhaps failure.", "AverageRating": 3, "ReleaseYear": 1958, "Url": "http://www.netflix.com/Movie/Have_Gun_Will_Travel_Season_2/70020772", "Runtime": 58500, "Rating": "TV-PG", "DateModified": "\/Date(1328746197000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140392/seasons/70020772", "TinyUrl": "http://movi.es/cZkRQ", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-2.nflximg.com/en_us/boxshots/small_ste/70140392.jpg", "MediumUrl": "http://cdn-2.nflximg.com/en_us/boxshots/88_ste/70140392.jpg", "LargeUrl": "http://cdn-2.nflximg.com/en_us/boxshots/large_ste/70140392.jpg", "HighDefinitionUrl": "http://cdn-2.nflximg.com/en_us/boxshots/ghd_ste/70140392.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1115683200000)\/", "AvailableTo": null, "Rating": "TV-PG", "Runtime": 58500
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1262908800000)\/", "AvailableTo": "\/Date(1330473600000)\/", "HighDefinitionAvailable": false, "Rating": "TV-PG", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZkRQ')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZoDA')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZoDA", "Name": "Dark Shadows: Collection 19", "ShortName": "Dark Shadows: Collection 19", "Synopsis": "At the altar of the Leviathans, a bat attacks Barnabas Collins (Jonathan Frid), who again becomes a victim of the vampire curse. Meanwhile Warlock Nicholas Blair (Humbert Allen Astredo) returns, and Angelique (Lara Parker) learns that he and her husband, Sky Rumson (Geoffrey Scott), are aiding the Leviathans. These are just a few of the plot strands in this action-packed volume of the long-running daytime soap opera.", "ShortSynopsis": "At the altar of the Leviathans, a bat attacks Barnabas Collins, who again becomes a victim of the vampire curse. Meanwhile Warlock Nicholas Blair returns, and Angelique learns that he and her husband, Sky Rumson, are aiding the Leviathans.", "AverageRating": 3, "ReleaseYear": 1969, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_19/70035264", "Runtime": 52080, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/70035264", "TinyUrl": "http://movi.es/cZoDA", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1122336000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 52080
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDA')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZoDF')/$value", "media_src": "http://cdn-9.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZoDF", "Name": "Dark Shadows: Collection 20", "ShortName": "Dark Shadows: Collection 20", "Synopsis": "Blending mystery, Gothic horror and a soap opera format, this eerie television series garnered a cult following and was an afternoon staple from 1966 to '71. The mystery and intrigue surrounding the Collins family continues here. Serpentine story lines and a great cast, which includes Kate Jackson and David Selby as well as Jonathan Frid playing vampire Barnabas, always manages to keep viewers spellbound.", "ShortSynopsis": "Blending mystery, Gothic horror and a soap opera format, this eerie television series garnered a cult following and was an afternoon staple from 1966 to '71. The mystery and intrigue surrounding the Collins family continues here.", "AverageRating": 3, "ReleaseYear": 1969, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_20/70035269", "Runtime": 50400, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/70035269", "TinyUrl": "http://movi.es/cZoDF", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-9.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-9.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-9.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1127779200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 50400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZoDF')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZpoO')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZpoO", "Name": "Dark Shadows: Collection 21", "ShortName": "Dark Shadows: Collection 21", "Synopsis": "The horror and the drama continue in this volume featuring 39 chilling episodes of the popular, long-running series, which now finds Maggie Collins tormented by the witchy Angelique, who's decided to make herself known to her real father. Meanwhile, regular time and parallel time collide as Barnabas pays a visit to Collinwood, becoming obsessed with the mysterious Roxanne just as a new nemesis makes a plan to hunt the vampire down.", "ShortSynopsis": "The horror and the drama continue in this volume featuring 39 chilling episodes of the popular, long-running series, which now finds Maggie Collins tormented by the witchy Angelique, who's decided to make herself known to her real father.", "AverageRating": 3, "ReleaseYear": 1970, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_21/70041416", "Runtime": 54000, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/70041416", "TinyUrl": "http://movi.es/cZpoO", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1132617600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 54000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZpoO')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZqAt')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70157322.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZqAt", "Name": "Naked City: Box Set 1", "ShortName": "Naked City: Box Set 1", "Synopsis": "Paul Burke and Horace McMahon star in this landmark police drama -- filmed in a gritty cinematic style on the streets of New York -- that delivers a sense of realism and puts a human face on crime by exploring the personal lives of its characters. In this set of episodes, an actor (Roddy McDowall) steals from cab drivers to pay his rent, a father pays for a wedding by robbing a store and a foster father confesses to murdering his daughter.", "ShortSynopsis": "Paul Burke and Horace McMahon star in this landmark police drama -- filmed in a gritty cinematic style on the streets of New York -- that delivers a sense of realism and puts a human face on crime by exploring the personal lives of its characters.", "AverageRating": 3, "ReleaseYear": 1958, "Url": "http://www.netflix.com/Movie/Naked_City_Box_Set_1/70042811", "Runtime": 43200, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157322/seasons/70042811", "TinyUrl": "http://movi.es/cZqAt", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70157322.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70157322.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70157322.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 43200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAt')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZqAx')/$value", "media_src": "http://cdn-5.nflximg.com/en_us/boxshots/large/70157322.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZqAx", "Name": "Naked City: Box Set 2", "ShortName": "Naked City: Box Set 2", "Synopsis": "In this remarkable, noirish drama series that is presented as a semi-documentary and represents a more idealistic time, NYPD 65th Precinct Det. Adam Flint (Paul Burke) and Lt. Mike Parker (Horace McMahon) investigate often-grizzly crimes. In Set 2, episodes feature a patrolman who loses his cool over his wife's spending, a Bohemian poet who raises eyebrows and a delusional woman (Sandy Dennis) who causes harm.", "ShortSynopsis": "In this remarkable, noirish drama series that is presented as a semi-documentary and represents a more idealistic time, NYPD 65th Precinct Det. Adam Flint and Lt. Mike Parker investigate often-grizzly crimes.", "AverageRating": 3, "ReleaseYear": 1958, "Url": "http://www.netflix.com/Movie/Naked_City_Box_Set_2/70042815", "Runtime": 43200, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157322/seasons/70042815", "TinyUrl": "http://movi.es/cZqAx", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-5.nflximg.com/en_us/boxshots/small/70157322.jpg", "MediumUrl": "http://cdn-5.nflximg.com/en_us/boxshots/88/70157322.jpg", "LargeUrl": "http://cdn-5.nflximg.com/en_us/boxshots/large/70157322.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 43200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqAx')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZqLr')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"6/1/2011 6:27:15 PM\""
+}, "Id": "cZqLr", "Name": "Dark Shadows: Collection 22", "ShortName": "Dark Shadows: Collection 22", "Synopsis": "One of the most popular series in daytime television history, the long-running \"Dark Shadows\" continues to spin its spine-chilling saga in this collection of 40 episodes from the Gothic soap opera. With accursed 175-year-old vampire Barnabas Collins (Jonathan Frid) at their center, these installments weave an intricate narrative involving parallel time, characters caught in the grip of insanity and possession by malevolent spirits.", "ShortSynopsis": "One of the most popular series in daytime television history, the long-running \"Dark Shadows\" continues to spin its spine-chilling saga in this collection of 40 episodes from the Gothic soap opera.", "AverageRating": 3, "ReleaseYear": 1970, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_22/70043491", "Runtime": 54000, "Rating": "NR", "DateModified": "\/Date(1306952835000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/70043491", "TinyUrl": "http://movi.es/cZqLr", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1138665600000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 54000
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqLr')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZqp6')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70140369.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:14 PM\""
+}, "Id": "cZqp6", "Name": "Columbo: Season 4", "ShortName": "Columbo: Season 4", "Synopsis": "Lt. Columbo (Peter Falk) doesn't mind when his suspects underestimate him. After all, the extra latitude they afford him only makes his job easier. In the fourth season of this Emmy Award-winning mystery series, Columbo investigates a world-famous photographer (Dick Van Dyke) for the murder of his wife (Antoinette Bower), and questions a blind witness who swears she saw a doctor (George Hamilton) kill his lover's husband.", "ShortSynopsis": "Columbo investigates a famous photog for the murder of his wife and questions a blind witness who swears she saw a doctor kill his lover's husband.", "AverageRating": 3, "ReleaseYear": 1974, "Url": "http://www.netflix.com/Movie/Columbo_Season_4/70045304", "Runtime": 32280, "Rating": "TV-PG", "DateModified": "\/Date(1301582114000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140369/seasons/70045304", "TinyUrl": "http://movi.es/cZqp6", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70140369.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70140369.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70140369.jpg", "HighDefinitionUrl": "http://cdn-4.nflximg.com/en_us/boxshots/ghd/70140369.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1142294400000)\/", "AvailableTo": null, "Rating": "TV-PG", "Runtime": 32280
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1193184000000)\/", "AvailableTo": "\/Date(1382572800000)\/", "HighDefinitionAvailable": false, "Rating": "TV-PG", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqp6')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZqpa')/$value", "media_src": "http://cdn-4.nflximg.com/en_us/boxshots/large/70157322.jpg", "content_type": "image/jpeg", "media_etag": "\"4/12/2011 8:20:09 AM\""
+}, "Id": "cZqpa", "Name": "Naked City: Box Set 3", "ShortName": "Naked City: Box Set 3", "Synopsis": "Critically acclaimed for its use of documentary techniques, this pioneering detective drama delivered a gripping assortment of weekly story lines that were shot on location in the trenches of New York City. In this collection of memorable episodes, Det. Adam Flint (Paul Burke) gets another job offer, and a widower (Eddie Albert) tries desperately to bond with his sons (Paul O'Keefe and a young Christopher Walken).", "ShortSynopsis": "Critically acclaimed for its use of documentary techniques, this pioneering detective drama delivered a gripping assortment of weekly story lines that were shot on location in the trenches of New York City.", "AverageRating": 3, "ReleaseYear": 1958, "Url": "http://www.netflix.com/Movie/Naked_City_Box_Set_3/70045334", "Runtime": 37440, "Rating": "NR", "DateModified": "\/Date(1302596409000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70157322/seasons/70045334", "TinyUrl": "http://movi.es/cZqpa", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-4.nflximg.com/en_us/boxshots/small/70157322.jpg", "MediumUrl": "http://cdn-4.nflximg.com/en_us/boxshots/88/70157322.jpg", "LargeUrl": "http://cdn-4.nflximg.com/en_us/boxshots/large/70157322.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": "\/Date(4102444800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 37440
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZqpa')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZrk6')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"6/1/2011 6:28:36 PM\""
+}, "Id": "cZrk6", "Name": "Dark Shadows: Collection 24", "ShortName": "Dark Shadows: Collection 24", "Synopsis": "In this collection of episodes, Collinwood governess Daphne Harridge (Kate Jackson) is cautioned to steer clear of Quentin Collins (David Selby) as Barnabas and Desmond (John Karlen) vow to save him. Meanwhile, Lamar Trask (Jerry Lacy) finds his father's skeleton and plots vengeance. Propelled by the popularity of 175-year-old vampire Barnabas Collins (Jonathan Frid), this Gothic soap opera became a cult hit in the 1960s and '70s.", "ShortSynopsis": "In this collection of episodes, Collinwood governess Daphne Harridge is cautioned to steer clear of Quentin Collins as Barnabas and Desmond vow to save him. Meanwhile, Lamar Trask finds his father's skeleton and plots vengeance.", "AverageRating": 3, "ReleaseYear": 1970, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_24/70048838", "Runtime": 50400, "Rating": "NR", "DateModified": "\/Date(1306952916000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/70048838", "TinyUrl": "http://movi.es/cZrk6", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1148947200000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 50400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrk6')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZrvi')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140369.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:14 PM\""
+}, "Id": "cZrvi", "Name": "Columbo: Season 5", "ShortName": "Columbo: Season 5", "Synopsis": "Playing the part of an incompetent detective sure seems to work for Lt. Columbo (Peter Falk), who takes full advantage of witnesses who dare to underestimate him. In this collection of episodes from the show's fifth season, an aging Broadway star climbs over her husband's dead body in pursuit of a comeback; a Mexican rancher uses a bull as a lethal weapon; and World War II-era blackmail pushes a magician toward dirty tricks.", "ShortSynopsis": "An aging Broadway star climbs over her husband's dead body in pursuit of a comeback. Later, a Mexican rancher uses a bull as a lethal weapon.", "AverageRating": 3, "ReleaseYear": 1975, "Url": "http://www.netflix.com/Movie/Columbo_Season_5/70049558", "Runtime": 31740, "Rating": "TV-PG", "DateModified": "\/Date(1301582114000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140369/seasons/70049558", "TinyUrl": "http://movi.es/cZrvi", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70140369.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70140369.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70140369.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70140369.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1151366400000)\/", "AvailableTo": null, "Rating": "TV-PG", "Runtime": 31740
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1193184000000)\/", "AvailableTo": "\/Date(1382572800000)\/", "HighDefinitionAvailable": false, "Rating": "TV-PG", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZrvi')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZtEA')/$value", "media_src": "http://cdn-6.nflximg.com/en_us/boxshots/large/70140374.jpg", "content_type": "image/jpeg", "media_etag": "\"6/1/2011 6:36:16 PM\""
+}, "Id": "cZtEA", "Name": "Dark Shadows: Collection 26", "ShortName": "Dark Shadows: Collection 26", "Synopsis": "The Gothic soap opera winds down to its final episodes, with the Collins clan -- led by 175-year-old vampire Barnabas (Jonathan Frid) -- struggling to shake the torturous curse that has plagued the family for so long. As their fortunes founder -- Melanie (Nancy Barrett) goes insane while Morgan (Keith Prentice) and Julia (Grayson Hall) stumble on a pair of mummies -- the crises build in this supernatural sudser that's become a cult favorite.", "ShortSynopsis": "The Gothic soap opera winds down to its final episodes, with the Collins clan -- led by 175-year-old vampire Barnabas -- struggling to shake the torturous curse that has plagued the family for so long.", "AverageRating": 3, "ReleaseYear": 1971, "Url": "http://www.netflix.com/Movie/Dark_Shadows_Collection_26/70054546", "Runtime": 50400, "Rating": "NR", "DateModified": "\/Date(1306953376000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140374/seasons/70054546", "TinyUrl": "http://movi.es/cZtEA", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-6.nflximg.com/en_us/boxshots/small/70140374.jpg", "MediumUrl": "http://cdn-6.nflximg.com/en_us/boxshots/88/70140374.jpg", "LargeUrl": "http://cdn-6.nflximg.com/en_us/boxshots/large/70140374.jpg", "HighDefinitionUrl": null
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1159228800000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 50400
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "HighDefinitionAvailable": false, "Rating": null, "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtEA')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZtZr')/$value", "media_src": "http://cdn-1.nflximg.com/en_us/boxshots/large/70140369.jpg", "content_type": "image/jpeg", "media_etag": "\"3/31/2011 2:35:14 PM\""
+}, "Id": "cZtZr", "Name": "Columbo: Seasons 6 & 7", "ShortName": "Columbo: Seasons 6 & 7", "Synopsis": "He may look disheveled, but don't be fooled: Lt. Columbo's (Peter Falk) mind is as sharp as a tack, and he's just as determined as ever to outwit the bad guys in the final seasons of this popular detective series. Louis Jourdan, William Shatner, Kim Cattrall, Ed Begley Jr. and a host of other stars appear in these episodes that have Columbo investigating the death of a famous chef, matching wits with a murderous TV detective (Shatner) and more.", "ShortSynopsis": "Disheveled but sharp as a tack, Lt. Columbo is determined as ever to outwit the bad guys in the final seasons of this popular detective series.", "AverageRating": 3, "ReleaseYear": 1976, "Url": "http://www.netflix.com/Movie/Columbo_Seasons_6_7/70055891", "Runtime": 38160, "Rating": "TV-PG", "DateModified": "\/Date(1301582114000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70140369/seasons/70055891", "TinyUrl": "http://movi.es/cZtZr", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-1.nflximg.com/en_us/boxshots/small/70140369.jpg", "MediumUrl": "http://cdn-1.nflximg.com/en_us/boxshots/88/70140369.jpg", "LargeUrl": "http://cdn-1.nflximg.com/en_us/boxshots/large/70140369.jpg", "HighDefinitionUrl": "http://cdn-1.nflximg.com/en_us/boxshots/ghd/70140369.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1163462400000)\/", "AvailableTo": null, "Rating": "TV-PG", "Runtime": 38160
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1193184000000)\/", "AvailableTo": "\/Date(1382572800000)\/", "HighDefinitionAvailable": false, "Rating": "TV-PG", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZtZr')/Seasons"
+}
+}
+}, {
+"__metadata": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')", "type": "Netflix.Catalog.v2.Title", "edit_media": "http://odata.netflix.com/Catalog/Titles('cZxNw')/$value", "media_src": "http://cdn-8.nflximg.com/en_us/boxshots/large/70143826.jpg", "content_type": "image/jpeg", "media_etag": "\"5/9/2011 3:42:31 AM\""
+}, "Id": "cZxNw", "Name": "Hawaii Five-O: Season 2", "ShortName": "Hawaii Five-O: Season 2", "Synopsis": "In Season 2 of the classic police force drama, the Five-O team (led by Jack Lord) goes up against a delusional World War II vet who doesn't realize the war is over, a college professor who brainwashes students and a bank robber with serious smarts. The pursuit of law and order plays out against an idyllic backdrop of surf and sand in this long-running series filmed in the Hawaiian Islands.", "ShortSynopsis": "The team goes up against a delusional World War II vet, a college professor who brainwashes students and a bank robber with serious smarts.", "AverageRating": 3, "ReleaseYear": 1969, "Url": "http://www.netflix.com/Movie/Hawaii_Five-O_Season_2/70070528", "Runtime": 76200, "Rating": "NR", "DateModified": "\/Date(1304912551000)\/", "Type": "Season", "WebsiteUrl": null, "NetflixApiId": "http://api.netflix.com/catalog/titles/series/70143826/seasons/70070528", "TinyUrl": "http://movi.es/cZxNw", "BluRay": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": false, "AvailableFrom": null, "AvailableTo": null, "Rating": null, "Runtime": null
+}, "BoxArt": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.BoxArt"
+}, "SmallUrl": "http://cdn-8.nflximg.com/en_us/boxshots/small/70143826.jpg", "MediumUrl": "http://cdn-8.nflximg.com/en_us/boxshots/88/70143826.jpg", "LargeUrl": "http://cdn-8.nflximg.com/en_us/boxshots/large/70143826.jpg", "HighDefinitionUrl": "http://cdn-8.nflximg.com/en_us/boxshots/ghd/70143826.jpg"
+}, "Dvd": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.DeliveryFormatAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1185840000000)\/", "AvailableTo": null, "Rating": "NR", "Runtime": 76200
+}, "Instant": {
+"__metadata": {
+"type": "Netflix.Catalog.v2.InstantAvailability"
+}, "Available": true, "AvailableFrom": "\/Date(1301616000000)\/", "AvailableTo": "\/Date(1372636800000)\/", "HighDefinitionAvailable": true, "Rating": "NR", "Runtime": null
+}, "Disc": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')/Disc"
+}
+}, "Season": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')/Season"
+}
+}, "Series": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')/Series"
+}
+}, "Movie": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')/Movie"
+}
+}, "AudioFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')/AudioFormats"
+}
+}, "Awards": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')/Awards"
+}
+}, "ScreenFormats": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')/ScreenFormats"
+}
+}, "Languages": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')/Languages"
+}
+}, "Cast": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')/Cast"
+}
+}, "Directors": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')/Directors"
+}
+}, "Discs": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')/Discs"
+}
+}, "Episodes": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')/Episodes"
+}
+}, "Genres": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')/Genres"
+}
+}, "Seasons": {
+"__deferred": {
+"uri": "http://odata.netflix.com/Catalog/Titles('cZxNw')/Seasons"
+}
+}
+}
+]
+}
+}
