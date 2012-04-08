@@ -6,6 +6,7 @@ from django.dispatch import receiver
 from django.db.models import F
 
 from item.models import Item
+from notification.models import Notification
 from user_profile.models import UserStatistics
 from bookmark.signals import state_changed
 
@@ -53,12 +54,18 @@ def change_bookmark(sender, instance, is_done, **kwargs):
 @receiver(post_save, sender=Bookmark)
 def create_bookmark(sender, instance, created, **kwargs):
     """
+    Create a notification for the user's friends.
     Increment the user and item's bookmarks by one and active bookmarks
     by one if it is active.
     Increment the user's and item's bookmarks by one if the bookmark is
     not active.
     """
     if created:
+        Notification.objects.create(
+            sender_id=instance.user_id,
+            recipient_id=0,
+            notice_object=instance
+        )
         if instance.is_done:
             UserStatistics.objects.filter(
                 pk__exact=instance.user_id).update(
@@ -78,6 +85,15 @@ def delete_bookmark(sender, instance, **kwargs):
     """
     Undo the updates of the bookmark.
     """
+    try:
+        Notification.objects.get(
+            sender_id=instance.user_id,
+            recipient_id=0,
+            notice_object=instance
+        ).delete()
+    except:
+        pass
+
     if instance.is_done:
         UserStatistics.objects.filter(
             pk__exact=instance.user_id).update(

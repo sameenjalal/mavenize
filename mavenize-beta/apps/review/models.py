@@ -6,6 +6,7 @@ from django.dispatch import receiver
 from django.db.models import F
 
 from item.models import Item
+from notification.models import Notification
 from user_profile.models import UserStatistics
 
 class Review(models.Model):
@@ -73,11 +74,17 @@ def delete_review(sender, instance, **kwargs):
 @receiver(post_save, sender=Agree)
 def create_agree(sender, instance, created, **kwargs):
     """
+    Creates a notification for the writer of the review.
     Increment the giver's agrees by one and karma by one.
     Increment the receiver's agrees by one and karma by two.
     Increment the item's rating count by one.
     """
     if created:
+        Notification.objects.create(
+            sender_id=instance.giver_id,
+            recipient_id=instance.review.user_id,
+            notice_object=instance.review
+        )
         UserStatistics.objects.filter(
             pk__exact=instance.giver_id).update(
                 agrees_out=F('agrees_out')+1, karma=F('karma')+1)
@@ -98,6 +105,15 @@ def delete_agree(sender, instance, **kwargs):
     """
     Undo the updates when the agree was created.
     """
+    try:
+        Notification.objects.get(
+            sender_id=instance.giver_id,
+            recipient_id=instance.review.user_id,
+            notice_object=instance.review
+        ).delete()
+    except:
+        pass
+
     UserStatistics.objects.filter(
         pk__exact=instance.giver_id).update(
             agrees_out=F('agrees_out')-1, karma=F('karma')-1)
@@ -120,6 +136,11 @@ def create_thank(sender, instance, created, **kwargs):
     Increment the receiver's thanks by one and karma by two.
     """
     if created:
+        Notification.objects.create(
+            sender_id=instance.giver_id,
+            recipient_id=instance.review.user_id,
+            notice_object=instance.review
+        )
         UserStatistics.objects.filter(
             pk__exact=instance.giver_id).update(
                 thanks_out=F('thanks_out')+1, karma=F('karma')+1)
@@ -134,6 +155,15 @@ def delete_thank(sender, instance, **kwargs):
     """
     Undo the updates when the thank was created.
     """
+    try:
+        Notification.objects.get(
+            sender_id=instance.giver_id,
+            recipient_id=instance.review.user_id,
+            notice_object=instance.review
+        ).delete()
+    except:
+        pass
+    
     UserStatistics.objects.filter(
         pk__exact=instance.giver_id).update(
             thanks_out=F('thanks_out')-1, karma=F('karma')-1)

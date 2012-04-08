@@ -1,9 +1,13 @@
 from django.db import models
+from django.db.models.signals import post_save
 from django.dispatch import receiver
 
 from social_auth.signals import pre_update
 from social_auth.backends.facebook import FacebookBackend
 from social_auth.models import UserSocialAuth
+
+from notification.models import Notification
+
 import facebook
 
 class Forward(models.Model):
@@ -49,3 +53,12 @@ def build_social_graph(sender, user, response, details, **kwargs):
             for fid in to_add])
     Forward.objects.bulk_create(forward_rel)
     Backward.objects.bulk_create(backward_rel)
+
+@receiver(post_save, sender=Backward)
+def follow_notification(sender, instance, created, **kwargs):
+    if created:
+        Notification.objects.create(
+            sender_id=instance.source_id,
+            recipient_id=instance.destination_id,
+            notice_object=instance
+        )
