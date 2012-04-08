@@ -57,7 +57,7 @@ class Popularity(models.Model):
         verbose_name_plural = "Popularities"
 
     def __unicode__(self):
-        return str(self.alltime)
+        return "Item #%s: %s" % (self.item.id, self.alltime)
 
 @receiver(post_save, sender=Item)
 def create_item(sender, instance, created, **kwargs):
