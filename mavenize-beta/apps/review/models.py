@@ -41,7 +41,7 @@ class Thank(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
 
     def __unicode__(self):
-        return "%s thanking Review #:%s" \
+        return "%s thanking Review #:%s" % \
             (self.giver.get_full_name(), self.review.id)
 
 @receiver(post_save, sender=Review)
