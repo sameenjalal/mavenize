@@ -92,9 +92,9 @@ else:
     EMAIL_PORT = 587
     EMAIL_USE_TLS = True
 
-DEFAULT_FROM_EMAIL = "Bueda Support <support@bueda.com>"
+DEFAULT_FROM_EMAIL = "Mavenize Support <admin@mavenize.me>"
 
-CONTACT_EMAIL = 'support@bueda.com'
+CONTACT_EMAIL = 'admin@mavenize.me'
 
 # Internationalization
 
@@ -194,9 +194,9 @@ else:
 
 BROKER_HOST = "localhost"
 BROKER_PORT = 5672
-BROKER_USER = "boilerplate"
-BROKER_PASSWORD = "boilerplate"
-BROKER_VHOST = "boilerplate"
+BROKER_USER = "celery"
+BROKER_PASSWORD = "django"
+BROKER_VHOST = "/"
 CELERY_RESULT_BACKEND = "amqp"
 
 # Run tasks eagerly in development, so developers don't have to keep a celeryd
