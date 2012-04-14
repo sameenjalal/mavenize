@@ -77,8 +77,8 @@ def update_user_profile(sender, user, response, details, **kwargs):
         try:
             url = ("http://graph.facebook.com/%s/picture" %         
                 response["id"])
-            avatar = urlopen(url+'?type=large', timeout=15).read()
-            thumbnail = urlopen(url, timeout=15).read()
+            avatar = urlopen(url+'?type=large', timeout=30).read()
+            thumbnail = urlopen(url, timeout=30).read()
             if not created:
                 if (hashlib.sha1(profile.thumbnail.read()).digest()
                         != hashlib.sha1(thumbnail).digest()):
