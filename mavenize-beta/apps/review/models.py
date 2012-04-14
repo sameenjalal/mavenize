@@ -6,6 +6,7 @@ from django.dispatch import receiver
 from django.db.models import F
 
 from item.models import Item
+from activity_feed.models import Activity
 from notification.models import Notification
 from user_profile.models import UserStatistics
 
@@ -46,10 +47,16 @@ class Thank(models.Model):
 @receiver(post_save, sender=Review)
 def create_review(sender, instance, created, **kwargs):
     """
+    Create an activity for the review.
     Increment the user's reviews by one and karma by five.
     Increment the item's ratings by the review's rating.
     """
     if created:
+        Activity.objects.create(
+           sender=instance.user,
+           verb="raved about",
+           target_object=instance
+        )    
         UserStatistics.objects.filter(pk__exact=instance.user_id).update(
             reviews=F('reviews')+1, karma=F('karma')+5)
         ratings = ['one', 'two', 'three', 'four', 'five']
@@ -63,6 +70,15 @@ def delete_review(sender, instance, **kwargs):
     """
     Undo the updates when the review was created.
     """
+    try:
+        Activity.objects.get(
+            sender=instance.user,
+            verb="raved about",
+            target_object=instance
+        ).delete()
+    except:
+        pass
+
     UserStatistics.objects.filter(pk__exact=instance.user_id).update(
         reviews=F('reviews')-1, karma=F('karma')-5)
     ratings = ['one', 'two', 'three', 'four', 'five']
@@ -80,6 +96,11 @@ def create_agree(sender, instance, created, **kwargs):
     Increment the item's rating count by one.
     """
     if created:
+        Activity.objects.create(
+            sender=instance.giver,
+            verb="re-raved",
+            target_object=instance.review
+        )
         Notification.objects.create(
             sender_id=instance.giver_id,
             recipient_id=instance.review.user_id,
@@ -106,6 +127,11 @@ def delete_agree(sender, instance, **kwargs):
     Undo the updates when the agree was created.
     """
     try:
+        Activity.objects.get(
+            sender=instance.giver,
+            verb="re-raved",
+            target_object=instance.review
+        ).delete()
         Notification.objects.get(
             sender_id=instance.giver_id,
             recipient_id=instance.review.user_id,
