@@ -11,6 +11,8 @@ class TestMovie(object):
     def test_create_movie(self):
         nt.assert_true(
             Movie.objects.get(pk=self.id))
+        nt.assert_equal(Movie.objects.get(pk=self.id).item.item_type,
+            'movie')
 
     def test_delete_movie(self):
         Movie.objects.get(pk=self.id).delete()
