@@ -325,6 +325,7 @@ apps_list = [
         'nexus',
         'social_auth',
         'south',
+        'sorl.thumbnail',
 ]
 
 if is_solo():
