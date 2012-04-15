@@ -1,9 +1,7 @@
 from user_profile.models import KarmaUser
 from item.models import Item
-from review.models import Review
+from review.models import Review, Agree, Thank
 from bookmark.models import Bookmark
-from review.models import Agree
-from review.models import Thank
 from notification.models import Notification
 from social_graph.models import Backward
 import nose.tools as nt
