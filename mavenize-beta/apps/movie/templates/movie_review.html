@@ -1,12 +1,33 @@
 <li class="review">
   <div class="pull-left">
-    <img src="{{ MEDIA_URL }}img/users/{{ review.user }}" />
+    <div class="user-avatar">
+      {% load thumbnail %}
+      {% thumbnail review.user.userprofile.avatar "100x100" crop="center" as im %}
+      <img src="{{ im.url }}" width="{{ im.width }}" height="{{ im.height }}" />
+      {% endthumbnail %}
+    </div>
   </div>
-  <div class="review-content">
+  <div class="review-context">
+    <a href="#">
       {{ review.user.get_full_name }}
-    raved about
-    <a href="{% url movie.views.profile movie.url %}">
-      {{ movie.title }}
     </a>
+    raved about
+    <a href="{% url movie.views.profile movie.url %}">{{ movie.title }}</a>.
+  </div>
+  <div class="review-text">
+    {{ review.text }}
+  </div>
+  <div class="review-meta">
+    <div class="pull-left">
+      {{ review.created_at|timesince }} ago &#8226; 
+      {{ review.agrees }} re-rave{{ review.agrees|pluralize }} &#8226;
+      {{ review.thanks }} thank{{ review.thanks|pluralize }}
+    </div>
+    <div class="pull-right">
+      <a href="#">re-rave</a> &#8226;
+      <a href="#">disagree</a> &#8226;
+      <a href="#">thank {{ review.user.first_name|lower }}</a>
+    </div>
+    <div style="clear: both;"></div>
   </div>
 </li>

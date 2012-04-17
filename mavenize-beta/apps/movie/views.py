@@ -3,6 +3,7 @@ from django.shortcuts import get_object_or_404
 from django.http import Http404
 from django.template import RequestContext
 from django.contrib.auth.decorators import login_required
+from django.db.models import Q
 
 from movie.models import Movie
 from social_graph.models import Forward
@@ -11,25 +12,30 @@ from social_graph.models import Forward
 def profile(request, title):
     try:
         movie = Movie.objects.select_related(
-            'item').prefetch_related('actors', 'directors').get(url=title)
+            'item').prefetch_related('actors', 'directors', 'genre').get(
+                url=title)
+        me = request.user.id
         friends = list(Forward.objects.filter(
-            source_id=request.user.id).values_list(
-                'destination_id', flat=True))
+            source_id=me).values_list('destination_id', flat=True))
+        global_exclude = friends + [me]
+        reviews = movie.item.review_set.select_related(
+            'user', 'user__userprofile').all()
         context = {
             'movie': movie,
             'actors': movie.actors.all(),
             'directors': movie.directors.all(),
+            'genre': movie.genre.all(),
             'bookmarked': movie.item.bookmark_set.filter(
-                user__in=friends).values_list('user', flat=True),
-            'my_reviews': movie.item.review_set.select_related(
-                'user').filter(user=request.user.id,
-                               agree__giver=request.user.id),
-            'friend_reviews': movie.item.review_set.select_related(
-                'user').filter(user__in=friends,
-                               agree__giver__in=friends),
-            'global_reviews': movie.item.review_set.select_related(
-                'user').exclude(user__in=friends,
-                                agree__giver__in=friends)[:10],
+                    user__in=friends).values_list('user', flat=True),
+            'my_reviews': reviews.filter(
+                    Q(user=me) | Q(agree__giver=me)),
+            'friend_reviews': reviews.filter(
+                    Q(user__in=friends) |
+                    Q(agree__giver__in=friends)
+                ).exclude(user=me).exclude(agree__giver=me),
+            'global_reviews': reviews.exclude(
+                    user__in=global_exclude
+                ).exclude(agree__giver__in=global_exclude),
             'links': movie.item.link_set.all(),
             'rating': movie.item.get_rating(),
             'votes': movie.item.get_votes()
