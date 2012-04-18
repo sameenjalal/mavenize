@@ -1,0 +1,108 @@
+/*******************************
+  OPERATIONS & COLOR FUNCTIONS
+*******************************/
+
+@mainTitle: @white;
+@mainContrast: @black;
+@formFill: @whiteSmoke;
+
+@boxBorder: @spool;
+@reviewFill: @leaflet;
+
+/*********
+  STYLES
+*********/
+
+#main {
+
+  #title-header {
+    margin: 20px 0 34px 0;
+
+    #title {
+      color: @mainTitle;
+      font-size: 36px;
+      font-weight: 700;
+    }
+
+    #genre {
+      color: @mainTitle;
+      font-size: 16px;
+      margin: 5px 15px;
+    }
+  }
+
+  #description {
+    color: @mainContrast;
+    font-size: 13px;
+    margin-left: 6px;
+
+    #synopsis {
+      padding: 16px 0;
+    }
+  }
+
+  #review-form {
+    background: @whiteSmoke; 
+    margin: 15px 0;
+    padding: 10px; 
+    .RoundedCorners(5px);
+
+    #review-text {
+      height: 36px;
+      margin: 5px 15px;
+      width: 640px;
+    }
+
+    #review-submit {
+      left: 545px;
+      margin-top: 5px;
+      position: relative;
+      width: 120px;
+    }
+  }
+
+  .review-container {
+    margin-bottom: 10px;
+  }
+
+  .review {
+    border: 1px @boxBorder solid;
+    margin-bottom: 10px;
+  }
+  
+  .user-avatar {
+    margin: 15px;
+  }
+
+  .review-context {
+    background: @reviewFill;
+    font-size: 15px;
+    padding: 10px;
+  }
+
+  .review-text {
+    margin: 10px 10px 10px 130px;
+  }
+
+  .review-meta {
+    color: @lightGray;
+    margin: 10px 10px 10px 130px;
+  }
+}
+
+#sidebar {
+  
+  .thumbnail {
+    margin-top: 30px;
+  }
+}
+
+.heading {
+  color: @white;
+  font-weight: bold;
+  padding: 10px 20px;
+
+  .HeadingGradient();
+  .RoundedTopCorners();
+}
+

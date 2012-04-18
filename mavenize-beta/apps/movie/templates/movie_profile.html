@@ -38,7 +38,7 @@
         </form>
       </section>
       <section id="reviews">
-        <div id="my-reviews" class="review-container">
+        <div id="my-reviews" class="module-container">
         {% if my_reviews %}
           <h3 class="heading">handpicked by yours truly</h3>
           <ul class="unstyled">
@@ -74,33 +74,46 @@
       <div class="thumbnail">
         <img src="{{ movie.image.url }}" />
       </div>
-      <div id="rating-chart">
-        <h3 class="heading">ratings</h3>
-        <table id="rating-table" class="table table-striped">
-        <thead>
-          <tr>
-            <td>&nbsp;</td>
-            <td scope="col">5</td>
-            <td scope="col">4</td>
-            <td scope="col">3</td>
-            <td scope="col">2</td>
-            <td scope="col">1</td>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <th scope="row">Rating</th>
-            <td>{{ movie.item.five_star }}</td>
-            <td>{{ movie.item.four_star }}</td>
-            <td>{{ movie.item.three_star }}</td>
-            <td>{{ movie.item.two_star }}</td>
-            <td>{{ movie.item.one_star }}</td>
-          </tr>
-        </tbody>
-        </table>
+      <div id="chart-wrapper" class="module-container border">
+        <div id="rating-chart">
+          <h3 class="heading">ratings</h3>
+          <table id="rating-table" class="table table-striped">
+          <thead>
+            <tr>
+              <td>&nbsp;</td>
+              <th scope="col">5</th>
+              <th scope="col">4</th>
+              <th scope="col">3</th>
+              <th scope="col">2</th>
+              <th scope="col">1</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Rating</th>
+              <td>{{ movie.item.five_star }}</td>
+              <td>{{ movie.item.four_star }}</td>
+              <td>{{ movie.item.three_star }}</td>
+              <td>{{ movie.item.two_star }}</td>
+              <td>{{ movie.item.one_star }}</td>
+            </tr>
+          </tbody>
+          </table>
+        </div>
       </div>
-        <div>{{ rating }}</div>
-        <div>({{ votes }} votes)</div>
+      <div id="friend-bookmarks" class="module-container border">
+        <h3 class="heading">watch it!</h3>
+        <ul id="bookmarks">
+          {% for bookmark in friend_bookmarks %}
+            <div class="user">
+            <img src="{{ bookmark.user.userprofile.thumbnail.url }}" />
+            <span class="user-name">
+              <a href="#">{{ bookmark.user.get_full_name }}</a>
+            </span>
+            </div>
+          {% endfor %}
+        </ul>
+      </div>
     </div>
   </div>
 </div>

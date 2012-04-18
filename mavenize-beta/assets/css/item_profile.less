@@ -1,0 +1,202 @@
+/*******************************
+  OPERATIONS & COLOR FUNCTIONS
+*******************************/
+
+@mainTitle: @white;
+@mainContrast: @black;
+@formFill: @whiteSmoke;
+
+@boxBorder: @spool;
+@reviewFill: @leaflet;
+
+/*********
+  STYLES
+*********/
+
+#main {
+
+  #title-header {
+    margin: 20px 0 34px 0;
+
+    #title {
+      color: @mainTitle;
+      font-size: 36px;
+      font-weight: 700;
+    }
+
+    #genre {
+      color: @mainTitle;
+      font-size: 16px;
+      margin: 5px 15px;
+    }
+  }
+
+  #description {
+    color: @mainContrast;
+    font-size: 13px;
+    margin-left: 6px;
+
+    #synopsis {
+      padding: 16px 0;
+    }
+  }
+
+  #review-form {
+    background: @whiteSmoke; 
+    margin: 15px 0;
+    padding: 10px; 
+    .RoundedCorners(5px);
+
+    #review-text {
+      height: 36px;
+      margin: 5px 15px;
+      width: 640px;
+    }
+
+    #review-submit {
+      left: 545px;
+      margin-top: 5px;
+      position: relative;
+      width: 120px;
+    }
+  }
+
+  .review {
+    margin-bottom: 10px;
+    .Border();
+  }
+  
+  .user-avatar {
+    margin: 15px;
+  }
+
+  .review-context {
+    background: @reviewFill;
+    font-size: 15px;
+    padding: 10px;
+  }
+
+  .review-text {
+    margin: 10px 10px 10px 130px;
+  }
+
+  .review-meta {
+    color: @lightGray;
+    margin: 10px 10px 10px 130px;
+  }
+}
+
+#sidebar {
+  
+  #chart-wrapper {
+
+    #figure {
+      position: relative;
+
+      .graph {
+        height: 120px;
+        margin: 33px 9px 9px 9px;
+        position: relative;
+
+        .x-axis {
+          bottom: 0;
+          position: absolute;
+          text-align: center;
+          width: 100%;
+
+          li {
+            float: left;
+            padding: 5px 13px;
+            width: 14px;
+          }
+        }
+
+        .y-axis {
+          display: none;
+        }
+
+        .bars {
+          height: 90px;
+          postion: absolute;
+          width: 100%;
+          z-index: 10;
+
+          .bar-group {
+            float: left;
+            height: 100%;
+            position: relative;
+            width: 40px;
+
+            .bar {
+              bottom: 0;
+              cursor: pointer;
+              height: 0;
+              margin: 0 5px;
+              position: absolute;
+              text-align: center;
+              width: 30px;
+              .RoundedTopCorners(3px);
+
+              span {
+                background: @leaflet;
+                left: -5px;
+                display: none;
+                margin: 0 5px;
+                position: relative;
+                width: 30px;
+                z-index: 20;
+                .RoundedCorners(3px);
+              }
+            }
+          
+            .bar:hover span {
+              display: block;
+              margin-top: -25px;
+            }
+
+            .bar.fig0 {
+              left: 0;
+            }
+
+            .fig0 {
+              .BarGraphGradient();
+            }
+          }
+        }
+      }
+    }
+  }
+
+  #rating-table {
+    display: none;
+  }
+
+  .thumbnail {
+    margin: 30px 0 10px 0;
+  }
+
+  .user {
+    margin: 10px;
+
+    .user-name {
+      padding-left: 10px;
+    }
+  }
+}
+
+.heading {
+  color: @white;
+  font-weight: bold;
+  padding: 10px 20px;
+
+  .HeadingGradient();
+  .RoundedTopCorners();
+}
+
+.module-container {
+  margin-bottom: 10px;
+}
+
+.border {
+  .Border();
+}

@@ -1,0 +1,28 @@
+.RoundedCorners(@radius: 2px) {
+  border-radius: @radius;
+  -webkit-border-radius: @radius;
+  -moz-border-radius: @radius;
+}
+
+.RoundedTopCorners(@radius: 2px) {
+  border-radius: @radius @radius 0 0;
+  -webkit-border-radius: @radius @radius 0 0;
+  -moz-border-radius: @radius @radius 0 0;
+}
+
+.HeadingGradient() {
+  background: rgb(255,199,115);
+  background: -moz-linear-gradient(top, rgba(255,199,115,1) 1%, rgba(255,153,0,1) 40%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,rgba(255,199,115,1)), color-stop(40%,rgba(255,153,0,1)));
+  background: -webkit-linear-gradient(top, rgba(255,199,115,1) 1%,rgba(255,153,0,1) 40%);
+  background: -o-linear-gradient(top, rgba(255,199,115,1) 1%,rgba(255,153,0,1) 40%);
+  background: -ms-linear-gradient(top, rgba(255,199,115,1) 1%,rgba(255,153,0,1) 40%);
+  background: linear-gradient(top, rgba(255,199,115,1) 1%,rgba(255,153,0,1) 40%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffc773', endColorstr='#ff9900',GradientType=0 );
+}
+
+.BoxShadow(@x: 0, @y: 0, @blur: 1px, @color: #000) {
+  box-shadow: @arguments;
+  -webkit-box-shadow: @arguments;
+  -moz-box-shadow: @arguments;
+}

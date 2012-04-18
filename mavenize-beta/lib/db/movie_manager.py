@@ -5,32 +5,8 @@ from item.models import Item
 import movie.models
 
 class MovieDatabaseManager():
-    actors = []
-    directors = []
     genres = []
     movies = []
-
-    def add_actor(actor_name):
-        """
-        Adds an actor to the list of actors.
-        """
-        actors.append(
-            movie.models.Actor(
-                name=actor_name,
-                url=slugify(actor_name)
-            )
-        )
-
-    def add_director(director_name):
-        """
-        Adds a director to the list of directors.
-        """
-        directors.append(
-            movie.models.Director(
-                name=director_name,
-                url=slugify(director_name)
-            )
-        )
 
     def add_genre(genre_name):
         """
@@ -61,21 +37,6 @@ class MovieDatabaseManager():
                 url=slugify(title)
             )
         )
-
-    def insert_actors():
-        """
-        Inserts the actors list into the database.
-        Precondition: The actors list is populated with Actor objects.
-        """
-        movie.models.Actor.objects.bulk_create(actors)
-
-    def insert_directors():
-        """
-        Inserts the directors list into the database.
-        Precondi2tion: The directors list is populated with Director
-        objects.
-        """
-        movie.models.Director.objects.bulk_create(directors)
 
     def insert_genres():
         """

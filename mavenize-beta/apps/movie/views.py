@@ -7,7 +7,6 @@ from django.db.models import Q
 
 from movie.models import Movie
 from social_graph.models import Forward
-
 @login_required
 def profile(request, title):
     try:
@@ -25,8 +24,9 @@ def profile(request, title):
             'actors': movie.actors.all(),
             'directors': movie.directors.all(),
             'genre': movie.genre.all(),
-            'bookmarked': movie.item.bookmark_set.filter(
-                    user__in=friends).values_list('user', flat=True),
+            'friend_bookmarks': movie.item.bookmark_set.select_related(
+                    'user', 'user__userprofile').filter(
+                        user__in=friends),
             'my_reviews': reviews.filter(
                     Q(user=me) | Q(agree__giver=me)),
             'friend_reviews': reviews.filter(
