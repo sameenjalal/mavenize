@@ -16,5 +16,5 @@ class Notification(models.Model):
         ordering = ["-created_at"]
 
     def __unicode__(self):
-        return "User #%s sending notifcation to User #%s" % \
+        return "User %s sending notifcation to User %s" % \
             (self.sender_id, self.recipient_id)

@@ -28,7 +28,7 @@ class TestLeaderboard(object):
         self.review.delete()
 
         # Tests that the karma action has been deleted
-        nt.assert_is_none(self.karma_action)
+        nt.assert_equal(list(KarmaAction.objects.filter(pk=1)), [])
 
     def test_agree(self):
         self.review = Review.objects.create(
@@ -58,8 +58,12 @@ class TestLeaderboard(object):
         # Tests that the karma sent is 1
         nt.assert_equal(self.karma_actions[1].karma, 1)
 
-        self.karma_actions.delete()
         self.agree.delete()
+
+        # Tests that the karma actions have been deleted
+        nt.assert_equal(
+            list(KarmaAction.objects.filter(giver=self.giver)), [])
+
         self.review.delete()
 
     def test_thanks(self):
@@ -78,8 +82,12 @@ class TestLeaderboard(object):
         # Tests that the karma sent is 1
         nt.assert_equal(self.karma_action.karma, 1)
         
-        self.karma_action.delete()
         self.thanks.delete()
+
+        # Tests that the karma action has been deleted
+        nt.assert_equal(
+            list(KarmaAction.objects.filter(giver=self.giver)), [])
+
         self.review.delete()
 
     def teardown(self):

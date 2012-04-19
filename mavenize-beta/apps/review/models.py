@@ -1,7 +1,6 @@
 from django.db import models
 from django.contrib.auth.models import User
-from django.db.models.signals import post_delete
-from django.db.models.signals import post_save
+from django.db.models.signals import post_save, post_delete
 from django.dispatch import receiver
 from django.db.models import F
 
@@ -85,7 +84,7 @@ def delete_review(sender, instance, **kwargs):
         Activity.objects.get(
             sender=instance.user,
             verb="raved about",
-            target_object=instance
+            object_id=instance.id
         ).delete()
         KarmaAction.objects.filter(
             recipient=instance.user,
@@ -157,12 +156,12 @@ def delete_agree(sender, instance, **kwargs):
         Activity.objects.get(
             sender=instance.giver,
             verb="re-raved",
-            target_object=instance.review
+            object_id=instance.review.id
         ).delete()
         Notification.objects.get(
             sender_id=instance.giver_id,
             recipient_id=instance.review.user_id,
-            notice_object=instance.review
+            object_id=instance.review.id
         ).delete()
         KarmaAction.objects.filter(
             recipient=instance.review.user,
@@ -233,7 +232,7 @@ def delete_thank(sender, instance, **kwargs):
         Notification.objects.get(
             sender_id=instance.giver_id,
             recipient_id=instance.review.user_id,
-            notice_object=instance.review
+            object_id=instance.review.id
         ).delete()
         KarmaAction.objects.filter(
             recipient=instance.review.user,

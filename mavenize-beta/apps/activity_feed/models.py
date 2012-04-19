@@ -18,5 +18,5 @@ class Activity(models.Model):
         verbose_name_plural = "Activities"
 
     def __unicode__(self):
-        return "User #%s %s %s #%s" % (self.sender.id, self.verb,
-            self.content_type.model, self.object_id)
+        return "Review %s: User %s Item %s" % (self.sender.id, self.verb,
+            self.object_id)

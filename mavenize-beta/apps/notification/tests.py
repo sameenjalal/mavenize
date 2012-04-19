@@ -29,6 +29,12 @@ class TestNotification(object):
 
         self.agree.delete()
 
+        # Tests that the notification has been deleted
+        nt.assert_equal(
+            list(Notification.objects.filter(
+                sender_id=self.giver.id)),
+            [])
+
     def test_thanks(self):
         self.thanks = Thank.objects.create(
             giver=self.giver, review=self.review)
@@ -43,6 +49,12 @@ class TestNotification(object):
             self.review)
 
         self.thanks.delete()
+
+        # Tests that the notification has been deleted
+        nt.assert_equal(
+            list(Notification.objects.filter(
+                sender_id=self.giver.id)),
+            [])
 
     def test_following(self):
         self.following = Backward.objects.create(
@@ -59,6 +71,12 @@ class TestNotification(object):
 
         self.following.delete()
 
+        # Tests that the notification object has been deleted
+        nt.assert_equal(
+            list(Notification.objects.filter(
+                sender_id=self.giver.id)),
+            [])
+
     def test_bookmark(self):
         self.bookmark = Bookmark.objects.create(
             user=self.giver, item=self.item)
@@ -72,6 +90,12 @@ class TestNotification(object):
             self.bookmark)
 
         self.bookmark.delete()
+
+        # Tests that the notification object has been deleted
+        nt.assert_equal(
+            list(Notification.objects.filter(
+                sender_id=self.giver.id)),
+            [])
 
     def teardown(self):
         self.writer.delete()

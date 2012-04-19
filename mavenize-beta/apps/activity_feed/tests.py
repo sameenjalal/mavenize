@@ -22,6 +22,12 @@ class TestActivity(object):
         nt.assert_equal(self.activity.target_object,
             self.review)
 
+        self.review.delete()
+
+        # Tests that the activity object has been deleted
+        nt.assert_equal(
+            list(Activity.objects.filter(sender=self.writer)), [])
+
     def test_agree(self):
         self.review = Review.objects.create(
             user=self.writer, item=self.item, rating=1)
@@ -37,9 +43,14 @@ class TestActivity(object):
             self.review)
         
         self.agree.delete()
+        
+        # Tests that the activity object has been deleted
+        nt.assert_equal(
+            list(Activity.objects.filter(sender=self.giver)), [])
+
+        self.review.delete()
 
     def teardown(self):
-        self.review.delete()
         self.writer.delete()
         self.giver.delete()
         self.item.delete()
