@@ -13,7 +13,9 @@
         </blockquote>
     </div>
     <ul class="unstyled">
+      {% if review %}
       {% include "partials/movie_review.html" %}
+      {% endif %}
     </ul>
   </div>
 </li>

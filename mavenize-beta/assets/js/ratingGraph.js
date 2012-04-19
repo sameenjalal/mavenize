@@ -69,7 +69,7 @@ $(document).ready(function() {
         var barObj = {};
         barObj.label = this[j];
         barObj.height = Math.floor(barObj.label 
-            / chartYMax * 100) + '%';
+            / chartYMax * 100)+ 3 + '%';
         barObj.bar = $('<div class="bar fig' + j + '"><span>'
             + barObj.label + '</span></div>').appendTo(barGroup);
         bars.push(barObj);

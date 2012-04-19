@@ -154,8 +154,8 @@ class TestReview(object):
         # Tests that the giver's thanks_outs is incremented by one
         nt.assert_equal(before_create[0]['thanks_out']+1,
             after_create[0]['thanks_out'])
-        # Tests that the giver's karma is greater than before
-        nt.assert_less(before_create[0]['karma'],
+        # Tests that the giver's karma does not change
+        nt.assert_equal(before_create[0]['karma'],
             after_create[0]['karma'])
         # Tests that the receiver's thanks_ins is incremented by one
         nt.assert_equal(before_create[1]['thanks_in']+1,
@@ -173,8 +173,8 @@ class TestReview(object):
         # Tests that the giver's thanks_outs is decremented by one
         nt.assert_equal(after_create[0]['thanks_out']-1,
             after_delete[0]['thanks_out'])
-        # Tests that the giver's karma is less than before
-        nt.assert_greater(after_create[0]['karma'],
+        # Tests that the giver's karma does not change
+        nt.assert_equal(after_create[0]['karma'],
             after_delete[0]['karma'])
         # Tests that the receiver's thanks_ins is decremented by one
         nt.assert_equal(after_create[1]['thanks_in']-1,

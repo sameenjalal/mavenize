@@ -15,9 +15,23 @@ dl, dt, dd, ol, ul, li, fieldset, form, label, legend {
 }
 
 ul {
-  list-style: none;
+  list-style-type: none;
 }
 
-.thumbnail {
+.thumbnail, .thumbnail:hover {
   border: none;
+}
+
+.nav-tabs {
+  border-bottom: none;
+  
+  li a, li a:hover {
+    background-color: transparent;
+    border: none;
+  }
+
+  .active a, .active a:hover {
+    background-color: transparent;
+    border: none;
+  }
 }

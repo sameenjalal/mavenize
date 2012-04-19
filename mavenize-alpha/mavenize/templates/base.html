@@ -7,9 +7,9 @@
 
   <meta name="google-site-verification" content="iG0vt0xhdbmirkDZCs8LXQZdmmxwxvvhllOpNAMBMAA" />
 
-  <link rel="stylesheet" href="/media/css/bootstrap.css" type="text/css" media="screen" />
-  <link rel="stylesheet" href="/media/css/styles.css" type="text/css" media="screen" />
-  <script type="text/javascript" src="/media/js/google-analytics.js"></script>
+  <link rel="stylesheet" href="{{ STATIC_URL }}css/bootstrap.min.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="{{ STATIC_URL }}css/styles.css" type="text/css" media="screen" />
+  <script type="text/javascript" src="{{ STATIC_URL }}js/google-analytics.js"></script>
 </head>
 
 <body>
@@ -27,8 +27,8 @@
   </footer>
 
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-  <script type="text/javascript" src="/media/js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="/media/js/jquery.NobleCount.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/jquery.NobleCount.min.js"></script>
   {% block js %} {% endblock %}
   <script type="text/javascript">
     $(window).load(function() {

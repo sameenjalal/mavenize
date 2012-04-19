@@ -4,8 +4,32 @@
 
 @import "footer.less";
 @import "item_profile.less";
+@import "activity_feed.less";
 
 #body {
   background: url('../img/background.jpg') 0 0 repeat-x;
 }
 
+
+#title {
+  color: @headingColor;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.heading {
+  color: @headingColor;
+  font-weight: bold;
+  padding: 10px 20px;
+
+  .HeadingGradient();
+  .RoundedTopCorners();
+}
+
+.module-container {
+  margin-bottom: 10px;
+}
+
+.border {
+  .Border();
+}

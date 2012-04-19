@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Mavenize | Welcome Home
+{% endblock %}
+
+{% block body %}
+  <div class="container">
+    <div class="row">
+      <div id="main" class="span9">
+        <section id="menu">
+          <h1 id="title">
+            the latest and greatest
+          </h1>
+          <ul id="filters" class="nav nav-tabs">
+            <li>
+              <a href="#everything" data-toggle="tab">everything</a>
+            </li>
+            <li>
+              <a href="#movies" data-toggle="tab">movies</a>
+            </li>
+            <li>
+              <a href="#restaurants" data-toggle="tab">restaurants</a>
+            </li>
+            <li>
+              <a href="#nightlife" data-toggle="tab">nightlife</a>
+            </li>
+          </ul>
+        </section>
+        <section id="activity-feed">
+          <div class="tab-content">
+            <div class="tab-pane active" id="everything">
+              <ul>
+              {% for activity in activities %}
+                {% include "activity.html" %}
+              {% endfor %}
+              </ul>
+            </div>
+            <div class="tab-pane" id="movies">
+              There
+            </div>
+            <div class="tab-pane" id="restaurants">
+              Can
+            </div>
+            <div class="tab-pane" id="nightlife">
+              You See Me
+            </div>
+          </div>
+        </section>
+      </div>
+      <div id="sidebar" class="span3">
+        <div id="placeholder">
+        </div>
+        <div id="leaderboard" class="module-container border">
+          <h3 class="heading">your friends</h3>
+        </div>
+        <div id="supporters" class="module-container border">
+          <h3 class="heading">your supporters</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
+
+{% block js %}
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#filters').tab('show');
+      $('#filters li:first').addClass('active');
+    });
+  </script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/slideNav.js">
+  </script>
+{% endblock %}

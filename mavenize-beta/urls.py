@@ -8,11 +8,11 @@ admin.autodiscover()
 nexus.autodiscover()
 
 urlpatterns = patterns('',
+    url(r'^$', 'activity_feed.views.index'),
     url(r'^movies/(?P<title>[-\w]+)/$', 'movie.views.profile'),
 )
 
 urlpatterns += patterns('django.views.generic.simple',
-    url(r'^$', 'direct_to_template', {'template': 'index.html'}, name='index'),
     url(r'^nexus/', include(nexus.site.urls)),
     url(r'', include('social_auth.urls')),
 )

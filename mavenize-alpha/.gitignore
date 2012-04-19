@@ -1,0 +1,20 @@
+# Temporary files:
+*~
+*.swp
+*.pyc
+*.pyo
+
+# SQLite3 DB files:
+*.db
+
+# Python virtual environments:
+env
+
+# File cache:
+cache
+
+# Log files:
+log
+
+# Secret key:
+SECRET

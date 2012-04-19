@@ -48,6 +48,7 @@ class Thank(models.Model):
 def create_review(sender, instance, created, **kwargs):
     """
     Create an activity for the review.
+    Create a karma action for the review.
     Increment the user's reviews by one and karma by five.
     Increment the item's ratings by the review's rating.
     """
@@ -57,6 +58,7 @@ def create_review(sender, instance, created, **kwargs):
            verb="raved about",
            target_object=instance
         )    
+        
         UserStatistics.objects.filter(pk__exact=instance.user_id).update(
             reviews=F('reviews')+1, karma=F('karma')+5)
         ratings = ['one', 'two', 'three', 'four', 'five']
@@ -169,10 +171,10 @@ def create_thank(sender, instance, created, **kwargs):
         )
         UserStatistics.objects.filter(
             pk__exact=instance.giver_id).update(
-                thanks_out=F('thanks_out')+1, karma=F('karma')+1)
+                thanks_out=F('thanks_out')+1)
         UserStatistics.objects.filter(
             pk__exact=instance.review.user_id).update(
-                thanks_in=F('thanks_in')+1, karma=F('karma')+2)
+                thanks_in=F('thanks_in')+1, karma=F('karma')+1)
         instance.review.thanks = F('thanks') + 1
         instance.review.save()
 
@@ -192,9 +194,9 @@ def delete_thank(sender, instance, **kwargs):
     
     UserStatistics.objects.filter(
         pk__exact=instance.giver_id).update(
-            thanks_out=F('thanks_out')-1, karma=F('karma')-1)
+            thanks_out=F('thanks_out')-1)
     UserStatistics.objects.filter(
         pk__exact=instance.review.user_id).update(
-            thanks_in=F('thanks_in')-1, karma=F('karma')-2)
+            thanks_in=F('thanks_in')-1, karma=F('karma')-1)
     instance.review.thanks = F('thanks') - 1
     instance.review.save()
