@@ -314,6 +314,7 @@ apps_list = [
         'activity_feed',
         'bookmark',
         'item',
+        'leaderboard',
         'notification',
         'request',
         'review',

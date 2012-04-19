@@ -7,8 +7,11 @@ from django.db.models import F
 
 from item.models import Item
 from activity_feed.models import Activity
+from leaderboard.models import KarmaAction
 from notification.models import Notification
 from user_profile.models import UserStatistics
+
+import datetime
 
 class Review(models.Model):
     RATING_CHOICES = [(i,i) for i in range(1,6)] 
@@ -54,13 +57,19 @@ def create_review(sender, instance, created, **kwargs):
     """
     if created:
         Activity.objects.create(
-           sender=instance.user,
-           verb="raved about",
-           target_object=instance
-        )    
-        
-        UserStatistics.objects.filter(pk__exact=instance.user_id).update(
-            reviews=F('reviews')+1, karma=F('karma')+5)
+            sender=instance.user,
+            verb="raved about",
+            target_object=instance
+        )
+        KarmaAction.objects.create(
+            recipient=instance.user,
+            giver=instance.user,
+            karma=5
+        )
+                
+        UserStatistics.objects.filter(
+            pk__exact=instance.user_id).update(
+                reviews=F('reviews')+1, karma=F('karma')+5)
         ratings = ['one', 'two', 'three', 'four', 'five']
         field = ratings[instance.rating-1] + '_star'
         setattr(instance.item, field, F(field)+1)
@@ -78,6 +87,13 @@ def delete_review(sender, instance, **kwargs):
             verb="raved about",
             target_object=instance
         ).delete()
+        KarmaAction.objects.filter(
+            recipient=instance.user,
+            giver=instance.user,
+            karma=5,
+            created_at__range=(instance.created_at,
+                    instance.created_at+datetime.timedelta(hours=1))
+        )[0].delete()
     except:
         pass
 
@@ -93,6 +109,7 @@ def delete_review(sender, instance, **kwargs):
 def create_agree(sender, instance, created, **kwargs):
     """
     Creates a notification for the writer of the review.
+    Create two karma actions for the agree.
     Increment the giver's agrees by one and karma by one.
     Increment the receiver's agrees by one and karma by two.
     Increment the item's rating count by one.
@@ -108,6 +125,14 @@ def create_agree(sender, instance, created, **kwargs):
             recipient_id=instance.review.user_id,
             notice_object=instance.review
         )
+        KarmaAction.objects.bulk_create([
+            KarmaAction(recipient=instance.review.user,
+                        giver=instance.giver,
+                        karma=2),
+            KarmaAction(recipient=instance.giver,
+                        giver=instance.giver,
+                        karma=1)
+        ])
         UserStatistics.objects.filter(
             pk__exact=instance.giver_id).update(
                 agrees_out=F('agrees_out')+1, karma=F('karma')+1)
@@ -139,6 +164,20 @@ def delete_agree(sender, instance, **kwargs):
             recipient_id=instance.review.user_id,
             notice_object=instance.review
         ).delete()
+        KarmaAction.objects.filter(
+            recipient=instance.review.user,
+            giver=instance.giver,
+            karma=2,
+            created_at__range=(instance.created_at,
+                    instance.created_at+datetime.timedelta(hours=1))
+        )[0].delete()
+        KarmaAction.objects.filter(
+            recipient=instance.giver,
+            giver=instance.giver,
+            karma=1,
+            created_at__range=(instance.created_at,
+                    instance.created_at+datetime.timedelta(hours=1))
+        )[0].delete()
     except:
         pass
 
@@ -160,6 +199,8 @@ def delete_agree(sender, instance, **kwargs):
 @receiver(post_save, sender=Thank)
 def create_thank(sender, instance, created, **kwargs):
     """
+    Create a notification for the writer of the review.
+    Create a karma action for the agree.
     Increment the giver's thanks by one and karma by one.
     Increment the receiver's thanks by one and karma by two.
     """
@@ -168,6 +209,11 @@ def create_thank(sender, instance, created, **kwargs):
             sender_id=instance.giver_id,
             recipient_id=instance.review.user_id,
             notice_object=instance.review
+        )
+        KarmaAction.objects.create(
+            recipient=instance.review.user,
+            giver=instance.giver,
+            karma=1
         )
         UserStatistics.objects.filter(
             pk__exact=instance.giver_id).update(
@@ -189,6 +235,13 @@ def delete_thank(sender, instance, **kwargs):
             recipient_id=instance.review.user_id,
             notice_object=instance.review
         ).delete()
+        KarmaAction.objects.filter(
+            recipient=instance.review.user,
+            giver=instance.giver,
+            karma=1,
+            created_at__range=(instance.created_at,
+                    instance.created_at+datetime.timedelta(hours=1))
+        )[0].delete()
     except:
         pass
     
