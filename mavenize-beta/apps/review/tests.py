@@ -12,7 +12,12 @@ class TestReview(object):
         self.giver = KarmaUser.objects.create(username='b')
         self.item = Item.objects.create()
 
-    def test_review(self):
+    def test_review_statistics(self):
+        """
+        Tests the basic statistics aggregation of a review including:
+            User Review Count, User Karma, Item Rating Count, Item
+            Review Count
+        """
         before_create = {
             'user_reviews': self.writer.get_statistics().reviews,
             'user_karma': self.writer.get_statistics().karma,
@@ -54,7 +59,12 @@ class TestReview(object):
         nt.assert_equal(before_create['item_reviews'],
             Item.objects.get(pk=self.item.id).reviews)
     
-    def test_agree(self):
+    def test_agree_statistics(self):
+        """
+        Tests the basic statistics aggregation of an agree including:
+            Giver Outgoing Agree Count, Giver Karma, Receiver Incoming
+            Agree Count, Receiver Karma, Review Agree Count
+        """
         self.review = Review.objects.create(
             user=self.writer, item=self.item, rating=1)
         ids = [self.giver.id, self.review.user.id]
@@ -103,41 +113,13 @@ class TestReview(object):
         nt.assert_equal(after_create[2]-1, after_delete[2])
 
         self.review.delete()
-
-    def test_agree_rating(self):
-        self.review = Review.objects.create(
-            user=self.writer, item=self.item, rating=1)
-        before_first_agree = Item.objects.get(pk=self.item.id).one_star
-
-        self.first_agree = Agree.objects.create(
-            giver=self.giver, review=self.review)
-        after_first_agree = Item.objects.get(pk=self.item.id).one_star
-
-        # Tests that the item's rating count is incremented by one
-        nt.assert_equal(before_first_agree+1, after_first_agree)
-    
-        self.second_agree = Agree.objects.create(
-            giver=self.giver, review=self.review)
-        after_second_agree = Item.objects.get(pk=self.item.id).one_star
-
-        # Tests that the item's rating count is not incremented again
-        nt.assert_equal(after_first_agree, after_second_agree)
-
-        after_first_delete = Item.objects.get(pk=self.item.id).one_star
-        self.first_agree.delete()
-
-        # Tests that the item's rating count is not decremented
-        nt.assert_equal(after_second_agree, after_first_delete)
-    
-        self.second_agree.delete()
-
-        # Tests that the item's rating count is decremented by one
-        nt.assert_equal(after_first_delete-1, 
-            Item.objects.get(pk=self.item.id).one_star)
-            
-        self.review.delete()
-       
-    def test_thank(self):
+      
+    def test_thank_statistics(self):
+        """
+        Tests the basic statistics aggregation of a thank including:
+            Giver Outgoing Thank Count, Giver Karma, Receiver Incoming
+            Thank Count, Receiver Karma, Review Thank Count
+        """
         self.review = Review.objects.create(
             user=self.writer, item=self.item, rating=1)
         ids = [self.giver.id, self.review.user.id]
@@ -186,7 +168,141 @@ class TestReview(object):
         nt.assert_equal(after_create[2]-1, after_delete[2])
 
         self.review.delete()
- 
+    
+    def test_rating_after_agree(self):
+        """
+        Tests that successive agrees overwrites the rating count from
+        previous agrees and the most recent overwrites a deleted agree.
+        """
+        self.review_one = Review.objects.create(
+            user=self.writer, item=self.item, rating=1)
+        self.review_two = Review.objects.create(
+            user=self.writer, item=self.item, rating=2)
+        before_first_agree = Item.objects.get(pk=self.item.id)
+
+        self.first_agree = Agree.objects.create(
+            giver=self.giver, review=self.review_one)
+        after_first_agree = Item.objects.get(pk=self.item.id)
+
+        # Tests that the item's rating count is incremented by one
+        nt.assert_equal(before_first_agree.one_star+1,
+            after_first_agree.one_star)
+    
+        self.second_agree = Agree.objects.create(
+            giver=self.giver, review=self.review_two)
+        after_second_agree = Item.objects.get(pk=self.item.id)
+
+        # Tests that the item's rating count has been overwritten
+        # by the new agree
+        nt.assert_equal(after_first_agree.one_star,
+            after_second_agree.one_star+1)
+        nt.assert_equal(after_first_agree.two_star,
+            after_second_agree.two_star-1)
+
+        self.first_agree.delete()
+        after_first_delete = Item.objects.get(pk=self.item.id)
+
+        # Tests that the item's rating count has been unchanged 
+        nt.assert_equal(after_second_agree.one_star,
+            after_first_delete.one_star)
+        nt.assert_equal(after_second_agree.two_star,
+            after_first_delete.two_star)
+    
+        self.second_agree.delete()
+
+        # Tests that the item's rating count is overwritten
+        nt.assert_equal(before_first_agree.one_star,
+            Item.objects.get(pk=self.item.id).one_star)
+        nt.assert_equal(before_first_agree.two_star,
+            Item.objects.get(pk=self.item.id).two_star)
+            
+        self.review_one.delete()
+        self.review_two.delete()
+
+    def test_rating_for_review_after_agree(self):
+        """
+        Tests that the rating is overwritten when a user writes a
+        review after they have already agreed with a review on the
+        same item.
+        """
+        self.writer_review = Review.objects.create(
+            user=self.writer, item=self.item, rating=1)
+        self.agree = Agree.objects.create(
+            giver=self.giver, review=self.writer_review)
+        after_agree = Item.objects.get(pk=self.item.id)
+
+        # Tests that the item's one star rating count is two 
+        nt.assert_equal(after_agree.one_star, 2)
+        
+        self.giver_review = Review.objects.create(
+            user=self.giver, item=self.item, rating=2)
+        after_review = Item.objects.get(pk=self.item.id)
+
+        # Tests that the item's one star rating count is one
+        nt.assert_equal(after_review.one_star, 1)
+        # Tests that the item's two star rating count is one
+        nt.assert_equal(after_review.two_star, 1)
+
+        self.agree.delete()
+        after_agree_delete = Item.objects.get(pk=self.item.id)
+        
+        # Tests that the item's ratings are the same 
+        nt.assert_equal(after_review.one_star,
+            after_agree_delete.one_star)
+        nt.assert_equal(after_review.two_star,
+            after_agree_delete.two_star)
+
+        self.giver_review.delete()
+        self.writer_review.delete()
+
+    def test_rating_for_agree_after_review(self):
+        """
+        Tests that the agree does not add a rating if the user has
+        already written a review on the same item.
+        """
+        self.review = Review.objects.create(
+            user=self.writer, item=self.item, rating=1)
+        before_agree = Item.objects.get(pk=self.item.id)
+
+        self.agree = Agree.objects.create(
+            giver=self.writer, review=self.review)
+        after_agree = Item.objects.get(pk=self.item.id)
+
+        # Tests that the item's rating count is not incremented
+        nt.assert_equal(before_agree.one_star, after_agree.one_star)
+
+        self.agree.delete()
+        after_agree_delete = Item.objects.get(pk=self.item.id)
+        
+        # Tests that the item's rating count is not decremented
+        nt.assert_equal(after_agree.one_star,
+            after_agree_delete.one_star)
+
+        self.review.delete()
+
+    def test_rating_for_agree_after_deleting_review(self):
+        """
+        Tests that the agree's rating has replaced the review's
+        rating if the review is deleted.
+        """
+        self.writer_review = Review.objects.create(
+            user=self.writer, item=self.item, rating=1)        
+        self.agree = Agree.objects.create(
+            giver=self.giver, review=self.writer_review)
+        after_agree = Item.objects.get(pk=self.item.id)
+
+        self.giver_review = Review.objects.create(
+            user=self.giver, item=self.item, rating=2)
+        self.giver_review.delete()
+        after_review_delete = Item.objects.get(pk=self.item.id)
+
+        # Tests that the rating is unchanged after the review
+        # is deleted
+        nt.assert_equal(after_agree.one_star,
+            after_review_delete.one_star)
+        nt.assert_equal(after_agree.two_star,
+            after_review_delete.two_star)
+
     def teardown(self):
         self.writer.delete()
         self.giver.delete()

@@ -10,7 +10,7 @@ from leaderboard.models import KarmaAction
 from notification.models import Notification
 from user_profile.models import UserStatistics
 
-import datetime
+import datetime as dt
 
 class Review(models.Model):
     RATING_CHOICES = [(i,i) for i in range(1,6)] 
@@ -65,15 +65,19 @@ def create_review(sender, instance, created, **kwargs):
             giver=instance.user,
             karma=5
         )
-                
-        UserStatistics.objects.filter(
-            pk__exact=instance.user_id).update(
+        UserStatistics.objects.filter(pk=instance.user_id).update(
                 reviews=F('reviews')+1, karma=F('karma')+5)
-        ratings = ['one', 'two', 'three', 'four', 'five']
-        field = ratings[instance.rating-1] + '_star'
-        setattr(instance.item, field, F(field)+1)
-        instance.item.reviews = F('reviews') + 1
-        instance.item.save()
+        rating_choices = ['one', 'two', 'three', 'four', 'five']
+        rating = rating_choices[instance.rating-1] + '_star'
+        fields = { rating: F(rating)+1, 'reviews': F('reviews')+1 }
+        Item.objects.filter(pk=instance.item_id).update(**fields)
+        agrees = Agree.objects.filter(
+                giver=instance.user_id).order_by('created_at')
+        if agrees:
+            rating = rating_choices[agrees[0].review.rating-1] + '_star'
+            fields = { rating: F(rating)-1 }
+            Item.objects.filter(pk=instance.item_id).update(**fields)
+            
 
 @receiver(post_delete, sender=Review)
 def delete_review(sender, instance, **kwargs):
@@ -91,18 +95,23 @@ def delete_review(sender, instance, **kwargs):
             giver=instance.user,
             karma=5,
             created_at__range=(instance.created_at,
-                    instance.created_at+datetime.timedelta(hours=1))
+                               instance.created_at+dt.timedelta(hours=1))
         )[0].delete()
     except:
         pass
 
     UserStatistics.objects.filter(pk__exact=instance.user_id).update(
-        reviews=F('reviews')-1, karma=F('karma')-5)
-    ratings = ['one', 'two', 'three', 'four', 'five']
-    field = ratings[instance.rating-1] + '_star'
-    setattr(instance.item, field, F(field)-1)
-    instance.item.reviews = F('reviews') - 1
-    instance.item.save()
+            reviews=F('reviews')-1, karma=F('karma')-5)
+    rating_choices = ['one', 'two', 'three', 'four', 'five']
+    rating = rating_choices[instance.rating-1] + '_star'
+    fields = { rating: F(rating)-1, 'reviews': F('reviews')-1 }
+    Item.objects.filter(pk=instance.item_id).update(**fields)
+    agrees = Agree.objects.filter(
+            giver=instance.user_id).order_by('created_at')
+    if agrees:
+        rating = rating_choices[agrees[0].review.rating-1] + '_star'
+        fields = { rating: F(rating)+1 }
+        Item.objects.filter(pk=instance.item_id).update(**fields)
 
 @receiver(post_save, sender=Agree)
 def create_agree(sender, instance, created, **kwargs):
@@ -132,20 +141,28 @@ def create_agree(sender, instance, created, **kwargs):
                         giver=instance.giver,
                         karma=1)
         ])
-        UserStatistics.objects.filter(
-            pk__exact=instance.giver_id).update(
+        UserStatistics.objects.filter(pk=instance.giver_id).update(
                 agrees_out=F('agrees_out')+1, karma=F('karma')+1)
-        UserStatistics.objects.filter(
-            pk__exact=instance.review.user_id).update(
+        UserStatistics.objects.filter(pk=instance.review.user_id).update(
                 agrees_in=F('agrees_in')+1, karma=F('karma')+2)
-        instance.review.agrees = F('agrees') + 1
-        instance.review.save()
-        if Agree.objects.filter(giver=instance.giver_id,
-                review__item=instance.review.item).count() == 1:
-            ratings = ['one', 'two', 'three', 'four', 'five']
-            field = ratings[instance.review.rating-1] + '_star'
-            setattr(instance.review.item, field, F(field)+1)
-            instance.review.item.save()
+        Review.objects.filter(pk=instance.review_id).update(
+                agrees=F('agrees')+1)
+        reviews = Review.objects.filter(user=instance.giver_id).count()
+        if reviews == 0:
+            rating_choices = ['one', 'two', 'three', 'four', 'five']
+            rating = rating_choices[instance.review.rating-1] + '_star'
+            fields = { rating: F(rating)+1 }
+            Item.objects.filter(pk=instance.review.item_id).update(
+                **fields)
+            old_agree = Agree.objects.filter(giver=instance.giver_id) \
+                                     .exclude(pk=instance.pk) \
+                                     .order_by('-created_at')
+            if old_agree:
+                rating = (rating_choices[old_agree[0].review.rating-1] +
+                    '_star')
+                fields = { rating: F(rating)-1 }
+                Item.objects.filter(pk=instance.review.item_id).update(
+                    **fields)
 
 @receiver(post_delete, sender=Agree)
 def delete_agree(sender, instance, **kwargs):
@@ -168,32 +185,44 @@ def delete_agree(sender, instance, **kwargs):
             giver=instance.giver,
             karma=2,
             created_at__range=(instance.created_at,
-                    instance.created_at+datetime.timedelta(hours=1))
+                               instance.created_at+dt.timedelta(hours=1))
         )[0].delete()
         KarmaAction.objects.filter(
             recipient=instance.giver,
             giver=instance.giver,
             karma=1,
             created_at__range=(instance.created_at,
-                    instance.created_at+datetime.timedelta(hours=1))
+                               instance.created_at+dt.timedelta(hours=1))
         )[0].delete()
     except:
         pass
 
-    UserStatistics.objects.filter(
-        pk__exact=instance.giver_id).update(
-            agrees_out=F('agrees_out')-1, karma=F('karma')-1)
-    UserStatistics.objects.filter(
-        pk__exact=instance.review.user_id).update(
-            agrees_in=F('agrees_in')-1, karma=F('karma')-2)
-    instance.review.agrees = F('agrees') - 1
-    instance.review.save()
-    if not Agree.objects.filter(giver=instance.giver_id,
-            review__item=instance.review.item):
-        ratings = ['one', 'two', 'three', 'four', 'five']
-        field = ratings[instance.review.rating-1] + '_star'
-        setattr(instance.review.item, field, F(field)-1)
-        instance.review.item.save()
+    try:
+        UserStatistics.objects.filter(pk=instance.giver_id).update(
+                agrees_out=F('agrees_out')-1, karma=F('karma')-1)
+        UserStatistics.objects.filter(pk=instance.review.user_id).update(
+                agrees_in=F('agrees_in')-1, karma=F('karma')-2)
+        Review.objects.filter(pk=instance.review_id).update(
+                agrees=F('agrees')-1)
+        reviews = Review.objects.filter(user=instance.giver_id).count()
+        if reviews == 0:
+            remaining = Agree.objects.filter(
+                    giver=instance.giver_id).order_by('-created_at')
+            if (not remaining or 
+                        remaining[0].created_at < instance.created_at):
+                rating_choices = ['one', 'two', 'three', 'four', 'five']
+                rating = (rating_choices[instance.review.rating-1] +
+                    '_star')
+                fields = { rating: F(rating)-1 }
+                Item.objects.filter(pk=instance.review.item_id).update(
+                    **fields)
+                rating = (rating_choices[remaining[0].review.rating-1] +
+                    '_star')
+                fields = { rating: F(rating)+1 }
+                Item.objects.filter(pk=instance.review.item_id).update(
+                    **fields)
+    except:
+        pass
 
 @receiver(post_save, sender=Thank)
 def create_thank(sender, instance, created, **kwargs):
@@ -214,14 +243,12 @@ def create_thank(sender, instance, created, **kwargs):
             giver=instance.giver,
             karma=1
         )
-        UserStatistics.objects.filter(
-            pk__exact=instance.giver_id).update(
+        UserStatistics.objects.filter(pk=instance.giver_id).update(
                 thanks_out=F('thanks_out')+1)
-        UserStatistics.objects.filter(
-            pk__exact=instance.review.user_id).update(
+        UserStatistics.objects.filter(pk=instance.review.user_id).update(
                 thanks_in=F('thanks_in')+1, karma=F('karma')+1)
-        instance.review.thanks = F('thanks') + 1
-        instance.review.save()
+        Review.objects.filter(pk=instance.review_id).update(
+                thanks=F('thanks')+1)
 
 @receiver(post_delete, sender=Thank)
 def delete_thank(sender, instance, **kwargs):
@@ -239,16 +266,17 @@ def delete_thank(sender, instance, **kwargs):
             giver=instance.giver,
             karma=1,
             created_at__range=(instance.created_at,
-                    instance.created_at+datetime.timedelta(hours=1))
+                               instance.created_at+dt.timedelta(hours=1))
         )[0].delete()
     except:
         pass
     
-    UserStatistics.objects.filter(
-        pk__exact=instance.giver_id).update(
-            thanks_out=F('thanks_out')-1)
-    UserStatistics.objects.filter(
-        pk__exact=instance.review.user_id).update(
-            thanks_in=F('thanks_in')-1, karma=F('karma')-1)
-    instance.review.thanks = F('thanks') - 1
-    instance.review.save()
+    try:
+        UserStatistics.objects.filter(pk=instance.giver_id).update(
+                thanks_out=F('thanks_out')-1)
+        UserStatistics.objects.filter(pk=instance.review.user_id).update(
+                thanks_in=F('thanks_in')-1, karma=F('karma')-1)
+        Review.objects.filter(pk=instance.review_id).update(
+                thanks=F('thanks')-1)
+    except:
+        pass
