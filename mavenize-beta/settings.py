@@ -50,7 +50,7 @@ def is_dev():
 SITE_ID = DeploymentType.dict[DEPLOYMENT]
 
 DEBUG = DEPLOYMENT != DeploymentType.PRODUCTION
-STATIC_MEDIA_SERVER = is_solo()
+STATIC_MEDIA_SERVER = is_solo() or is_dev()
 TEMPLATE_DEBUG = DEBUG
 SSL_ENABLED = not DEBUG
 
