@@ -4,7 +4,6 @@ import logging, logging.handlers
 import environment
 import logconfig
 
-# If using a separate Python package (e.g. a submodule in vendor/) to share
 # logic between applications, you can also share settings. Just create another
 # settings file in your package and import it like so:
 #
@@ -45,6 +44,9 @@ else:
 def is_solo():
     return DEPLOYMENT == DeploymentType.SOLO
 
+def is_dev():
+    return DEPLOYMENT == DeploymentType.DEV
+
 SITE_ID = DeploymentType.dict[DEPLOYMENT]
 
 DEBUG = DEPLOYMENT != DeploymentType.PRODUCTION
@@ -73,7 +75,7 @@ CACHE_MIDDLEWARE_KEY_PREFIX = ''
 
 # Don't require developers to install memcached, and also make debugging easier
 # because cache is automatically wiped when the server reloads.
-if is_solo():
+if is_solo() or is_dev():
     CACHE_BACKEND = ('locmem://?timeout=%(CACHE_TIMEOUT)d'
             '&max_entries=%(MAX_CACHE_ENTRIES)d' % locals())
 else:
@@ -82,7 +84,7 @@ else:
 
 # E-mail Server
 
-if is_solo():
+if is_solo() or is_dev():
     EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 else:
     EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
@@ -164,12 +166,12 @@ if DEPLOYMENT == DeploymentType.PRODUCTION:
     }
 elif DEPLOYMENT == DeploymentType.DEV:
     DATABASES['default'] = {
-        'NAME': 'boilerplate_dev',
-        'ENGINE': 'django.db.backends.mysql',
-        'HOST': 'your-database.com',
-        'PORT': '',
-        'USER': 'boilerplate',
-        'PASSWORD': 'your-password'
+        'NAME': 'mavenize_development',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'HOST': 'localhost',
+        'PORT': '5432',
+        'USER': 'django',
+        'PASSWORD': 'PyDjR0ck$'
     }
 elif DEPLOYMENT == DeploymentType.STAGING:
     DATABASES['default'] = {
@@ -264,6 +266,12 @@ if is_solo():
     middleware_list += [
         'debug_toolbar.middleware.DebugToolbarMiddleware',
     ]
+elif is_dev():
+    middleware_list += [
+        'debug_toolbar.middleware.DebugToolbarMiddleware',
+        'django.middleware.transaction.TransactionMiddleware',
+        'commonware.middleware.SetRemoteAddrFromForwardedFor',
+    ]
 else:
     middleware_list += [
         'django.middleware.transaction.TransactionMiddleware',
@@ -329,7 +337,7 @@ apps_list = [
         'sorl.thumbnail',
 ]
 
-if is_solo():
+if is_solo() or is_dev():
     apps_list += [
         'django_extensions',
         'debug_toolbar',
