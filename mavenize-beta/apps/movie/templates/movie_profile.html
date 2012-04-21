@@ -58,9 +58,23 @@
           </ul>
         {% endif %}
         </div>
+        <div id="friend-agrees" class="review-container">
+        {% if friend_agrees %}
+          <h3 class="heading">
+            handpicked by your most trusted friends
+          </h3>
+          <ul class="unstyled">
+          {% for review in friend_agrees %}
+            {% include "movie_agree.html" %}
+          {% endfor %}
+          </ul>
+        {% endif %}
+        </div>
         <div id="global-reviews" class="review-container">
         {% if global_reviews %}
-          <h3 class="heading">from our top contributors</h3>
+          <h3 class="heading">
+            ...and the rest of the best
+          </h3>
           <ul class="unstyled">
           {% for review in global_reviews %}
             {% include "movie_review.html" %}

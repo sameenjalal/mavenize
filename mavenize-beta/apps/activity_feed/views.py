@@ -35,8 +35,11 @@ def activity_feed(request):
                            .values('giver') \
                            .annotate(total_given=Sum('karma')) \
                            .order_by('-total_given'))
-    my_ranking = [i for i, v in enumerate(leaderboard_rankings)
-        if v['giver'] == me][0]
+    try:
+        my_ranking = [i for i, v in enumerate(leaderboard_rankings)
+            if v['giver'] == me][0]
+    except IndexError:
+        my_ranking = 0
     my_relative_leaderboard, start_index = compute_relative_leaderboard(
         my_ranking,
         match_users_with_karma(leaderboard_rankings)

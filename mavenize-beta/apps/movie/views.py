@@ -36,8 +36,6 @@ def profile(request, title):
                     user__in=global_exclude
                 ).exclude(agree__giver__in=global_exclude),
             'links': movie.item.link_set.all(),
-            'rating': movie.item.get_rating(),
-            'votes': movie.item.get_votes()
         }
     except:
         raise Http404
