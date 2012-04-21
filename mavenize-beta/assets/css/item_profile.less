@@ -2,11 +2,7 @@
   OPERATIONS & COLOR FUNCTIONS
 *******************************/
 
-@mainTitle: @white;
-@mainContrast: @black;
 @formFill: @whiteSmoke;
-
-@reviewFill: @leaflet;
 
 /*********
   STYLES
@@ -18,14 +14,14 @@
     margin: 20px 0 34px 0;
 
     #genre {
-      color: @mainTitle;
+      color: @headingColor;
       font-size: 16px;
       margin: 5px 15px;
     }
   }
 
   #description {
-    color: @mainContrast;
+    color: @textColor;
     font-size: 13px;
     margin-left: 6px;
 
@@ -35,7 +31,7 @@
   }
 
   #review-form {
-    background: @whiteSmoke; 
+    background: @formFill; 
     margin: 15px 0;
     padding: 10px; 
     .RoundedCorners(5px);
@@ -64,7 +60,7 @@
   }
 
   .review-context {
-    background: @reviewFill;
+    background: @contrastFill;
     font-size: 15px;
     padding: 10px;
   }
@@ -74,7 +70,7 @@
   }
 
   .review-meta {
-    color: @lightGray;
+    color: @metaColor;
     margin: 10px 10px 10px 130px;
   }
 }
@@ -131,7 +127,7 @@
               .RoundedTopCorners(3px);
 
               span {
-                background: @leaflet;
+                background: @contrastFill;
                 left: -5px;
                 display: none;
                 margin: 0 5px;
