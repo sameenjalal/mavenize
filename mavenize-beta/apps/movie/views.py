@@ -6,7 +6,7 @@ from django.db import transaction, IntegrityError
 from django.db.models import Q
 
 from movie.models import Movie
-from review.models import Agree
+from review.models import Agree, ReviewForm
 from social_graph.models import Forward
 
 @login_required
@@ -50,6 +50,7 @@ def profile(request, title):
             'global_reviews': reviews.exclude(
                     user__in=global_exclude
                 ).exclude(agree__giver__in=global_exclude),
+            'form': ReviewForm(),
             'links': movie.item.link_set.all(),
         }
     except:

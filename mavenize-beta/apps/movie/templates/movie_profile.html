@@ -31,10 +31,25 @@
       <section id="review-form">
         <form class="form-horizontal" action="/" method="POST">
           {% csrf_token %}
-          <input id="review-text" type="text" placeholder="Tell us what you thought..."/>
+          {{ form.text }}
+          <div id="review-rating" class="btn-group" data-toggle="buttons-radio">
+            <button class="btn" type="button" name="rating" value="1">
+              <img src="{{ STATIC_URL }}img/1s.png" />
+            </button>
+            <button class="btn" type="button" name="rating" value="2">
+              <img src="{{ STATIC_URL }}img/2s.png" />
+            </button>
+            <button class="btn" type="button" name="rating" value="3">
+              <img src="{{ STATIC_URL }}img/3s.png" />
+            </button>
+            <button class="btn" type="button" name="rating" value="4">
+              <img src="{{ STATIC_URL }}img/4s.png" />
+            </button>
+          </div>
           <button id="review-submit" class="btn btn-large btn-primary" type="submit" name="submit">
             Rave
           </button>
+          <div style="clear: both;"></div>
         </form>
       </section>
       <section id="reviews">
@@ -95,19 +110,19 @@
           <thead>
             <tr>
               <td>&nbsp;</td>
-              <th scope="col">four</th>
-              <th scope="col">three</th>
-              <th scope="col">two</th>
               <th scope="col">one</th>
+              <th scope="col">two</th>
+              <th scope="col">three</th>
+              <th scope="col">four</th>
             </tr>
           </thead>
           <tbody>
             <tr>
               <th scope="row">Rating</th>
-              <td>{{ movie.item.four_star }}</td>
-              <td>{{ movie.item.three_star }}</td>
-              <td>{{ movie.item.two_star }}</td>
               <td>{{ movie.item.one_star }}</td>
+              <td>{{ movie.item.two_star }}</td>
+              <td>{{ movie.item.three_star }}</td>
+              <td>{{ movie.item.four_star }}</td>
             </tr>
           </tbody>
           </table>
@@ -132,5 +147,12 @@
 {% endblock %}
 
 {% block js %}
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#review-rating').button();
+      $('#review-text').elastic();
+    });
+  </script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/ratingGraph.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.elastic.min.js"></script>
 {% endblock %}

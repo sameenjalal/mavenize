@@ -4,6 +4,7 @@
     {% thumbnail activity.sender.userprofile.avatar "100x100" crop="center" as im %}
     <img src="{{ im.url }}" width="{{ im.width }}" height="{{ im.height }}" />
     {% endthumbnail %}
+    <img src="{{ STATIC_URL }}img/{{ activity.target_object.rating }}l.png" />
   </div>
   <div class="item-thumbnail pull-right">
     <a class="thumbnail span2" href="{% url movie.views.profile activity.target_object.item.movie.url %}">

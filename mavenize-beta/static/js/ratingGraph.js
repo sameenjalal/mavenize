@@ -80,8 +80,8 @@ $(document).ready(function() {
     var xLegend = tableData.xLegend();
     var xAxisList = $('<ul class="x-axis"></ul>');
     $.each(xLegend, function(i) {
-      var listItem = $('<li><span>' + this +
-          '</span></li>').appendTo(xAxisList);
+      var listItem = $('<li id="rating-' + this + '">' + this +
+          '</li>').appendTo(xAxisList);
     });
     xAxisList.appendTo(graphContainer);
 

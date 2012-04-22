@@ -3,7 +3,7 @@ from django.contrib.auth.models import User
 from django.db.models.signals import post_save, post_delete
 from django.dispatch import receiver
 from django.db.models import F
-from django.forms import ModelForm
+from django import forms
 
 from item.models import Item
 from activity_feed.models import Activity
@@ -29,8 +29,15 @@ class Review(models.Model):
         return "%s reviewing Item #%s" % (self.user.get_full_name(),
             self.item.id)
 
-class ReviewForm(ModelForm):
-    pass
+class ReviewForm(forms.ModelForm):
+    text = forms.CharField(widget=forms.Textarea(attrs={
+            'id': 'review-text',
+            'placeholder': 'Tell us what you thought...',
+            'rows': 1,
+        }))
+
+    class Meta:
+        model = Review
 
 class Agree(models.Model):
     giver = models.ForeignKey(User)
