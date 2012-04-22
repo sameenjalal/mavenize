@@ -2,10 +2,13 @@ from django.shortcuts import render_to_response
 from django.http import Http404
 from django.template import RequestContext
 from django.contrib.auth.decorators import login_required
+from django.db import transaction, IntegrityError
 from django.db.models import Q
 
 from movie.models import Movie
+from review.models import Agree
 from social_graph.models import Forward
+
 @login_required
 def profile(request, title):
     try:
@@ -18,6 +21,19 @@ def profile(request, title):
         global_exclude = friends + [me]
         reviews = movie.item.review_set.select_related(
             'user', 'user__userprofile').all()
+        try:
+            sp = transaction.savepoint()
+            friend_agrees = Agree.objects.select_related(
+                'review','review__user').filter(giver__in=friends) \
+                                        .exclude(review__user=me) \
+                                        .exclude(giver=me) \
+                                        .order_by('review') \
+                                        .distinct('review')
+            transaction.savepoint_commit(sp)
+        except IntegrityError:
+            transaction.savepoint_rollback(sp)
+            friend_agrees = []
+
         context = {
             'movie': movie,
             'actors': movie.actors.all(),
@@ -27,11 +43,10 @@ def profile(request, title):
                     'user', 'user__userprofile').filter(
                         user__in=friends),
             'my_reviews': reviews.filter(
-                    Q(user=me) | Q(agree__giver=me)),
+                Q(user=me) | Q(agree__giver=me) | Q(thank__giver=me)),
             'friend_reviews': reviews.filter(
-                    Q(user__in=friends) |
-                    Q(agree__giver__in=friends)
-                ).exclude(user=me).exclude(agree__giver=me),
+                user__in=friends).exclude(user=me, agree__giver=me),
+            'friend_agrees': friend_agrees, 
             'global_reviews': reviews.exclude(
                     user__in=global_exclude
                 ).exclude(agree__giver__in=global_exclude),

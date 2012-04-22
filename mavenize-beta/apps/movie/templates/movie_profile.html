@@ -40,7 +40,7 @@
       <section id="reviews">
         <div id="my-reviews" class="module-container">
         {% if my_reviews %}
-          <h3 class="heading">handpicked by yours truly</h3>
+          <h3 class="heading">Chosen by Yours Truly</h3>
           <ul class="unstyled">
           {% for review in my_reviews %}
             {% include "movie_review.html" %}
@@ -50,7 +50,7 @@
         </div>
         <div id="friend-reviews" class="review-container">
         {% if friend_reviews %}
-          <h3 class="heading">chosen by your most trusted friends</h3>
+          <h3 class="heading">From the Hearts of Your Confidants</h3>
           <ul class="unstyled">
           {% for review in friend_reviews %}
             {% include "movie_review.html" %}
@@ -61,10 +61,10 @@
         <div id="friend-agrees" class="review-container">
         {% if friend_agrees %}
           <h3 class="heading">
-            handpicked by your most trusted friends
+            Handpicked by Those You Trust
           </h3>
           <ul class="unstyled">
-          {% for review in friend_agrees %}
+          {% for agree in friend_agrees %}
             {% include "movie_agree.html" %}
           {% endfor %}
           </ul>
@@ -73,7 +73,7 @@
         <div id="global-reviews" class="review-container">
         {% if global_reviews %}
           <h3 class="heading">
-            ...and the rest of the best
+            The Rest of the Best
           </h3>
           <ul class="unstyled">
           {% for review in global_reviews %}
@@ -90,22 +90,20 @@
       </div>
       <div id="chart-wrapper" class="module-container border">
         <div id="rating-chart">
-          <h3 class="heading">ratings</h3>
+          <h3 class="heading">Ratings</h3>
           <table id="rating-table" class="table table-striped">
           <thead>
             <tr>
               <td>&nbsp;</td>
-              <th scope="col">5</th>
-              <th scope="col">4</th>
-              <th scope="col">3</th>
-              <th scope="col">2</th>
-              <th scope="col">1</th>
+              <th scope="col">four</th>
+              <th scope="col">three</th>
+              <th scope="col">two</th>
+              <th scope="col">one</th>
             </tr>
           </thead>
           <tbody>
             <tr>
               <th scope="row">Rating</th>
-              <td>{{ movie.item.five_star }}</td>
               <td>{{ movie.item.four_star }}</td>
               <td>{{ movie.item.three_star }}</td>
               <td>{{ movie.item.two_star }}</td>
@@ -116,7 +114,7 @@
         </div>
       </div>
       <div id="friend-bookmarks" class="module-container border">
-        <h3 class="heading">watch it!</h3>
+        <h3 class="heading">Watch It!</h3>
         <ul id="bookmarks">
           {% for bookmark in friend_bookmarks %}
             <div class="user">
