@@ -31,13 +31,12 @@ class Item(models.Model):
         return self._popularity_cache
 
     def get_rating(self):
-        return (self.five_star*5 + self.four_star*4 +
-                self.three_star*3 + self.two_star*2 +
-                self.one_star) / self.get_votes()
+        return (self.four_star*4 + self.three_star*3 + 
+                self.two_star*2 + self.one_star) / self.get_votes()
 
     def get_votes(self):
-        return self.five_star + self.four_star + \
-            self.three_star + self.two_star + self.one_star
+        return (self.four_star + self.three_star + self.two_star +
+            self.one_star)
 
 class Link(models.Model):
     item = models.ForeignKey(Item)
