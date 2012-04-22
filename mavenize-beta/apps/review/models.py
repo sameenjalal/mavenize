@@ -3,6 +3,7 @@ from django.contrib.auth.models import User
 from django.db.models.signals import post_save, post_delete
 from django.dispatch import receiver
 from django.db.models import F
+from django.forms import ModelForm
 
 from item.models import Item
 from activity_feed.models import Activity
@@ -13,7 +14,7 @@ from user_profile.models import UserStatistics
 import datetime as dt
 
 class Review(models.Model):
-    RATING_CHOICES = [(i,i) for i in range(1,6)] 
+    RATING_CHOICES = [(i,i) for i in range(1,5)] 
 
     user = models.ForeignKey(User)
     item = models.ForeignKey(Item)
@@ -28,13 +29,16 @@ class Review(models.Model):
         return "%s reviewing Item #%s" % (self.user.get_full_name(),
             self.item.id)
 
+class ReviewForm(ModelForm):
+    pass
+
 class Agree(models.Model):
     giver = models.ForeignKey(User)
     review = models.ForeignKey(Review)
     created_at = models.DateTimeField(auto_now_add=True)
 
     def __unicode__(self):
-        return "%s agreeing with Review #:%s" % \
+        return "%s agreeing with Review #%s" % \
             (self.giver.get_full_name(), self.review.id)
 
 class Thank(models.Model):
@@ -43,7 +47,7 @@ class Thank(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
 
     def __unicode__(self):
-        return "%s thanking Review #:%s" % \
+        return "%s thanking Review #%s" % \
             (self.giver.get_full_name(), self.review.id)
 
 @receiver(post_save, sender=Review)
@@ -67,7 +71,7 @@ def create_review(sender, instance, created, **kwargs):
         )
         UserStatistics.objects.filter(pk=instance.user_id).update(
                 reviews=F('reviews')+1, karma=F('karma')+5)
-        rating_choices = ['one', 'two', 'three', 'four', 'five']
+        rating_choices = ['one', 'two', 'three', 'four']
         rating = rating_choices[instance.rating-1] + '_star'
         fields = { rating: F(rating)+1, 'reviews': F('reviews')+1 }
         Item.objects.filter(pk=instance.item_id).update(**fields)
@@ -102,7 +106,7 @@ def delete_review(sender, instance, **kwargs):
 
     UserStatistics.objects.filter(pk__exact=instance.user_id).update(
             reviews=F('reviews')-1, karma=F('karma')-5)
-    rating_choices = ['one', 'two', 'three', 'four', 'five']
+    rating_choices = ['one', 'two', 'three', 'four']
     rating = rating_choices[instance.rating-1] + '_star'
     fields = { rating: F(rating)-1, 'reviews': F('reviews')-1 }
     Item.objects.filter(pk=instance.item_id).update(**fields)
@@ -149,7 +153,7 @@ def create_agree(sender, instance, created, **kwargs):
                 agrees=F('agrees')+1)
         reviews = Review.objects.filter(user=instance.giver_id).count()
         if reviews == 0:
-            rating_choices = ['one', 'two', 'three', 'four', 'five']
+            rating_choices = ['one', 'two', 'three', 'four']
             rating = rating_choices[instance.review.rating-1] + '_star'
             fields = { rating: F(rating)+1 }
             Item.objects.filter(pk=instance.review.item_id).update(
@@ -210,7 +214,7 @@ def delete_agree(sender, instance, **kwargs):
                     giver=instance.giver_id).order_by('-created_at')
             if (not remaining or 
                         remaining[0].created_at < instance.created_at):
-                rating_choices = ['one', 'two', 'three', 'four', 'five']
+                rating_choices = ['one', 'two', 'three', 'four']
                 rating = (rating_choices[instance.review.rating-1] +
                     '_star')
                 fields = { rating: F(rating)-1 }

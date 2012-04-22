@@ -6,7 +6,6 @@ from django.core.exceptions import ObjectDoesNotExist
 
 class Item(models.Model):
     item_type = models.CharField(max_length=30, default="")
-    five_star = models.IntegerField(default=0)
     four_star = models.IntegerField(default=0)
     three_star = models.IntegerField(default=0)
     two_star = models.IntegerField(default=0)
