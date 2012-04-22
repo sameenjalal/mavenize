@@ -15,7 +15,7 @@ $(document).ready(function() {
     var barTimer;
     var graphTimer;
   
-    var tableData {
+    var tableData = {
       chartData: function() {
         var chartData = [];
         data.find('tbody td').each(function() {
@@ -23,17 +23,10 @@ $(document).ready(function() {
         });
         return chartData;
       },
-      chartLegend: function () {
-        var chartLegend = [];
-        data.find('tbody th').each(function() {
-          charLegend.push($(this).text());
-        });
-        return chartLegend;
-      },
       chartYMax: function() {
         var chartData = this.chartData();
         var chartYMax = Math.ceil(Math.max.apply(Math, chartData)
-            / 1000) * 1000;
+            );
         return chartYMax;
       },
       yLegend: function() {
@@ -41,8 +34,7 @@ $(document).ready(function() {
         var yLegend = []
         var yAxisMarkings = 5;
         for (var i = 0; i < yAxisMarkings; i++) {
-          yLegend.unshift(((chartYMax * i) /
-              (yAxisMarkings - 1)) / 1000);
+          yLegend.unshift((chartYMax * i) / (yAxisMarkings - 1));
         }
         return yLegend;
       },
@@ -51,6 +43,8 @@ $(document).ready(function() {
         data.find('thead th').each(function() {
           xLegend.push($(this).text());
         });
+
+        return xLegend;
       },
       columnGroups: function() {
         var columnGroups = [];
@@ -71,11 +65,11 @@ $(document).ready(function() {
 
     $.each(columnGroups, function(i) {
       var barGroup = $('<div class="bar-group"></div>');
-      for (var j = 0; k = columnGroups[i].length; j < k; j++) {
+      for (var j = 0, k = columnGroups[i].length; j < k; j++) {
         var barObj = {};
         barObj.label = this[j];
         barObj.height = Math.floor(barObj.label 
-            / chartYMax * 100) + '%';
+            / chartYMax * 100)+ 3 + '%';
         barObj.bar = $('<div class="bar fig' + j + '"><span>'
             + barObj.label + '</span></div>').appendTo(barGroup);
         bars.push(barObj);
@@ -83,14 +77,6 @@ $(document).ready(function() {
       barGroup.appendTo(barContainer);
     });
 
-    var chartLegend = tableData.chartLegend();
-    var legendList = $('<ul class="legend"></ul>');
-    $.each(chartLegend, function(i) {
-      var listItem = $('<li><span class="icon fig' + i + '"</span>'
-          + this + '</li>').appendTo(legendList);
-    });
-    legendList.appendTo(figureContainer);
-    
     var xLegend = tableData.xLegend();
     var xAxisList = $('<ul class="x-axis"></ul>');
     $.each(xLegend, function(i) {
@@ -111,7 +97,7 @@ $(document).ready(function() {
     graphContainer.appendTo(figureContainer);
     figureContainer.appendTo(container);
 
-    function displayGraph(bars) {
+    function displayGraph(bars, i) {
       if (i < bars.length) {
         $(bars[i].bar).animate({
           height: bars[i].height
