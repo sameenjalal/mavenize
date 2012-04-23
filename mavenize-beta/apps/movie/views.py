@@ -52,6 +52,7 @@ def profile(request, title):
                 ).exclude(agree__giver__in=global_exclude),
             'form': ReviewForm(),
             'links': movie.item.link_set.all(),
+            'has_reviewed': reviews.filter(user=me).count()
         }
     except:
         raise Http404

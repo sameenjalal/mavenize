@@ -2,7 +2,7 @@ from django.shortcuts import redirect, get_object_or_404
 from django.contrib.auth.decorators import login_required
 from django.db.models import get_model
 
-from review.models import ReviewForm
+from review.models import Review, ReviewForm
 
 @login_required
 def review(request, title, app, model):
@@ -18,7 +18,9 @@ def review(request, title, app, model):
             'thanks': 0
         }
         form = ReviewForm(review)
-        if form.is_valid():
+        if (form.is_valid() and not
+                Review.objects.filter(user=review['user'],
+                                      item=review['item'])):
             form.save()
     
     return redirect(request.META.get('HTTP_REFERER', None))

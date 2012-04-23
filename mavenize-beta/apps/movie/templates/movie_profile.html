@@ -28,6 +28,7 @@
           Director{{ directors|pluralize }}: {{ directors|join:", " }}
         </p>
       </section>
+      {% if not has_reviewed %}
       <section id="review-form">
         <form class="form-horizontal" action="review/" method="POST">
           {% csrf_token %}
@@ -52,6 +53,7 @@
           <div style="clear: both;"></div>
         </form>
       </section>
+      {% endif %}
       <section id="reviews">
         <div id="my-reviews" class="module-container">
         {% if my_reviews %}
@@ -63,7 +65,7 @@
           </ul>
         {% endif %}
         </div>
-        <div id="friend-reviews" class="review-container">
+        <div id="friend-reviews" class="module-container">
         {% if friend_reviews %}
           <h3 class="heading">From the Hearts of Your Confidants</h3>
           <ul class="unstyled">
@@ -73,7 +75,7 @@
           </ul>
         {% endif %}
         </div>
-        <div id="friend-agrees" class="review-container">
+        <div id="friend-agrees" class="module-container">
         {% if friend_agrees %}
           <h3 class="heading">
             Handpicked by Those You Trust
@@ -85,7 +87,7 @@
           </ul>
         {% endif %}
         </div>
-        <div id="global-reviews" class="review-container">
+        <div id="global-reviews" class="module-container">
         {% if global_reviews %}
           <h3 class="heading">
             The Rest of the Best
