@@ -29,7 +29,7 @@
         </p>
       </section>
       <section id="review-form">
-        <form class="form-horizontal" action="/" method="POST">
+        <form class="form-horizontal" action="review/" method="POST">
           {% csrf_token %}
           {{ form.text }}
           <div id="review-rating" class="btn-group" data-toggle="buttons-radio">
@@ -46,7 +46,7 @@
               <img src="{{ STATIC_URL }}img/4s.png" />
             </button>
           </div>
-          <button id="review-submit" class="btn btn-large btn-primary" type="submit" name="submit">
+          <button id="review-submit" class="btn btn-large btn-primary disabled" type="submit" name="rating" value="0" disabled="true">
             Rave
           </button>
           <div style="clear: both;"></div>
@@ -149,10 +149,10 @@
 {% block js %}
   <script type="text/javascript">
     $(document).ready(function() {
-      $('#review-rating').button();
       $('#review-text').elastic();
     });
   </script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/submitReview.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/ratingGraph.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.elastic.min.js"></script>
 {% endblock %}

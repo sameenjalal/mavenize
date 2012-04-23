@@ -32,7 +32,7 @@ class Review(models.Model):
 class ReviewForm(forms.ModelForm):
     text = forms.CharField(widget=forms.Textarea(attrs={
             'id': 'review-text',
-            'placeholder': 'Tell us what you thought...',
+            'placeholder': 'Tell us what you thought, choose a rating, and rave!',
             'rows': 1,
         }))
 

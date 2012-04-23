@@ -10,6 +10,8 @@ nexus.autodiscover()
 urlpatterns = patterns('',
     url(r'^$', 'activity_feed.views.index'),
     url(r'^movies/(?P<title>[-\w]+)/$', 'movie.views.profile'),
+    url(r'^movies/(?P<title>[-\w]+)/review/$', 'review.views.review',
+        {'app': 'movie', 'model': 'movie'}),
 )
 
 urlpatterns += patterns('django.views.generic.simple',
