@@ -51,6 +51,7 @@ class Agree(models.Model):
 class Thank(models.Model):
     giver = models.ForeignKey(User)
     review = models.ForeignKey(Review)
+    note = models.TextField()
     created_at = models.DateTimeField(auto_now_add=True)
 
     def __unicode__(self):
