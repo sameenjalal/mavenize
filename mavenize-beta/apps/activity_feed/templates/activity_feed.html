@@ -67,6 +67,8 @@
                 <td><a href="#">{{ leader.get_full_name }}</a></td>
                 <td class="karma">{{ score }}</td>
               </tr>
+            {% empty %}
+              <p class="empty-message">Bring on the competition!</p>
             {% endfor %}
             </tbody>
           </table>
@@ -86,6 +88,8 @@
                 <td><a href="#">{{ leader.get_full_name }}</a></td>
                 <td class="karma">{{ score }}</td>
               </tr>
+            {% empty %}
+              <p class="empty-message">No love recently? Get raving!</p>
             {% endfor %}
             </tbody>
           </table>

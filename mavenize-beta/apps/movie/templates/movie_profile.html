@@ -108,6 +108,7 @@
       <div id="chart-wrapper" class="module-container border">
         <div id="rating-chart">
           <h3 class="heading">Ratings</h3>
+          {% if movie.item.get_votes %}
           <table id="rating-table" class="table table-striped">
           <thead>
             <tr>
@@ -128,6 +129,9 @@
             </tr>
           </tbody>
           </table>
+          {% else %}
+            <p class="empty-message">Be the first to cast your vote!</p>
+          {% endif %}
         </div>
       </div>
       <div id="friend-bookmarks" class="module-container border">
@@ -140,6 +144,8 @@
               <a href="#">{{ bookmark.user.get_full_name }}</a>
             </span>
             </div>
+          {% empty %}
+            <p class="empty-message">Show them who's boss! Mark your territory first!</p>
           {% endfor %}
         </ul>
       </div>
