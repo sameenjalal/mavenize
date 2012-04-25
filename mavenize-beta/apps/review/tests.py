@@ -303,6 +303,9 @@ class TestReview(object):
         nt.assert_equal(after_agree.two_star,
             after_review_delete.two_star)
 
+        self.agree.delete()
+        self.writer_review.delete()
+
     def teardown(self):
         self.writer.delete()
         self.giver.delete()
