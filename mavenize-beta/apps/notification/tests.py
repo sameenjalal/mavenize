@@ -23,9 +23,9 @@ class TestNotification(object):
         # Tests that the recipient is the writer of the review 
         nt.assert_equal(self.notification.recipient_id,
             self.writer.id)
-        # Tests that the notice object is the review
+        # Tests that the notice object is the agree
         nt.assert_equal(self.notification.notice_object,
-            self.review)
+            self.agree)
 
         self.agree.delete()
 
@@ -44,9 +44,9 @@ class TestNotification(object):
         # Tests that the recipient is the writer of the review
         nt.assert_equal(self.notification.recipient_id,
             self.writer.id)
-        # Tests that the notice object is the review
+        # Tests that the notice object is the thank
         nt.assert_equal(self.notification.notice_object,
-            self.review)
+            self.thanks)
 
         self.thanks.delete()
 
