@@ -6,12 +6,10 @@ from django.db.models import F
 from django import forms
 
 from item.models import Item
-from activity_feed.models import Activity
-from leaderboard.models import KarmaAction
-from notification.models import Notification
-from user_profile.models import UserStatistics
 
 import datetime as dt
+import api
+import utils
 
 class Review(models.Model):
     RATING_CHOICES = [(i,i) for i in range(1,5)] 
@@ -67,63 +65,82 @@ def create_review(sender, instance, created, **kwargs):
     Increment the item's ratings by the review's rating.
     """
     if created:
-        Activity.objects.create(
-            sender=instance.user,
+        api.queue_activity(
+            sender_id=instance.user_id, 
             verb="raved about",
-            target_object=instance
+            model_name="review",
+            obj_id=instance.pk
         )
-        KarmaAction.objects.create(
-            recipient=instance.user,
-            giver=instance.user,
+        api.add_karma_action(
+            recipient_id=instance.user_id,
+            giver_id=instance.user_id,
             karma=5
         )
-        UserStatistics.objects.filter(pk=instance.user_id).update(
-                reviews=F('reviews')+1, karma=F('karma')+5)
-        rating_choices = ['one', 'two', 'three', 'four']
-        rating = rating_choices[instance.rating-1] + '_star'
-        fields = { rating: F(rating)+1, 'reviews': F('reviews')+1 }
-        Item.objects.filter(pk=instance.item_id).update(**fields)
-        agrees = Agree.objects.filter(
-                giver=instance.user_id).order_by('created_at')
+        api.update_statistics(
+            model_name="userstatistics",
+            obj_id=instance.user_id,
+            reviews=1,
+            karma=5
+        )
+        rating = utils.get_rating_field(instance.rating)
+        api.update_statistics(
+                model_name="item",
+                obj_id=instance.item_id,
+                **{ rating: 1, 'reviews': 1 }
+        )
+        agrees = api.filter_then_order_by(
+            model_name="agree",
+            order_criteria="-created_at",
+            giver=instance.user_id,
+            review__item=instance.item_id
+        )
         if agrees:
-            rating = rating_choices[agrees[0].review.rating-1] + '_star'
-            fields = { rating: F(rating)-1 }
-            Item.objects.filter(pk=instance.item_id).update(**fields)
+            rating = utils.get_rating_field(agrees[0].review.rating)
+            api.update_statistics(
+                model_name="item",
+                obj_id=instance.item_id,
+                **{ rating: -1}
+            )
             
 
 @receiver(post_delete, sender=Review)
 def delete_review(sender, instance, **kwargs):
     """
+    Deletes all related activities, agrees, and thanks.
     Undo the updates when the review was created.
     """
-    try:
-        Activity.objects.get(
-            sender=instance.user,
-            verb="raved about",
-            object_id=instance.id
-        ).delete()
-        KarmaAction.objects.filter(
-            recipient=instance.user,
-            giver=instance.user,
-            karma=5,
-            created_at__range=(instance.created_at,
-                               instance.created_at+dt.timedelta(hours=1))
-        )[0].delete()
-    except:
-        pass
-
-    UserStatistics.objects.filter(pk__exact=instance.user_id).update(
-            reviews=F('reviews')-1, karma=F('karma')-5)
-    rating_choices = ['one', 'two', 'three', 'four']
-    rating = rating_choices[instance.rating-1] + '_star'
-    fields = { rating: F(rating)-1, 'reviews': F('reviews')-1 }
-    Item.objects.filter(pk=instance.item_id).update(**fields)
-    agrees = Agree.objects.filter(
-            giver=instance.user_id).order_by('created_at')
+    api.filter_then_delete(
+        model_name="activity",
+        content_type=api.get_content_type("review"),
+        object_id=instance.pk
+    )
+    api.filter_then_delete(model_name="agree", review=instance.pk)
+    api.filter_then_delete(model_name="thank", review=instance.pk)
+    api.update_statistics(
+        model_name="userstatistics",
+        obj_id=instance.user_id,
+        reviews=-1,
+        karma=-5
+    )
+    rating = utils.get_rating_field(instance.rating)
+    api.update_statistics(
+        model_name="item",
+        obj_id=instance.item_id,
+        **{ rating: -1, 'reviews': -1 }
+    )
+    agrees = api.filter_then_order_by(
+        model_name="agree",
+        order_criteria="-created_at",
+        giver=instance.user_id,
+        review__item=instance.item_id
+    )
     if agrees:
-        rating = rating_choices[agrees[0].review.rating-1] + '_star'
-        fields = { rating: F(rating)+1 }
-        Item.objects.filter(pk=instance.item_id).update(**fields)
+        rating = utils.get_rating_field(agrees[0].review.rating)
+        api.update_statistics(
+            model_name="item",
+            obj_id=instance.item_id,
+            **{ rating: 1 }
+        )
 
 @receiver(post_save, sender=Agree)
 def create_agree(sender, instance, created, **kwargs):
@@ -135,106 +152,149 @@ def create_agree(sender, instance, created, **kwargs):
     Increment the item's rating count by one.
     """
     if created:
-        Activity.objects.create(
-            sender=instance.giver,
+        api.queue_activity(
+            sender_id=instance.giver_id,
             verb="re-raved",
-            target_object=instance.review
+            model_name="review",
+            obj_id=instance.review_id
         )
-        Notification.objects.create(
+        api.queue_notification(
             sender_id=instance.giver_id,
             recipient_id=instance.review.user_id,
-            notice_object=instance.review
+            model_name="agree",
+            obj_id=instance.pk
         )
-        KarmaAction.objects.bulk_create([
-            KarmaAction(recipient=instance.review.user,
-                        giver=instance.giver,
-                        karma=2),
-            KarmaAction(recipient=instance.giver,
-                        giver=instance.giver,
-                        karma=1)
-        ])
-        UserStatistics.objects.filter(pk=instance.giver_id).update(
-                agrees_out=F('agrees_out')+1, karma=F('karma')+1)
-        UserStatistics.objects.filter(pk=instance.review.user_id).update(
-                agrees_in=F('agrees_in')+1, karma=F('karma')+2)
-        Review.objects.filter(pk=instance.review_id).update(
-                agrees=F('agrees')+1)
-        reviews = Review.objects.filter(user=instance.giver_id).count()
+        api.add_karma_action(
+            recipient_id=instance.review.user_id,
+            giver_id=instance.giver_id,
+            karma=2
+        )
+        api.add_karma_action(
+            recipient_id=instance.giver_id,
+            giver_id=instance.giver_id,
+            karma=1
+        )
+        api.update_statistics(
+            model_name="userstatistics",
+            obj_id=instance.giver_id,
+            agrees_out=1,
+            karma=1
+        )
+        api.update_statistics(
+            model_name="userstatistics",
+            obj_id=instance.review.user_id,
+            agrees_in=1,
+            karma=2
+        )
+        api.update_statistics(
+            model_name="review",
+            obj_id=instance.review_id,
+            agrees=1
+        )
+        reviews = api.filter_then_count(
+            model_name="review",
+            user=instance.giver_id,
+            item=instance.review.item_id
+        )
         if reviews == 0:
-            rating_choices = ['one', 'two', 'three', 'four']
-            rating = rating_choices[instance.review.rating-1] + '_star'
-            fields = { rating: F(rating)+1 }
-            Item.objects.filter(pk=instance.review.item_id).update(
-                **fields)
-            old_agree = Agree.objects.filter(giver=instance.giver_id) \
-                                     .exclude(pk=instance.pk) \
-                                     .order_by('-created_at')
-            if old_agree:
-                rating = (rating_choices[old_agree[0].review.rating-1] +
-                    '_star')
-                fields = { rating: F(rating)-1 }
-                Item.objects.filter(pk=instance.review.item_id).update(
-                    **fields)
+            rating = utils.get_rating_field(instance.review.rating)
+            api.update_statistics(
+                model_name="item",
+                obj_id=instance.review.item_id,
+                **{ rating: 1}
+            )
+            old_agrees = api.filter_excluding_me_then_order_by(
+                model_name="agree",
+                obj_id=instance.pk,
+                order_criteria="-created_at",
+                giver=instance.giver_id,
+                review__item=instance.review.item_id
+            )
+            if old_agrees:
+                rating = utils.get_rating_field(
+                                old_agrees[0].review.rating)
+                api.update_statistics(
+                    model_name="item",
+                    obj_id=instance.review.item_id,
+                    **{ rating: -1 }
+                )
 
 @receiver(post_delete, sender=Agree)
 def delete_agree(sender, instance, **kwargs):
     """
     Undo the updates when the agree was created.
     """
-    try:
-        Activity.objects.get(
-            sender=instance.giver,
-            verb="re-raved",
-            object_id=instance.review.id
-        ).delete()
-        Notification.objects.get(
-            sender_id=instance.giver_id,
-            recipient_id=instance.review.user_id,
-            object_id=instance.review.id
-        ).delete()
-        KarmaAction.objects.filter(
-            recipient=instance.review.user,
-            giver=instance.giver,
-            karma=2,
-            created_at__range=(instance.created_at,
-                               instance.created_at+dt.timedelta(hours=1))
-        )[0].delete()
-        KarmaAction.objects.filter(
-            recipient=instance.giver,
-            giver=instance.giver,
-            karma=1,
-            created_at__range=(instance.created_at,
-                               instance.created_at+dt.timedelta(hours=1))
-        )[0].delete()
-    except:
-        pass
-
-    try:
-        UserStatistics.objects.filter(pk=instance.giver_id).update(
-                agrees_out=F('agrees_out')-1, karma=F('karma')-1)
-        UserStatistics.objects.filter(pk=instance.review.user_id).update(
-                agrees_in=F('agrees_in')-1, karma=F('karma')-2)
-        Review.objects.filter(pk=instance.review_id).update(
-                agrees=F('agrees')-1)
-        reviews = Review.objects.filter(user=instance.giver_id).count()
-        if reviews == 0:
-            remaining = Agree.objects.filter(
-                    giver=instance.giver_id).order_by('-created_at')
-            if (not remaining or 
-                        remaining[0].created_at < instance.created_at):
-                rating_choices = ['one', 'two', 'three', 'four']
-                rating = (rating_choices[instance.review.rating-1] +
-                    '_star')
-                fields = { rating: F(rating)-1 }
-                Item.objects.filter(pk=instance.review.item_id).update(
-                    **fields)
-                rating = (rating_choices[remaining[0].review.rating-1] +
-                    '_star')
-                fields = { rating: F(rating)+1 }
-                Item.objects.filter(pk=instance.review.item_id).update(
-                    **fields)
-    except:
-        pass
+    api.remove_activity(
+        sender_id=instance.giver_id,
+        verb="re-raved",
+        model_name="review",
+        obj_id=instance.review_id
+    )
+    api.remove_notification(
+        sender_id=instance.giver_id,
+        recipient_id=instance.review.user_id,
+        model_name="agree",
+        obj_id=instance.pk
+    )
+    api.remove_karma_action(
+        recipient_id=instance.review.user_id,
+        giver_id=instance.giver_id,
+        karma=2,
+        time_range=(instance.created_at,
+                    instance.created_at+dt.timedelta(hours=1))
+    )
+    api.remove_karma_action(
+        recipient_id=instance.giver_id,
+        giver_id=instance.giver_id,
+        karma=1,
+        time_range=(instance.created_at,
+                    instance.created_at+dt.timedelta(hours=1))
+    )
+    api.update_statistics(
+       model_name="userstatistics",
+       obj_id=instance.giver_id,
+       agrees_out=-1,
+       karma=-1
+    )
+    api.update_statistics(
+        model_name="userstatistics",
+        obj_id=instance.review.user_id,
+        agrees_in=-1,
+        karma=-2
+    )
+    api.update_statistics(
+        model_name="review",
+        obj_id=instance.review_id,
+        agrees=-1
+    )
+    reviews = api.filter_then_count(
+        model_name="review",
+        user=instance.giver_id,
+        item=instance.review.item_id
+    )
+    if reviews == 0:
+        remaining = api.filter_then_order_by(
+            model_name="agree",
+            order_criteria="-created_at",
+            giver=instance.giver_id,
+            review__item=instance.review.item_id
+        )
+        if (not remaining or 
+                    remaining[0].created_at < instance.created_at):
+            old_rating = utils.get_rating_field(instance.review.rating)
+            api.update_statistics(
+                model_name="item",
+                obj_id=instance.review.item_id,
+                **{ old_rating: -1 }
+            )
+            if remaining:
+                new_rating = utils.get_rating_field(
+                    remaining[0].review.rating)
+                api.update_statistics(
+                    model_name="item",
+                    obj_id=instance.review.item_id,
+                    **{ new_rating: 1 }
+                )
 
 @receiver(post_save, sender=Thank)
 def create_thank(sender, instance, created, **kwargs):
@@ -245,50 +305,65 @@ def create_thank(sender, instance, created, **kwargs):
     Increment the receiver's thanks by one and karma by two.
     """
     if created:
-        Notification.objects.create(
+        api.queue_notification(
             sender_id=instance.giver_id,
             recipient_id=instance.review.user_id,
-            notice_object=instance.review
+            model_name="thank",
+            obj_id=instance.pk
         )
-        KarmaAction.objects.create(
-            recipient=instance.review.user,
-            giver=instance.giver,
+        api.add_karma_action(
+            recipient_id=instance.review.user_id,
+            giver_id=instance.giver_id,
             karma=1
         )
-        UserStatistics.objects.filter(pk=instance.giver_id).update(
-                thanks_out=F('thanks_out')+1)
-        UserStatistics.objects.filter(pk=instance.review.user_id).update(
-                thanks_in=F('thanks_in')+1, karma=F('karma')+1)
-        Review.objects.filter(pk=instance.review_id).update(
-                thanks=F('thanks')+1)
+        api.update_statistics(
+            model_name="userstatistics",
+            obj_id=instance.giver_id,
+            thanks_out=1
+        )
+        api.update_statistics(
+            model_name="userstatistics",
+            obj_id=instance.review.user_id,
+            thanks_in=1,
+            karma=1
+        )
+        api.update_statistics(
+            model_name="review",
+            obj_id=instance.review_id,
+            thanks=1
+        )
 
 @receiver(post_delete, sender=Thank)
 def delete_thank(sender, instance, **kwargs):
     """
     Undo the updates when the thank was created.
     """
-    try:
-        Notification.objects.get(
-            sender_id=instance.giver_id,
-            recipient_id=instance.review.user_id,
-            object_id=instance.review.id
-        ).delete()
-        KarmaAction.objects.filter(
-            recipient=instance.review.user,
-            giver=instance.giver,
-            karma=1,
-            created_at__range=(instance.created_at,
-                               instance.created_at+dt.timedelta(hours=1))
-        )[0].delete()
-    except:
-        pass
-    
-    try:
-        UserStatistics.objects.filter(pk=instance.giver_id).update(
-                thanks_out=F('thanks_out')-1)
-        UserStatistics.objects.filter(pk=instance.review.user_id).update(
-                thanks_in=F('thanks_in')-1, karma=F('karma')-1)
-        Review.objects.filter(pk=instance.review_id).update(
-                thanks=F('thanks')-1)
-    except:
-        pass
+    api.remove_notification(
+        sender_id=instance.giver_id,
+        recipient_id=instance.review.user_id,
+        model_name="thank",
+        obj_id=instance.pk
+    )
+    api.remove_karma_action(
+        recipient_id=instance.review.user_id,
+        giver_id=instance.giver_id,
+        karma=1,
+        time_range=(instance.created_at,
+                    instance.created_at+dt.timedelta(hours=1))
+    )
+    api.update_statistics(
+        model_name="userstatistics",
+        obj_id=instance.giver_id,
+        thanks_out=-1
+    )
+    api.update_statistics(
+        model_name="userstatistics",
+        obj_id=instance.review.user_id,
+        thanks_in=-1,
+        karma=-1
+    )
+    api.update_statistics(
+        model_name="review",
+        obj_id=instance.review_id,
+        thanks=-1
+    )
