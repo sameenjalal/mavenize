@@ -1,4 +1,5 @@
 import os
+import sys
 import logging, logging.handlers
 
 import environment
@@ -155,7 +156,12 @@ del subprocess
 
 DATABASES = {}
 
-if DEPLOYMENT == DeploymentType.PRODUCTION:
+if 'test' in sys.argv:
+    DATABASES['default'] = {
+        'name': 'testdb',
+        'ENGINE': 'django.db.backends.sqlite3'
+    }
+elif DEPLOYMENT == DeploymentType.PRODUCTION:
     DATABASES['default'] = {
         'NAME': 'boilerplate',
         'ENGINE': 'django.db.backends.mysql',
