@@ -11,6 +11,9 @@ import datetime as dt
 import api
 import utils
 
+"""
+Models
+"""
 class Review(models.Model):
     RATING_CHOICES = [(i,i) for i in range(1,5)] 
 
@@ -26,16 +29,6 @@ class Review(models.Model):
     def __unicode__(self):
         return "%s reviewing Item #%s" % (self.user.get_full_name(),
             self.item.id)
-
-class ReviewForm(forms.ModelForm):
-    text = forms.CharField(widget=forms.Textarea(attrs={
-            'id': 'review-text',
-            'placeholder': 'Tell us what you thought, choose a rating, and rave!',
-            'rows': 1,
-        }))
-
-    class Meta:
-        model = Review
 
 class Agree(models.Model):
     giver = models.ForeignKey(User)
@@ -56,6 +49,26 @@ class Thank(models.Model):
         return "%s thanking Review #%s" % \
             (self.giver.get_full_name(), self.review.id)
 
+"""
+Model Forms
+"""
+class ReviewForm(forms.ModelForm):
+    text = forms.CharField(widget=forms.Textarea(attrs={
+            'id': 'review-text',
+            'placeholder': 'Tell us what you thought, choose a rating, and rave!',
+            'rows': 1,
+        }))
+
+    class Meta:
+        model = Review
+
+class ThankForm(forms.ModelForm):
+    class Meta:
+        model = Thank
+
+"""
+Signals
+"""
 @receiver(post_save, sender=Review)
 def create_review(sender, instance, created, **kwargs):
     """

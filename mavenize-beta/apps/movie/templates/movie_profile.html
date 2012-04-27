@@ -30,28 +30,7 @@
       </section>
       {% if not has_reviewed %}
       <section id="review-form">
-        <form class="form-horizontal" action="review/" method="POST">
-          {% csrf_token %}
-          {{ form.text }}
-          <div id="review-rating" class="btn-group" data-toggle="buttons-radio">
-            <button class="btn" type="button" name="rating" value="1">
-              <img src="{{ STATIC_URL }}img/1s.png" />
-            </button>
-            <button class="btn" type="button" name="rating" value="2">
-              <img src="{{ STATIC_URL }}img/2s.png" />
-            </button>
-            <button class="btn" type="button" name="rating" value="3">
-              <img src="{{ STATIC_URL }}img/3s.png" />
-            </button>
-            <button class="btn" type="button" name="rating" value="4">
-              <img src="{{ STATIC_URL }}img/4s.png" />
-            </button>
-          </div>
-          <button id="review-submit" class="btn btn-large btn-primary disabled" type="submit" name="rating" value="0" disabled="true">
-            Rave
-          </button>
-          <div style="clear: both;"></div>
-        </form>
+        {% include "review_form.html" %}
       </section>
       {% endif %}
       <section id="reviews">
@@ -100,6 +79,8 @@
         {% endif %}
         </div>
       </section>
+      <div class="modal fade" id="disagree"></div>
+      <div class="modal fade" id="thank"></div>
     </div>
     <div id="sidebar" class="span3">
       <div class="thumbnail">
@@ -156,11 +137,18 @@
 
 {% block js %}
   <script type="text/javascript">
+    var STATIC_URL = "{{ STATIC_URL }}"
+  </script>
+  <script type="text/javascript">
     $(document).ready(function() {
       $('#review-text').elastic();
+      $('#review-form form').ratingForm();
     });
   </script>
-  <script type="text/javascript" src="{{ STATIC_URL }}js/submitReview.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/django.csrf.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.form.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/ratingForm.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/ratingGraph.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.elastic.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/modals.js"></script>
 {% endblock %}

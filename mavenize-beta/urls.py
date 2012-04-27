@@ -12,6 +12,9 @@ urlpatterns = patterns('',
     url(r'^movies/(?P<title>[-\w]+)/$', 'movie.views.profile'),
     url(r'^movies/(?P<title>[-\w]+)/review/$', 'review.views.review',
         {'app': 'movie', 'model': 'movie'}),
+
+    url(r'^disagree/(?P<review_id>\d+)/$', 'review.views.disagree'),
+    url(r'^thank/(?P<review_id>\d+)/$', 'review.views.thank'),
 )
 
 urlpatterns += patterns('django.views.generic.simple',
