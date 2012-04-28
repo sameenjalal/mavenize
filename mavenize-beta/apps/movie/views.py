@@ -4,11 +4,13 @@ from django.template import RequestContext
 from django.contrib.auth.decorators import login_required
 from django.db import transaction, IntegrityError
 from django.db.models import Q
+from django.views.decorators.csrf import ensure_csrf_cookie
 
 from movie.models import Movie
 from review.models import Agree, ReviewForm
 from social_graph.models import Forward
 
+@ensure_csrf_cookie
 @login_required
 def profile(request, title):
     try:

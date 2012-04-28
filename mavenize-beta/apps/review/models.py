@@ -42,7 +42,7 @@ class Agree(models.Model):
 class Thank(models.Model):
     giver = models.ForeignKey(User)
     review = models.ForeignKey(Review)
-    note = models.TextField()
+    note = models.TextField(blank=True)
     created_at = models.DateTimeField(auto_now_add=True)
 
     def __unicode__(self):
@@ -63,6 +63,7 @@ class ReviewForm(forms.ModelForm):
         model = Review
 
 class ThankForm(forms.ModelForm):
+
     class Meta:
         model = Thank
 

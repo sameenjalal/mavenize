@@ -1,10 +1,14 @@
 $(document).ready(function() {
+  /* Requires jQuery Forms (jquery.forms.js) and Rating Form
+     (ratingForm.js)
+   */
   var selectedReview;
 
   $('.modal').hide();
 
   $('div[class$="meta"] a').click(function() {
-    selectedReview = $(this).closest('.activity').val();
+    selectedReview = $(this).closest('.activity').val() |
+                     $(this).closest('.review').val();
   });
 
   $('#disagree').on('show', function() {
@@ -12,12 +16,13 @@ $(document).ready(function() {
     
     $(this).append($('<div/>', { "class": "modal-body" }));
     $(this).find('.modal-body').append($('<form/>',{
-      "class": "form-horizontal", "action": "disagree/" + selectedReview + "/", "method": "POST" 
+      "class": "form-horizontal", "action": "/disagree/" + selectedReview + "/", "method": "POST" 
     }));
+    $(this).find('form').append(CSRF_TOKEN);
     $(this).find('form').append(createTextArea("Tell us what you thought, choose a rating, and rave!"));
     $('#modal-text').elastic();
     $(this).find('form').append(createRaveButtons());
-    $(this).find('form').ajaxForm();
+    //$(this).find('form').ajaxForm();
     $(this).find('form').ratingForm();
   });
 
@@ -26,13 +31,14 @@ $(document).ready(function() {
 
     $(this).append($('<div/>', { class: "modal-body" }));
     $(this).find('.modal-body').append($('<form/>',{
-      "class": "form-horizontal", "action": "thank/" + selectedReview + "/", "method": "POST" 
+      "class": "form-horizontal", "action": "/thank/" + selectedReview + "/", "method": "POST" 
     }));
+    $(this).find('form').append(CSRF_TOKEN);
     $(this).find('form').append(createTextArea("You're awesome because..."));
     $('#modal-text').elastic();
 
     $(this).find('form').append($('<button/>', { "class": "btn btn-large btn-primary", "id": "modal-submit", "type": "submit", "name": "submit" }).text('Thank'));
-    $(this).find('form').ajaxForm();
+    //$(this).find('form').ajaxForm();
   });
 
   $('.modal').on('hide', function() {
@@ -50,7 +56,8 @@ $(document).ready(function() {
 
   var createTextArea = function(placeholder) {
     return $('<textarea>', {
-      "id": "modal-text", "placeholder": placeholder, "rows": "1"
+      "id": "modal-text", "placeholder": placeholder, "rows": "1",
+      "name": "text"
     });
   }
 

@@ -2,6 +2,7 @@ from django.shortcuts import render_to_response, redirect
 from django.template import RequestContext
 from django.db.models import Sum
 from django.contrib.auth.models import User
+from django.views.decorators.csrf import ensure_csrf_cookie
 
 from activity_feed.models import Activity
 from leaderboard.models import KarmaAction
@@ -16,6 +17,7 @@ def index(request):
         return render_to_response('index.html', {},
             context_instance=RequestContext(request))
 
+@ensure_csrf_cookie
 def activity_feed(request):
     me = request.user.id
     friends = Forward.objects.filter(

@@ -2,7 +2,7 @@ from django.shortcuts import redirect, get_object_or_404
 from django.contrib.auth.decorators import login_required
 from django.db.models import get_model
 
-from review.models import Agree, Review, ReviewForm, ThankForm
+from review.models import Agree, Review, Thank, ReviewForm, ThankForm
 
 @login_required
 def review(request, title, app, model):
@@ -33,7 +33,7 @@ def agree(request, review_id):
             review=Review.objects.get(pk=review_id)
         )
 
-    return None
+    return redirect(request.META.get('HTTP_REFERER', None))
 
 @login_required
 def disagree(request, review_id):
@@ -52,20 +52,20 @@ def disagree(request, review_id):
                                       item=review['item'])):
             form.save()
 
-    return None
+    return redirect(request.META.get('HTTP_REFERER', None))
 
 @login_required
 def thank(request, review_id):
     if request.method == 'POST':
         thank = {
-            'user': request.session['_auth_user_id'],
+            'giver': request.session['_auth_user_id'],
             'review': review_id,
             'note': request.POST['text']
         }
         form = ThankForm(thank)
         if (form.is_valid() and not 
-                Thank.objects.filter(user=thank['user'],
+                Thank.objects.filter(giver=thank['giver'],
                                      review=thank['review'])):
             form.save()
 
-    return None
+    return redirect(request.META.get('HTTP_REFERER', None))
