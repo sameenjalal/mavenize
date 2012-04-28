@@ -28,18 +28,18 @@ def activity_feed(request):
         KarmaAction.objects.filter(created_at__gte=last_seven_days) \
                            .filter(recipient=me) \
                            .exclude(giver=me) \
-                           .values('giver') \
-                           .annotate(total_given=Sum('karma')) \
-                           .order_by('-total_given')[:5])
+                           .values('recipient') \
+                           .annotate(total_received=Sum('karma')) \
+                           .order_by('-total_received')[:5])
     leaderboard_rankings = (
         KarmaAction.objects.filter(created_at__gte=last_seven_days) \
                            .filter(giver__in=us) \
-                           .values('giver') \
-                           .annotate(total_given=Sum('karma')) \
-                           .order_by('-total_given'))
+                           .values('recipient') \
+                           .annotate(total_received=Sum('karma')) \
+                           .order_by('-total_received'))
     try:
         my_ranking = [i for i, v in enumerate(leaderboard_rankings)
-            if v['giver'] == me][0]
+            if v['recipient'] == me][0]
     except IndexError:
         my_ranking = 0
     my_relative_leaderboard, start_index = compute_relative_leaderboard(
@@ -64,13 +64,17 @@ def activity_feed(request):
 
 def match_users_with_karma(rankings):
     """
-    Create a dictionary that maps user objects to karma given.
+    Create a dictionary that maps user objects to karma.
     """
-    giver_ids = [r['giver'] for r in rankings]
-    ids_to_users = User.objects.select_related('userprofile').in_bulk(
-        giver_ids)
-    return [(ids_to_users[r['giver']], r['total_given']) \
-        for r in rankings]
+    if rankings:
+        user = rankings[0].keys()[0]
+        karma = rankings[0].keys()[1]
+        giver_ids = [r[user] for r in rankings]
+        ids_to_users = User.objects.select_related(
+            'userprofile').in_bulk(giver_ids)
+        return [(ids_to_users[r[user]], r[karma]) for r in rankings]
+    else:
+        return []
 
 def compute_relative_leaderboard(ranking, leaderboard_rankings):
     size = len(leaderboard_rankings) 

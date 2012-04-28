@@ -46,8 +46,10 @@ def profile(request, title):
                         user__in=friends),
             'my_reviews': reviews.filter(
                 Q(user=me) | Q(agree__giver=me) | Q(thank__giver=me)),
-            'friend_reviews': reviews.filter(
-                user__in=friends).exclude(user=me, agree__giver=me),
+            'friend_reviews': reviews.filter(user__in=friends) \
+                                     .exclude(user=me) \
+                                     .exclude(agree__giver=me) \
+                                     .exclude(thank__giver=me),
             'friend_agrees': friend_agrees, 
             'global_reviews': reviews.exclude(
                     user__in=global_exclude
