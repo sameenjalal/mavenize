@@ -12,6 +12,34 @@
   background: url('../img/background.jpg') 0 0 repeat-x;
 }
 
+#menu {
+  margin-top: 20px;
+
+  #filters {
+    float: left;
+    margin-top: 16px;
+    position: relative;
+
+    li {
+      display: inline;
+      font-size: 24px; 
+      margin: 0 4px;
+
+      a {
+        color: @headingColor;
+      }
+    }
+
+    #underscore {
+      background: @headingColor;
+      bottom: -7px;
+      left: 0;
+      height: 7px;
+      position: absolute;
+      width: 100px;
+    }
+  }
+}
 
 #title {
   color: @headingColor;

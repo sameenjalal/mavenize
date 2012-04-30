@@ -7,11 +7,14 @@ from django.db.models import Q
 from django.views.decorators.csrf import ensure_csrf_cookie
 from django.core.urlresolvers import reverse
 from django.utils import simplejson
+from django.utils.html import escape
 from django.core.paginator import Paginator, EmptyPage, InvalidPage
+from django.core import serializers
 
-from movie.models import Movie
+from movie.models import Movie, Genre
 from review.models import Agree, ReviewForm
 from social_graph.models import Forward
+from utils import pop_empty_keys
 
 from sorl.thumbnail import get_thumbnail
 
@@ -20,8 +23,15 @@ def explore(request, time_period=None, page=None):
     if not request.is_ajax():
         return render_to_response('movie_explore.html', {},
             context_instance=RequestContext(request))
+    
+    params = {
+        'genre__url__in': request.GET.getlist('genres'),
+        'actor__url__in': request.GET.getlist('actors'),
+        'director__url__in': request.GET.getlist('directors'),
+    }
+    cleaned_params = pop_empty_keys(params)
 
-    movies = Movie.objects.all() \
+    movies = Movie.objects.filter(**cleaned_params) \
             .order_by('-item__popularity__' + time_period) \
             .values('title', 'url', 'synopsis', 'image', 'theater_date')
     paginator = Paginator(movies, 20)
@@ -33,15 +43,27 @@ def explore(request, time_period=None, page=None):
         next_page = ''
 
     response = [{ 
-        'title': movie['title'],
+        'title': escape(movie['title']),
         'url': reverse('movie-profile', args=[movie['url']]),
-        'synopsis': movie['synopsis'][:140],
+        'synopsis': escape(movie['synopsis'][:140]),
         'image_url': get_thumbnail(movie['image'], 'x285').url,
         'next': next_page 
     } for movie in paginator.page(page)] 
 
     return HttpResponse(simplejson.dumps(response),
         mimetype="application/json")
+
+@login_required
+def genres(request):
+    """
+    Returns the list of all existing genres in JSON.
+    """
+    if not request.is_ajax():
+        raise Http404
+
+    response = serializers.serialize("json", Genre.objects.all(),
+        fields=('name', 'url'))
+    return HttpResponse(response, mimetype="application/json")
 
 @ensure_csrf_cookie
 @login_required

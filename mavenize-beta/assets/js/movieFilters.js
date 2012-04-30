@@ -1,5 +1,6 @@
 $(document).ready(function () {
-  var template = _.template(" \
+  // Templates
+  var movieTemplate = _.template(" \
     <% for (var i = 0; i < movies.length; i++) { %> \
       <% var movie = movies[i]; %> \
       <li class='span3' data-next='<%= movie.next %>'> \
@@ -8,22 +9,58 @@ $(document).ready(function () {
         </a> \
       </li> \
     <% } %> ");
-      var timePeriod = $('.tab-content').find('.active').attr('id');
+
+  var filtersTemplate = _.template(" \
+    <div class='modal-header'> \
+      <a class='close' data-dismiss='modal'>×</a> \
+      <h3>Filter Your Results</h3> \
+    </div> \
+    <div class='modal-body'> \
+      <form class='form-horizontal' method='GET'> \
+        <fieldset> \
+        <div class='control-group'> \
+          <label class='control-label' for='actor-search'>Add an Actor</label> \
+          <div class='controls'> \
+            <input id='actor-search' type='text' placeholder='Type actor or actress name here...' /> \
+          </div> \
+        </div> \
+        <div class='control-group'> \
+        <label class='control-label' for='director-search'>Add a Director</label> \
+          <div class='controls'> \
+            <input id='director-search' type='text' placeholder='Type director name here...' /> \
+          </div> \
+        </div> \
+        <div class='control-group'> \
+          <label class='control-label' for='genre-filter'>Filter by Genre</label> \
+          <div class='controls'> \
+          <% for (var i = 0; i < genres.length; i++) { %> \
+            <% var genre = genres[i]; %> \
+            <label class='checkbox'> \
+            <input type='checkbox' name='genres' value='<%= genre.fields.url %>' /> \
+            <%= genre.fields.name %> \
+            </label> \
+          <% } %> \
+          </div> \
+        </div> \
+        <div class='control-group'> \
+          <div class='controls'> \
+        <input type='submit' value='Filter My Results' id='filter-submit' href='#' class='btn btn-large btn-primary' /> \
+          </div> \
+        </div> \
+        </fieldset> \
+      </form> \
+    </div> ");
   
   // Helper functions
-  var loadMovies = function(timePeriod, page) {
-    var url = '/movies/' + timePeriod + '/' + page;
+  var loadMovies = function(timePeriod, page, parameters) {
+    var url = '/movies/' + timePeriod + '/' + page + '/?' + parameters;
     var listSelector = '#' + timePeriod + ' .thumbnails';
     $.get(url, function(movies) {
-      var thumbnails = template({ movies: movies });
+      var thumbnails = movieTemplate({ movies: movies });
       $(listSelector).append(thumbnails);
       $(listSelector).trigger('appended');
     });
   }
-
-  $('.thumbnails').bind('appended', function() {
-    $('.tab-content').find('.active').find('.thumbnail').popover({ 'placement': 'bottom' });
-  });
 
   var infiniteScroll = _.debounce(function() {
     var break_point = $(document).height() - ($(window).height() * 1.02);
@@ -31,25 +68,49 @@ $(document).ready(function () {
       var timePeriod = $('.tab-content').find('.active').attr('id');
       var nextPage = $('#'+timePeriod+' ul li:last').attr('data-next');
       if (nextPage) {
-        loadMovies(timePeriod, nextPage);
+        loadMovies(timePeriod, nextPage, '');
       }
     }
   }, 250);
 
-  // Initial movies
-  loadMovies('today', 1);
+  // Initializer
+  loadMovies('today', 1, '');
+  $('#filter-options').hide();
 
-  // Initial listeners
+  // Listeners 
   $('#filters a[href="#week"]').one("click", function() {
-    loadMovies('week', 1);
-  });
-  $('#filters a[href="#month"]').one("click", function() {
-    loadMovies('month', 1)
-  });
-  $('#filters a[href="#alltime"]').one("click", function() {
-    loadMovies('alltime', 1);
+    loadMovies('week', 1, '');
   });
 
-  // Infinite scrolling
+  $('#filters a[href="#month"]').one("click", function() {
+    loadMovies('month', 1, '')
+  });
+
+  $('#filters a[href="#alltime"]').one("click", function() {
+    loadMovies('alltime', 1, '');
+  });
+
+  $('#filter-settings a').one("click", function() {
+    $.get('/movies/genres/all', function(genres) {
+      var form = filtersTemplate({ genres: genres });
+      $('#filter-options').append(form);
+      $('#filter-options').trigger('appended');
+    });
+  });
+
+  $('#filter-options').bind('appended', function() {
+    $('#filter-options').find('form').submit(function() {
+      $('.thumbnails').empty();
+      var timePeriod = $('.tab-content').find('.active').attr('id');
+      var parameters = $(this).serialize();
+      loadMovies(timePeriod, 1, parameters);
+      return false;
+    });
+  });
+
+  $('.thumbnails').bind('appended', function() {
+    $('.tab-content').find('.active').find('.thumbnail').popover({ 'placement': 'bottom' });
+  });
+
   $(window).scroll(infiniteScroll);
 });

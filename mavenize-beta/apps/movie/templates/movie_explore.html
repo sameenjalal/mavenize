@@ -18,6 +18,15 @@
           <li><a href="#month" data-toggle="tab">this month</a></li>
           <li><a href="#alltime" data-toggle="tab">all-time</a></li>
         </ul>
+        <div id="filter-settings">
+          <a class="btn btn-large" data-toggle="modal" href="#filter-options">
+            <i class="icon-cog"></i>
+            Settings
+          </a>
+        </div>
+        <div style="clear: both;"></div>
+        <div class="modal fade" id="filter-options">
+        </div>
       </section>
       <section id="explore">
         <div class="tab-content">
@@ -51,6 +60,7 @@
     });
   </script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.elastic.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.form.min.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/slideNav.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/movieFilters.js"></script>
 {% endblock %}
