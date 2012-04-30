@@ -22,7 +22,7 @@ $(document).ready(function () {
   }
 
   $('.thumbnails').bind('appended', function() {
-    $('.tab-content').find('.active').find('.thumbnail').popover();
+    $('.tab-content').find('.active').find('.thumbnail').popover({ 'placement': 'bottom' });
   });
 
   var infiniteScroll = _.debounce(function() {

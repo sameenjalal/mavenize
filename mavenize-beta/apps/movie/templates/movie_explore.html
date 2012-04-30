@@ -10,7 +10,7 @@
     <div id="main" class="span12">
       <section id="menu">
         <h1 id="title">
-          Tried and True
+          Explore Movies
         </h1>
         <ul id="filters" class="nav nav-tabs">
           <li><a href="#today" data-toggle="tab">today</a></li>
@@ -18,6 +18,12 @@
           <li><a href="#month" data-toggle="tab">this month</a></li>
           <li><a href="#alltime" data-toggle="tab">all-time</a></li>
         </ul>
+        <div id="filter-settings">
+          <button class="btn btn-large" type="btn">
+            <i class="icon-cog"></i>
+            Settings
+          </button>
+        </div>
       </section>
       <section id="explore">
         <div class="tab-content">
@@ -51,7 +57,6 @@
     });
   </script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.elastic.min.js"></script>
-  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.throttle-debounce.min.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/slideNav.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/movieFilters.js"></script>
 {% endblock %}
