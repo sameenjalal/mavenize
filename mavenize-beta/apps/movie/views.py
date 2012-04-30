@@ -22,8 +22,8 @@ def explore(request, time_period=None, page=None):
             context_instance=RequestContext(request))
 
     movies = Movie.objects.all() \
-                  .order_by('-item__popularity__' + time_period) \
-                  .values('title', 'url', 'synopsis', 'image')
+            .order_by('-item__popularity__' + time_period) \
+            .values('title', 'url', 'synopsis', 'image', 'theater_date')
     paginator = Paginator(movies, 20)
 
     try:
