@@ -40,7 +40,7 @@ $(document).ready(function () {
   });
 
   // Infinite scrolling
-  $(window).scroll(function() {
+  $(window).scroll($.debounce(250, function() {
     var break_point = $(document).height() - ($(window).height() * 1.02);
     if ($(window).scrollTop() >= break_point) {
       var timePeriod = $('.tab-content').find('.active').attr('id');
@@ -49,5 +49,5 @@ $(document).ready(function () {
         loadMovies(timePeriod, nextPage);
       }
     }
-  });
+  }));
 });
