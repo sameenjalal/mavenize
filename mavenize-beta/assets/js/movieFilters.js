@@ -25,6 +25,17 @@ $(document).ready(function () {
     $('.tab-content').find('.active').find('.thumbnail').popover();
   });
 
+  var infiniteScroll = _.debounce(function() {
+    var break_point = $(document).height() - ($(window).height() * 1.02);
+    if ($(window).scrollTop() >= break_point) {
+      var timePeriod = $('.tab-content').find('.active').attr('id');
+      var nextPage = $('#'+timePeriod+' ul li:last').attr('data-next');
+      if (nextPage) {
+        loadMovies(timePeriod, nextPage);
+      }
+    }
+  }, 250);
+
   // Initial movies
   loadMovies('today', 1);
 
@@ -40,14 +51,5 @@ $(document).ready(function () {
   });
 
   // Infinite scrolling
-  $(window).scroll($.debounce(250, function() {
-    var break_point = $(document).height() - ($(window).height() * 1.02);
-    if ($(window).scrollTop() >= break_point) {
-      var timePeriod = $('.tab-content').find('.active').attr('id');
-      var nextPage = $('#'+timePeriod+' ul li:last').attr('data-next');
-      if (nextPage) {
-        loadMovies(timePeriod, nextPage);
-      }
-    }
-  }));
+  $(window).scroll(infiniteScroll);
 });
