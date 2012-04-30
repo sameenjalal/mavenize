@@ -15,7 +15,7 @@ urlpatterns = patterns('',
     url(r'^movies/(?P<title>[-\w]+)/review/$', 'review.views.review',
         {'app': 'movie', 'model': 'movie'}),
 
-    url(r'^movies/(?P<time_period>\w+)/(?P<page>\d+)$', 'movie.views.explore_time'),
+    url(r'^movies/(?P<time_period>\w+)/(?P<page>\d+)$', 'movie.views.explore'),
     url(r'^disagree/(?P<review_id>\d+)/$', 'review.views.disagree'),
     url(r'^thank/(?P<review_id>\d+)/$', 'review.views.thank'),
 )

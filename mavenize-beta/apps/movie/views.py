@@ -7,6 +7,7 @@ from django.db.models import Q
 from django.views.decorators.csrf import ensure_csrf_cookie
 from django.core.urlresolvers import reverse
 from django.utils import simplejson
+from django.core.paginator import Paginator, EmptyPage, InvalidPage
 
 from movie.models import Movie
 from review.models import Agree, ReviewForm
@@ -15,29 +16,32 @@ from social_graph.models import Forward
 from sorl.thumbnail import get_thumbnail
 
 @login_required
-def explore(request):
-    context = {
-        'movies': Movie.objects.all().order_by(
-            '-item__popularity__today')[:20]
-    }
-    return render_to_response('movie_explore.html', context,
-        context_instance=RequestContext(request))
+def explore(request, time_period=None, page=None):
+    if not request.is_ajax():
+        return render_to_response('movie_explore.html', {},
+            context_instance=RequestContext(request))
 
-@login_required
-def explore_time(request, time_period, page):
-    if request.is_ajax():
-        movies = Movie.objects.all() \
-                      .order_by('-item__popularity__' + time_period) \
-                      .values('title', 'url', 'synopsis', 'image')[:20]
-        response = [{ 
-            'title': movie['title'],
-            'url': reverse('movie-profile', args=[movie['url']]),
-            'synopsis': movie['synopsis'][:140],
-            'image_url': get_thumbnail(movie['image'], 'x295').url
-        } for movie in movies] 
+    movies = Movie.objects.all() \
+                  .order_by('-item__popularity__' + time_period) \
+                  .values('title', 'url', 'synopsis', 'image')
+    paginator = Paginator(movies, 20)
 
-        return HttpResponse(simplejson.dumps(response),
-            mimetype="application/json")
+    try:
+        next_page = paginator.page(page).next_page_number()
+        paginator.page(next_page)
+    except (EmptyPage, InvalidPage):
+        next_page = ''
+
+    response = [{ 
+        'title': movie['title'],
+        'url': reverse('movie-profile', args=[movie['url']]),
+        'synopsis': movie['synopsis'][:140],
+        'image_url': get_thumbnail(movie['image'], 'x285').url,
+        'next': next_page 
+    } for movie in paginator.page(page)] 
+
+    return HttpResponse(simplejson.dumps(response),
+        mimetype="application/json")
 
 @ensure_csrf_cookie
 @login_required
