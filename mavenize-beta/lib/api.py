@@ -15,6 +15,7 @@ MODEL_APP_NAME = {
     'agree': 'review',
     'thank': 'review',
     'item': 'item',
+    'popularity': 'item',
     'movie': 'movie',
     'activity': 'activity_feed',
     'notification': 'notification'

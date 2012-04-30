@@ -9,10 +9,13 @@ nexus.autodiscover()
 
 urlpatterns = patterns('',
     url(r'^$', 'activity_feed.views.index'),
-    url(r'^movies/(?P<title>[-\w]+)/$', 'movie.views.profile'),
+    url(r'^movies/$', 'movie.views.explore'),
+    url(r'^movies/(?P<title>[-\w]+)/$', 'movie.views.profile',
+        name="movie-profile"),
     url(r'^movies/(?P<title>[-\w]+)/review/$', 'review.views.review',
         {'app': 'movie', 'model': 'movie'}),
 
+    url(r'^movies/(?P<time_period>\w+)/(?P<page>\d+)$', 'movie.views.explore_time'),
     url(r'^disagree/(?P<review_id>\d+)/$', 'review.views.disagree'),
     url(r'^thank/(?P<review_id>\d+)/$', 'review.views.thank'),
 )

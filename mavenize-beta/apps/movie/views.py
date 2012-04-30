@@ -1,14 +1,43 @@
 from django.shortcuts import render_to_response
-from django.http import Http404
+from django.http import HttpResponse, Http404
 from django.template import RequestContext
 from django.contrib.auth.decorators import login_required
 from django.db import transaction, IntegrityError
 from django.db.models import Q
 from django.views.decorators.csrf import ensure_csrf_cookie
+from django.core.urlresolvers import reverse
+from django.utils import simplejson
 
 from movie.models import Movie
 from review.models import Agree, ReviewForm
 from social_graph.models import Forward
+
+from sorl.thumbnail import get_thumbnail
+
+@login_required
+def explore(request):
+    context = {
+        'movies': Movie.objects.all().order_by(
+            '-item__popularity__today')[:20]
+    }
+    return render_to_response('movie_explore.html', context,
+        context_instance=RequestContext(request))
+
+@login_required
+def explore_time(request, time_period, page):
+    if request.is_ajax():
+        movies = Movie.objects.all() \
+                      .order_by('-item__popularity__' + time_period) \
+                      .values('title', 'url', 'synopsis', 'image')[:20]
+        response = [{ 
+            'title': movie['title'],
+            'url': reverse('movie-profile', args=[movie['url']]),
+            'synopsis': movie['synopsis'][:140],
+            'image_url': get_thumbnail(movie['image'], 'x295').url
+        } for movie in movies] 
+
+        return HttpResponse(simplejson.dumps(response),
+            mimetype="application/json")
 
 @ensure_csrf_cookie
 @login_required

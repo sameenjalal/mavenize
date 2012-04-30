@@ -98,9 +98,17 @@ def create_review(sender, instance, created, **kwargs):
         )
         rating = utils.get_rating_field(instance.rating)
         api.update_statistics(
-                model_name="item",
-                obj_id=instance.item_id,
-                **{ rating: 1, 'reviews': 1 }
+            model_name="item",
+            obj_id=instance.item_id,
+            **{ rating: 1, 'reviews': 1 }
+        )
+        api.update_statistics(
+            model_name="popularity",
+            obj_id=instance.item_id,
+            today=instance.rating,
+            week=instance.rating,
+            month=instance.rating,
+            alltime=instance.rating
         )
         agrees = api.filter_then_order_by(
             model_name="agree",
@@ -141,6 +149,12 @@ def delete_review(sender, instance, **kwargs):
         model_name="item",
         obj_id=instance.item_id,
         **{ rating: -1, 'reviews': -1 }
+    )
+    api.update_statistics(
+        model_name="popularity",
+        obj_id=instance.item_id,
+        **utils.decrement_popularities(instance.created_at,
+            instance.rating)
     )
     agrees = api.filter_then_order_by(
         model_name="agree",
@@ -204,6 +218,14 @@ def create_agree(sender, instance, created, **kwargs):
             model_name="review",
             obj_id=instance.review_id,
             agrees=1
+        )
+        api.update_statistics(
+            model_name="popularity",
+            obj_id=instance.review.item_id,
+            today=instance.review.rating,
+            week=instance.review.rating,
+            month=instance.review.rating,
+            alltime=instance.review.rating
         )
         reviews = api.filter_then_count(
             model_name="review",
@@ -281,6 +303,12 @@ def delete_agree(sender, instance, **kwargs):
         obj_id=instance.review_id,
         agrees=-1
     )
+    api.update_statistics(
+        model_name="popularity",
+        obj_id=instance.review.item_id,
+        **utils.decrement_popularities(instance.created_at,
+            instance.review.rating)
+    )
     reviews = api.filter_then_count(
         model_name="review",
         user=instance.giver_id,
@@ -346,6 +374,14 @@ def create_thank(sender, instance, created, **kwargs):
             obj_id=instance.review_id,
             thanks=1
         )
+        api.update_statistics(
+            model_name="popularity",
+            obj_id=instance.review.item_id,
+            today=instance.review.rating,
+            week=instance.review.rating,
+            month=instance.review.rating,
+            alltime=instance.review.rating
+        )
 
 @receiver(post_delete, sender=Thank)
 def delete_thank(sender, instance, **kwargs):
@@ -380,4 +416,10 @@ def delete_thank(sender, instance, **kwargs):
         model_name="review",
         obj_id=instance.review_id,
         thanks=-1
+    )
+    api.update_statistics(
+        model_name="popularity",
+        obj_id=instance.review.item_id,
+        **utils.decrement_popularities(instance.created_at,
+            instance.review.rating)
     )
