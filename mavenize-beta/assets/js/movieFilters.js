@@ -1,4 +1,7 @@
 $(document).ready(function () {
+  // Global Variables
+  var currentParameters = '';
+
   // Templates
   var movieTemplate = _.template(" \
     <% for (var i = 0; i < movies.length; i++) { %> \
@@ -68,26 +71,26 @@ $(document).ready(function () {
       var timePeriod = $('.tab-content').find('.active').attr('id');
       var nextPage = $('#'+timePeriod+' ul li:last').attr('data-next');
       if (nextPage) {
-        loadMovies(timePeriod, nextPage, '');
+        loadMovies(timePeriod, nextPage, currentParameters);
       }
     }
   }, 250);
 
   // Initializer
-  loadMovies('today', 1, '');
+  loadMovies('today', 1, currentParameters);
   $('#filter-options').hide();
 
   // Listeners 
   $('#filters a[href="#week"]').one("click", function() {
-    loadMovies('week', 1, '');
+    loadMovies('week', 1, currentParameters);
   });
 
   $('#filters a[href="#month"]').one("click", function() {
-    loadMovies('month', 1, '')
+    loadMovies('month', 1, currentParameters);
   });
 
   $('#filters a[href="#alltime"]').one("click", function() {
-    loadMovies('alltime', 1, '');
+    loadMovies('alltime', 1, currentParameters);
   });
 
   $('#filter-settings a').one("click", function() {
@@ -102,8 +105,9 @@ $(document).ready(function () {
     $('#filter-options').find('form').submit(function() {
       $('.thumbnails').empty();
       var timePeriod = $('.tab-content').find('.active').attr('id');
-      var parameters = $(this).serialize();
-      loadMovies(timePeriod, 1, parameters);
+      currentParameters = $(this).serialize();
+      loadMovies(timePeriod, 1, currentParameters);
+      $('#filter-options').modal('toggle');
       return false;
     });
   });

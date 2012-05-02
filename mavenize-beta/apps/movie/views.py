@@ -33,7 +33,8 @@ def explore(request, time_period=None, page=None):
 
     movies = Movie.objects.filter(**cleaned_params) \
             .order_by('-item__popularity__' + time_period) \
-            .values('title', 'url', 'synopsis', 'image', 'theater_date')
+            .values('title', 'url', 'synopsis', 'image', 'theater_date') \
+            .distinct()
     paginator = Paginator(movies, 20)
 
     try:
