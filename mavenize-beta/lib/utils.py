@@ -29,6 +29,6 @@ def pop_empty_keys(dictionary):
     Pops the empty keys of a dictiionary.
     """
     for key in dictionary.keys():
-        if not dictionary[key]:
+        if not dictionary[key] or dictionary[key] == ['']:
             dictionary.pop(key)
     return dictionary

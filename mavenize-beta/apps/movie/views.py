@@ -11,7 +11,7 @@ from django.utils.html import escape
 from django.core.paginator import Paginator, EmptyPage, InvalidPage
 from django.core import serializers
 
-from movie.models import Movie, Genre
+from movie.models import Movie, Genre, Actor, Director
 from review.models import Agree, ReviewForm
 from social_graph.models import Forward
 from utils import pop_empty_keys
@@ -23,13 +23,14 @@ def explore(request, time_period=None, page=None):
     if not request.is_ajax():
         return render_to_response('movie_explore.html', {},
             context_instance=RequestContext(request))
-    
+
     params = {
         'genre__url__in': request.GET.getlist('genres'),
-        'actor__url__in': request.GET.getlist('actors'),
-        'director__url__in': request.GET.getlist('directors'),
+        'actors__name__in': request.GET.getlist('actors'),
+        'directors__name__in': request.GET.getlist('directors'),
     }
     cleaned_params = pop_empty_keys(params)
+    print params
 
     movies = Movie.objects.filter(**cleaned_params) \
             .order_by('-item__popularity__' + time_period) \
@@ -53,18 +54,6 @@ def explore(request, time_period=None, page=None):
 
     return HttpResponse(simplejson.dumps(response),
         mimetype="application/json")
-
-@login_required
-def genres(request):
-    """
-    Returns the list of all existing genres in JSON.
-    """
-    if not request.is_ajax():
-        raise Http404
-
-    response = serializers.serialize("json", Genre.objects.all(),
-        fields=('name', 'url'))
-    return HttpResponse(response, mimetype="application/json")
 
 @ensure_csrf_cookie
 @login_required
@@ -118,3 +107,32 @@ def profile(request, title):
         raise Http404
     return render_to_response('movie_profile.html', context,
         context_instance=RequestContext(request))
+
+@login_required
+def genres(request):
+    """
+    Returns the list of all existing genres in JSON.
+    """
+    if not request.is_ajax():
+        raise Http404
+
+    response = serializers.serialize("json",
+        Genre.objects.all().order_by('name') ,fields=('name', 'url'))
+    return HttpResponse(response, mimetype="application/json")
+
+@login_required
+def cast(request):
+    """
+    Returns the list of all existing actors and directors in JSON.
+    """
+    if not request.is_ajax():
+        raise Http404
+
+    response = {
+        'actors': list(Actor.objects.all().values_list(
+            'name', flat=True)),
+        'directors': list(Director.objects.all().values_list(
+            'name', flat=True))
+    }
+    return HttpResponse(simplejson.dumps(response),
+        mimetype="application/json")

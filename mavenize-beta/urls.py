@@ -16,6 +16,7 @@ urlpatterns = patterns('',
         {'app': 'movie', 'model': 'movie'}),
 
     url(r'^movies/genres/all$', 'movie.views.genres'),
+    url(r'^movies/cast/all$', 'movie.views.cast'),
     url(r'^movies/(?P<time_period>\w+)/(?P<page>\d+)/$', 'movie.views.explore'),
     url(r'^disagree/(?P<review_id>\d+)/$', 'review.views.disagree'),
     url(r'^thank/(?P<review_id>\d+)/$', 'review.views.thank'),

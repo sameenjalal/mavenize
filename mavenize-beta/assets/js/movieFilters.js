@@ -24,13 +24,13 @@ $(document).ready(function () {
         <div class='control-group'> \
           <label class='control-label' for='actor-search'>Add an Actor</label> \
           <div class='controls'> \
-            <input id='actor-search' type='text' placeholder='Type actor or actress name here...' /> \
+            <input id='actor-search' type='text' name='actors' placeholder='Type actor or actress name here...' data-provide='typeahead' /> \
           </div> \
         </div> \
         <div class='control-group'> \
         <label class='control-label' for='director-search'>Add a Director</label> \
           <div class='controls'> \
-            <input id='director-search' type='text' placeholder='Type director name here...' /> \
+            <input id='director-search' type='text' name='directors' placeholder='Type director name here...' data-provide='typeahead' /> \
           </div> \
         </div> \
         <div class='control-group'> \
@@ -102,6 +102,11 @@ $(document).ready(function () {
   });
 
   $('#filter-options').bind('appended', function() {
+    $.get('/movies/cast/all', function(cast) {
+      $('#actor-search').typeahead({ 'source': cast.actors });
+      $('#director-search').typeahead({ 'source': cast.directors });
+    });
+
     $('#filter-options').find('form').submit(function() {
       $('.thumbnails').empty();
       var timePeriod = $('.tab-content').find('.active').attr('id');
