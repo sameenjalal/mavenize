@@ -12,10 +12,10 @@
     </a>
   </div>
   <div class="review-context">
-    <a href="#">{{ activity.sender.get_full_name }}</a>
+    <a href="{% url user_profile.views.profile activity.sender_id %}">{{ activity.sender.get_full_name }}</a>
     {{ activity.verb }}
     {% if activity.sender.id != activity.target_object.user.id %}
-      <a href="#">{{ activity.target_object.user.get_full_name }}'s</a>
+      <a href="{% url user_profile.views.profile activity.target_object.user_id %}">{{ activity.target_object.user.get_full_name }}'s</a>
        rave about 
     {% endif %}
     <a href="{% url movie.views.profile activity.target_object.item.movie.url %}">{{ activity.target_object.item.movie.title }}</a>.

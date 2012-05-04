@@ -8,8 +8,12 @@
     </div>
   </div>
   <div class="review-context">
-    <a href="#">{{ agree.giver.get_full_name }}</a> re-raved 
-    <a href="#">{{ agree.review.user.get_full_name }}</a>'s rave about
+    <a href="{% url user_profile.views.profile agree.giver_id %}">
+      {{ agree.giver.get_full_name }}
+    </a> re-raved 
+    <a href="{% url user_profile.views.profile agree.review.user_id %}">
+      {{ agree.review.user.get_full_name }}
+    </a>'s rave about
     <a href="{% url movie.views.profile movie.url %}">{{ movie.title }}</a>.
   </div>
   <div class="review-text">

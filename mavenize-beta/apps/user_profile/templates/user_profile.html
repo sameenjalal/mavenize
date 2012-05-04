@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Mavenize | Title
+{% endblock %}
+
+{% block body %}
+<div class="container">
+  <div class="row">
+    <div id="main" class="span9">
+      <section id="menu">
+        <h1 id="title">
+          {{ user.get_full_name }}
+        </h1>
+        <ul id="filters" class="nav nav-tabs">
+          <li><a href="#raves" data-toggle="tab">raves</a></li>
+          <li><a href="#marks" data-toggle="tab">marks</a></li>
+          <li><a href="#graph" data-toggle="tab">graph</a></li>
+        </ul>
+      </section>
+      <section id="user-profile">
+        <div class="tab-content">
+          <div class="tab-pane active" id="raves">
+            <ul>
+            </ul>
+          </div>
+          <div class="tab-pane" id="marks">
+            really
+          </div>
+          <div class="tab-pane" id="graph">
+            awesome.
+          </div>
+        </div>
+      </section>
+    </div>
+    <div id="sidebar" class="span3">
+      <div class="thumbnail">
+        <img src="{{ user.userprofile.avatar.url }}" />
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block js %}
+  <script type="text/javascript">
+    var STATIC_URL = "{{ STATIC_URL }}";
+    var CSRF_TOKEN = "{% csrf_token %}"; 
+  </script>
+  <script type="text/javascript">
+    $(document).ready(function () {
+      var currentUrl = window.location.pathname;
+      var ravesUrl = '/users/' + currentUrl.match(/\d+/) + '/raves/1/';
+      $('#raves ul').loadActivities(ravesUrl);
+    });
+  </script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/django.csrf.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.form.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.elastic.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/slideNav.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/activityFeed.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/modals.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/ratingForm.js"></script>
+{% endblock %}

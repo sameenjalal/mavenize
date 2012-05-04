@@ -20,6 +20,10 @@ from sorl.thumbnail import get_thumbnail
 
 @login_required
 def explore(request, time_period=None, page=None):
+    """
+    If the request is not AJAX, returns the skeleton HTML.  If the
+    request is AJAX, returns a list of filtered movies
+    """
     if not request.is_ajax():
         return render_to_response('movie_explore.html', {},
             context_instance=RequestContext(request))

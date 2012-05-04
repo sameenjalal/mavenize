@@ -8,7 +8,7 @@
     </div>
   </div>
   <div class="review-context">
-    <a href="#">
+    <a href="{% url user_profile.views.profile review.user_id %}">
       {{ review.user.get_full_name }}
     </a>
     raved about
