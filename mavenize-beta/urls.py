@@ -18,6 +18,7 @@ urlpatterns = patterns('',
         {'app': 'movie', 'model': 'movie'}),
 
     url(r'^users/(?P<user_id>\d+)/raves/(?P<page>\d+)/$', 'user_profile.views.activity'),
+    url(r'^feed/(?P<page>\d+)/$', 'activity_feed.views.activity'),
     url(r'^movies/genres/all$', 'movie.views.genres'),
     url(r'^movies/cast/all$', 'movie.views.cast'),
     url(r'^movies/(?P<time_period>\w+)/(?P<page>\d+)/$', 'movie.views.explore'),

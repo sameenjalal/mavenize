@@ -1,12 +1,20 @@
 from django.contrib.contenttypes.models import ContentType
 from django.contrib.auth.models import User
 from django.core.exceptions import ObjectDoesNotExist
-from django.db.models import get_model, F
+from django.core.paginator import Paginator, EmptyPage, InvalidPage
+from django.core.urlresolvers import reverse
+from django.db.models import get_model, F, Sum
+from django.utils import simplejson
+from django.utils.html import escape
+from django.utils.timesince import timesince
 
 from activity_feed.models import Activity
 from notification.models import Notification
 from leaderboard.models import KarmaAction
+from social_graph.models import Forward
 from user_profile.models import UserStatistics
+
+from sorl.thumbnail import get_thumbnail
 
 MODEL_APP_NAME = {
     'user': 'auth',
@@ -24,6 +32,139 @@ MODEL_APP_NAME = {
 """
 GET METHODS
 """
+def get_friends(user_id):
+    """
+    Returns a list of friends for the specified user.
+        user_id: primary key of the user (integer)
+    """
+    return list(Forward.objects.filter(source_id=user_id).values_list(
+        'destination_id', flat=True))
+
+
+def get_user_activity(user_ids, page):
+    """
+    Returns the activities of the users specified in a list of user
+    IDs in JSON.
+        user_ids: primary keys of users (list of integers)
+        page: page number (integer)
+    """
+    activities = Activity.objects.select_related('sender',
+                                                 'sender__userprofile') \
+                    .prefetch_related('target_object',
+                                      'target_object__user',
+                                      'target_object__item',
+                                      'target_object__item__movie') \
+                    .filter(sender__in=user_ids)
+
+    paginator = Paginator(activities, 20)
+    
+    try:
+        next_page = paginator.page(page).next_page_number()
+        paginator.page(next_page)
+    except (EmptyPage, InvalidPage):
+        next_page = ''
+
+    response = [{
+        'object_id': activity.object_id,
+        'sender_avatar': get_thumbnail(
+            activity.sender.userprofile.avatar, '100x100', crop='center').url,
+        'rating': activity.target_object.rating,
+        'target_url': reverse('movie-profile',
+            args=[activity.target_object.item.movie.url]),
+        'target_image': get_thumbnail(
+            activity.target_object.item.movie.image, 'x295').url,
+        'target_title': activity.target_object.item.movie.title,
+        'sender_id': activity.sender_id,
+        'sender_url': reverse('user-profile', args=[activity.sender_id]),
+        'sender_full_name': activity.sender.get_full_name(),
+        'verb': activity.verb,
+        'target_user_id': activity.target_object.user_id,
+        'target_user_url': reverse('user-profile',
+            args=[activity.target_object.user_id]),
+        'target_user_full_name': activity.target_object.user \
+                                         .get_full_name(),
+        'target_user_first_name': activity.target_object.user \
+                                          .first_name.lower(),
+        'text': escape(activity.target_object.text),
+        'time_since': timesince(activity.created_at),
+    } for activity in activities]
+
+    return simplejson.dumps(response)
+ 
+
+def get_beneficiary_leaderboard(user_id, start_time):
+    """
+    Returns the beneficiary leaderboard for a given user between the
+    starting time and now.
+    """
+    beneficiary_rankings = \
+        KarmaAction.objects.filter(created_at__gte=start_time) \
+                           .filter(recipient=user_id) \
+                           .exclude(giver=user_id) \
+                           .values('recipient') \
+                           .annotate(total_received=Sum('karma')) \
+                           .order_by('-total_received')[:5]
+    
+    return _match_users_with_karma(beneficiary_rankings)
+
+
+def get_relative_leaderboard(user_id, start_time):
+    """
+    Returns the relative leaderboard rankings and start index for a
+    given user between starting time and now.
+        user_id: primary key of the user (integer)
+        start_time: starting time (datetime.datetime)
+    """
+    us = get_friends(user_id) + [user_id]
+    leaderboard_rankings = \
+        KarmaAction.objects.filter(created_at__gte=start_time) \
+                           .filter(giver__in=us) \
+                           .values('recipient') \
+                           .annotate(total_received=Sum('karma')) \
+                           .order_by('-total_received')
+
+    try:
+        my_ranking = [i for i, v in enumerate(leaderboard_rankings)
+            if v['recipient'] == user_id][0]
+    except IndexError:
+        my_ranking = 0
+
+    start, end = _compute_relative_leaderboard_indexes(my_ranking,
+        len(leaderboard_rankings))
+    
+    return (_match_users_with_karma(leaderboard_rankings[start:end]),
+        start)
+
+def _match_users_with_karma(rankings):
+    """
+    Returns a list of tuples that maps User objects to karma.
+        rankings: list of dictionaries that contains user_ids (integer)
+            and karma (integer)
+    """
+    if not rankings:
+        return []
+
+    user = rankings[0].keys()[0]
+    karma = rankings[0].keys()[1]
+    giver_ids = [r[user] for r in rankings]
+    ids_to_users = User.objects.select_related(
+        'userprofile').in_bulk(giver_ids)
+    return [(ids_to_users[r[user]], r[karma]) for r in rankings]
+
+def _compute_relative_leaderboard_indexes(ranking, size):
+    """
+    Returns a tuple of the start and end indexes for the relative
+    leaderboard.
+        ranking: ranking of the user (integer)
+        size: the number of users in the leaderboard (integer)
+    """
+    if ranking == 0 or ranking == 1:
+        return (0, 5)
+    elif ranking == size or ranking == size-1:
+        return (max(0, size-5), size)
+    else:
+        return (max(0, ranking-2), max(size, ranking+3))
+
 def filter_then_order_by(model_name, order_criteria, **filters):
     """
     Filters a model with filters and orders the results by
