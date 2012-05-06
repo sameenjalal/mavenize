@@ -21,7 +21,7 @@
       <section id="user-profile">
         <div class="tab-content">
           <div class="tab-pane active" id="raves">
-            <ul>
+            <ul class="activities">
             </ul>
           </div>
           <div class="tab-pane" id="marks">
@@ -51,7 +51,7 @@
     $(document).ready(function () {
       var currentUrl = window.location.pathname;
       var ravesUrl = '/users/' + currentUrl.match(/\d+/) + '/raves/1/';
-      $('#raves ul').loadActivities(ravesUrl);
+      $('.activities').loadActivities(ravesUrl);
     });
   </script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/django.csrf.js"></script>

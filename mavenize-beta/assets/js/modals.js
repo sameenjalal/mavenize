@@ -51,9 +51,11 @@ $(document).ready(function() {
   }
 
   // Listeners
-  $('div[class$="meta"] a').click(function() {
-    selectedReview = $(this).closest('.activity').val() |
-                     $(this).closest('.review').val();
+  $('.activities').bind('appended', function() {
+    $('div[class$="meta"] a').click(function() {
+      selectedReview = $(this).closest('.activity').val() |
+                       $(this).closest('.review').val();
+    });
   });
 
   $('#disagree').on('show', function() {

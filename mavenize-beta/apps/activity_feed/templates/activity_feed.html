@@ -16,6 +16,7 @@
             <li>
               <a href="#everything" data-toggle="tab">everything</a>
             </li>
+            <!--
             <li>
               <a href="#movies" data-toggle="tab">movies</a>
             </li>
@@ -25,14 +26,16 @@
             <li>
               <a href="#nightlife" data-toggle="tab">nightlife</a>
             </li>
+            -->
           </ul>
         </section>
         <section id="activity-feed">
           <div class="tab-content">
             <div class="tab-pane active" id="everything">
-              <ul>
+              <ul class="activities">
               </ul>
             </div>
+            <!--
             <div class="tab-pane" id="movies">
               There
             </div>
@@ -42,6 +45,7 @@
             <div class="tab-pane" id="nightlife">
               You See Me
             </div>
+            -->
           </div>
           <div class="modal fade" id="disagree"></div>
           <div class="modal fade" id="thank"></div>
@@ -105,7 +109,7 @@
   </script>
   <script type="text/javascript">
     $(document).ready(function () {
-      $('#everything ul').loadActivities('/feed/1/');
+      $('.activities').loadActivities('/feed/1/');
     });
   </script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/django.csrf.js"></script>
