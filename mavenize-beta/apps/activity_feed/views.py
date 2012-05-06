@@ -1,7 +1,6 @@
 from django.shortcuts import render_to_response
 from django.http import HttpResponse
 from django.template import RequestContext
-from django.views.decorators.csrf import ensure_csrf_cookie
 from django.contrib.auth.decorators import login_required
 
 import api
@@ -15,7 +14,6 @@ def index(request):
         return render_to_response('index.html', {},
             context_instance=RequestContext(request))
 
-@ensure_csrf_cookie
 @login_required
 def activity_feed(request):
     """
