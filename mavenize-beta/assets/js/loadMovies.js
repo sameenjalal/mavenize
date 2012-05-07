@@ -18,5 +18,9 @@
       $(listSelector).append(thumbnails);
       $(listSelector).trigger('appended');
     });
+    
+    $('.thumbnails').bind('appended', function() {
+      $('.active').find('.thumbnail').popover({ 'placement': 'bottom' });
+    });
   }
 }) (jQuery);
