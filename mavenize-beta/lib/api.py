@@ -75,7 +75,7 @@ def get_user_activity(user_ids, page):
                                       'target_object__item__movie') \
                     .filter(sender__in=user_ids)
 
-    paginator = Paginator(activities, 24)
+    paginator = Paginator(activities, 20)
     
     try:
         next_page = paginator.page(page).next_page_number()
@@ -106,6 +106,7 @@ def get_user_activity(user_ids, page):
                                           .first_name.lower(),
         'text': escape(activity.target_object.text),
         'time_since': timesince(activity.created_at),
+        'next': next_page 
     } for activity in activities]
 
     return simplejson.dumps(response)
@@ -199,7 +200,7 @@ def get_movie_thumbnails(time_period, page, filters):
             .order_by('-item__popularity__' + time_period) \
             .values('title', 'url', 'synopsis', 'image', 'theater_date') \
             .distinct()
-    paginator = Paginator(movies, 20)
+    paginator = Paginator(movies, 12)
 
     try:
         next_page = paginator.page(page).next_page_number()
@@ -246,7 +247,8 @@ def get_user_boxes(my_id, user_ids, page):
         'image_url': get_thumbnail(profile.avatar, '100x100',
             crop='center').url,
         'url': reverse('user-profile', args=[profile.pk]),
-        'is_following': True if profile.pk in are_following else False
+        'is_following': True if profile.pk in are_following else False,
+        'next': next_page 
     } for profile in paginator.page(page)]
 
     return simplejson.dumps(response)

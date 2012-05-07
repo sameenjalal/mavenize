@@ -3,7 +3,7 @@
   var userTemplate = _.template("\
     <% for (var i = 0; i < users.length; i++) { %>\
       <% var user = users[i]; %>\
-      <li class='user-box'>\
+      <li class='user-box' data-next='<%= user.next %>'>\
         <div class='user-avatar pull-left'>\
           <img src='<%= user.image_url %>' width='100' height='100' />\
         </div>\

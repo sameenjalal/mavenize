@@ -3,7 +3,7 @@
   var activityTemplate = _.template("\
     <% for (var i = 0; i < activities.length; i++) { %>\
       <% var activity = activities[i]; %>\
-      <li class='activity' value='<%= activity.object_id %>'>\
+      <li class='activity' value='<%= activity.object_id %>' data-next='<%= activity.next %>'>\
         <div class='user-avatar pull-left'>\
           <img src='<%= activity.sender_avatar %>' width='100' height='100' />\
           <img src='<%= STATIC_URL %>img/<%= activity.rating %>l.png' />\
