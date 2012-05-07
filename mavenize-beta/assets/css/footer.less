@@ -2,10 +2,8 @@
   OPERATIONS & COLOR FUNCTIONS
 *******************************/
 
-@footerBackground: @gray;
-@footerBorder: @darkGray;
+@footerBorder: @gray;
 @footerFloorBackground: @footerBorder;
-@link: @white;
 @trademark: @nearWhite;
 @footerFont: 'Didact Gothic';
 
@@ -14,18 +12,18 @@
 *********/
 
 footer {
-  background: @footerBackground;
-  border-top: 1px solid @footerBorder;
-  font-family: @footerFont, arial;
+  border-top: 1px solid @boxBorder;
+  font-family: @headingFont, arial;
   padding-top: 10px;
+  
+  .FooterGradient();
 
   a, a:hover, a:active {
-    color: @link;
     font-size: 15px;
   }
 
   h3 {
-    color: @metaColor; 
+    color: @footerColor; 
     font-size: 24px;
   }
 
@@ -34,7 +32,8 @@ footer {
   }
 
   #footer-floor {
-    background: @footerFloorBackground;
+    background: @gray;
+    border-top: 1px solid @boxBorder;
 
     a {
       font-size: 13px;

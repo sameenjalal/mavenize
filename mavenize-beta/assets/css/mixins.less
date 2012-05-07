@@ -11,14 +11,25 @@
 }
 
 .HeadingGradient() {
-  background: rgb(255,199,115);
-  background: -moz-linear-gradient(top, rgba(255,199,115,1) 1%, rgba(255,153,0,1) 40%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,rgba(255,199,115,1)), color-stop(40%,rgba(255,153,0,1)));
-  background: -webkit-linear-gradient(top, rgba(255,199,115,1) 1%,rgba(255,153,0,1) 40%);
-  background: -o-linear-gradient(top, rgba(255,199,115,1) 1%,rgba(255,153,0,1) 40%);
-  background: -ms-linear-gradient(top, rgba(255,199,115,1) 1%,rgba(255,153,0,1) 40%);
-  background: linear-gradient(top, rgba(255,199,115,1) 1%,rgba(255,153,0,1) 40%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffc773', endColorstr='#ff9900',GradientType=0 );
+  background: #ff8900; /* Old browsers */
+  background: -moz-linear-gradient(top, #ff8900 0%, #ff6a20 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff8900), color-stop(100%,#ff6a20)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #ff8900 0%,#ff6a20 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #ff8900 0%,#ff6a20 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #ff8900 0%,#ff6a20 100%); /* IE10+ */
+  background: linear-gradient(top, #ff8900 0%,#ff6a20 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff8900', endColorstr='#ff6a20',GradientType=0 ); /* IE6-9 */
+}
+
+.FooterGradient() {
+  background: #ffffff; /* Old browsers */
+  background: -moz-linear-gradient(top, #ffffff 0%, #eaeaea 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#eaeaea)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #ffffff 0%,#eaeaea 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #ffffff 0%,#eaeaea 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #ffffff 0%,#eaeaea 100%); /* IE10+ */
+  background: linear-gradient(top, #ffffff 0%,#eaeaea 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#eaeaea',GradientType=0 );
 }
 
 .BarGraphGradient() {
