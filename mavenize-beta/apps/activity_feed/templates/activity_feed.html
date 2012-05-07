@@ -110,11 +110,7 @@
     var STATIC_URL = "{{ STATIC_URL }}";
     var CSRF_TOKEN = "{% csrf_token %}"; 
   </script>
-  <script type="text/javascript">
-    $(document).ready(function () {
-      $('.activities').loadActivities('/feed/1/');
-    });
-  </script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/activityFeed.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/django.csrf.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.form.min.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.elastic.min.js"></script>
