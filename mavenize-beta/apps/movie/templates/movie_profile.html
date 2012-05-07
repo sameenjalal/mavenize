@@ -117,18 +117,15 @@
       </div>
       <div id="friend-bookmarks" class="module-container border">
         <h3 class="heading">Watch It!</h3>
-        <ul id="bookmarks">
-          {% for bookmark in friend_bookmarks %}
-            <div class="user">
-            <img src="{{ bookmark.user.userprofile.thumbnail.url }}" />
-            <span class="user-name">
-              <a href="#">{{ bookmark.user.get_full_name }}</a>
-            </span>
-            </div>
-          {% empty %}
-            <p class="empty-message">Show them who's boss! Mark your territory first!</p>
-          {% endfor %}
-        </ul>
+        <table id="bookmarks-table" class="table">
+            {% for bookmark in friend_bookmarks %}
+              <tr>
+                <td><img src="{{ bookmark.user.userprofile.thumbnail.url }}" /></td>
+                <td><a href="#">{{ bookmark.user.get_full_name }}</a></td>
+            {% empty %}
+              <p class="empty-message">Show them who's boss! Mark your territory first!</p>
+            {% endfor %}
+        </table>
       </div>
     </div>
   </div>
