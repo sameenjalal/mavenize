@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block title %}
-  Mavenize | Title
+  Mavenize | {{ user.get_full_name }} 
 {% endblock %}
 
 {% block body %}
@@ -15,7 +15,8 @@
         <ul id="filters" class="nav nav-tabs">
           <li><a href="#raves" data-toggle="tab">raves</a></li>
           <li><a href="#marks" data-toggle="tab">marks</a></li>
-          <li><a href="#graph" data-toggle="tab">graph</a></li>
+          <li><a href="#following" data-toggle="tab">following</a></li>
+          <li><a href="#followers" data-toggle="tab">followers</a></li>
         </ul>
       </section>
       <section id="user-profile">
@@ -25,10 +26,16 @@
             </ul>
           </div>
           <div class="tab-pane" id="marks">
-            really
+            <ul class="thumbnails">
+            </ul>
           </div>
-          <div class="tab-pane" id="graph">
-            awesome.
+          <div class="tab-pane" id="following">
+            <ul class="users">
+            </ul>
+          </div>
+          <div class="tab-pane" id="followers">
+            <ul class="users">
+            </ul>
           </div>
         </div>
       </section>
@@ -51,18 +58,14 @@
     var STATIC_URL = "{{ STATIC_URL }}";
     var CSRF_TOKEN = "{% csrf_token %}"; 
   </script>
-  <script type="text/javascript">
-    $(document).ready(function () {
-      var currentUrl = window.location.pathname;
-      var ravesUrl = '/users/' + currentUrl.match(/\d+/) + '/raves/1/';
-      $('.activities').loadActivities(ravesUrl);
-    });
-  </script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/userProfile.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/django.csrf.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.form.min.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.elastic.min.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/slideNav.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/loadActivities.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/loadMovies.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/loadUsers.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/modals.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/ratingForm.js"></script>
 {% endblock %}

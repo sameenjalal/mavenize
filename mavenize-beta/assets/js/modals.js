@@ -3,7 +3,6 @@ $(document).ready(function() {
      (ratingForm.js)
    */
   var selectedReview;
-
   $('.modal').hide();
 
   // Helper Functions

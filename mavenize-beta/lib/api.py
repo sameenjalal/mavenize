@@ -9,10 +9,12 @@ from django.utils.html import escape
 from django.utils.timesince import timesince
 
 from activity_feed.models import Activity
+from bookmark.models import Bookmark
 from notification.models import Notification
 from leaderboard.models import KarmaAction
-from social_graph.models import Forward
-from user_profile.models import UserStatistics
+from movie.models import Movie, Genre, Actor, Director
+from social_graph.models import Forward, Backward
+from user_profile.models import UserProfile, UserStatistics
 
 from sorl.thumbnail import get_thumbnail
 
@@ -32,14 +34,31 @@ MODEL_APP_NAME = {
 """
 GET METHODS
 """
-def get_friends(user_id):
+def get_following(user_id):
     """
-    Returns a list of friends for the specified user.
+    Returns a list of user ids who the specified user is following.
         user_id: primary key of the user (integer)
     """
     return list(Forward.objects.filter(source_id=user_id).values_list(
         'destination_id', flat=True))
 
+
+def get_followers(user_id):
+    """
+    Returns a list of user ids who follow the specified user.
+        user_id: primary key of the user (integer)
+    """
+    return list(Backward.objects.filter(destination_id=user_id) \
+                                .values_list('source_id', flat=True))
+
+
+def get_bookmarked_items(user_id):
+    """
+    Returns a list of item ids of bookmarks for the specified user.
+        user_id: primary key of the user (integer)
+    """
+    return list(Bookmark.objects.filter(user=user_id).values_list(
+        'item_id', flat=True))
 
 def get_user_activity(user_ids, page):
     """
@@ -56,7 +75,7 @@ def get_user_activity(user_ids, page):
                                       'target_object__item__movie') \
                     .filter(sender__in=user_ids)
 
-    paginator = Paginator(activities, 20)
+    paginator = Paginator(activities, 24)
     
     try:
         next_page = paginator.page(page).next_page_number()
@@ -115,7 +134,7 @@ def get_relative_leaderboard(user_id, start_time):
         user_id: primary key of the user (integer)
         start_time: starting time (datetime.datetime)
     """
-    us = get_friends(user_id) + [user_id]
+    us = get_following(user_id) + [user_id]
     leaderboard_rankings = \
         KarmaAction.objects.filter(created_at__gte=start_time) \
                            .filter(giver__in=us) \
@@ -135,6 +154,7 @@ def get_relative_leaderboard(user_id, start_time):
     return (_match_users_with_karma(leaderboard_rankings[start:end]),
         start)
 
+
 def _match_users_with_karma(rankings):
     """
     Returns a list of tuples that maps User objects to karma.
@@ -151,6 +171,7 @@ def _match_users_with_karma(rankings):
         'userprofile').in_bulk(giver_ids)
     return [(ids_to_users[r[user]], r[karma]) for r in rankings]
 
+
 def _compute_relative_leaderboard_indexes(ranking, size):
     """
     Returns a tuple of the start and end indexes for the relative
@@ -164,6 +185,72 @@ def _compute_relative_leaderboard_indexes(ranking, size):
         return (max(0, size-5), size)
     else:
         return (max(0, ranking-2), max(size, ranking+3))
+
+
+def get_movie_thumbnails(time_period, page, filters):
+    """
+    Returns a list of movie thumbnails and other relevant information
+    based on a time period, page, and a set of filters.
+        time_period: 'today', 'week', 'month', or 'alltime' (string)
+        page: page for the paginator (integer)
+        filters: dictionary that maps fields to parameters (dict)
+    """
+    movies = Movie.objects.filter(**filters) \
+            .order_by('-item__popularity__' + time_period) \
+            .values('title', 'url', 'synopsis', 'image', 'theater_date') \
+            .distinct()
+    paginator = Paginator(movies, 20)
+
+    try:
+        next_page = paginator.page(page).next_page_number()
+        paginator.page(next_page)
+    except (EmptyPage, InvalidPage):
+        next_page = ''
+
+    response = [{ 
+        'title': escape(movie['title']),
+        'url': reverse('movie-profile', args=[movie['url']]),
+        'synopsis': escape(movie['synopsis'][:140]),
+        'image_url': get_thumbnail(movie['image'], 'x285').url,
+        'next': next_page 
+    } for movie in paginator.page(page)] 
+
+    return simplejson.dumps(response)
+
+
+def get_user_boxes(my_id, user_ids, page):
+    """
+    Returns a list of user details required for following and follower
+    boxes.
+        my_id: user id of the current user (integer)
+        user_ids: list of user ids (integers)
+        page: page for the paginator (integer)
+    """
+    my_following = get_following(my_id)
+    profiles = UserProfile.objects.select_related('user') \
+                                  .filter(pk__in=user_ids)
+    paginator = Paginator(profiles, 20)
+    current_page_user_ids = [profile.pk for profile in
+        paginator.page(page)]
+    are_following = list(set(my_following) & set(current_page_user_ids))
+
+    try:
+        next_page = paginator.page(page).next_page_number()
+        paginator.page(next_page)
+    except (EmptyPage, InvalidPage):
+        next_page = ''
+    
+    response = [{
+        'full_name': profile.user.get_full_name(),
+        'about_me': escape(profile.about_me),
+        'image_url': get_thumbnail(profile.avatar, '100x100',
+            crop='center').url,
+        'url': reverse('user-profile', args=[profile.pk]),
+        'is_following': True if profile.pk in are_following else False
+    } for profile in paginator.page(page)]
+
+    return simplejson.dumps(response)
+
 
 def filter_then_order_by(model_name, order_criteria, **filters):
     """

@@ -3,16 +3,6 @@ $(document).ready(function () {
   var currentParameters = '';
 
   // Templates
-  var movieTemplate = _.template(" \
-    <% for (var i = 0; i < movies.length; i++) { %> \
-      <% var movie = movies[i]; %> \
-      <li class='span3' data-next='<%= movie.next %>'> \
-        <a class='thumbnail movie' href='<%= movie.url %>' data-original-title='<%= movie.title %>' data-content='<%= movie.synopsis %>...'> \
-        <img src='<%= movie.image_url %>' /> \
-        </a> \
-      </li> \
-    <% } %> ");
-
   var filtersTemplate = _.template(" \
     <div class='modal-header'> \
       <a class='close' data-dismiss='modal'>×</a> \
@@ -65,32 +55,41 @@ $(document).ready(function () {
     });
   }
 
+  var getUrl = function(timePeriod, page) {
+    return '/movies/' + timePeriod + '/' + page + '/?' + currentParameters;
+  }
+
   var infiniteScroll = _.debounce(function() {
     var break_point = $(document).height() - ($(window).height() * 1.02);
     if ($(window).scrollTop() >= break_point) {
       var timePeriod = $('.tab-content').find('.active').attr('id');
       var nextPage = $('#'+timePeriod+' ul li:last').attr('data-next');
       if (nextPage) {
-        loadMovies(timePeriod, nextPage, currentParameters);
+        $('.tab-content .active .thumbnails').loadMovies(
+          getUrl(timePeriod, nextPage));
       }
     }
   }, 250);
 
   // Initializer
-  loadMovies('today', 1, currentParameters);
+  $('.tab-content .active .thumbnails').loadMovies(
+    getUrl('today', 1))
   $('#filter-options').hide();
 
   // Listeners 
   $('#filters a[href="#week"]').one("click", function() {
-    loadMovies('week', 1, currentParameters);
+    $('#week .thumbnails').loadMovies(
+      getUrl('week', 1))
   });
 
   $('#filters a[href="#month"]').one("click", function() {
-    loadMovies('month', 1, currentParameters);
+    $('#month .thumbnails').loadMovies(
+      getUrl('month', 1))
   });
 
   $('#filters a[href="#alltime"]').one("click", function() {
-    loadMovies('alltime', 1, currentParameters);
+    $('#alltime .thumbnails').loadMovies(
+      getUrl('alltime', 1))
   });
 
   $('#filter-settings a').one("click", function() {
@@ -111,7 +110,8 @@ $(document).ready(function () {
       $('.thumbnails').empty();
       var timePeriod = $('.tab-content').find('.active').attr('id');
       currentParameters = $(this).serialize();
-      loadMovies(timePeriod, 1, currentParameters);
+      $('.tab-content .active .thumbnails').loadMovies(
+        getUrl(timePeriod, 1))
       $('#filter-options').modal('toggle');
       return false;
     });

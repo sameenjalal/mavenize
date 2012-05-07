@@ -21,6 +21,7 @@ class UserProfile(models.Model):
         default='img/users/thumbnails/default.jpg',
     )
     gender = models.CharField(max_length=1)
+    about_me = models.CharField(max_length=80, default='')
 
     class Meta:
         verbose_name_plural = "User Profiles"

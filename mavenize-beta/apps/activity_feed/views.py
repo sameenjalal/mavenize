@@ -35,9 +35,10 @@ def activity_feed(request):
 @login_required
 def activity(request, page):
     """
-    Returns the list of most recent activities by the user's friends.
+    Returns the list of most recent activities by the users that the
+    current user follows.
     """
     me = request.session['_auth_user_id']
-    friends = api.get_friends(me)
-    return HttpResponse(api.get_user_activity(friends, page),
+    following = api.get_following(me)
+    return HttpResponse(api.get_user_activity(following, page),
         mimetype="application/json")

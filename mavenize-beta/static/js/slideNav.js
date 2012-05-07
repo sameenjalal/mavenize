@@ -2,6 +2,7 @@ $(document).ready(function() {
   var $el, leftPos, newWidth, $mainNav = $('#filters');
   $mainNav.append('<li id="underscore"></li>');
   var $underscore = $("#underscore");
+  $('#filters li:first').addClass('active');
 
   $underscore
     .width($('.active').width()-12)

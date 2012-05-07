@@ -24,12 +24,55 @@ def activity(request, user_id, page):
     """
     Returns the list of most recent activities by a user.
     """
+    if not request.is_ajax():
+        raise Http404
+
     return HttpResponse(api.get_user_activity([user_id], page),
         mimetype="application/json")
 
 @login_required
 def bookmarks(request, user_id, page):
     """
-    Returns the list of most recent bookmarks by a user.
+    Returns the list of bookmarks by a user.
     """
-    pass 
+    if not request.is_ajax():
+        raise Http404
+
+    bookmarked = api.get_bookmarked_items(user_id)
+    movies = api.get_movie_thumbnails(
+        time_period='month',
+        page=page,
+        filters={ 'pk__in': bookmarked }
+    )
+    
+    return HttpResponse(movies, mimetype="application/json")
+
+@login_required
+def following(request, user_id, page):
+    """
+    Returns the list of users who the user is following.
+    """
+    me = request.session['_auth_user_id']
+    following = api.get_following(user_id)
+    try:
+        following.remove(me)
+    except:
+        pass
+
+    return HttpResponse(api.get_user_boxes(me, following, page),
+        mimetype="application/json")
+
+@login_required
+def followers(request, user_id, page):
+    """
+    Returns the list of users who are following the user.
+    """
+    me = request.session['_auth_user_id']
+    followers = api.get_followers(user_id)
+    try:
+        followers.remove(me)
+    except:
+        pass
+
+    return HttpResponse(api.get_user_boxes(me, followers, page),
+        mimetype="application/json")

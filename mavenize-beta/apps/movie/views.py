@@ -4,7 +4,6 @@ from django.template import RequestContext
 from django.contrib.auth.decorators import login_required
 from django.db import transaction, IntegrityError
 from django.db.models import Q
-from django.views.decorators.csrf import ensure_csrf_cookie
 from django.core.urlresolvers import reverse
 from django.utils import simplejson
 from django.utils.html import escape
@@ -14,6 +13,7 @@ from django.core import serializers
 from movie.models import Movie, Genre, Actor, Director
 from review.models import Agree, ReviewForm
 from social_graph.models import Forward
+import api
 from utils import pop_empty_keys
 
 from sorl.thumbnail import get_thumbnail
@@ -34,32 +34,11 @@ def explore(request, time_period=None, page=None):
         'directors__name__in': request.GET.getlist('directors'),
     }
     cleaned_params = pop_empty_keys(params)
-    print params
+    response = api.get_movie_thumbnails(time_period, page, cleaned_params)
 
-    movies = Movie.objects.filter(**cleaned_params) \
-            .order_by('-item__popularity__' + time_period) \
-            .values('title', 'url', 'synopsis', 'image', 'theater_date') \
-            .distinct()
-    paginator = Paginator(movies, 20)
+    return HttpResponse(response, mimetype="application/json")
 
-    try:
-        next_page = paginator.page(page).next_page_number()
-        paginator.page(next_page)
-    except (EmptyPage, InvalidPage):
-        next_page = ''
 
-    response = [{ 
-        'title': escape(movie['title']),
-        'url': reverse('movie-profile', args=[movie['url']]),
-        'synopsis': escape(movie['synopsis'][:140]),
-        'image_url': get_thumbnail(movie['image'], 'x285').url,
-        'next': next_page 
-    } for movie in paginator.page(page)] 
-
-    return HttpResponse(simplejson.dumps(response),
-        mimetype="application/json")
-
-@ensure_csrf_cookie
 @login_required
 def profile(request, title):
     try:
