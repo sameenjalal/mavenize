@@ -34,6 +34,14 @@ MODEL_APP_NAME = {
 """
 GET METHODS
 """
+def get_profile(user_id):
+    """
+    Returns the user, user profile, and user statistics for the
+    specified user.
+    """
+    return User.objects.select_related('userprofile', 'userstatistics') \
+                       .get(pk=user_id)
+
 def get_following(user_id):
     """
     Returns a list of user ids who the specified user is following.
@@ -253,6 +261,16 @@ def get_user_boxes(my_id, user_ids, page):
 
     return simplejson.dumps(response)
 
+
+def is_following(source_id, destination_id):
+    """
+    Returns True if the source id is following the destination id.
+        source_id: user id of the source (integer)
+        destination_id: user id of the destination (integer)
+    """
+    return True if Forward.objects.filter(source_id=source_id,
+                                          destination_id=destination_id)\
+                else False
 
 def filter_then_order_by(model_name, order_criteria, **filters):
     """

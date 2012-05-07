@@ -3,15 +3,15 @@ from django.template import RequestContext
 from django.http import HttpResponse, Http404
 from django.contrib.auth.decorators import login_required
 
-from django.contrib.auth.models import User
 import api
 
 @login_required
 def profile(request, user_id):
     try:
+        me = request.session['_auth_user_id']
         context = {
-            'user': User.objects.select_related('userprofile',
-                'userstatistics').get(pk=user_id)
+            'user': api.get_profile(user_id),
+            'is_following': api.is_following(me, user_id)
         }
     except:
         raise Http404 

@@ -49,6 +49,48 @@
       <div class="thumbnail">
         <img src="{{ user.userprofile.avatar.url }}" />
       </div>
+      <div id="user-interaction">
+        {% if is_following %}
+        <button id="following-button" class="btn btn-large btn-warning">
+          Unfollow
+        </button>
+        {% else %}
+        <button id="following-button" class="btn btn-large btn-success">
+          Follow
+        </button>
+        {% endif %}
+      </div>
+      <div id="user-about" class="module-container border">
+        <h3 class="heading">About {{ user.first_name }}</h3>
+        <p>{{ user.userprofile.about_me }}<p>
+        <table id="stats-table" class="table">
+          <thead>
+            <tr>
+              <th>achievements</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>raves</td>
+              <td>
+                <span class="badge badge-info stat">{{ user.userstatistics.reviews }}</span>
+              </td>
+            </tr>
+            <tr>
+              <td>re-raves</td>
+              <td>
+                <span class="badge badge-info stat">{{ user.userstatistics.agrees_in }}</span>
+              </td>
+            </tr>
+            <tr>
+              <td>thanks</td>
+              <td>
+                <span class="badge badge-info stat">{{ user.userstatistics.thanks_in }}</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </div>
   </div>
 </div>
