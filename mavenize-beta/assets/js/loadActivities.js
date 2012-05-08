@@ -5,7 +5,9 @@
       <% var activity = activities[i]; %>\
       <li class='activity' value='<%= activity.object_id %>' data-next='<%= activity.next %>'>\
         <div class='user-avatar pull-left'>\
-          <img src='<%= activity.sender_avatar %>' width='100' height='100' />\
+          <a href='<%= activity.sender_url %>'>\
+            <img src='<%= activity.sender_avatar %>' width='100' height='100' />\
+          </a>\
           <img src='<%= STATIC_URL %>img/<%= activity.rating %>l.png' />\
         </div>\
         <div class='item-thumbnail pull-right'>\
