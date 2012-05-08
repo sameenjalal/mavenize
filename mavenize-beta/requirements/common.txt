@@ -6,7 +6,8 @@ commonware==0.3.0
 nexus==0.2.3
 django-social-auth==0.6.9
 Pillow==1.7.6
-git+git://github.com/pythonforfacebook/facebook-sdk.git
+facebook-sdk==0.3.0
 sorl-thumbnail==11.12
 psycopg2==2.4.5
 redis==2.4.11
+-e git+https://github.com/toastdriven/django-haystack.git@master#egg=django-haystack
