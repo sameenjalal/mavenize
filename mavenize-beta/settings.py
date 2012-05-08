@@ -341,6 +341,7 @@ apps_list = [
         'social_auth',
         'south',
         'sorl.thumbnail',
+        'haystack',
 ]
 
 if is_solo() or is_dev():
@@ -371,3 +372,11 @@ FACEBOOK_EXTENDED_PERMISSIONS = ['email', 'create_event', 'publish_stream']
 
 # User Profiles
 AUTH_PROFILE_MODULE = 'user_profile.UserProfile'
+
+# Haystack settings
+HAYSTACK_CONNECTIONS = {}
+
+if is_solo() or is_dev():
+    HAYSTACK_CONNECTIONS['default'] = {
+        'ENGINE': 'haystack.backends.simple_backend.SimpleEngine',
+    }

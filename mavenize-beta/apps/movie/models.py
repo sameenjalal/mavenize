@@ -68,8 +68,6 @@ class Movie(models.Model):
             self.url = slugify(self.title)
         super(Movie, self).save(*args, **kwargs)
 
-    # Need to implement permalink
-
 @receiver(post_delete, sender=Movie)
 def delete_movie(sender, instance, **kwargs):
     Item.objects.get(pk=instance.pk).delete()
