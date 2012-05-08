@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Mavenize | Search Results
+{% endblock %}
+
+{% block body %}
+  <div class="container">
+    <div class="row">
+      <div id="main" class="span12">
+        <section id="menu">
+          <h1 id="title">
+            Search Results
+          </h1>
+          <ul id="filters" class="nav nav-tabs">
+            <li class="active"><a href="#movies" data-toggle="tab">movies</a></li>
+          </ul>
+          <div style="clear: both;"></div>
+        </section>
+        <section id="search">
+          <div class="tab-content">
+            <div class="tab-pane active" id="movies">
+              <ul class="thumbnails">
+                {% for movie in page.object_list %}
+                  {% include "movie_thumbnail.html" %}
+                {% empty %}
+                  <li><h2>Sorry! No results found!</h2></li>
+                {% endfor %}
+              </ul>
+              {% if page.has_previous or page.has_next %}
+                <div>
+                  {% if page.has_previous %}<a href="?q={{ query }}&amp;page={{ page.previous_page_number }}">{% endif %}
+                    &laquo; Previous
+                  {% if page.has_previous %}</a>{% endif %}
+                  |
+                  {% if page.has_next %}<a href="?q={{ query }}&amp;page={{ page.next_page_number }}">{% endif %}
+                    Next &raquo;
+                  {% if page.has_next %}</a>{% endif %}
+                </div>
+              {% endif %}
+            </div>
+          </div>
+        </section>
+      </div>
+    </div> 
+  </div>
+{% endblock %}
+
+{% block js %}
+  <script type="text/javascript">
+  $(document).ready(function() {
+    $('#filters li:first').addClass('active');
+    $('.active').find('.thumbnail').popover({ 'placement': 'bottom' });
+  });
+  </script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.elastic.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/slideNav.js"></script>
+{% endblock %}

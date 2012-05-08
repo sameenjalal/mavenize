@@ -1,0 +1,8 @@
+{{ object.title }}
+{{ object.synopsis }}
+{% for actor in object.actors.all %}
+  {{ actor.name }}
+{% endfor %}
+{% for director in object.directors.all %}
+  {{ director.name }}
+{% endfor %}

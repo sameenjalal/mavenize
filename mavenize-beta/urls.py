@@ -2,31 +2,49 @@ from django.conf.urls.defaults import *
 from django.conf import settings
 from django.contrib import admin
 
+from haystack.forms import SearchForm
+from haystack.views import SearchView
+
 import nexus
 
 admin.autodiscover()
 nexus.autodiscover()
 
-urlpatterns = patterns('',
-    url(r'^$', 'activity_feed.views.index'),
-    url(r'^users/(?P<user_id>\d+)/$', 'user_profile.views.profile',
-        name='user-profile'),
-    url(r'^movies/$', 'movie.views.explore'),
-    url(r'^movies/(?P<title>[-\w]+)/$', 'movie.views.profile',
-        name="movie-profile"),
-    url(r'^movies/(?P<title>[-\w]+)/review/$', 'review.views.review',
-        {'app': 'movie', 'model': 'movie'}),
+urlpatterns = patterns('activity_feed.views',
+    url(r'^$', 'index'),
 
-    url(r'^users/(?P<user_id>\d+)/raves/(?P<page>\d+)/$', 'user_profile.views.activity'),
-    url(r'^users/(?P<user_id>\d+)/marks/(?P<page>\d+)/$', 'user_profile.views.bookmarks'),
-    url(r'^users/(?P<user_id>\d+)/following/(?P<page>\d+)/$', 'user_profile.views.following'),
-    url(r'^users/(?P<user_id>\d+)/followers/(?P<page>\d+)/$', 'user_profile.views.followers'),
-    url(r'^feed/(?P<page>\d+)/$', 'activity_feed.views.activity'),
-    url(r'^movies/genres/all$', 'movie.views.genres'),
-    url(r'^movies/cast/all$', 'movie.views.cast'),
-    url(r'^movies/(?P<time_period>\w+)/(?P<page>\d+)/$', 'movie.views.explore'),
-    url(r'^disagree/(?P<review_id>\d+)/$', 'review.views.disagree'),
-    url(r'^thank/(?P<review_id>\d+)/$', 'review.views.thank'),
+    url(r'^feed/(?P<page>\d+)/$', 'activity'),
+)
+
+urlpatterns += patterns('haystack.views',
+    url(r'^movies/search/$', SearchView(template='movie_search.html',
+        form_class=SearchForm), name='movie-search')
+)
+
+urlpatterns += patterns('user_profile.views',
+    url(r'^users/(?P<user_id>\d+)/$', 'profile', name='user-profile'),
+
+    url(r'^users/(?P<user_id>\d+)/raves/(?P<page>\d+)/$', 'activity'),
+    url(r'^users/(?P<user_id>\d+)/marks/(?P<page>\d+)/$', 'bookmarks'),
+    url(r'^users/(?P<user_id>\d+)/following/(?P<page>\d+)/$', 'following'),
+    url(r'^users/(?P<user_id>\d+)/followers/(?P<page>\d+)/$', 'followers'),
+)
+
+urlpatterns += patterns('movie.views',
+    url(r'^movies/$', 'explore', name='movie-explore'),
+    url(r'^movies/(?P<title>[-\w]+)/$', 'profile', name="movie-profile"),
+    
+    url(r'^movies/genres/all$', 'genres'),
+    url(r'^movies/cast/all$', 'cast'),
+    url(r'^movies/(?P<time_period>\w+)/(?P<page>\d+)/$', 'explore'),
+)
+
+urlpatterns += patterns('review.views',
+    url(r'^movies/(?P<title>[-\w]+)/review/$', 'review',
+        {'app': 'movie', 'model': 'movie'}),
+    
+    url(r'^disagree/(?P<review_id>\d+)/$', 'disagree'),
+    url(r'^thank/(?P<review_id>\d+)/$', 'thank'),
 )
 
 urlpatterns += patterns('django.views.generic.simple',
