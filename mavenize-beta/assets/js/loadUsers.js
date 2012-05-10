@@ -11,10 +11,10 @@
           <p class='user-name'><a href='<%= user.url %>'><%= user.full_name %></a></p>\
           <p><i><%= user.about_me %></i></p>\
           <% if (user.is_following) { %>\
-            <button class='btn btn-warning'>Unfollow</button>\
+            <button class='btn btn-warning btn-follow' value='<%= user.id %>'>Unfollow</button>\
           <% }\
           else { %>\
-            <button class='btn btn-success'>Follow</button>\
+            <button class='btn btn-success btn-follow' value='<%= user.id %>'>Follow</button>\
           <% } %>\
         </div>\
     <% } %>"); 
@@ -26,6 +26,36 @@
         var userBoxes = userTemplate({ users: users });
         $(listSelector).append(userBoxes);
         $(listSelector).trigger('appended');
+      });
+
+      $('.users').bind('appended', function() {
+        $('.btn-follow').click(function() {
+          var button = $(this);
+          if (button.text() == 'Follow') {
+            $.ajax({
+              type: 'POST',
+              url: '/follow/' + button.val() + '/',
+              data: { csrfmiddlewaretoken: CSRF_TOKEN },
+              success: function() {
+                button.toggleClass('btn-follow').toggleClass('btn-unfollow');
+                button.toggleClass('btn-warning').toggleClass('btn-success');
+                button.text('Unfollow');
+              }
+            });
+          }
+          else {
+            $.ajax({
+              type: 'DELETE',
+              url: '/unfollow/' + button.val() +'/',
+              data: { csrfmiddlewaretoken: CSRF_TOKEN },
+              success: function() {
+                button.toggleClass('btn-follow').toggleClass('btn-unfollow');
+                button.toggleClass('btn-warning').toggleClass('btn-success');
+                button.text('Follow');
+              }
+            });
+          }
+        });
       });
     }
 }) (jQuery);

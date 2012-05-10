@@ -47,6 +47,11 @@ urlpatterns += patterns('review.views',
     url(r'^thank/(?P<review_id>\d+)/$', 'thank'),
 )
 
+urlpatterns += patterns('social_graph.views',
+    url(r'^follow/(?P<user_id>\d+)/$', 'follow'),
+    url(r'^unfollow/(?P<user_id>\d+)/$', 'unfollow'),
+)
+
 urlpatterns += patterns('django.views.generic.simple',
     url(r'^nexus/', include(nexus.site.urls)),
     url(r'', include('social_auth.urls')),

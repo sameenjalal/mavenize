@@ -50,15 +50,13 @@
         <img src="{{ user.userprofile.avatar.url }}" />
       </div>
       <div id="user-interaction">
+        <button id="sidebar-follow" class="btn btn-large {%if is_following %}btn-warning{% else %}btn-success{% endif %} btn-follow" value="{{ user.id }}">
         {% if is_following %}
-        <button id="following-button" class="btn btn-large btn-warning">
           Unfollow
-        </button>
         {% else %}
-        <button id="following-button" class="btn btn-large btn-success">
           Follow
-        </button>
         {% endif %}
+        </button>
       </div>
       <div id="user-about" class="module-container border">
         <h3 class="heading">About {{ user.first_name }}</h3>
@@ -99,7 +97,38 @@
 {% block js %}
   <script type="text/javascript">
     var STATIC_URL = "{{ STATIC_URL }}";
-    var CSRF_TOKEN = "{% csrf_token %}"; 
+    var CSRF_TOKEN = "{{ csrf_token }}"; 
+  </script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('.btn-follow').click(function() {
+        var button = $(this);
+        if (button.text() == 'Follow') {
+          $.ajax({
+            type: 'POST',
+            url: '/follow/' + button.val() + '/',
+            data: { csrfmiddlewaretoken: CSRF_TOKEN },
+            success: function() {
+              button.toggleClass('btn-follow').toggleClass('btn-unfollow');
+              button.toggleClass('btn-warning').toggleClass('btn-success');
+              button.text('Unfollow');
+            }
+          });
+        }
+        else {
+          $.ajax({
+            type: 'DELETE',
+            url: '/unfollow/' + button.val() + '/',
+            data: { csrfmiddlewaretoken: CSRF_TOKEN },
+            success: function() {
+              button.toggleClass('btn-follow').toggleClass('btn-unfollow');
+              button.toggleClass('btn-warning').toggleClass('btn-success');
+              button.text('Follow');
+            }
+          });
+        }
+      });
+    });
   </script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/userProfile.js"></script>
   <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/django.csrf.js"></script>

@@ -73,10 +73,11 @@ Signals
 @receiver(post_save, sender=Review)
 def create_review(sender, instance, created, **kwargs):
     """
-    Create an activity for the review.
+    Queue an activity for the review.
     Create a karma action for the review.
     Increment the user's reviews by one and karma by five.
-    Increment the item's ratings by the review's rating.
+    Update the item's ratings by the review's rating.
+    Update the item's popularity by the review's rating.
     """
     if created:
         api.queue_activity(

@@ -250,6 +250,7 @@ def get_user_boxes(my_id, user_ids, page):
         next_page = ''
     
     response = [{
+        'id': profile.pk,
         'full_name': profile.user.get_full_name(),
         'about_me': escape(profile.about_me),
         'image_url': get_thumbnail(profile.avatar, '100x100',
@@ -272,6 +273,7 @@ def is_following(source_id, destination_id):
                                           destination_id=destination_id)\
                 else False
 
+
 def filter_then_order_by(model_name, order_criteria, **filters):
     """
     Filters a model with filters and orders the results by
@@ -283,6 +285,7 @@ def filter_then_order_by(model_name, order_criteria, **filters):
     """
     model = get_model(MODEL_APP_NAME[model_name], model_name)
     return model.objects.filter(**filters).order_by(order_criteria)
+
 
 def filter_excluding_me_then_order_by(model_name, obj_id,
                                       order_criteria, **filters):
@@ -325,6 +328,17 @@ def get_object(model_name, **filters):
 """
 CREATE METHODS
 """
+def follow(source_id, destination_id):
+    """
+    Creates a following relationship between the source id and the
+    destination id.
+        source_id: user id of the source (integer)
+        destination_id: user id of the destination (integer)
+    """
+    Forward.objects.get_or_create(source_id=source_id,
+                                  destination_id=destination_id)
+    Backward.objects.get_or_create(destination_id=destination_id,
+                                   source_id=source_id)
 
 def queue_activity(sender_id, verb, model_name, obj_id):
     """
@@ -401,6 +415,18 @@ def update_statistics(model_name, obj_id, **fields):
 """
 DELETE METHODS
 """
+def unfollow(source_id, destination_id):
+    """
+    Deletes a following relationship between the source id and the
+    destination id.
+        source_id: user id of the source (integer)
+        destination_id: user id of the destination (integer)
+    """
+    Forward.objects.filter(source_id=source_id,
+                           destination_id=destination_id).delete()
+    Backward.objects.filter(destination_id=destination_id,
+                            source_id=source_id).delete()
+
 
 def remove_activity(sender_id, verb, model_name, obj_id):
     """
