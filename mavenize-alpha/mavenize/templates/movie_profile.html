@@ -15,6 +15,15 @@
         </h1>
         {% if not user|has_reviewed:movie.movie_id %}
         <section id="review-form">
+          {% if messages %}
+          <ul class="messages">
+            {% for message in messages %}
+            <li{% if message.tags %} class="alert alert-{{ message.tags }}"{% endif %}>
+              {{ message }}
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
           <form class="form-horizontal" action="review/" method="POST">{% csrf_token %}
             <label for="review-text">
               <h3 class="form-label">Watched it?  Rave about it to your friends.</h3>

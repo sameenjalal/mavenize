@@ -1,0 +1,207 @@
+/*******************************
+  OPERATIONS & COLOR FUNCTIONS
+*******************************/
+
+@formFill: @whiteSmoke;
+
+/*********
+  STYLES
+*********/
+
+#main {
+
+  #title-header {
+    margin: 20px 0 34px 0;
+
+    #genre {
+      color: @headingColor;
+      font-size: 16px;
+      margin: 5px 15px;
+    }
+  }
+
+  #description {
+    color: @textColor;
+    font-size: 13px;
+    margin: 10px;
+
+    #synopsis {
+      padding: 16px 0;
+    }
+  }
+
+  #review-form {
+    background: @formFill; 
+    margin: 15px 0;
+    padding: 10px; 
+    .RoundedCorners(5px);
+
+    #review-text {
+      margin: 5px 10px;
+      padding: 13px;
+      width: 93%;
+    }
+
+    #review-rating {
+      margin: 5px 0 0 10px;
+      float: left;
+    }
+
+    #review-submit {
+      float: right;
+      height: 40px;
+      margin: 6px 10px 0 0;
+      width: 120px;
+    }
+  }
+
+  .review {
+    margin-bottom: 10px;
+    .Border();
+  }
+  
+  .user-avatar {
+    margin: 5px 10px;
+    width: 100px;
+
+    img {
+      float: left;
+      margin: 5px 0;
+    }
+  }
+
+  .review-context {
+    background: @contrastFill;
+    font-size: 15px;
+    padding: 10px 10px 10px 130px;
+  }
+
+  .review-text {
+    margin: 10px 10px 10px 130px;
+  }
+
+  .review-meta {
+    color: @metaColor;
+    margin: 10px 10px 10px 130px;
+  }
+}
+
+#sidebar {
+  
+  #chart-wrapper {
+
+    #figure {
+      position: relative;
+
+      .graph {
+        height: 130px;
+        margin: 33px 9px 9px 9px;
+        position: relative;
+
+        .x-axis {
+          bottom: 0;
+          position: absolute;
+          text-align: center;
+          width: 100%;
+
+          li {
+            margin: 0 9px;
+            float: left;
+          }
+
+          #rating-four, #rating-three, #rating-two, #rating-one {
+            height: 32px;
+            text-indent: -9999px;
+            width: 32px;
+          }
+
+          #rating-four {
+            background: url('../img/4s.png');
+          }
+          
+          #rating-three {
+            background: url('../img/3s.png');
+          }
+
+          #rating-two {
+            background: url('../img/2s.png');
+          }
+          
+          #rating-one {
+            background: url('../img/1s.png');
+          }
+        }
+
+        .y-axis {
+          display: none;
+        }
+
+        .bars {
+          height: 90px;
+          postion: absolute;
+          width: 100%;
+          z-index: 10;
+
+          .bar-group {
+            float: left;
+            height: 100%;
+            position: relative;
+            width: 50px;
+
+            .bar {
+              bottom: 0;
+              cursor: pointer;
+              height: 0;
+              margin: 0 5px;
+              position: absolute;
+              text-align: center;
+              width: 40px;
+              .RoundedTopCorners(3px);
+
+              span {
+                background: @contrastFill;
+                left: -5px;
+                display: none;
+                margin: 0 5px;
+                position: relative;
+                width: 30px;
+                z-index: 20;
+                .RoundedCorners(3px);
+              }
+            }
+          
+            .bar:hover span {
+              display: block;
+              margin-top: -25px;
+            }
+
+            .bar.fig0 {
+              left: 0;
+            }
+
+            .fig0 {
+              .BarGraphGradient();
+            }
+          }
+        }
+      }
+    }
+  }
+
+  #rating-table {
+    display: none;
+  }
+
+  #bookmarks-table {
+    margin: 0;
+
+    td {
+      border: none;
+      vertical-align: middle;
+    }
+  }
+
+  .thumbnail {
+    margin: 30px 0 10px 0;
+  }
+}

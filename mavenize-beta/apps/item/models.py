@@ -5,7 +5,7 @@ from django.dispatch import receiver
 from django.core.exceptions import ObjectDoesNotExist
 
 class Item(models.Model):
-    five_star = models.IntegerField(default=0)
+    item_type = models.CharField(max_length=30, default="")
     four_star = models.IntegerField(default=0)
     three_star = models.IntegerField(default=0)
     two_star = models.IntegerField(default=0)
@@ -31,12 +31,12 @@ class Item(models.Model):
         return self._popularity_cache
 
     def get_rating(self):
-        return self.five_star*5 + self.four_star*4 + \
-            self.three_star*3 + self.two_star*2 + self.one_star
+        return (self.four_star*4 + self.three_star*3 + 
+                self.two_star*2 + self.one_star) / self.get_votes()
 
     def get_votes(self):
-        return self.five_star + self.four_star + \
-            self.three_star + self.two_star + self.one_star
+        return (self.four_star + self.three_star + self.two_star +
+            self.one_star)
 
 class Link(models.Model):
     item = models.ForeignKey(Item)
@@ -57,7 +57,7 @@ class Popularity(models.Model):
         verbose_name_plural = "Popularities"
 
     def __unicode__(self):
-        return str(self.alltime)
+        return "Item #%s: %s" % (self.item.id, self.alltime)
 
 @receiver(post_save, sender=Item)
 def create_item(sender, instance, created, **kwargs):

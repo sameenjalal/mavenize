@@ -1,0 +1,8 @@
+<li class="span3">
+  {% load thumbnail %}
+  {% thumbnail movie.image "x285" as im %}
+  <a class="thumbnail movie" href="{% url movie.views.profile movie.url %}" data-original-title="{{ movie.title }} ({{ movie.theater_date|date:'Y'}})" data-content="{{ movie.synopsis|slice:':140'}}...">
+    <img src="{{ im.url }}"/>
+  </a>
+  {% endthumbnail %}
+</li>

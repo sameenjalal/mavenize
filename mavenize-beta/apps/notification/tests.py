@@ -1,9 +1,7 @@
 from user_profile.models import KarmaUser
 from item.models import Item
-from review.models import Review
+from review.models import Review, Agree, Thank
 from bookmark.models import Bookmark
-from review.models import Agree
-from review.models import Thank
 from notification.models import Notification
 from social_graph.models import Backward
 import nose.tools as nt
@@ -25,11 +23,17 @@ class TestNotification(object):
         # Tests that the recipient is the writer of the review 
         nt.assert_equal(self.notification.recipient_id,
             self.writer.id)
-        # Tests that the notice object is the review
+        # Tests that the notice object is the agree
         nt.assert_equal(self.notification.notice_object,
-            self.review)
+            self.agree)
 
         self.agree.delete()
+
+        # Tests that the notification has been deleted
+        nt.assert_equal(
+            list(Notification.objects.filter(
+                sender_id=self.giver.id)),
+            [])
 
     def test_thanks(self):
         self.thanks = Thank.objects.create(
@@ -40,11 +44,17 @@ class TestNotification(object):
         # Tests that the recipient is the writer of the review
         nt.assert_equal(self.notification.recipient_id,
             self.writer.id)
-        # Tests that the notice object is the review
+        # Tests that the notice object is the thank
         nt.assert_equal(self.notification.notice_object,
-            self.review)
+            self.thanks)
 
         self.thanks.delete()
+
+        # Tests that the notification has been deleted
+        nt.assert_equal(
+            list(Notification.objects.filter(
+                sender_id=self.giver.id)),
+            [])
 
     def test_following(self):
         self.following = Backward.objects.create(
@@ -61,6 +71,12 @@ class TestNotification(object):
 
         self.following.delete()
 
+        # Tests that the notification object has been deleted
+        nt.assert_equal(
+            list(Notification.objects.filter(
+                sender_id=self.giver.id)),
+            [])
+
     def test_bookmark(self):
         self.bookmark = Bookmark.objects.create(
             user=self.giver, item=self.item)
@@ -74,6 +90,12 @@ class TestNotification(object):
             self.bookmark)
 
         self.bookmark.delete()
+
+        # Tests that the notification object has been deleted
+        nt.assert_equal(
+            list(Notification.objects.filter(
+                sender_id=self.giver.id)),
+            [])
 
     def teardown(self):
         self.writer.delete()

@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Mavenize | Explore Movies
+{% endblock %}
+
+{% block body %}
+<div class="container">
+  <div class="row">
+    <div id="main" class="span12">
+      <section id="menu">
+        <h1 id="title">
+          Explore Movies
+        </h1>
+        <ul id="filters" class="nav nav-tabs">
+          <li><a href="#today" data-toggle="tab">today</a></li>
+          <li><a href="#week" data-toggle="tab">this week</a></li>
+          <li><a href="#month" data-toggle="tab">this month</a></li>
+          <li><a href="#alltime" data-toggle="tab">all-time</a></li>
+        </ul>
+        <div id="filter-settings">
+          <a class="btn btn-large" data-toggle="modal" href="#filter-options">
+            <i class="icon-cog"></i>
+            Settings
+          </a>
+        </div>
+        <div style="clear: both;"></div>
+        <div class="modal fade" id="filter-options">
+        </div>
+      </section>
+      <section id="explore">
+        <div class="tab-content">
+          <div class="tab-pane active" id="today">
+            <ul class="thumbnails"> 
+            </ul>
+          </div>
+          <div class="tab-pane" id="week">
+            <ul class="thumbnails"> 
+            </ul>
+          </div>
+          <div class="tab-pane" id="month">
+            <ul class="thumbnails"> 
+            </ul>
+          </div>
+          <div class="tab-pane" id="alltime">
+            <ul class="thumbnails"> 
+            </ul>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block js %}
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#filters li:first').addClass('active');
+    });
+  </script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.elastic.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/slideNav.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/exploreMovies.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/loadMovies.js"></script>
+{% endblock %}

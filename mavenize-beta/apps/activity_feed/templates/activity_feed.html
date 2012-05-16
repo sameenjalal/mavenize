@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Mavenize | Welcome Home
+{% endblock %}
+
+{% block body %}
+  <div class="container">
+    <div class="row">
+      <div id="main" class="span9">
+        <section id="menu">
+          <h1 id="title">
+            The Latest and Greatest
+          </h1>
+          <ul id="filters" class="nav nav-tabs">
+            <li>
+              <a href="#everything" data-toggle="tab">everything</a>
+            </li>
+            <!--
+            <li>
+              <a href="#movies" data-toggle="tab">movies</a>
+            </li>
+            <li>
+              <a href="#restaurants" data-toggle="tab">restaurants</a>
+            </li>
+            <li>
+              <a href="#nightlife" data-toggle="tab">nightlife</a>
+            </li>
+            -->
+          </ul>
+          <div style="clear: both;"></div>
+        </section>
+        <section id="activity-feed">
+          <div class="tab-content">
+            <div class="tab-pane active" id="everything">
+              <ul class="activities">
+              </ul>
+            </div>
+            <!--
+            <div class="tab-pane" id="movies">
+              There
+            </div>
+            <div class="tab-pane" id="restaurants">
+              Can
+            </div>
+            <div class="tab-pane" id="nightlife">
+              You See Me
+            </div>
+            -->
+          </div>
+        </section>
+        <section id="modals">
+          <div class="modal fade" id="disagree"></div>
+          <div class="modal fade" id="thank"></div>
+        </section>
+      </div>
+      <div id="sidebar" class="span3">
+        <div id="placeholder">
+        </div>
+        <div id="leaderboard" class="module-container border">
+          <h3 class="heading">
+            Your Friends
+            <p class="subheading">Last 7 Days</p>
+          </h3>
+          <table id="leaderboard-table" class="table table-striped">
+            <tbody>
+            {% for leader, score in leaderboard %}
+              <tr>
+                <td>
+                  <img src="{{ leader.userprofile.thumbnail.url }}" />
+                </td>
+                <td>#{{ forloop.counter|add:start_index }}</td>
+                <td><a href="#">{{ leader.get_full_name }}</a></td>
+                <td class="karma">{{ score }}</td>
+              </tr>
+            {% empty %}
+              <p class="empty-message">Bring on the competition!</p>
+            {% endfor %}
+            </tbody>
+          </table>
+        </div>
+        <div id="beneficiaries" class="module-container border">
+          <h3 class="heading">
+            Your Beneficiaries
+            <p class="subheading">Last 7 Days</span>
+          </h3>
+          <table id="beneficiaries-table" class="table table-striped">
+            <tbody>
+            {% for leader, score in beneficiaries %}
+              <tr>
+                <td>
+                  <img src="{{ leader.userprofile.thumbnail.url }}" />
+                </td>
+                <td><a href="#">{{ leader.get_full_name }}</a></td>
+                <td class="karma">{{ score }}</td>
+              </tr>
+            {% empty %}
+              <p class="empty-message">No love recently? Get raving!</p>
+            {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
+
+{% block js %}
+  <script type="text/javascript">
+    var STATIC_URL = "{{ STATIC_URL }}";
+    var CSRF_TOKEN = "{% csrf_token %}"; 
+  </script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/activityFeed.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/django.csrf.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.form.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.elastic.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/slideNav.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/loadActivities.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/modals.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/ratingForm.js"></script>
+{% endblock %}

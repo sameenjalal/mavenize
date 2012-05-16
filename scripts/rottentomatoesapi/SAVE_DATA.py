@@ -24,6 +24,7 @@ for path in paths:
             continue
         movies = json_data['movies']
         for movie in movies:
+                
             if movie.has_key('alternate_ids'):
                 movie.pop( 'alternate_ids' )
             if movie.has_key('critics_consensus'):

@@ -1,5 +1,5 @@
 from django.db import models
-from django.db.models.signals import post_save
+from django.db.models.signals import post_save, post_delete
 from django.dispatch import receiver
 
 from social_auth.signals import pre_update
@@ -62,3 +62,14 @@ def follow_notification(sender, instance, created, **kwargs):
             recipient_id=instance.destination_id,
             notice_object=instance
         )
+
+@receiver(post_delete, sender=Backward)
+def unfollow_notification(sender, instance, **kwargs):
+    """
+    Delete the notification that was already created.
+    """
+    Notification.objects.get(
+        sender_id=instance.source_id,
+        recipient_id=instance.destination_id,
+        object_id=instance.id
+    ).delete()

@@ -10,6 +10,15 @@
       <div class="span9">
         <h1 class="title">Welcome Back {{ user.first_name }}!</h1>
         <section id="review-form">
+          {% if messages %}
+          <ul class="messages">
+            {% for message in messages %}
+            <li{% if message.tags %} class="alert alert-{{ message.tags }}"{% endif %}>
+              {{ message }}
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
           <form class="form-horizontal" action="feedback/" method="POST">{% csrf_token %}
             <label for="review-text">
               <h3 class="form-label">Love the site? Hate it?  Give us feedback.</h3>

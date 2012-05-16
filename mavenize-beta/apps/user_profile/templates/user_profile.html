@@ -1,0 +1,143 @@
+{% extends "base.html" %}
+
+{% block title %}
+  Mavenize | {{ user.get_full_name }} 
+{% endblock %}
+
+{% block body %}
+<div class="container">
+  <div class="row">
+    <div id="main" class="span9">
+      <section id="menu">
+        <h1 id="title">
+          {{ user.get_full_name }}
+        </h1>
+        <ul id="filters" class="nav nav-tabs">
+          <li><a href="#raves" data-toggle="tab">raves</a></li>
+          <li><a href="#marks" data-toggle="tab">marks</a></li>
+          <li><a href="#following" data-toggle="tab">following</a></li>
+          <li><a href="#followers" data-toggle="tab">followers</a></li>
+        </ul>
+        <div style="clear: both;"></div>
+      </section>
+      <section id="user-profile">
+        <div class="tab-content">
+          <div class="tab-pane active" id="raves">
+            <ul class="activities">
+            </ul>
+          </div>
+          <div class="tab-pane" id="marks">
+            <ul class="thumbnails">
+            </ul>
+          </div>
+          <div class="tab-pane" id="following">
+            <ul class="users">
+            </ul>
+          </div>
+          <div class="tab-pane" id="followers">
+            <ul class="users">
+            </ul>
+          </div>
+        </div>
+      </section>
+      <section id="modals">
+        <div class="modal fade" id="disagree"></div>
+        <div class="modal fade" id="thank"></div>
+      </section>
+    </div>
+    <div id="sidebar" class="span3">
+      <div class="thumbnail">
+        <img src="{{ user.userprofile.avatar.url }}" />
+      </div>
+      <div id="user-interaction">
+        <button id="sidebar-follow" class="btn btn-large {%if is_following %}btn-warning{% else %}btn-success{% endif %} btn-follow" value="{{ user.id }}">
+        {% if is_following %}
+          Unfollow
+        {% else %}
+          Follow
+        {% endif %}
+        </button>
+      </div>
+      <div id="user-about" class="module-container border">
+        <h3 class="heading">About {{ user.first_name }}</h3>
+        <p id="about-me">{{ user.userprofile.about_me }}<p>
+        <table id="stats-table" class="table">
+          <thead>
+            <tr>
+              <th>achievements</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>raves</td>
+              <td>
+                <span class="badge badge-info stat">{{ user.userstatistics.reviews }}</span>
+              </td>
+            </tr>
+            <tr>
+              <td>re-raves</td>
+              <td>
+                <span class="badge badge-info stat">{{ user.userstatistics.agrees_in }}</span>
+              </td>
+            </tr>
+            <tr>
+              <td>thanks</td>
+              <td>
+                <span class="badge badge-info stat">{{ user.userstatistics.thanks_in }}</span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block js %}
+  <script type="text/javascript">
+    var STATIC_URL = "{{ STATIC_URL }}";
+    var CSRF_TOKEN = "{{ csrf_token }}"; 
+  </script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('.btn-follow').click(function() {
+        var button = $(this);
+        if (button.text() == 'Follow') {
+          $.ajax({
+            type: 'POST',
+            url: '/follow/' + button.val() + '/',
+            data: { csrfmiddlewaretoken: CSRF_TOKEN },
+            success: function() {
+              button.toggleClass('btn-follow').toggleClass('btn-unfollow');
+              button.toggleClass('btn-warning').toggleClass('btn-success');
+              button.text('Unfollow');
+            }
+          });
+        }
+        else {
+          $.ajax({
+            type: 'DELETE',
+            url: '/unfollow/' + button.val() + '/',
+            data: { csrfmiddlewaretoken: CSRF_TOKEN },
+            success: function() {
+              button.toggleClass('btn-follow').toggleClass('btn-unfollow');
+              button.toggleClass('btn-warning').toggleClass('btn-success');
+              button.text('Follow');
+            }
+          });
+        }
+      });
+    });
+  </script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/userProfile.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/django.csrf.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.form.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.elastic.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/slideNav.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/loadActivities.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/loadMovies.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/loadUsers.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/modals.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/ratingForm.js"></script>
+{% endblock %}

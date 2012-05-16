@@ -89,7 +89,7 @@ def delete_bookmark(sender, instance, **kwargs):
         Notification.objects.get(
             sender_id=instance.user_id,
             recipient_id=0,
-            notice_object=instance
+            object_id=instance.id
         ).delete()
     except:
         pass

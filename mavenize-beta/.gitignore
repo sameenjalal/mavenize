@@ -1,6 +1,8 @@
 *.py[co]
 *.sw[op]
+*.js~
 
 /env
 /media
 /db
+/static

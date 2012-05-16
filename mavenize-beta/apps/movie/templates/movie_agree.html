@@ -1,0 +1,35 @@
+<li class="review" value="{{ agree.review_id }}">
+  <div class="pull-left">
+    <div class="user-avatar">
+      {% load thumbnail %}
+      {% thumbnail agree.review.user.userprofile.avatar "100x100" crop="center" as im %}
+      <img src="{{ im.url }}" width="{{ im.width }}" height="{{ im.height }}" />
+      {% endthumbnail %}
+    </div>
+  </div>
+  <div class="review-context">
+    <a href="{% url user_profile.views.profile agree.giver_id %}">
+      {{ agree.giver.get_full_name }}
+    </a> re-raved 
+    <a href="{% url user_profile.views.profile agree.review.user_id %}">
+      {{ agree.review.user.get_full_name }}
+    </a>'s rave about
+    <a href="{% url movie.views.profile movie.url %}">{{ movie.title }}</a>.
+  </div>
+  <div class="review-text">
+    {{ agree.review.text }}
+  </div>
+  <div class="review-meta">
+    <div class="pull-left">
+      {{ agree.review.created_at|timesince }} ago &#8226; 
+      {{ agree.review.agrees }} re-rave{{ review.agrees|pluralize }} &#8226;
+      {{ agree.review.thanks }} thank{{ review.thanks|pluralize }}
+    </div>
+    <div class="pull-right">
+      <a href="#re-rave">re-rave</a> &#8226;
+      <a data-toggle="modal" href="#disagree">disagree</a> &#8226;
+      <a data-toggle="modal" href="#thank">thank {{ agree.review.user.first_name|lower }}</a>
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+</li>

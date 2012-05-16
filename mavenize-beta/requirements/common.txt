@@ -1,9 +1,13 @@
 Django==1.4
 South==0.7.4
-celery==2.5.1
-django-celery==2.5.1
+celery==2.5.3
+django-celery==2.5.5
 commonware==0.3.0
 nexus==0.2.3
-django-social-auth==0.6.7
+django-social-auth==0.6.9
 Pillow==1.7.6
-git+git://github.com/pythonforfacebook/facebook-sdk.git
+facebook-sdk==0.3.0
+sorl-thumbnail==11.12
+psycopg2==2.4.5
+redis==2.4.11
+-e git+https://github.com/toastdriven/django-haystack.git@master#egg=django-haystack

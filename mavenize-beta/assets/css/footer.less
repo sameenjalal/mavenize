@@ -1,0 +1,48 @@
+/*******************************
+  OPERATIONS & COLOR FUNCTIONS
+*******************************/
+
+@footerBorder: @gray;
+@footerFloorBackground: @footerBorder;
+@trademark: @nearWhite;
+@footerFont: 'Didact Gothic';
+
+/*********
+  STYLES
+*********/
+
+footer {
+  border-top: 1px solid @boxBorder;
+  font-family: @headingFont, arial;
+  padding-top: 10px;
+  
+  .FooterGradient();
+
+  a, a:hover, a:active {
+    font-size: 15px;
+  }
+
+  h3 {
+    color: @footerColor; 
+    font-size: 24px;
+  }
+
+  .container {
+    padding: 10px 0;
+  }
+
+  #footer-floor {
+    background: @gray;
+    border-top: 1px solid @boxBorder;
+
+    a {
+      font-size: 13px;
+    }
+    
+    p {
+      color: @trademark;
+      font-size: 13px;
+    }
+  }
+
+}

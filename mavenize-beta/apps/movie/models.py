@@ -63,20 +63,10 @@ class Movie(models.Model):
         return self.title
 
     def save(self, *args, **kwargs):
-        if not self.item:
+        if not self.item_id:
+            self.item = Item.objects.create(item_type='movie')
             self.url = slugify(self.title)
         super(Movie, self).save(*args, **kwargs)
-
-    # Need to implement permalink
-
-"""
-Saves the item when using the following command:
-Movie.objects.create(item=Item(),...)
-"""
-@receiver(post_save, sender=Movie)
-def create_movie(sender, instance, created, **kwargs):
-    if created:
-        instance.item.save()
 
 @receiver(post_delete, sender=Movie)
 def delete_movie(sender, instance, **kwargs):

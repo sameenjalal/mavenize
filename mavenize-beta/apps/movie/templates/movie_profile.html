@@ -7,75 +7,146 @@
 {% block body %}
 <div class="container">
   <div class="row">
-    <div class="span9">
-      <h1 class="title">
-        {{ movie.title }} ({{ movie.theater_date|date:"Y" }})
-      </h1>
-      <section id="bookmarked">
-        {% for bookmark in bookmarked %}
-          <li>{{ bookmark }}</li>
-        {% endfor %}
+    <div id="main" class="span9">
+      <section id="title-header">
+        <h1 id="title">
+          {{ movie.title }} ({{ movie.theater_date|date:"Y" }})
+        </h1>
+        <h4 id="genre">
+          {{ genre|join:", " }}
+        </h4>
       </section>
+      <section id="description">
+        <p id="synopsis">
+          {{ movie.synopsis|slice:":180" }}...
+          <a href="#">more</a>
+        </p>
+        <p id="actors">
+          Actors: {{ actors|join:", "}}
+        </p>
+        <p id="directors">
+          Director{{ directors|pluralize }}: {{ directors|join:", " }}
+        </p>
+      </section>
+      {% if not has_reviewed %}
+      <section id="review-form">
+        {% include "review_form.html" %}
+      </section>
+      {% endif %}
       <section id="reviews">
-        <div id="friend-reviews">
+        <div id="my-reviews" class="module-container">
+        {% if my_reviews %}
+          <h3 class="heading">Chosen by Yours Truly</h3>
+          <ul class="unstyled">
+          {% for review in my_reviews %}
+            {% include "movie_review.html" %}
+          {% endfor %}
+          </ul>
+        {% endif %}
+        </div>
+        <div id="friend-reviews" class="module-container">
+        {% if friend_reviews %}
+          <h3 class="heading">From the Hearts of Your Confidants</h3>
+          <ul class="unstyled">
           {% for review in friend_reviews %}
             {% include "movie_review.html" %}
           {% endfor %}
+          </ul>
+        {% endif %}
         </div>
-        <div id="friend-raves">
-          {% for review in friend_raves %}
-            {% include "movie_review.html" %}
+        <div id="friend-agrees" class="module-container">
+        {% if friend_agrees %}
+          <h3 class="heading">
+            Handpicked by Those You Trust
+          </h3>
+          <ul class="unstyled">
+          {% for agree in friend_agrees %}
+            {% include "movie_agree.html" %}
           {% endfor %}
+          </ul>
+        {% endif %}
         </div>
-        <div id="global-reviews">
+        <div id="global-reviews" class="module-container">
+        {% if global_reviews %}
+          <h3 class="heading">
+            The Rest of the Best
+          </h3>
+          <ul class="unstyled">
           {% for review in global_reviews %}
             {% include "movie_review.html" %}
           {% endfor %}
+          </ul>
+        {% endif %}
         </div>
       </section>
+      <div class="modal fade" id="disagree"></div>
+      <div class="modal fade" id="thank"></div>
     </div>
-    <div class="span3">
+    <div id="sidebar" class="span3">
       <div class="thumbnail">
         <img src="{{ movie.image.url }}" />
       </div>
-      <div class="profile">
-        <div>{{ rating }}</div>
-        <div>({{ votes }} votes)</div>
-      </div>
-      <div class="profile">
-        <div id="netflix">
-        </div>
-        <div id="redbox">
-        </div>
-        <div id="rottentomatoes">
-        </div>
-      </div>
-      <div class="profile">
-        <h3>Actors</h3>
-        <ul>
-          {% for actor in actors %}
-          <li>{{ actor }}</li>
-          {% endfor %}
-        </ul>
-      </div>
-      <div class="profile">
-        <h3>Directors</h3>
-        <ul>
-          {% for director in directors %}
-          <li>{{ director }}</li>
-          {% endfor %}
-        </ul>
-      </div>
-      <div class="profile">
-        <h3>Release Dates</h3>
-          {% if movie.theater_date %}
-            <p>In Theaters: {{ movie.theater_date }}</p>
+      <div id="chart-wrapper" class="module-container border">
+        <div id="rating-chart">
+          <h3 class="heading">Ratings</h3>
+          {% if movie.item.get_votes %}
+          <table id="rating-table" class="table table-striped">
+          <thead>
+            <tr>
+              <td>&nbsp;</td>
+              <th scope="col">one</th>
+              <th scope="col">two</th>
+              <th scope="col">three</th>
+              <th scope="col">four</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Rating</th>
+              <td>{{ movie.item.one_star }}</td>
+              <td>{{ movie.item.two_star }}</td>
+              <td>{{ movie.item.three_star }}</td>
+              <td>{{ movie.item.four_star }}</td>
+            </tr>
+          </tbody>
+          </table>
+          {% else %}
+            <p class="empty-message">Be the first to cast your vote!</p>
           {% endif %}
-          {% if movie.dvd_date %}
-            <p>On DVD: {{ movie.dvd_date }}</p>
-          {% endif %}
+        </div>
+      </div>
+      <div id="friend-bookmarks" class="module-container border">
+        <h3 class="heading">Watch It!</h3>
+        <table id="bookmarks-table" class="table">
+            {% for bookmark in friend_bookmarks %}
+              <tr>
+                <td><img src="{{ bookmark.user.userprofile.thumbnail.url }}" /></td>
+                <td><a href="#">{{ bookmark.user.get_full_name }}</a></td>
+            {% empty %}
+              <p class="empty-message">Show them who's boss! Mark your territory first!</p>
+            {% endfor %}
+        </table>
       </div>
     </div>
   </div>
 </div>
+{% endblock %}
+
+{% block js %}
+  <script type="text/javascript">
+    var STATIC_URL = "{{ STATIC_URL }}";
+    var CSRF_TOKEN = "{% csrf_token %}"; 
+  </script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $('#review-text').elastic();
+      $('#review-form form').ratingForm();
+    });
+  </script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/django.csrf.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.form.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/ratingForm.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/ratingGraph.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/vendor/jquery.elastic.min.js"></script>
+  <script type="text/javascript" src="{{ STATIC_URL }}js/modals.js"></script>
 {% endblock %}
