@@ -18,9 +18,9 @@ for path in paths:
         json_file = open( path + "/" + fn ).read()
         json_data = json.loads( json_file )
 
-        print fn
+        #print fn
         if json_data.has_key( "error" ):
-            print "continuing on: " + str(fn)
+            #print "continuing on: " + str(fn)
             continue
         movies = json_data['movies']
         for movie in movies:
@@ -35,6 +35,7 @@ for path in paths:
             if movie.has_key('ratings'):
                 movie.pop( 'ratings' )
 
+            """
             try:
                 movie_url = movie_info_url % movie[ 'id' ]
                 response = urllib2.urlopen( movie_url )
@@ -48,14 +49,17 @@ for path in paths:
             ### Okay Dennis, at this point each movie object has these fields:
             # I'm not sure how to properly use the ORM in django to insert into
             # the db
+            """
 
-            print movie.keys()
             print movie['title']
+            """
+            print movie.keys()
             print movie['release_dates']
-            print movie['abridged_cast']
-            print movie['synopsis']
             print movie['year']
+            print movie['abridged_cast']
             print movie['posters']
             print movie['id']
             print movie['genres']
+            print movie['synopsis']
             print movie['runtime']
+            """

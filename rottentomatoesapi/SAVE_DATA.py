@@ -25,15 +25,20 @@ for path in paths:
         movies = json_data['movies']
         for movie in movies:
             if movie.has_key('alternate_ids'):
-                movie.pop( 'alternate_ids' )
+                #movie.pop( 'alternate_ids' )
+                pass
             if movie.has_key('critics_consensus'):
-                movie.pop( 'critics_consensus' )
+                #movie.pop( 'critics_consensus' )
+                pass
             if movie.has_key('mpaa_rating'):
-                movie.pop( 'mpaa_rating' )
+                #movie.pop( 'mpaa_rating' )
+                pass
             if movie.has_key('links'):
-                movie.pop( 'links' )
+                #movie.pop( 'links' )
+                pass
             if movie.has_key('ratings'):
-                movie.pop( 'ratings' )
+                #movie.pop( 'ratings' )
+                pass
 
             try:
                 movie_url = movie_info_url % movie[ 'id' ]
@@ -59,5 +64,13 @@ for path in paths:
             print movie['id']
             print movie['genres']
             print movie['runtime']
-            #break
-        #break
+            if movie.has_key('critics_consensus'):
+                print movie['critics_consensus']
+            if movie.has_key('mpaa_rating'):
+                print movie['mpaa_rating']
+            if movie.has_key('ratings'):
+                print movie['ratings']
+            print
+            print
+            break
+        break
