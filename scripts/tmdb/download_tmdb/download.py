@@ -50,11 +50,15 @@ def main():
     print 'Destination directory is \'%s\''% dest_dir
 
     print 'Starting download %d...%d' % (start, end)
+    f = open("output2.txt", "w")
     for movie_id in range(start,end+1):
         result = download_save(movie_id)
         if result:
-            print '#%d: OK' % movie_id
+            res = '#%d: OK' % movie_id
+            print res
+            f.write(res + "\n")
         sleep(interval_sec)
+    f.close()
 
 def download_save(movie_id):
     try:
